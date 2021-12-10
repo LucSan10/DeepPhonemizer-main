@@ -1,0 +1,83 @@
+model:
+  d_fft: 256
+  d_model: 512
+  dropout: 0.1
+  heads: 4
+  layers: 4
+  type: autoreg_transformer
+paths:
+  checkpoint_dir: checkpoints/autoreg/batch-32/model-512/fft-256
+  data_dir: datasets
+preprocessing:
+  char_repeats: 1
+  languages:
+  - pt_br
+  lowercase: false
+  n_val: 2148
+  phoneme_symbols:
+  - ''
+  - ' '
+  - ' '''
+  - ''''
+  - .
+  - E
+  - J
+  - L
+  - O
+  - R
+  - S
+  - X
+  - Z
+  - a
+  - a~
+  - b
+  - d
+  - dZ
+  - e
+  - ej
+  - e~
+  - e~j~
+  - f
+  - g
+  - i
+  - i~
+  - j
+  - js
+  - j~
+  - j~s
+  - k
+  - l
+  - m
+  - n
+  - o
+  - ow
+  - o~
+  - p
+  - pau
+  - r
+  - s
+  - t
+  - tS
+  - u
+  - u~
+  - v
+  - w
+  - w~
+  - z
+  - '~'
+  text_symbols: " !()+,-.0123456789:;=?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\xAA\
+    \xC0\xC1\xC2\xC9\xCA\xCD\xD3\xDA\xE0\xE1\xE2\xE3\xE7\xE9\xEA\xED\xF3\xF4\xF5\xF6\
+    \xFA\xFB\xFC\xFD"
+training:
+  batch_size: 32
+  batch_size_val: 32
+  checkpoint_steps: 6700
+  epochs: 50
+  generate_steps: 670
+  learning_rate: 0.0001
+  n_generate_samples: 10
+  scheduler_plateau_factor: 0.5
+  scheduler_plateau_patience: 10
+  store_phoneme_dict_in_model: true
+  validate_steps: 670
+  warmup_steps: 1340
