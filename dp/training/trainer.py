@@ -133,6 +133,16 @@ class Trainer:
                     lang_samples = self._generate_samples(model=model,
                                                           preprocessor=checkpoint['preprocessor'],
                                                           val_batches=val_batches)
+                    with open(f"{self.checkpoint_dir}/output.txt", "w") as file:
+                        languages = lang_samples.keys()
+                        for lang in languages:
+                            for word, generated, target in lang_samples[lang]:
+                                w = "".join(word)
+                                g = "".join(generated)
+                                t = "".join(target)
+                                file.write(f"w: {w}\n")
+                                file.write(f"g: {g}\n")
+                                file.write(f"t: {t}\n\n")
                     eval_result = evaluate_samples(lang_samples=lang_samples)
                     self._write_summaries(lang_samples=lang_samples,
                                           eval_result=eval_result,
