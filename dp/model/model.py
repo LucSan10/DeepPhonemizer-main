@@ -191,7 +191,7 @@ class AutoregressiveTransformer(Model):
     @torch.jit.export
     def generate(self,
                  batch: Dict[str, torch.Tensor],
-                 max_len: int = 100) -> Tuple[torch.Tensor, torch.Tensor]:
+                 max_len: int = 1000) -> Tuple[torch.Tensor, torch.Tensor]:
         """
         Inference pass on a batch of tokenized texts.
 
