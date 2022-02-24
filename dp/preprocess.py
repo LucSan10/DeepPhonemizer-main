@@ -2,6 +2,7 @@ from collections import Counter
 from pathlib import Path
 from random import Random
 from typing import List, Tuple, Iterable
+import numpy as np
 
 import tqdm
 
@@ -94,18 +95,25 @@ def preprocess(config_file: str,
         val_dataset.append(tokens)
         val_count.update([lang])
 
-    logger.info(f'\nSaving datasets to: {data_dir.absolute()}')
-    pickle_binary(train_dataset, data_dir / 'train_dataset.pkl')
-    pickle_binary(val_dataset, data_dir / 'val_dataset.pkl')
+    # logger.info(f'\nSaving datasets to: {data_dir.absolute()}')
+    # pickle_binary(train_dataset, data_dir / 'train_dataset.pkl')
+    # pickle_binary(val_dataset, data_dir / 'val_dataset.pkl')
     phoneme_dictionary = dict()
 
-    all_data = []
     text_symbols = set(config['preprocessing']['text_symbols'])
     phoneme_symbols = set(config['preprocessing']['phoneme_symbols'])
+    all_data = []
     for lang, tx, phon in sorted(train_data + val_data):
         text = ''.join([t for t in tx if t in text_symbols])
         phons = ''.join([p for p in phon if p in phoneme_symbols])
         all_data.append((lang, text, phons))
+
+    folds = config['preprocessing']['folds']
+    all_array = np.array(train_dataset + val_dataset, dtype=object)
+    datasetsCV = np.array_split(all_array, folds)
+    for i, d in enumerate(datasetsCV):
+        pickle_binary(d, data_dir / f'datasetCV_{i}.pkl')
+
 
     for l, w, p in all_data:
         lang_dict = phoneme_dictionary.setdefault(l, {})

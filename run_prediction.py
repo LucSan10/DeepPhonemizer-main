@@ -3,9 +3,9 @@ from dp.phonemizer import Phonemizer
 if __name__ == '__main__':
 
     phonemizer = Phonemizer.from_checkpoint(
-    './checkpoints/autoreg/batch-8/model-64/fft-64/best_model.pt')
+    './checkpoints/autoreg/batch-8/model-512/fft-1024/layers-4/lr-5e-05/test-4/cv_1/best_model.pt')
 
-    text = 'Então, que desculpa melhor para ficarmos juntos?'
+    text = 'Sobre o lanche, espero que sobre comida'
     result = phonemizer.phonemise_list([text], lang='pt_br')
 
     print(result.phonemes)
