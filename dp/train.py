@@ -1,7 +1,5 @@
 from pathlib import Path
 
-from torchsummary import summary
-
 from dp.model.model import load_checkpoint, ModelType, \
     create_model
 from dp.preprocessing.text import Preprocessor

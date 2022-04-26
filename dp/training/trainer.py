@@ -5,6 +5,8 @@ from typing import List, Dict, Any, Tuple
 import csv
 import os
 
+from torchsummary import summary
+
 import torch
 import tqdm
 from torch.optim import Adam
@@ -120,6 +122,7 @@ class Trainer:
                 avg_loss = sum(losses) / len(losses) if len(losses) > 0 else math.inf
                 pbar.set_description(desc=f'Epoch: {epoch} | Step {step} '
                                         f'| Loss: {avg_loss:#.4}', refresh=True)
+                
                 pred = model(batch)
                 loss = criterion(pred, batch)
 
@@ -136,40 +139,41 @@ class Trainer:
                 self.writer.add_scalar('Params/learning_rate', [g['lr'] for g in optimizer.param_groups][0],
                                     global_step=step)
 
-                if step % config['training']['validate_steps'] == 0:
-                    val_loss = self._validate(model, val_batches)
-                    self.writer.add_scalar('Loss/val', val_loss, global_step=step)
+                if step > config['training']['min_val-gen_steps']:
+                    if step % config['training']['validate_steps'] == 0:
+                        val_loss = self._validate(model, val_batches)
+                        self.writer.add_scalar('Loss/val', val_loss, global_step=step)
 
-                if step % config['training']['generate_steps'] == 0:
-                    lang_samples = self._generate_samples(model=model,
-                                                        preprocessor=checkpoint['preprocessor'],
-                                                        val_batches=val_batches)
-                    with open(f"{self.checkpoint_dir_cv}/output.txt", "w") as file:
-                        languages = lang_samples.keys()
-                        for lang in languages:
-                            for word, generated, target in lang_samples[lang]:
-                                w = "".join(word)
-                                g = "".join(generated)
-                                t = "".join(target)
-                                file.write(f"w: {w}\n")
-                                file.write(f"g: {g}\n")
-                                file.write(f"t: {t}\n\n")
-                    eval_result = evaluate_samples(lang_samples=lang_samples)
-                    self._write_summaries(lang_samples=lang_samples,
-                                        eval_result=eval_result,
-                                        n_generate_samples=config['training']['n_generate_samples'],
-                                        step=step)
-                    if eval_result['mean_per'] is not None and eval_result['mean_per'] < best_per:
+                    if step % config['training']['generate_steps'] == 0:
+                        lang_samples = self._generate_samples(model=model,
+                                                            preprocessor=checkpoint['preprocessor'],
+                                                            val_batches=val_batches)
+                        with open(f"{self.checkpoint_dir_cv}/output.txt", "w") as file:
+                            languages = lang_samples.keys()
+                            for lang in languages:
+                                for word, generated, target in lang_samples[lang]:
+                                    w = "".join(word)
+                                    g = "".join(generated)
+                                    t = "".join(target)
+                                    file.write(f"w: {w}\n")
+                                    file.write(f"g: {g}\n")
+                                    file.write(f"t: {t}\n\n")
+                        eval_result = evaluate_samples(lang_samples=lang_samples)
+                        self._write_summaries(lang_samples=lang_samples,
+                                            eval_result=eval_result,
+                                            n_generate_samples=config['training']['n_generate_samples'],
+                                            step=step)
+                        if eval_result['mean_per'] is not None and eval_result['mean_per'] < best_per:
+                            self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
+                                            path=self.checkpoint_dir_cv / f'best_model.pt')
+                            self._save_model(model=model, optimizer=None, checkpoint=checkpoint,
+                                            path=self.checkpoint_dir_cv / f'best_model_no_optim.pt')
+                            scheduler.step(eval_result['mean_per'])
+
+                    if step % config['training']['checkpoint_steps'] == 0:
+                        step = step // 1000
                         self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
-                                        path=self.checkpoint_dir_cv / f'best_model.pt')
-                        self._save_model(model=model, optimizer=None, checkpoint=checkpoint,
-                                        path=self.checkpoint_dir_cv / f'best_model_no_optim.pt')
-                        scheduler.step(eval_result['mean_per'])
-
-                if step % config['training']['checkpoint_steps'] == 0:
-                    step = step // 1000
-                    self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
-                                    path=self.checkpoint_dir_cv / f'model_step_{step}k.pt')
+                                        path=self.checkpoint_dir_cv / f'model_step_{step}k.pt')
 
             losses = []
             self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,

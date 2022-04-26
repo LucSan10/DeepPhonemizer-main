@@ -6,9 +6,11 @@ import pandas as pd
 import glob
 from os import path
 import os
+import torch
 
 if __name__ == '__main__':
 
+    print(torch.__version__)
     allFiles = glob.glob("dp/notebooks/lexicons/*")
     allDF = (pd.read_csv(f, encoding='utf-8', sep='\t', names=['grapheme', 'phoneme']) for f in allFiles)
 
@@ -25,8 +27,6 @@ if __name__ == '__main__':
     df['phoneme'] = df['phoneme'].str.replace("i~", "ĩ")
     df['phoneme'] = df['phoneme'].str.replace("o~", "õ")
     df['phoneme'] = df['phoneme'].str.replace("u~", "ũ")
-    df['phoneme'] = df['phoneme'].str.replace("w~", "w̃")
-    df['phoneme'] = df['phoneme'].str.replace("j~", "j̃")
 
     graphemes = ''.join(sorted(list(set(df['grapheme'].sum()))))
 
@@ -71,11 +71,11 @@ if __name__ == '__main__':
                     #for d_model in [2**exp for exp in range(10, 8, -1)]:
                         #for d_fft in [2**exp for exp in range(11, 8, -1)]:
         for i in range(1,21):
-            learning_rate = 0.001
-            layers = 4
-            batch=16
-            d_model=256
-            d_fft=512
+            learning_rate = 0.00005
+            layers=4
+            batch=8
+            d_model=512
+            d_fft=1024
             checkpoint_dir = f"checkpoints/{modelType}/batch-{batch}/model-{d_model}/fft-{d_fft}/layers-{layers}/lr-{learning_rate}/test-{i}"
             if (path.isdir(f"./{checkpoint_dir}")): continue
 
@@ -102,6 +102,7 @@ if __name__ == '__main__':
             config['training']['learning_rate'] = learning_rate
 
             config['training']['warmup_steps'] = (total_steps//5) - 1
+            config['training']['min_val-gen_steps'] = (total_steps//2) - 1
             config['training']['generate_steps'] = (total_steps//10) - 1
             config['training']['validate_steps'] = (total_steps//10) - 1
             config['training']['checkpoint_steps'] = (total_steps//2) - 1

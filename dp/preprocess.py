@@ -1,6 +1,6 @@
 from collections import Counter
 from pathlib import Path
-from random import Random
+import random
 from typing import List, Tuple, Iterable
 import numpy as np
 
@@ -61,7 +61,8 @@ def preprocess(config_file: str,
     else:
         n_val = config['preprocessing']['n_val']
         logger.info(f'Performing random split with num val: {n_val}')
-        random = Random(42)
+
+        random.seed()
         random.shuffle(train_keys)
         val_keys = train_keys[:n_val]
         train_keys = train_keys[n_val:]
