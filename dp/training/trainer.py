@@ -139,11 +139,11 @@ class Trainer:
                 self.writer.add_scalar('Params/learning_rate', [g['lr'] for g in optimizer.param_groups][0],
                                     global_step=step)
 
-                if step > config['training']['min_val-gen_steps']:
-                    if step % config['training']['validate_steps'] == 0:
-                        val_loss = self._validate(model, val_batches)
-                        self.writer.add_scalar('Loss/val', val_loss, global_step=step)
+                if step % config['training']['validate_steps'] == 0:
+                    val_loss = self._validate(model, val_batches)
+                    self.writer.add_scalar('Loss/val', val_loss, global_step=step)
 
+                if step > config['training']['min_val-gen_steps']:
                     if step % config['training']['generate_steps'] == 0:
                         lang_samples = self._generate_samples(model=model,
                                                             preprocessor=checkpoint['preprocessor'],
@@ -163,6 +163,7 @@ class Trainer:
                                             eval_result=eval_result,
                                             n_generate_samples=config['training']['n_generate_samples'],
                                             step=step)
+
                         if eval_result['mean_per'] is not None and eval_result['mean_per'] < best_per:
                             self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
                                             path=self.checkpoint_dir_cv / f'best_model.pt')
@@ -170,7 +171,7 @@ class Trainer:
                                             path=self.checkpoint_dir_cv / f'best_model_no_optim.pt')
                             scheduler.step(eval_result['mean_per'])
 
-                    if step % config['training']['checkpoint_steps'] == 0:
+                if step % config['training']['checkpoint_steps'] == 0:
                         step = step // 1000
                         self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
                                         path=self.checkpoint_dir_cv / f'model_step_{step}k.pt')
