@@ -2591,7 +2591,7 @@ ref:	Casseta e Planeta
 inf:	ka'sE.ta i pla~'ne.ta
 
 ref:	Eduardo Doss
-inf:	e.du'aR.du do.s
+corrigida:	e.du'aR.du 'dOs
 
 ref:	Vitor Caruso
 inf:	vi'toX ka'ru.zu
