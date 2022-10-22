@@ -368,7 +368,7 @@ ref:	O importante é saber que tudo é um processo e não um acontecimento.
 corrigida:	u i~.poX'ta~.Ti E sa'beX ki 'tu.du E u~ pro'sE.su i 'na~w~ u~ a.ko~.te.si~'me~.tu
 
 ref:	Só quero que você confie em mim o pouco que puder e que cresça no amor pelas pessoas ao seu redor com o mesmo amor que compartilho com você.
-inf:	'sO 'kE.ru ki vo'se ko~'fi e~j~ 'mi~ u 'pow.ku ki pu'der i ki 'krE.sa nu a~'moX 'pe.las pe'so.az aw 'sew Re'dOX ko~ u 'mez.mu a~'moX ki ko~.paX'Ti.Lu ko~ vo'se
+inf:	'sO 'kE.ru ki vo'se ko~'fi e~j~ 'mi~ u 'pow.ku ki pu'dEr i ki 'krE.sa nu a~'moX 'pe.las pe'so.az aw 'sew Re'dOX ko~ u 'mez.mu a~'moX ki ko~.paX'Ti.Lu ko~ vo'se
 
 ref:	Não cabe a você mudá-las nem convencê-las.
 inf:	'na~w~ 'ka.bi a vo'se mu'da las ne~j~ ko~.ve~'se las
@@ -848,7 +848,7 @@ ref:	Só faltam 46 vezes.
 corrigida:	'sO 'faw.ta~w~ kwa're~.ta i 'sejs 've.zis
 
 ref:	E essa primeira vez será um tijolo para construir uma ponte de cura que um dia, que hoje, você atravessará.
-inf:	i 'E.sa pri~'mej.ra 'vejs se'ra u~ Ti'ZO.lu 'pa.ra ko~s.tru'ir u~.ma 'po~.Ti Di 'ku.ra ki u~ 'Di.a, ki 'o.Zi, vo'se a.tra.ve.sa'ra
+inf:	i 'E.sa pri~'mej.ra 'vejs se'ra u~ Ti'Zo.lu 'pa.ra ko~s.tru'ir u~.ma 'po~.Ti Di 'ku.ra ki u~ 'Di.a, ki 'o.Zi, vo'se a.tra.ve.sa'ra
 
 ref:	Certo, agora estou me sentindo culpado, admitiu ele.
 inf:	'sEX.tu, a'gO.ra es'tow mi se~'Ti~.du kuw'pa.du, a.Di~.mi'Tiw 'e.li

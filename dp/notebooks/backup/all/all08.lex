@@ -680,7 +680,7 @@ ref:	ELA: Quando estiver falando no telefone e ele chegar, desligue imediatament
 inf:	'E.la, 'kwa~.du es.Ti'vEX fa'la~.du nu te.le'fo~.ni i 'e.li Se'gaX, dez'li.gi i~.me.Di.a.ta~'me~.Ti
 
 ref:	Se puder, finja um certo nervosismo.
-inf:	si pu'deX, 'fi~.Za u~ 'sEX.tu neR.vo'ziz.mu
+inf:	si pu'dEX, 'fi~.Za u~ 'sEX.tu neR.vo'ziz.mu
 
 ref:	ELE: Ligue para ex-namoradas e fique horas de conversa fiada.
 corrigida:	'e.li, 'li.gi 'pa.ra 'ejs na~.mo'ra.daz i 'fi.ki 'O.ras Di ko~'vEX.sa fi'a.da
@@ -2180,7 +2180,7 @@ ref:	Uma mosca caiu numa panela de carne.
 inf:	u~.ma 'mos.ka ka'iw 'nu~.ma pa~'nE.la Di 'kaR.ni
 
 ref:	Afogada no molho e já quase morrendo, ela disse para si mesma: Se já comi, já bebi e já tomei um banho, que me importa morrer?
-inf:	a.fo'ga.da nu 'mO.Lu i 'Za 'kwa.zi mo'Re~.du, 'E.la 'Di.si 'pa.ra 'si 'mez.ma, si 'Za ko~'mi, 'Za be'bi i 'Za to~'mej u~ 'ba~.Ju, ki mi i~'pOX.ta mo'ReX
+inf:	a.fo'ga.da nu 'mo.Lu i 'Za 'kwa.zi mo'Re~.du, 'E.la 'Di.si 'pa.ra 'si 'mez.ma, si 'Za ko~'mi, 'Za be'bi i 'Za to~'mej u~ 'ba~.Ju, ki mi i~'pOX.ta mo'ReX
 
 ref:	Suportamos a morte com mais facilidade quando a ela não associamos pensamentos tristes.
 inf:	su.poX'ta~.muz a 'mOX.Ti ko~ 'majs fa.si.li'da.Di 'kwa~.du a 'E.la 'na~w~ a.so.si'a~.mus pe~.sa~'me~.tus 'tris.Tis
@@ -2324,7 +2324,7 @@ ref:	E Hermes, quanto custa? quis saber.
 inf:	i 'ER.mis, 'kwa~.tu 'kus.ta, 'kis sa'beX
 
 ref:	Oh, se comprares as outras duas, a levas de brinde.
-inf:	o, si ko~'pra.riz az 'ow.tras 'du.as, a 'lE.vas Di 'bri~.Di
+inf:	'O, si ko~'pra.riz az 'ow.tras 'du.as, a 'lE.vas Di 'bri~.Di
 
 ref:	Quem se acha o tal termina valendo menos que o esperado.
 inf:	'ke~j~ si 'a.Sa u 'taw teR'mi~.na va'le~.du 'me~.nus ki u es.pe'ra.du

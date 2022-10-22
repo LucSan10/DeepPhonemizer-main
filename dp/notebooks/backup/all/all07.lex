@@ -1067,7 +1067,7 @@ ref:	Apaixone-se por ser uma pessoa melhor, já viu alguém colher o mal já que
 inf:	a.paj'So~.ni si puX 'ser u~.ma pe'so.a me'LOX, 'Za 'viw aw'ge~j~ ko'Ler u 'maw 'Za ki 'sO se~'mej.a u 'be~j~
 
 ref:	Um dos pratos preferidos. Aquela massa gratinada coberta de molho branco. Uma colher de queijo parmesão. A barriga que faz barulho. A boca que saliva. A primeira garfada. Na mosca.
-inf:	'u~ dus 'pra.tus pre.fe'ri.dus, a'kE.la 'ma.sa gra.Ti~'na.da ko'bEX.ta Di 'mO.Lu 'bra~.ku, u~.ma ko'LeR Di 'kej.Zu paR.me'za~w~, a ba'Ri.ga ki 'fajz ba'ru.Lu, a 'bo.ka ki sa'li.va, a pri~'mej.ra gaX'fa.da, na 'mos.ka
+inf:	'u~ dus 'pra.tus pre.fe'ri.dus, a'kE.la 'ma.sa gra.Ti~'na.da ko'bEX.ta Di 'mo.Lu 'bra~.ku, u~.ma ko'LeR Di 'kej.Zu paR.me'za~w~, a ba'Ri.ga ki 'fajz ba'ru.Lu, a 'bo.ka ki sa'li.va, a pri~'mej.ra gaX'fa.da, na 'mos.ka
 
 ref:	Não desanima não. Quem plantou chorando, vai colher sorrindo.
 inf:	'na~w~ de.za~'ni~.ma 'na~w~, 'ke~j~ pla~'tow So'ra~.du, 'vaj ko'LeX so'Ri~.du
@@ -1271,7 +1271,7 @@ ref:	Você não colhe tudo que planta, mais se colher é porque alguem plantou.
 corrigida:	vo'se 'na~w~ 'kO.Li 'tu.du ki 'pla~.ta, 'majs si ko'Ler E puX'ke aw'ge~j~ pla~'tow
 
 ref:	E se eu puder te colher maduro do pé, os meus dias terão gosto do teu querer, me perderei nas estrelas cintilantes do azul do céu...
-inf:	i si ew pu'deX Ti ko'LER ma'du.ru du 'pE, us 'mews 'Di.as te'ra~w~ 'gos.tu du 'tew ke'reX, mi peR.de'rej naz es'tre.las si~.Ti'la~.Tis du a'zuw du 'sEw
+inf:	i si ew pu'dEX Ti ko'LeR ma'du.ru du 'pE, us 'mews 'Di.as te'ra~w~ 'gos.tu du 'tew ke'reX, mi peR.de'rej naz es'tre.las si~.Ti'la~.Tis du a'zuw du 'sEw
 
 ref:	Faca de Dois Gumes?  Mal viver Com a mulher É meter a colher?
 corrigida:	'fa.ka Di 'dojs 'gu~.mis, 'maw vi'veX ko~ a mu'LEr E me'ter a ko'LEX
@@ -1805,7 +1805,7 @@ ref:	Eterno é tudo aquilo que nunca precisou ter começo e nunca terá necessid
 corrigida:	e'tER.nu E 'tu.du a'ki.lu ki 'nu~.ka pre.si'zow 'teX ko~'me.su i 'nu~.ka te'ra ne.se.si'da.Di Di a.ka'baX
 
 ref:	Não prometo um final feliz, mas garanto um começo inesquecível...
-inf:	'na~w~ pro~'mE.tu u~ fi~'naw fe'lis, majs ga'ra~.tu u~ ko~'me.su i~.nes.ke'si.vew
+inf:	'na~w~ pro~'me.tu u~ fi~'naw fe'lis, majs ga'ra~.tu u~ ko~'me.su i~.nes.ke'si.vew
 
 ref:	Começo a significar cada vez menos pras pessoas, e elas pra mim.
 inf:	ko~'mE.su a sig.ni.fi'kaX 'ka.da 'vejz 'me~.nus pras pe'so.as, i 'E.las pra 'mi~
@@ -2123,7 +2123,7 @@ ref:	Não abaixe a cabeça, achando que tudo está acabado pois é do fim que se
 corrigida:	'na~w~ a'baj.Si a ka'be.sa, a'Sa~.du ki 'tu.du es'ta a.ka'ba.du 'pojz E du 'fi~ ki si ko~s'trOj u~ ko~'me.su
 
 ref:	Conte-me seus segredos, faça-me suas perguntas Oh, vamos voltar pro começo...
-inf:	'ko~.Ti mi 'sews se'gre.dus, 'fa.sa mi 'su.as peR'gu~.taz o, 'va~.mus vow'taX pru ko~'me.su
+inf:	'ko~.Ti mi 'sews se'gre.dus, 'fa.sa mi 'su.as peR'gu~.taz 'O, 'va~.mus vow'taX pru ko~'me.su
 
 ref:	Tudo na vida tem começo, meio e legado. Para os que sonham não existe o fim.
 inf:	'tu.du na 'vi.da te~j~ ko~'me.su, 'mej.u i le'ga.du, 'pa.ra us ki 'so~.Ja~w~ 'na~w~ e'zis.Ti u 'fi~

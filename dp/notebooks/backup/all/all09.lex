@@ -1511,7 +1511,7 @@ ref:	A beleza da mulher tá por dentro, tá no conceito, tá no caráter, por fo
 corrigida:	a be'le.za da mu'LEX 'ta puR 'de~.tru, 'ta nu ko~'sej.tu, 'ta nu ka'ra.teX, puX 'fO.ra E kes'ta~w~ Di 'gos.tu Di 'ka.da 'u~
 
 ref:	Não gosto de pessoas que, para ter algum efeito, necesitam estourar como bombas, e junto às quais há sempre perigo de perdermos subitamente a audição - e mesmo alguma coisa a mais.
-inf:	'na~w~ 'gOs.tu Di pe'so.as ki, 'pa.ra 'ter aw'gu~ e'fej.tu, ne.se'zi.ta~w~ es.tow'raX 'ko~.mu 'bo~.bas, i 'Zu~.tu as 'kwajz 'a 'se~.pri pe'ri.gu Di peR'dER.mus su.bi.ta~'me~.Ti a aw.Di'sa~w~, i 'mez.mu aw'gu~.ma 'koj.za a 'majs
+inf:	'na~w~ 'gOs.tu Di pe'so.as ki, 'pa.ra 'ter aw'gu~ e'fej.tu, ne.se'zi.ta~w~ es.tow'raX 'ko~.mu 'bo~.bas, i 'Zu~.tu as 'kwajz 'a 'se~.pri pe'ri.gu Di peR'deR.mus su.bi.ta~'me~.Ti a aw.Di'sa~w~, i 'mez.mu aw'gu~.ma 'koj.za a 'majs
 
 ref:	Gosto de ficar sozinho. Ou pelo menos, penso que fico melhor assim.
 inf:	'gOs.tu Di fi'kaX sO'zi~.Ju, ow 'pe.lu 'me~.nus, 'pe~.su ki 'fi.ku me'LOr a'si~

@@ -2261,7 +2261,7 @@ ref:	Seja muito rigoroso com a higiene pessoal
 inf:	'se.Za 'mu~j~.tu Ri.go'ro.zu ko~ a i.Zi'e~.ni pe.so'aw
 
 ref:	De uma boa espreguiçada ao acordar e sempre que puder
-inf:	Di u~.ma 'bo.a es.pre.gi'sa.da aw a.koR'dar i 'se~.pri ki pu'deX
+inf:	Di u~.ma 'bo.a es.pre.gi'sa.da aw a.koR'dar i 'se~.pri ki pu'dEX
 
 ref:	Se você tem um tempinho para descansar ao sol, aproveite.
 corrigida:	si vo'se te~j~ u~ te~'pi~.Ju 'pa.ra des.ka~'sar aw 'sOw, a.pro'vej.Ti
@@ -2747,7 +2747,7 @@ ref:	Apoio todos os seus direitos desde que não interfiram nos meus.
 inf:	a'poj.u 'to.duz us 'sews Di'rej.tus 'dez.Di ki 'na~w~ i~.teX'fi.ra~w~ nus 'mews
 
 ref:	Quando a pessoa que amamos nos oferece alicerce e apoio para sustentação de nossa relação, fica mais fácil aprendermos a amá-la, pois estamos sendo amado e querido pelo nosso amor.
-inf:	'kwa~.du a pe'so.a ki a~'ma~.mus nuz o.fe'rE.si a.li'sEX.si i a'poj.u 'pa.ra sus.te~.ta'sa~w~ Di 'nO.sa Re.la'sa~w~, 'fi.ka 'majs 'fa.siw a.pre~'dER.muz a a~'ma la, 'pojz es'ta~.mus 'se~.du a~'ma.du i ke'ri.du 'pe.lu 'nO.su a~'moX
+inf:	'kwa~.du a pe'so.a ki a~'ma~.mus nuz o.fe'rE.si a.li'sEX.si i a'poj.u 'pa.ra sus.te~.ta'sa~w~ Di 'nO.sa Re.la'sa~w~, 'fi.ka 'majs 'fa.siw a.pre~'deR.muz a a~'ma la, 'pojz es'ta~.mus 'se~.du a~'ma.du i ke'ri.du 'pe.lu 'nO.su a~'moX
 
 ref:	Nos momentos de crise, evite fazer críticas e reforce o seu apoio.
 inf:	nus mo~'me~.tus Di 'kri.zi, e'vi.Ti fa'zeX 'kri.Ti.kaz i Re'fOX.si u 'sew a'poj.u

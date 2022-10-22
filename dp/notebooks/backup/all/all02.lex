@@ -320,7 +320,7 @@ ref:	Mack quase riu alto, ironizando, mas, em vez disso, concentrou-se no que el
 inf:	'mE.ki 'kwa.zi 'Riw 'aw.tu, i.ro~.ni'za~.du, majs, e~j~ 'vejz 'Di.su, ko~.se~'trow si nu ki 'E.la a.ka'ba.ra Di Di'zer i Re.ku.pe'row a ko~.pos'tu.ra
 
 ref:	Ela parou de falar enquanto guardava alguns condimentos numa prateleira de temperos e depois virou-se para encará-lo de novo.
-inf:	'E.la pa'row Di fa'lar e~'kwa~.tu gwaR'da.va aw'gu~s ko~.Di~'me~.tus 'nu~.ma pra.te'lej.ra Di te~'pE.ruz i de'pojs vi'row si 'pa.ra e~.ka'ra lu Di 'no.vu
+inf:	'E.la pa'row Di fa'lar e~'kwa~.tu gwaR'da.va aw'gu~s ko~.Di~'me~.tus 'nu~.ma pra.te'lej.ra Di te~'pe.ruz i de'pojs vi'row si 'pa.ra e~.ka'ra lu Di 'no.vu
 
 ref:	Olhou para Mack com intensidade.
 inf:	o'Low 'pa.ra 'mE.ki ko~ i~.te~.si'da.Di
@@ -509,7 +509,7 @@ ref:	Quando Mack não respondeu, ela retornou ao trabalho na cozinha, como se qu
 inf:	'kwa~.du 'mE.ki 'na~w~ Res.po~'dew, 'E.la Re.toR'now aw tra'ba.Lu na ko'zi~.Ja, 'ko~.mu si ki'zE.si Li o.fe.re'ser u~ 'pow.ku Di u~ ne.se'sa.rju es'pa.su
 
 ref:	Parecia estar preparando vários pratos ao mesmo tempo, acrescentando temperos e ingredientes.
-inf:	pa.re'si.a es'taX pre.pa'ra~.du 'va.rjus 'pra.tuz aw 'mez.mu 'te~.pu, a.kre.se~'ta~.du te~'pE.ruz i i~.gre.Di'e~.Tis
+inf:	pa.re'si.a es'taX pre.pa'ra~.du 'va.rjus 'pra.tuz aw 'mez.mu 'te~.pu, a.kre.se~'ta~.du te~'pe.ruz i i~.gre.Di'e~.Tis
 
 ref:	Cantarolando uma musiquinha repetitiva, deu os últimos retoques na torta que estava fazendo e enfiou-a no forno.
 inf:	ka~.ta.ro'la~.du u~.ma mu.zi'ki~.Ja Re.pe.Ti'Ti.va, 'dew uz 'uw.Ti~.mus Re'tO.kis na 'tOX.ta ki es'ta.va fa'ze~.du i e~.fi'ow a nu 'foR.nu
@@ -1070,7 +1070,7 @@ ref:	Levantou-a e viu os três rindo para ele.
 inf:	le.va~'tow a i 'viw us 'trejs 'Ri~.du 'pa.ra 'e.li
 
 ref:	Claro. Nós íamos ter um molho japonês incrível, mas o sem-jeito ali, Papai acenou na direção de Jesus, decidiu ver se a tigela quicava.
-inf:	'kla.ru, 'nOjz 'i.a~.mus 'ter u~ 'mO.Lu Za.po~'nejz i~'kri.vew, majz u se~j~ 'Zej.tu a'li, pa'paj a.se~'now na Di.re'sa~w~ Di Ze'zujs, de.si'Diw 'veX si a Ti'ZE.la ki'ka.va
+inf:	'kla.ru, 'nOjz 'i.a~.mus 'ter u~ 'mo.Lu Za.po~'nejz i~'kri.vew, majz u se~j~ 'Zej.tu a'li, pa'paj a.se~'now na Di.re'sa~w~ Di Ze'zujs, de.si'Diw 'veX si a Ti'ZE.la ki'ka.va
 
 ref:	Ah, qual é? respondeu Jesus num arremedo de defesa.
 inf:	a, 'kwaw E, Res.po~'dew Ze'zujs nu~ a.Re~'me.du Di de'fe.za
@@ -2033,7 +2033,7 @@ ref:	Você faz algumas perguntas interessantes.
 inf:	vo'se 'fajz aw'gu~.mas peR'gu~.taz i~.te.re'sa~.Tis
 
 ref:	Chegaremos a elas, prometo.
-inf:	Se.ga're~.muz a 'E.las, pro~'mE.tu
+inf:	Se.ga're~.muz a 'E.las, pro~'me.tu
 
 ref:	Mas agora vamos aproveitar o café da manhã.
 corrigida:	majz a'gO.ra 'va~.muz a.pro.vej'tar u ka'fE da ma~'Ja~
@@ -2582,7 +2582,7 @@ ref:	Seu estômago havia começado a se revirar um pouco.
 inf:	'sew es'to~.ma.gu a'vi.a ko~.me'sa.du a si Re.vi'rar u~ 'pow.ku
 
 ref:	O gosto da erva não era desagradável: uma sugestão de hortelã e alguns outros temperos que ele provavelmente já havia cheirado antes, mas que não podia identificar.
-inf:	u 'gos.tu da 'ER.va 'na~w~ 'E.ra de.za.gra'da.vew, u~.ma su.Zes'ta~w~ Di oX.te'la~ i aw'gu~z 'ow.trus te~'pE.rus ki 'e.li pro.va.vew'me~.Ti 'Za a'vi.a Sej'ra.du 'a~.Tis, majs ki 'na~w~ po'Di.a i.de~.Ti.fi'kaX
+inf:	u 'gos.tu da 'ER.va 'na~w~ 'E.ra de.za.gra'da.vew, u~.ma su.Zes'ta~w~ Di oX.te'la~ i aw'gu~z 'ow.trus te~'pe.rus ki 'e.li pro.va.vew'me~.Ti 'Za a'vi.a Sej'ra.du 'a~.Tis, majs ki 'na~w~ po'Di.a i.de~.Ti.fi'kaX
 
 ref:	Enquanto andavam, seu estômago foi se aplacando e ele relaxou.
 inf:	e~'kwa~.tu a~'da.va~w~, 'sew es'to~.ma.gu 'foj si a.pla'ka~.du i 'e.li Re.la'Sow

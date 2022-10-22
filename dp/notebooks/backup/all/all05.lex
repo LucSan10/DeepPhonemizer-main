@@ -368,7 +368,7 @@ ref:	Sei que não é certo, mas quero feri-lo como ele me feriu...
 corrigida:	'sej ki 'na~w~ E 'sEX.tu, majs 'kE.ru fe'ri lu 'ko~.mu 'e.li mi fe'riw
 
 ref:	Se eu não puder ter justiça, ainda quero vingança.
-inf:	si ew 'na~w~ pu'deX 'teR Zus'Ti.sa, a'i~.da 'kE.ru vi~'ga~.sa
+inf:	si ew 'na~w~ pu'dEX 'teR Zus'Ti.sa, a'i~.da 'kE.ru vi~'ga~.sa
 
 ref:	Papai simplesmente deixou a torrente sair de Mack, esperando que a onda passasse.
 inf:	pa'paj si~.pliz'me~.Ti dej'Sow a to'Re~.Ti sa'iR Di 'mE.ki, es.pe'ra~.du ki a 'o~.da pa'sa.si
@@ -1049,7 +1049,7 @@ ref:	Você pode permanecer conosco e continuar a crescer e aprender ou pode reto
 inf:	vo'se 'pO.Di peR.ma~.ne'seX ko~'nos.ku i ko~.Ti~.nu'ar a kre'ser i a.pre~'der ow 'pO.Di Re.toR'nar a 'su.a 'ow.tra 'ka.za, a 'na~, 'sews 'fi.Luz i a~'mi.gus
 
 ref:	De qualquer modo, prometo que sempre estarei com você.
-inf:	Di kwaw'kER 'mO.du, pro~'mE.tu ki 'se~.pri es.ta'rej ko~ vo'se
+inf:	Di kwaw'kER 'mO.du, pro~'me.tu ki 'se~.pri es.ta'rej ko~ vo'se
 
 ref:	Mack se recostou e pensou.
 inf:	'mE.ki si Re.kos'tow i pe~'sow
@@ -2114,7 +2114,7 @@ ref:	O hã que Mack estivera retendo veio finalmente à superfície com toda a f
 inf:	u 'a~ ki 'mE.ki es.Ti'vE.ra Re'te~.du 'vej.u fi~.naw'me~.Ti a su.peX'fi.si ko~ 'to.da a 'foX.sa
 
 ref:	Jesus deixara cair uma grande tigela com algum tipo de massa ou molho no chão, e a coisa tinha se espalhado por toda parte.
-inf:	Ze'zujs dej'Sa.ra ka'ir u~.ma 'gra~.Di Ti'ZE.la ko~ aw'gu~ 'Ti.pu Di 'ma.sa ow 'mO.Lu nu 'Sa~w~, i a 'koj.za 'Ti~.Ja si es.pa'La.du puX 'to.da 'paX.Ti
+inf:	Ze'zujs dej'Sa.ra ka'ir u~.ma 'gra~.Di Ti'ZE.la ko~ aw'gu~ 'Ti.pu Di 'ma.sa ow 'mo.Lu nu 'Sa~w~, i a 'koj.za 'Ti~.Ja si es.pa'La.du puX 'to.da 'paX.Ti
 
 ref:	Finalmente Mack conseguiu dizer uma coisa que o incomodara durante toda a conversa.
 inf:	fi~.naw'me~.Ti 'mE.ki ko~.se'giw Di'zer u~.ma 'koj.za ki u i~.ko~.mo'da.ra du'ra~.Ti 'to.da a ko~'vEX.sa
@@ -2294,7 +2294,7 @@ ref:	buscando um novo rumo, sem fazer resumo não me acostumo, de vez enquando s
 inf:	bus'ka~.du u~ 'no.vu 'Ru~.mu, se~j~ fa'ze.Re'zu~.mu 'na~w~ mi a.kos'tu~.mu, Di 'vejz e~'kwa~.du 'su~.mu, pra 'veX si a'sEX.tu, sO'zi~.Ju nu de'zEX.tu
 
 ref:	O gol em uma partida é um ponto de análise, pois ele surge de um acerto ou de um erro.
-corrigida:	u 'gOw e~j~ u~.ma paX'Ti.da E u~ 'po~.tu Di a~'na.li.zi, 'pojz 'e.li 'suR.Zi Di u~ a'seX.tu ow Di u~ 'e.Ru
+corrigida:	u 'gow e~j~ u~.ma paX'Ti.da E u~ 'po~.tu Di a~'na.li.zi, 'pojz 'e.li 'suR.Zi Di u~ a'seX.tu ow Di u~ 'e.Ru
 
 ref:	Me deixe, me esquece e me erra. Que eu me acho, me revivo e me acerto. Simples assim. Flávia Abib
 inf:	mi 'dej.Si, mi es'kE.si i mi 'E.Ra, ki ew mi 'a.Su, mi Re'vi.vu i mi a'sEX.tu, 'si~.pliz a'si~, 'fla.vja 'a.bib

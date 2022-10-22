@@ -2519,7 +2519,7 @@ ref:	O efeito da morte sobre aqueles que continuam vivos é sempre estranho, e m
 corrigida:	u e'fej.tu da 'mOX.Ti 'so.bri a'ke.lis ki ko~.Ti~'nu.a~w~ 'vi.vuz E 'se~.pri es'tra~.Ju, i 'mu~j~.tas 've.zis te'Ri.vew, 'pe.la des.truj'sa~w~ Di de'ze.Zuz i~.no'se~.Tis
 
 ref:	Toda dor pode ser suportada se sobre ela puder ser contada uma história.
-corrigida:	'to.da 'doX 'pO.Di 'seX su.poX'ta.da si 'so.bri 'E.la pu'deX 'seX ko~'ta.da u~.ma is'tO.rja
+corrigida:	'to.da 'doX 'pO.Di 'seX su.poX'ta.da si 'so.bri 'E.la pu'dEX 'seX ko~'ta.da u~.ma is'tO.rja
 
 ref:	Eu prefiro ser uma metamorfose ambulante, do que ter aquela velha opinião formada sobre tudo...
 corrigida:	ew pre'fi.ru 'ser u~.ma me.ta~.moX'fO.zi a~.bu'la~.Ti, du ki 'ter a'kE.la 'vE.La o.pi~.ni'a~w~ foR'ma.da 'so.bri 'tu.du
