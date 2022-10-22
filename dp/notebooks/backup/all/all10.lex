@@ -2042,7 +2042,7 @@ ref:	Se eu souber as regras do jogo, eu sento na mesa e jogo.
 inf:	si ew sow'ber as 'RE.gras du 'Zo.gu, ew 'se~.tu na 'me.za i 'Zo.gu
 
 ref:	O amor é como um jogo  se perderes não há  volta a dar game over.
-inf:	u a~'mor E 'ko~.mu u~ 'Zo.gu si peR'dE.ris 'na~w~ 'a 'vOw.ta a 'daR 'gej~.mi 'o.veX
+inf:	u a~'mor E 'ko~.mu u~ 'Zo.gu si peR'de.ris 'na~w~ 'a 'vOw.ta a 'daR 'gej~.mi 'o.veX
 
 ref:	Sujamos os nossos pés de lama para lavar a alma esse é o nosso jogo sujo.
 corrigida:	su'Za~.muz us 'nO.sus 'pEjs Di 'la~.ma 'pa.ra la'var a 'aw.ma 'e.si E u 'nO.su 'Zo.gu 'su.Zu
@@ -2759,7 +2759,7 @@ ref:	Eu olho em volta, não há ninguém mais importante que você. Eu acho que 
 inf:	ew 'O.Lu e~j~ 'vOw.ta, 'na~w~ 'a ni~'ge~j~ 'majz i~.poX'ta~.Ti ki vo'se, ew 'a.Su ki vo'se 'sa.bi ki 'se~.pri u a~.ma'rej
 
 ref:	Muitos rostos bonitos capturam minha atenção, Então eu olho para eles, me lembro nos vidros manchados.
-inf:	'mu~j~.tus 'ROs.tus bo~'ni.tus kap'tu.ra~w~ 'mi~.Ja a.te~'sa~w~, e~'ta~w~ ew 'O.Lu 'pa.ra 'e.lis, mi 'le~.bru nus 'vi.drus ma~'Sa.dus
+inf:	'mu~j~.tus 'Ros.tus bo~'ni.tus kap'tu.ra~w~ 'mi~.Ja a.te~'sa~w~, e~'ta~w~ ew 'O.Lu 'pa.ra 'e.lis, mi 'le~.bru nus 'vi.drus ma~'Sa.dus
 
 ref:	Eu não olho mais para o céu para ver as estrelas. Por que deveria? Eu posso apenas olhar para os seus olhos.
 inf:	ew 'na~w~ 'O.Lu 'majs 'pa.ra u 'sEw 'pa.ra 'ver az es'tre.las, puX 'ke de.ve'ri.a, ew 'pO.su a'pe~.naz o'LaX 'pa.ra us 'sewz 'O.Lus

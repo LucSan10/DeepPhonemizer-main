@@ -101,7 +101,7 @@ ref:	Quem assume sua verdade age de acordo com os valores da vida, mesmo enfrent
 inf:	'ke~j~ a'su~.mi 'su.a veR'da.Di 'a.Zi Di a'koR.du ko~ us va'lo.ris da 'vi.da, 'mez.mu e~.fre~'ta~.du u pre.ko~'sej.tu i pa'ga~.du u 'pre.su Di 'seR Di.fe're~.Ti, 'pa.sa kre.Di.bi.li'da.Di, ob'te~j~ Res'pej.tu i si Re.a'li.za
 
 ref:	Um corpo perfeito Porque era assim que a humanidade devia ser de acordo com o plano divino: como os músicos de uma única orquestra, como os órgãos de um único corpo.
-inf:	u~ 'koX.pu peX'fej.tu puX'ke 'E.ra a'si~ ki a u~.ma~.ni'da.Di de'vi.a 'seR Di a'koR.du ko~ u 'pla~.nu Di'vi~.nu, 'ko~.mu us 'mu.zi.kus Di u~.ma 'u~.ni.ka oX'kEs.tra, 'ko~.mu uz OR'ga~w~s Di u~ 'u~.ni.ku 'koX.pu
+inf:	u~ 'koX.pu peX'fej.tu puX'ke 'E.ra a'si~ ki a u~.ma~.ni'da.Di de'vi.a 'seR Di a'koR.du ko~ u 'pla~.nu Di'vi~.nu, 'ko~.mu us 'mu.zi.kus Di u~.ma 'u~.ni.ka oX'kEs.tra, 'ko~.mu uz 'OR.ga~w~s Di u~ 'u~.ni.ku 'koX.pu
 
 ref:	O homem superior age antes de falar e depois fala de acordo com suas ações.
 inf:	u 'o~.me~j~ su.pe.ri'or 'a.Zi 'a~.Tis Di fa'lar i de'pojs 'fa.la Di a'koR.du ko~ 'su.az a'so~j~s
@@ -1145,7 +1145,7 @@ ref:	E o que escrevo é uma névoa úmida.
 corrigida:	i u ki es'kre.vu E u~.ma 'nE.vo.a 'u~.mi.da
 
 ref:	As palavras são sons transfundidos de sombras que se entrecruzam desiguais, estalactites, renda, música transfigurada de órgão.
-inf:	as pa'la.vras 'sa~w~ 'so~s tra~s.fu~'Di.dus Di 'so~.bras ki si e~.tre'kru.za~w~ de.zi'gwajs, es.ta.lak'Ti.Tis, 'Re~.da, 'mu.zi.ka tra~s.fi.gu'ra.da Di OR'ga~w~
+inf:	as pa'la.vras 'sa~w~ 'so~s tra~s.fu~'Di.dus Di 'so~.bras ki si e~.tre'kru.za~w~ de.zi'gwajs, es.ta.lak'Ti.Tis, 'Re~.da, 'mu.zi.ka tra~s.fi.gu'ra.da Di 'OR.ga~w~
 
 ref:	Mal ouso clamar palavras a essa rede vibrante e rica, mórbida e obscura tendo como contratom o , baixo grosso da dor.
 inf:	'maw 'ow.zu kla~'maX pa'la.vraz a 'E.sa 'Re.Di vi'bra~.Ti i 'Ri.ka, 'mOR.bi.da i obs'ku.ra 'te~.du 'ko~.mu ko~.tra'to~ u, 'baj.Su 'gro.su da 'doX

@@ -146,7 +146,7 @@ ref:	Conserve as pessoas boas , não côrte contato mantenha eles perto de você
 inf:	ko~'sER.vi as pe'so.as 'bo.as, 'na~w~ 'koX.Ti ko~'ta.tu ma~'te~.Ja 'e.lis 'pEX.tu Di vo'se, 'pojs 'kwa~.du vo'se majs pre.si'zar 'e.lis 'va~w~ 'ter a'Zu.da
 
 ref:	Eu tenho uma maldade dentro de mim tão real quanto um órgão. Corte minha barriga e talvez ela escorra para fora, viscosa e escura, e caia no chão para que você possa pisar nela.
-inf:	ew 'te~.Ju u~.ma maw'da.Di 'de~.tru Di 'mi~ 'ta~w~ Re'aw 'kwa~.tu u~ OR'ga~w~, 'kOX.Ti 'mi~.Ja ba'Ri.ga i taw'vejz 'E.la es'ko.Ra 'pa.ra 'fO.ra, vis'kO.za i es'ku.ra, i 'kaj.a nu 'Sa~w~ 'pa.ra ki vo'se 'pO.sa pi'zaR 'nE.la
+inf:	ew 'te~.Ju u~.ma maw'da.Di 'de~.tru Di 'mi~ 'ta~w~ Re'aw 'kwa~.tu u~ 'OR.ga~w~, 'kOX.Ti 'mi~.Ja ba'Ri.ga i taw'vejz 'E.la es'ko.Ra 'pa.ra 'fO.ra, vis'kO.za i es'ku.ra, i 'kaj.a nu 'Sa~w~ 'pa.ra ki vo'se 'pO.sa pi'zaR 'nE.la
 
 ref:	a maldade começa nos olhos, e cresce em sua mente, corte pela raiz, pra não sofrer eternamente. FAOM
 corrigida:	a maw'da.Di ko~'mE.sa nuz 'O.Lus, i 'krE.si e~j~ 'su.a 'me~.Ti, 'kOX.Ti 'pe.la Ra'i, pra 'na~w~ 'so.frer e.tER.na~'me~.Ti, fa'o~

@@ -1025,7 +1025,7 @@ ref:	As flores de amanhã são as sementes de hoje! Colhe belas flores quem esco
 inf:	as 'flo.ris Di a~.ma~'Ja~ 'sa~w~ as se~'me~.Tis Di 'o.Zi, 'kO.Li 'bE.las 'flo.ris 'ke~j~ es'kO.Li pla~'taR 'bo.as se~'me~.Tis, nu 'te~.pu 'sEX.tu 'E.las flo'rE.se~j~
 
 ref:	Se livros fossem bules e os textos fossem café, você logo perceberia que os cafés de alguns bules levam duas colheradas a mais de pó!
-inf:	si 'li.vrus 'fo.se~j~ 'bu.liz i us 'tEs.tus 'fo.se~j~ ka'fE, vo'se 'lO.gu peX.se.be'ri.a ki us ka'fEjs Di aw'gu~s 'bu.lis 'lE.va~w~ 'du.as ko.Le'ra.daz a 'majs Di 'pO
+inf:	si 'li.vrus 'fo.se~j~ 'bu.liz i us 'tes.tus 'fo.se~j~ ka'fE, vo'se 'lO.gu peX.se.be'ri.a ki us ka'fEjs Di aw'gu~s 'bu.lis 'lE.va~w~ 'du.as ko.Le'ra.daz a 'majs Di 'pO
 
 ref:	Você só colhe o que planta. E é por isso que talvez a Lei da Atração pareça não funcionar para você, porque você não sabe muito bem o que está plantando.
 corrigida:	vo'se 'sO 'kO.Li u ki 'pla~.ta, i E pur 'i.su ki taw'vejz a 'lej da a.tra'sa~w~ pa're.sa 'na~w~ fu~.si.o~'naX 'pa.ra vo'se, puX'ke vo'se 'na~w~ 'sa.bi 'mu~j~.tu 'be~j~ u ki es'ta pla~'ta~.du

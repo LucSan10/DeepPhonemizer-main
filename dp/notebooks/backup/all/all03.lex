@@ -1100,7 +1100,7 @@ ref:	Mack não ousou falar, com medo de que sua voz fosse engolida pela intensid
 inf:	'mE.ki 'na~w~ ow'zow fa'laX, ko~ 'me.du Di ki 'su.a 'vOjs 'fo.si e~.go'li.da 'pe.la i~.te~.si'da.Di du a~.bi'e~.Ti
 
 ref:	Pensou: Sou o camundongo Mickey em vias de falar com Pavarotti.
-inf:	pe~'sow, 'sow u ka~.mu~'do~.gu 'mik.kej e~j~ 'vi.as Di fa'laX ko~ pa.va.ro'TTi
+inf:	pe~'sow, 'sow u ka~.mu~'do~.gu 'mik.kej e~j~ 'vi.as Di fa'laX ko~ pa.va.rO'Ti
 
 ref:	O pensamento o fez sorrir.
 inf:	u pe~.sa~'me~.tu u 'fejs so'RiX
@@ -1145,7 +1145,7 @@ ref:	Ninguém me disse.
 inf:	ni~'ge~j~ mi 'Di.si
 
 ref:	Bem, Mackenzie Allen Phillips, ela riu, fazendo-o levantar os olhos rapidamente.
-inf:	'be~j~, ma'ke~.zi a'wle~ 'fi.wlip.s, 'E.la 'Riw, fa'ze~.du u le.va~'tar uz 'O.Lus Ra.pi.da~'me~.Ti
+inf:	'be~j~, ma'ke~.zi a'wle~ 'fi.lips, 'E.la 'Riw, fa'ze~.du u le.va~'tar uz 'O.Lus Ra.pi.da~'me~.Ti
 
 ref:	Estou aqui para ajudá-lo.
 inf:	es'tow a'ki 'pa.ra a.Zu'da lu

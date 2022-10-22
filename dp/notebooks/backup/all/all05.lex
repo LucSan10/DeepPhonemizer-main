@@ -1355,7 +1355,7 @@ ref:	Aquilo que viam parecia agradá-las tremendamente e elas foram espalhar a n
 inf:	a'ki.lu ki 'vi.a~w~ pa.re'si.a a.gra'da las tre~.me~.da~'me~.Ti i 'E.las 'fo.ra~w~ es.pa'Lar a no'Ti.sja
 
 ref:	Alguns rostos Mack reconhecia, e os que não reconhecia, ele logo ficou sabendo, eram os de seus médicos e das enfermeiras.
-inf:	aw'gu~s 'ROs.tus 'mE.ki Re.ko~.Je'si.a, i us ki 'na~w~ Re.ko~.Je'si.a, 'e.li 'lO.gu fi'kow sa'be~.du, 'E.ra~w~ us Di 'sews 'mE.Di.kuz i daz e~.feR'mej.ras
+inf:	aw'gu~s 'Ros.tus 'mE.ki Re.ko~.Je'si.a, i us ki 'na~w~ Re.ko~.Je'si.a, 'e.li 'lO.gu fi'kow sa'be~.du, 'E.ra~w~ us Di 'sews 'mE.Di.kuz i daz e~.feR'mej.ras
 
 ref:	Dormia com frequência, mas parecia que cada vez que abria os olhos isso causava uma grande empolgação.
 inf:	doR'mi.a ko~ fre'kwe~.sja, majs pa.re'si.a ki 'ka.da 'vejs ki a'bri.a uz 'O.Luz 'i.su kaw'za.va u~.ma 'gra~.Di e~.pow.ga'sa~w~
@@ -2006,13 +2006,13 @@ ref:	O domingo nasceu radioso e todo o grupo se empolgou com a idéia de pegar o
 corrigida:	u do~'mi~.gu na'sew Ra.Di'o.zu i 'to.du u 'gru.pu si e~.pow'gow ko~ a i'dEj.a Di pe'gar u te.le'fE.ri.ku du 'la.gu 'wa.lo.wa a'tE u 'to.pu du 'mo~.Ti 'Raw.aR.Di, 'dojz 'miw kwa.tro'se~.tuz i oj'te~.ta i 'kwa.tru 'mE.truz a'si~.ma du 'ni.vew du 'maX
 
 ref:	Jesse e Sarah convidaram todos para almoçar em um restaurante no topo da montanha.
-inf:	'ZE.si i sa.rako~.vi.da'ra~w~ 'to.dus 'pa.ra aw.mo'sar e~j~ u~ Res.taw'ra~.Ti nu 'to.pu da mo~'ta~.Ja
+inf:	'ZE.si i 'sa.ra ko~.vi'da.ra~w~ 'to.dus 'pa.ra aw.mo'sar e~j~ u~ Res.taw'ra~.Ti nu 'to.pu da mo~'ta~.Ja
 
 ref:	No fim da tarde estavam todos cansados e felizes.
 inf:	nu 'fi~ da 'taR.Di es'ta.va~w~ 'to.dus ka~'sa.duz i fe'li.zis
 
 ref:	Para alegria de Kate, ela e Emmy haviam surpreendido Josh e Amber de mãos dadas no escuro e queriam que todos soubessem.
-inf:	'pa.ra a.le'gri.a Di 'kej.Ti, 'E.la i e~mj a'vi.a~w~ suX.pre.e~'Di.du 'ZOS i a~'beR Di 'ma~w~s 'da.das nu es'ku.ru i ke'ri.a~w~ ki 'to.dus sow'bE.se~j~
+inf:	'pa.ra a.le'gri.a Di 'kej.Ti, 'E.la i 'e~.mi a'vi.a~w~ suX.pre.e~'Di.du 'ZOS i a~'beR Di 'ma~w~s 'da.das nu es'ku.ru i ke'ri.a~w~ ki 'to.dus sow'bE.se~j~
 
 ref:	Apesar de toda a agitação, a água continuava razoavelmente límpida.
 inf:	a.pe'zaR Di 'to.da a a.Zi.ta'sa~w~, a 'a.gwa ko~.Ti~.nu'a.va Ra.zo.a.vew'me~.Ti 'li~.pi.da
@@ -2030,7 +2030,7 @@ ref:	A notícia do resgate na água havia chegado à pequena sede e todos se mos
 inf:	a no'Ti.sja du Rez'ga.Ti na 'a.gwa a'vi.a Se'ga.du a pe'ke~.na 'se.Di i 'to.dus si mos'tra.va~w~ a~.ni~'ma.dus
 
 ref:	Isolaram o acampamento dos Phillips com fitas, caracterizando-o como uma cena de crime, e todos nas imediações foram interrogados.
-inf:	i.zo'la.ra~w~ u a.ka~.pa~'me~.tu dus 'fi.wlip.s ko~ 'fi.tas, ka.rak.te.ri'za~.du u 'ko~.mu u~.ma 'se~.na Di 'kri~.mi, i 'to.dus naz i~.me.Di.a'so~j~s 'fo.ra~w~ i~.te.Ro'ga.dus
+inf:	i.zo'la.ra~w~ u a.ka~.pa~'me~.tu dus 'fi.lips ko~ 'fi.tas, ka.rak.te.ri'za~.du u 'ko~.mu u~.ma 'se~.na Di 'kri~.mi, i 'to.dus naz i~.me.Di.a'so~j~s 'fo.ra~w~ i~.te.Ro'ga.dus
 
 ref:	Acreditamos que ele seja responsável pelo sequestro e morte de pelo menos quatro crianças até agora, todas meninas, todas com menos de 10 anos.
 corrigida:	a.kre.Di'ta~.mus ki 'e.li 'se.Za Res.po~'sa.vew 'pe.lu se'kwEs.tru i 'mOX.Ti Di 'pe.lu 'me~.nus 'kwa.tru kri'a~.saz a'tE a'gO.ra, 'to.das me~'ni~.nas, 'to.das ko~ 'me~.nus Di 'dEjz 'a~.nus
@@ -2135,7 +2135,7 @@ ref:	Ainda estava na cabana com aquelas três figuras interessantes e todas as t
 inf:	a'i~.da es'ta.va na ka'ba~.na ko~ a'kE.las 'trejs fi'gu.raz i~.te.re'sa~.Tiz i 'to.daz as 'trejz a'Sa.va~w~ ki 'E.ra~w~ 'dews
 
 ref:	Cockburn era o favorito de toda a família havia anos.
-inf:	kok.kbuR.n 'E.ra u fa.vo'ri.tu Di 'to.da a fa~'mi.lja a'vi.a 'a~.nus
+inf:	kO.ki'buR.ni 'E.ra u fa.vo'ri.tu Di 'to.da a fa~'mi.lja a'vi.a 'a~.nus
 
 ref:	Como você pode dizer isso diante de toda a dor deste mundo, de todas as guerras e desastres que destroem milhares?
 inf:	'ko~.mu vo'se 'pO.Di Di'zer 'i.su Di'a~.Ti Di 'to.da a 'doR 'des.Ti 'mu~.du, Di 'to.daz as 'gE.Raz i de'zas.tris ki des.trO.e~j~ mi'La.ris

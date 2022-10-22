@@ -557,7 +557,7 @@ ref:	Mack se encaminhou para outra cadeira do lado oposto e, enquanto ele se sen
 inf:	'mE.ki si e~.ka~.mi~'Jow 'pa.ra 'ow.tra ka'dej.ra du 'la.du o'pos.tu i, e~'kwa~.tu 'e.li si se~'ta.va, pa'paj a'briw 'u~ duz 'O.Lus
 
 ref:	Sobre uma mesinha entre os dois havia uma bandeja cheia de bolos de aparência maravilhosa, manteiga fresca e vários tipos de geléia.
-inf:	'so.bri u~.ma me'zi~.Ja 'e~.tri us 'dojz a'vi.a u~.ma ba~'de.Za 'Sej.a Di 'bO.lus Di a.pa're~.sja ma.ra.vi'LO.za, ma~'tej.ga 'fres.ka i 'va.rjus 'Ti.pus Di Ze'lEj.a
+inf:	'so.bri u~.ma me'zi~.Ja 'e~.tri us 'dojz a'vi.a u~.ma ba~'de.Za 'Sej.a Di 'bo.lus Di a.pa're~.sja ma.ra.vi'LO.za, ma~'tej.ga 'fres.ka i 'va.rjus 'Ti.pus Di Ze'lEj.a
 
 ref:	Uau, o cheiro é fantástico! exclamou ele.
 corrigida:	u'aw, u 'Sej.ru E fa~'tas.Ti.ku, es.kla~'mow 'e.li
@@ -821,7 +821,7 @@ ref:	Mas por que eu?
 inf:	majs puX 'ke ew
 
 ref:	Quer dizer, por que Mackenzie Allen Phillips?
-inf:	'kER Di'zeX, puX 'ke ma'ke~.zi a'wle~ 'fi.wlip.s
+inf:	'kER Di'zeX, puX 'ke ma'ke~.zi a'wle~ 'fi.lips
 
 ref:	Por que você ama alguém tão ferrado?
 inf:	puX 'ke vo'se 'a~.ma aw'ge~j~ 'ta~w~ fe'Ra.du
@@ -1202,7 +1202,7 @@ ref:	Já ouvi isso antes.
 inf:	'Za ow'vi 'i.su 'a~.Tis
 
 ref:	Papai sorriu de volta e pegou um pedaço de bolo.
-inf:	pa'paj so'Riw Di 'vOw.ta i pe'gow u~ pe'da.su Di 'bO.lu
+inf:	pa'paj so'Riw Di 'vOw.ta i pe'gow u~ pe'da.su Di 'bo.lu
 
 ref:	Eu disse que Sophia mexeu com você.
 corrigida:	ew 'Di.si ki so'fi.a me'Sew ko~ vo'se
@@ -2567,7 +2567,7 @@ ref:	Eram as crianças da Terra, os filhos de Papai.
 inf:	'E.ra~w~ as kri'a~.sas da 'tE.Ra, us 'fi.Lus Di pa'paj
 
 ref:	Acercaram-se com dignidade e graça silenciosa, rostos cheios de contentamento e paz, as maiores segurando as mãos das menores.
-inf:	a.seX'ka.ra~w~ si ko~ Dig.ni'da.Di i 'gra.sa si.le~.si'O.za, 'ROs.tu'Sej.us Di ko~.te~.ta~'me~.tu i 'pajs, as maj'O.ris se.gu'ra~.du as 'ma~w~s das me~'nO.ris
+inf:	a.seX'ka.ra~w~ si ko~ Dig.ni'da.Di i 'gra.sa si.le~.si'O.za, 'Ros.tu'Sej.us Di ko~.te~.ta~'me~.tu i 'pajs, as maj'O.ris se.gu'ra~.du as 'ma~w~s das me~'nO.ris
 
 ref:	Por um momento Mack se perguntou se Missy estaria ali, mas logo desistiu.
 inf:	pur u~ mo~'me~.tu 'mE.ki si peR.gu~'tow si 'mi.si es.ta'ri.a a'li, majs 'lO.gu de.zis'Tiw

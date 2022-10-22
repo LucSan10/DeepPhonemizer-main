@@ -101,7 +101,7 @@ ref:	Debra Jeppesen
 corrigida:	'dE.bra 'ZE.pe.se~
 
 ref:	Mary Alette Ayer
-corrigida:	'ma.ri a'lE.TTi a'jeX
+corrigida:	'ma.ri a'lE.Ti a'jeX
 
 ref:	Autor Liz, em The friendship book de Francis Gay 202
 corrigida:	aw'toR 'lis, e~j~ de 'fre~.Di.Si.pi 'bu.ki Di fra~'sis 'gej du'ze~.tuz i 'dojs

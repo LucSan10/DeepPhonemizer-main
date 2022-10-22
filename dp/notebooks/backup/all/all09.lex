@@ -1460,7 +1460,7 @@ ref:	Palavras? Quem se importa com palavras se elas são vazias e frias? Eu gost
 corrigida:	pa'la.vras, 'ke~j~ si i~'pOX.ta ko~ pa'la.vras si 'E.las 'sa~w~ va'zi.az i 'fri.as, ew 'gOs.tu 'mez.mu E du i~'te~.su ka'loR da de~.mo~s.tra'sa~w~
 
 ref:	Eu gosto de textos que começam com a palavra eu. Tenho que tomar cuidado com a minha tendência a me incluir em todos os assuntos, minha mania de querer saber de tudo, estar em todos os lugares.
-inf:	ew 'gOs.tu Di 'tEs.tus ki ko~'mE.sa~w~ ko~ a pa'la.vra ew, 'te~.Ju ki to~'maX kuj'da.du ko~ a 'mi~.Ja te~'de~.sja a mi i~.klu'ir e~j~ 'to.duz uz a'su~.tus, 'mi~.Ja ma~'ni.a Di ke'reX sa'beR Di 'tu.du, es'tar e~j~ 'to.duz us lu'ga.ris
+inf:	ew 'gOs.tu Di 'tes.tus ki ko~'mE.sa~w~ ko~ a pa'la.vra ew, 'te~.Ju ki to~'maX kuj'da.du ko~ a 'mi~.Ja te~'de~.sja a mi i~.klu'ir e~j~ 'to.duz uz a'su~.tus, 'mi~.Ja ma~'ni.a Di ke'reX sa'beR Di 'tu.du, es'tar e~j~ 'to.duz us lu'ga.ris
 
 ref:	Vou fazer com que meu sentimento por você seja recíproco: Você ama, eu amo; Você gosta, eu gosto; Você quer, eu quero; Então, por favor! Não me despreze...
 inf:	'vow fa'zeX ko~ ki 'mew se~.Ti~'me~.tu puR vo'se 'se.Za Re'si.pro.ku, vo'se 'a~.ma, ew 'a~.mu, vo'se 'gOs.ta, ew 'gOs.tu, vo'se 'kEX, ew 'kE.ru, e~'ta~w~, puX fa'voX, 'na~w~ mi des'prE.zi
@@ -2609,7 +2609,7 @@ ref:	Marquês de Maricá
 inf:	maX'kejs Di ma.ri'ka
 
 ref:	Charlotte Whitton
-inf:	SaR'lO.TTi wi'Tto~
+inf:	SaR'lO.Ti wi'Tto~
 
 ref:	Provérbio curdo
 inf:	pro'vER.bju 'kuR.du

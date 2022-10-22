@@ -371,7 +371,7 @@ ref:	Num deles, passou 72 horas acordado, sessenta das quais falou sem parar.
 corrigida:	nu~ 'de.lis, pa'sow se'te~.ta i 'du.az 'O.raz a.koR'da.du, se'se~.ta das 'kwajs fa'low se~j~ pa'raX
 
 ref:	Em outra ocasião, reuniu a corte para anunciar ter consebido uma nova doutrina da trindade divina, composta segundo ele por Deus, seu médico particular e a condessa de Penbroke, dama de honra de sua mulher, a rainha Charlotte.
-corrigida:	e~j~ 'ow.tra o.ka.zi'a~w~, Re.u~'niw a 'koX.Ti 'pa.ra a~.nu~.si'aX 'teX ko~.se'bi.du u~.ma 'nO.va dow'tri~.na da tri~'da.Di Di'vi~.na, ko~'pOs.ta se'gu~.du 'e.li puR 'dews, 'sew 'mE.Di.ku paX.Ti.ku'lar i a ko~'de.sa Di pe~'brO.ki, 'da~.ma Di 'o~.Ra Di 'su.a mu'LEX, a Ra'i~.Ja SaR'lO.TTi
+corrigida:	e~j~ 'ow.tra o.ka.zi'a~w~, Re.u~'niw a 'koX.Ti 'pa.ra a~.nu~.si'aX 'teX ko~.se'bi.du u~.ma 'nO.va dow'tri~.na da tri~'da.Di Di'vi~.na, ko~'pOs.ta se'gu~.du 'e.li puR 'dews, 'sew 'mE.Di.ku paX.Ti.ku'lar i a ko~'de.sa Di pe~'brO.ki, 'da~.ma Di 'o~.Ra Di 'su.a mu'LEX, a Ra'i~.Ja SaR'lO.Ti
 
 ref:	Nosso rei está louco, declarou o médico Richard Warren, em 1788.
 corrigida:	'nO.su 'Rej es'ta 'low.ku, de.kla'row u 'mE.Di.ku 'Ri.SaR.D 'wa.Re~, e~j~ 'miw sE.Ti'se~.tuz i oj'te~.ta i 'oj.tu
