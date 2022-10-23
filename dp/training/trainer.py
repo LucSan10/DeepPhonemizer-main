@@ -2,6 +2,10 @@ import math
 from collections import Counter
 from pathlib import Path
 from typing import List, Dict, Any, Tuple
+import csv
+import os
+
+from torchsummary import summary
 
 import torch
 import tqdm
@@ -12,7 +16,7 @@ from torch.utils.tensorboard import SummaryWriter
 from dp.model.model import Model
 from dp.model.utils import _trim_util_stop
 from dp.preprocessing.text import Preprocessor
-from dp.training.dataset import new_dataloader
+from dp.training.dataset import new_dataloader, cv_dataloader
 from dp.training.decorators import ignore_exception
 from dp.training.losses import CrossEntropyLoss, CTCLoss
 from dp.training.evaluation import evaluate_samples
@@ -35,7 +39,8 @@ class Trainer:
 
         self.checkpoint_dir = checkpoint_dir
         self.checkpoint_dir.mkdir(parents=True, exist_ok=True)
-        self.writer = SummaryWriter(log_dir=str(self.checkpoint_dir / 'logs'))
+        self.checkpoint_dir_cv = ''
+        self.writer = None
         self.loss_type = loss_type
         if loss_type == 'ctc':
             self.criterion = CTCLoss()
@@ -45,6 +50,7 @@ class Trainer:
             raise ValueError(f'Loss not supported: {loss_type}')
 
     def train(self,
+              fold: int,
               model: Model,
               checkpoint: Dict[str, Any],
               store_phoneme_dict_in_model: bool = True) -> None:
@@ -78,9 +84,12 @@ class Trainer:
         for g in optimizer.param_groups:
             g['lr'] = config['training']['learning_rate']
 
-        train_loader = new_dataloader(dataset_file=data_dir / 'train_dataset.pkl',
-                                      drop_last=True, batch_size=config['training']['batch_size'])
-        val_loader = new_dataloader(dataset_file=data_dir / 'val_dataset.pkl',
+
+        self.checkpoint_dir_cv = self.checkpoint_dir / f'cv_{fold}'
+        self.writer = SummaryWriter(log_dir=str(self.checkpoint_dir_cv / 'logs'))
+        train_loader = cv_dataloader(dataset_file=data_dir / 'datasetCV', val_fold=fold,
+                                    drop_last=True, batch_size=config['training']['batch_size'])
+        val_loader = cv_dataloader(dataset_file=data_dir / f'datasetCV_{fold }.pkl',
                                     drop_last=False, batch_size=config['training']['batch_size_val'])
         if store_phoneme_dict_in_model:
             phoneme_dict = unpickle_binary(data_dir / 'phoneme_dict.pkl')
@@ -89,14 +98,18 @@ class Trainer:
         val_batches = sorted([b for b in val_loader], key=lambda x: -x['text_len'][0])
 
         scheduler = ReduceLROnPlateau(optimizer,
-                                      factor=config['training']['scheduler_plateau_factor'],
-                                      patience=config['training']['scheduler_plateau_patience'],
-                                      mode='min')
+                                    factor=config['training']['scheduler_plateau_factor'],
+                                    patience=config['training']['scheduler_plateau_patience'],
+                                    mode='min')
         losses = []
         best_per = math.inf
         if 'step' not in checkpoint:
             checkpoint['step'] = 0
         start_epoch = checkpoint['step'] // len(train_loader)
+
+        with open(self.checkpoint_dir_cv / 'logs' / 'time.csv', 'w') as f:
+            w = csv.writer(f)
+            w.writerow(['time_elapsed', 'rate'])
 
         for epoch in range(start_epoch + 1, config['training']['epochs'] + 1):
             pbar = tqdm.tqdm(enumerate(train_loader, 1), total=len(train_loader))
@@ -108,7 +121,8 @@ class Trainer:
                 batch = to_device(batch, device)
                 avg_loss = sum(losses) / len(losses) if len(losses) > 0 else math.inf
                 pbar.set_description(desc=f'Epoch: {epoch} | Step {step} '
-                                          f'| Loss: {avg_loss:#.4}', refresh=True)
+                                        f'| Loss: {avg_loss:#.4}', refresh=True)
+                
                 pred = model(batch)
                 loss = criterion(pred, batch)
 
@@ -121,48 +135,54 @@ class Trainer:
 
                 self.writer.add_scalar('Loss/train', loss.item(), global_step=step)
                 self.writer.add_scalar('Params/batch_size', config['training']['batch_size'],
-                                       global_step=step)
+                                    global_step=step)
                 self.writer.add_scalar('Params/learning_rate', [g['lr'] for g in optimizer.param_groups][0],
-                                       global_step=step)
+                                    global_step=step)
 
                 if step % config['training']['validate_steps'] == 0:
                     val_loss = self._validate(model, val_batches)
                     self.writer.add_scalar('Loss/val', val_loss, global_step=step)
 
-                if step % config['training']['generate_steps'] == 0:
-                    lang_samples = self._generate_samples(model=model,
-                                                          preprocessor=checkpoint['preprocessor'],
-                                                          val_batches=val_batches)
-                    with open(f"{self.checkpoint_dir}/output.txt", "w") as file:
-                        languages = lang_samples.keys()
-                        for lang in languages:
-                            for word, generated, target in lang_samples[lang]:
-                                w = "".join(word)
-                                g = "".join(generated)
-                                t = "".join(target)
-                                file.write(f"w: {w}\n")
-                                file.write(f"g: {g}\n")
-                                file.write(f"t: {t}\n\n")
-                    eval_result = evaluate_samples(lang_samples=lang_samples)
-                    self._write_summaries(lang_samples=lang_samples,
-                                          eval_result=eval_result,
-                                          n_generate_samples=config['training']['n_generate_samples'],
-                                          step=step)
-                    if eval_result['mean_per'] is not None and eval_result['mean_per'] < best_per:
-                        self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
-                                         path=self.checkpoint_dir / f'best_model.pt')
-                        self._save_model(model=model, optimizer=None, checkpoint=checkpoint,
-                                         path=self.checkpoint_dir / f'best_model_no_optim.pt')
-                        scheduler.step(eval_result['mean_per'])
+                if step > config['training']['min_val-gen_steps']:
+                    if step % config['training']['generate_steps'] == 0:
+                        lang_samples = self._generate_samples(model=model,
+                                                            preprocessor=checkpoint['preprocessor'],
+                                                            val_batches=val_batches)
+                        with open(f"{self.checkpoint_dir_cv}/output.txt", "w") as file:
+                            languages = lang_samples.keys()
+                            for lang in languages:
+                                for word, generated, target in lang_samples[lang]:
+                                    w = "".join(word)
+                                    g = "".join(generated)
+                                    t = "".join(target)
+                                    file.write(f"w: {w}\n")
+                                    file.write(f"g: {g}\n")
+                                    file.write(f"t: {t}\n\n")
+                        eval_result = evaluate_samples(lang_samples=lang_samples)
+                        self._write_summaries(lang_samples=lang_samples,
+                                            eval_result=eval_result,
+                                            n_generate_samples=config['training']['n_generate_samples'],
+                                            step=step)
+
+                        if eval_result['mean_per'] is not None and eval_result['mean_per'] < best_per:
+                            self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
+                                            path=self.checkpoint_dir_cv / f'best_model.pt')
+                            self._save_model(model=model, optimizer=None, checkpoint=checkpoint,
+                                            path=self.checkpoint_dir_cv / f'best_model_no_optim.pt')
+                            scheduler.step(eval_result['mean_per'])
 
                 if step % config['training']['checkpoint_steps'] == 0:
-                    step = step // 1000
-                    self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
-                                     path=self.checkpoint_dir / f'model_step_{step}k.pt')
+                        step = step // 1000
+                        self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
+                                        path=self.checkpoint_dir_cv / f'model_step_{step}k.pt')
 
             losses = []
             self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
-                             path=self.checkpoint_dir / 'latest_model.pt')
+                            path=self.checkpoint_dir_cv / 'latest_model.pt')
+            
+            with open(self.checkpoint_dir_cv / 'logs' / 'time.csv', 'a') as f:
+                w = csv.writer(f)
+                w.writerow([pbar.format_dict['elapsed'], pbar.format_dict['rate']])
 
     def _validate(self, model: Model, val_batches: List[dict]) -> float:
         device = next(model.parameters()).device
@@ -226,6 +246,15 @@ class Trainer:
                                eval_result['mean_per'], global_step=step)
         self.writer.add_scalar(f'Word_Error_Rate/mean',
                                eval_result['mean_wer'], global_step=step)
+
+        if not os.path.isfile(self.checkpoint_dir_cv / 'logs' / 'result.csv'):
+            with open(self.checkpoint_dir_cv / 'logs' / 'result.csv', 'w') as f:
+                w = csv.writer(f)
+                w.writerow(['mean_per', 'mean_wer'])
+        
+        with open(self.checkpoint_dir_cv / 'logs' / 'result.csv', 'a') as f:
+            w = csv.writer(f)
+            w.writerow([eval_result['mean_per'], eval_result['mean_wer']])
 
         for lang in lang_samples.keys():
             result = eval_result[lang]

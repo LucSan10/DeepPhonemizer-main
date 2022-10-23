@@ -1,83 +1,84 @@
 model:
-  d_fft: 256
+  d_fft: 1024
   d_model: 512
   dropout: 0.1
   heads: 4
   layers: 4
   type: autoreg_transformer
 paths:
-  checkpoint_dir: checkpoints/autoreg/batch-32/model-512/fft-256
-  data_dir: datasets
+  checkpoint_dir: checkpoints/autoreg/batch-8/model-512/fft-1024/layers-4/lr-5e-05/test-15
+  data_dir: datasetsCV
 preprocessing:
   char_repeats: 1
+  folds: 5
   languages:
   - pt_br
   lowercase: false
-  n_val: 2148
+  n_val: 2915
   phoneme_symbols:
-  - ''
-  - ' '
-  - ' '''
-  - ''''
-  - .
-  - E
-  - J
-  - L
-  - O
-  - R
-  - S
-  - X
-  - Z
-  - a
-  - a~
-  - b
-  - d
-  - dZ
-  - e
-  - ej
-  - e~
-  - e~j~
-  - f
-  - g
-  - i
-  - i~
-  - j
-  - js
-  - j~
+  - "\u1EBDj~"
+  - nan
   - j~s
-  - k
-  - l
-  - m
-  - n
-  - o
-  - ow
-  - o~
-  - p
-  - pau
-  - r
-  - s
-  - t
-  - tS
-  - u
-  - u~
-  - v
-  - w
   - w~
+  - tS
+  - ow
+  - j~
+  - js
+  - ej
+  - dZ
+  - Z
+  - X
+  - S
+  - R
+  - O
+  - L
+  - J
+  - E
+  - "\u1EBD"
+  - "\u0169"
+  - "\u0129"
+  - "\xF5"
+  - "\xE3"
   - z
+  - w
+  - v
+  - u
+  - t
+  - s
+  - r
+  - p
+  - o
+  - n
+  - m
+  - l
+  - k
+  - j
+  - i
+  - g
+  - f
+  - e
+  - d
+  - b
+  - a
+  - .
+  - ','
+  - ''''
+  - ' '
   - '~'
-  text_symbols: " !()+,-.0123456789:;=?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\xAA\
-    \xC0\xC1\xC2\xC9\xCA\xCD\xD3\xDA\xE0\xE1\xE2\xE3\xE7\xE9\xEA\xED\xF3\xF4\xF5\xF6\
-    \xFA\xFB\xFC\xFD"
+  text_symbols: " !()+,-.0123456789:;<=>?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\xAA\
+    \xAB\xAC\xB0\xBA\xBB\xC0\xC1\xC2\xC3\xC7\xC9\xCA\xCD\xD3\xD5\xDA\xE0\xE1\xE2\xE3\
+    \xE7\xE9\xEA\xED\xF1\xF3\xF4\xF5\xF6\xFA\xFB\xFC\xFD"
 training:
-  batch_size: 32
-  batch_size_val: 32
-  checkpoint_steps: 6700
+  batch_size: 8
+  batch_size_val: 8
+  checkpoint_steps: 36424
   epochs: 50
-  generate_steps: 670
-  learning_rate: 0.0001
+  generate_steps: 7284
+  learning_rate: 5.0e-05
+  min_val-gen_steps: 36424
   n_generate_samples: 10
   scheduler_plateau_factor: 0.5
   scheduler_plateau_patience: 10
   store_phoneme_dict_in_model: true
-  validate_steps: 670
-  warmup_steps: 1340
+  validate_steps: 7284
+  warmup_steps: 14569

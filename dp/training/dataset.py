@@ -1,6 +1,7 @@
 from pathlib import Path
 from random import Random
 from typing import List, Dict, Tuple
+import glob
 
 import numpy as np
 import torch
@@ -85,6 +86,36 @@ def new_dataloader(dataset_file: Path,
                    drop_last=False,
                    use_binning=True) -> DataLoader:
     dataset = unpickle_binary(dataset_file)
+    phonemizer_dataset = PhonemizerDataset(dataset)
+    phoneme_lens = [len(p) for _, _, p in dataset]
+    if use_binning:
+        sampler = BinnedLengthSampler(phoneme_lens=phoneme_lens,
+                                      batch_size=batch_size,
+                                      bin_size=batch_size*3)
+    else:
+        sampler = None
+
+    return DataLoader(phonemizer_dataset,
+                      collate_fn=collate_dataset,
+                      batch_size=batch_size,
+                      sampler=sampler,
+                      num_workers=0,
+                      shuffle=False,
+                      drop_last=drop_last,
+                      pin_memory=True)
+
+def cv_dataloader(dataset_file: Path,
+                  val_fold=None, 
+                  batch_size=32,
+                  drop_last=False,
+                  use_binning=True) -> DataLoader:
+
+    dataset = []
+    if (val_fold == None): dataset = unpickle_binary(dataset_file)
+    else:
+        for i, file in enumerate(glob.glob(f'{dataset_file}*.pkl')):
+            if (i != val_fold): dataset.extend(unpickle_binary(file))
+    
     phonemizer_dataset = PhonemizerDataset(dataset)
     phoneme_lens = [len(p) for _, _, p in dataset]
     if use_binning:
