@@ -2963,7 +2963,7 @@ ref:	Claro, disse Jesus, abaixando-se e passando a mão sobre a água.
 inf:	'kla.ru, 'Di.si Ze'zujs, a.baj'Sa~.du si i pa'sa~.du a 'ma~w~ 'so.bri a 'a.gwa
 
 ref:	Mas qual seria a diversão, hein?
-inf:	majs 'kwaw se'ri.a a Di.veX'sa~w~, e'i~
+inf:	majs 'kwaw se'ri.a a Di.veX'sa~w~, 'e~j~
 
 ref:	Ele ergueu os olhos e riu.
 inf:	'e.li eR'gew uz 'O.Luz i 'Riw

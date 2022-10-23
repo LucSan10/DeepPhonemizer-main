@@ -2591,7 +2591,7 @@ ref:	Acho que eu nunca vou conseguir te desculpar. Mas tô, tô disposta a tenta
 corrigida:	'a.Su ki ew 'nu~.ka 'vow ko~.se'giX Ti des.kuw'paX, majs 'to, 'to Dis'pOs.ta a te~'taX
 
 ref:	Melhor botar sua barba de molho hein! Essa frase fica mais cabível, quando dita a um Judeu, concorda?
-corrigida:	me'LOR bo'taX 'su.a 'baR.ba Di 'mo.Lu e~j~, 'E.sa 'fra.zi 'fi.ka 'majs ka'bi.vew, 'kwa~.du 'Di.ta a u~ Zu'dew, ko~'kOR.da
+corrigida:	me'LOR bo'taX 'su.a 'baR.ba Di 'mo.Lu 'e~j~, 'E.sa 'fra.zi 'fi.ka 'majs ka'bi.vew, 'kwa~.du 'Di.ta a u~ Zu'dew, ko~'kOR.da
 
 ref:	Sou como vinho. Posso ser seca, ácida, doce. depende do dia, da estação, de como você deseja fazer a degustação.
 corrigida:	'sow 'ko~.mu 'vi~.Ju, 'pO.su 'seX 'se.ka, 'a.si.da, 'do.si, de'pe~.Di du 'Di.a, da es.ta'sa~w~, Di 'ko~.mu vo'se de'ze.Za fa'zer a de.gus.ta'sa~w~
