@@ -23,7 +23,7 @@ ref:	Capítulo 3: O mergulho
 corrigida:	ka'pi.tu.lu 'trejz u meR'gu.Lu
 
 ref:	Fyodor Dostoiévski
-corrigida:	'fjO.doR dos.toj'Evs.ki
+corrigida:	'fjO.doR dos.toj'E.vis.ki
 
 ref:	Capítulo 4: A grande tristeza
 corrigida:	ka'pi.tu.lu 'kwa.tru a 'gra~.Di tris'te.za

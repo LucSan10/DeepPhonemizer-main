@@ -20,7 +20,7 @@ ref:	Cada escolha cria ondulações ao longo do tempo e dos relacionamentos, ric
 inf:	'ka.da es'ko.La 'kri.a o~.du.la'so~j~z aw 'lo~.gu du 'te~.pu i dus Re.la.si.o~.na~'me~.tus, Ri.ko.Se.te'a~.du e~j~ 'ow.traz es'ko.Las
 
 ref:	E, a partir do que parece uma confusao enorme, Papai tece uma tapeçaria magnífica.
-inf:	i, a paX'TiR du ki pa'rE.si u~.ma ko~.fu'zaw e~'nOR.mi, pa'paj 'tE.si u~.ma ta.pe.sa'ri.a mag'ni.fi.ka
+inf:	i, a paX'TiR du ki pa'rE.si u~.ma ko~.fu'zaw e~'nOR.mi, pa'paj 'tE.si u~.ma ta.pe.sa'ri.a ma.gi'ni.fi.ka
 
 ref:	Só papai pode resolver tudo isso e ela o faz com graça.
 corrigida:	'sO pa'paj 'pO.Di Re.zow'veX 'tu.du 'i.su i 'E.la u 'fajs ko~ 'gra.sa
@@ -32,7 +32,7 @@ ref:	É, esse é o ponto.
 corrigida:	E, 'e.si E u 'po~.tu
 
 ref:	Agora você está começando a entender o que significa ser realmente humano.
-inf:	a'gO.ra vo'se es'ta ko~.me'sa~.du a e~.te~'der u ki sig.ni'fi.ka 'se.Re.aw'me~.Ti u~'ma~.nu
+inf:	a'gO.ra vo'se es'ta ko~.me'sa~.du a e~.te~'der u ki si.gi.ni'fi.ka 'se.Re.aw'me~.Ti u~'ma~.nu
 
 ref:	Chegaram à extremidade do cais e Jesus saltou nele.
 inf:	Se'ga.ra~w~ a es.tre~.mi'da.Di du 'kajz i Ze'zujs saw'tow 'ne.li
@@ -443,7 +443,7 @@ ref:	Lembre-se, as pessoas que me conhecem são aquelas que estão livres para v
 inf:	'le~.bri si, as pe'so.as ki mi ko~'JE.se~j~ 'sa~w~ a'kE.las ki es'ta~w~ 'li.vris 'pa.ra vi'ver i a~'maX se~j~ kwaw'kEX ko~.pro~'mi.su
 
 ref:	É isso que significa ser cristão?
-corrigida:	E 'i.su ki sig.ni'fi.ka 'seX kris'ta~w~
+corrigida:	E 'i.su ki si.gi.ni'fi.ka 'seX kris'ta~w~
 
 ref:	Achou-se meio idiota ao dizer isso, mas era como se estivesse tentando resumir tudo na cabeça.
 inf:	a'Sow si 'mej.u i.Di'O.ta aw Di'zer 'i.su, majz 'E.ra 'ko~.mu si es.Ti'vE.si te~'ta~.du Re.zu~'miX 'tu.du na ka'be.sa
@@ -488,7 +488,7 @@ ref:	A maioria das estradas não leva a lugar nenhum.
 inf:	a maj.o'ri.a daz es'tra.das 'na~w~ 'lE.va a lu'gaR ne~'Ju~
 
 ref:	O que isso significa é que eu viajarei por qualquer estrada para encontrar vocês.
-corrigida:	u ki 'i.su sig.ni'fi.ka E ki ew vi.a.Za'rej puX kwaw'kEr es'tra.da 'pa.ra e~.ko~'traR vo'sejs
+corrigida:	u ki 'i.su si.gi.ni'fi.ka E ki ew vi.a.Za'rej puX kwaw'kEr es'tra.da 'pa.ra e~.ko~'traR vo'sejs
 
 ref:	Fez uma pausa.
 inf:	'fejz u~.ma 'paw.za
@@ -725,10 +725,10 @@ ref:	Mack, eu crio um bem incrível a partir de tragédias indescritíveis.
 inf:	'mE.ki, ew 'kri.u u~ 'be~j~ i~'kri.vew a paX'TiR Di tra'ZE.Djaz i~.des.kri'Ti.vejs
 
 ref:	Mas isso não significa que as orquestre.
-inf:	majz 'i.su 'na~w~ sig.ni'fi.ka ki az oX'kEs.tri
+inf:	majz 'i.su 'na~w~ si.gi.ni'fi.ka ki az oX'kEs.tri
 
 ref:	Nunca pense que o fato de eu usar algo para um bem maior significa que eu o provoquei ou que preciso dele para realizar meus propósitos.
-inf:	'nu~.ka 'pe~.si ki u 'fa.tu Di ew u'zar 'aw.gu 'pa.ra u~ 'be~j~ maj'OX sig.ni'fi.ka ki ew u pro.vo'kej ow ki pre'si.zu 'de.li 'pa.ra Re.a.li'zaR 'mews pro'pO.zi.tus
+inf:	'nu~.ka 'pe~.si ki u 'fa.tu Di ew u'zar 'aw.gu 'pa.ra u~ 'be~j~ maj'OX si.gi.ni'fi.ka ki ew u pro.vo'kej ow ki pre'si.zu 'de.li 'pa.ra Re.a.li'zaR 'mews pro'pO.zi.tus
 
 ref:	A graça não depende da existência do sofrimento, mas onde há sofrimento você encontrará a graça de inúmeras maneiras.
 inf:	a 'gra.sa 'na~w~ de'pe~.Di da e.zis'te~.sja du so.fri~'me~.tu, majz 'o~.Di 'a so.fri~'me~.tu vo'se e~.ko~.tra'ra a 'gra.sa Di i~'nu~.me.ras ma~'nej.ras
@@ -1169,7 +1169,7 @@ ref:	Querido, deixe-me dizer um dos motivos pelos quais isso é tão difícil de
 corrigida:	ke'ri.du, 'dej.Si mi Di'zer u~ dus mo'Ti.vus 'pe.lus 'kwajz 'i.su E 'ta~w~ Di'fi.siw Di e~.te~'deX
 
 ref:	É porque você tem uma visão muito pequena do que significa ser humano.
-corrigida:	E puX'ke vo'se te~j~ u~.ma vi'za~w~ 'mu~j~.tu pe'ke~.na du ki sig.ni'fi.ka 'ser u~'ma~.nu
+corrigida:	E puX'ke vo'se te~j~ u~.ma vi'za~w~ 'mu~j~.tu pe'ke~.na du ki si.gi.ni'fi.ka 'ser u~'ma~.nu
 
 ref:	Você e a Criação são incríveis, quer você entenda ou não.
 inf:	vo'se i a kri.a'sa~w~ 'sa~w~ i~'kri.vejs, 'kER vo'se e~'te~.da ow 'na~w~
@@ -1178,7 +1178,7 @@ ref:	Vocês são absolutamente maravilhosos.
 inf:	vo'sejs 'sa~w~ ab.so.lu.ta~'me~.Ti ma.ra.vi'LO.zus
 
 ref:	Só porque fazem escolhas horrendas e destrutivas, isso não significa que mereçam menos respeito pelo que são por essência:
-corrigida:	'sO puX'ke 'fa.ze~j~ es'ko.Laz o'Re~.daz i des.tru'Ti.vas, 'i.su 'na~w~ sig.ni'fi.ka ki me're.sa~w~ 'me~.nus Res'pej.tu 'pe.lu ki 'sa~w~ pur e'se~.sja
+corrigida:	'sO puX'ke 'fa.ze~j~ es'ko.Laz o'Re~.daz i des.tru'Ti.vas, 'i.su 'na~w~ si.gi.ni'fi.ka ki me're.sa~w~ 'me~.nus Res'pej.tu 'pe.lu ki 'sa~w~ pur e'se~.sja
 
 ref:	o auge da minha Criação e o centro do meu afeto.
 inf:	u 'aw.Zi da 'mi~.Ja kri.a'sa~w~ i u 'se~.tru du 'mew a'fE.tu
@@ -1607,7 +1607,7 @@ ref:	Eis algo que vai ajudá-lo a entender melhor, Mackenzie.
 inf:	'ejz 'aw.gu ki 'vaj a.Zu'da lu a e~.te~'deR me'LOX, ma'ke~.zi
 
 ref:	Os paradigmas dão força às percepções e as percepções dão força às emoções.
-inf:	us pa.ra'Dig.mas 'da~w~ 'foX.sa as peX.sep'so~j~z i as peX.sep'so~j~s 'da~w~ 'foX.sa az e~.mo'so~j~s
+inf:	us pa.ra'Di.gi.mas 'da~w~ 'foX.sa as peX.sep'so~j~z i as peX.sep'so~j~s 'da~w~ 'foX.sa az e~.mo'so~j~s
 
 ref:	Não se assuste, vou explicar.
 inf:	'na~w~ si a'sus.Ti, 'vow es.pli'kaX
@@ -1622,10 +1622,10 @@ ref:	Se sua percepção for falsa, sua reação emocional a ela também será fa
 inf:	si 'su.a peX.sep'sa~w~ 'foX 'faw.sa, 'su.a Re.a'sa~w~ e~.mo.si.o~'naw a 'E.la ta~'be~j~ se'ra 'faw.sa
 
 ref:	Então verifique suas percepções e, além disso, verifique a verdade de seus paradigmas, dos seus padrões, daquilo em que você acredita.
-inf:	e~'ta~w~ ve.ri'fi.ki 'su.as peX.sep'so~j~z i, a'le~j~ 'Di.su, ve.ri'fi.ki a veR'da.Di Di 'sews pa.ra'Dig.mas, dus 'sews pa'dro~j~s, da'ki.lu e~j~ ki vo'se a.kre'Di.ta
+inf:	e~'ta~w~ ve.ri'fi.ki 'su.as peX.sep'so~j~z i, a'le~j~ 'Di.su, ve.ri'fi.ki a veR'da.Di Di 'sews pa.ra'Di.gi.mas, dus 'sews pa'dro~j~s, da'ki.lu e~j~ ki vo'se a.kre'Di.ta
 
 ref:	Só porque você acredita firmemente numa coisa não significa que ela seja verdadeira.
-inf:	'sO puX'ke vo'se a.kre'Di.ta fiR.me~'me~.Ti 'nu~.ma 'koj.za 'na~w~ sig.ni'fi.ka ki 'E.la 'se.Za veR.da'dej.ra
+inf:	'sO puX'ke vo'se a.kre'Di.ta fiR.me~'me~.Ti 'nu~.ma 'koj.za 'na~w~ si.gi.ni'fi.ka ki 'E.la 'se.Za veR.da'dej.ra
 
 ref:	Disponha-se a reexaminar aquilo em que acredita.
 inf:	Dis'po~.Ja si a Re.e.Sa~.mi~'nar a'ki.lu e~j~ ki a.kre'Di.ta
@@ -1952,7 +1952,7 @@ ref:	Quando os outros pararam de rir, Mack prosseguiu:
 inf:	'kwa~.du uz 'ow.trus pa'ra.ra~w~ Di 'RiX, 'mE.ki pro.se'giw
 
 ref:	Vocês sabem como me sinto grato por tudo, mas jogaram coisas demais no meu colo neste fim de semana.
-inf:	vo'sejs sa.be~j~ 'ko~.mu mi 'si~.tu 'gra.tu puX 'tu.du, ma.Zo'ga.ra~w~ 'koj.zas de~'majs nu 'mew 'kO.lu 'nes.Ti 'fi~ Di se~'ma~.na
+inf:	vo'sejs 'sa.be~j~ 'ko~.mu mi 'si~.tu 'gra.tu puX 'tu.du, ma.Zo'ga.ra~w~ 'koj.zas de~'majs nu 'mew 'kO.lu 'nes.Ti 'fi~ Di se~'ma~.na
 
 ref:	O que faço quando voltar?
 inf:	u ki 'fa.su 'kwa~.du vow'taX
@@ -2168,7 +2168,7 @@ ref:	A não ser eu sou, não existem verbos, e os verbos são o que torna o Univ
 inf:	a 'na~w~ 'ser ew 'sow, 'na~w~ e'zis.te~j~ 'vER.bus, i us 'vER.bus 'sa~w~ u ki 'tOR.na u u~.ni'vEX.su 'vi.vu
 
 ref:	E isso significa exatamente o quê?
-inf:	i 'i.su sig.ni'fi.ka e.za.ta~'me~.Ti u 'ke
+inf:	i 'i.su si.gi.ni'fi.ka e.za.ta~'me~.Ti u 'ke
 
 ref:	Sarayu pareceu não se perturbar com sua falta de entendimento.
 inf:	sa.ra'ju pa.re'sew 'na~w~ si peX.tuR'baX ko~ 'su.a 'faw.ta Di e~.te~.Di~'me~.tu
@@ -2345,7 +2345,7 @@ ref:	O problema de viver segundo prioridades, disse Sarayu, é que se vê tudo c
 corrigida:	u pro'ble~.ma Di vi'veX se'gu~.du pri.o.ri'da.Dis, 'Di.si sa.ra'ju, E ki si 've 'tu.du 'ko~.mu u~.ma i.e.raX'ki.a, u~.ma pi'ra~.mi.Di, i vo'se i ew 'Za fa'la~.mus 'so.bri 'i.su
 
 ref:	Se você puser Deus no topo, o que isso realmente significa?
-inf:	si vo'se pu'zeR 'dews nu 'to.pu, u ki 'i.su Re.aw'me~.Ti sig.ni'fi.ka
+inf:	si vo'se pu'zeR 'dews nu 'to.pu, u ki 'i.su Re.aw'me~.Ti si.gi.ni'fi.ka
 
 ref:	Quanto tempo você me dá antes de poder cuidar do resto do seu dia, da parte que lhe interessa muitíssimo mais?
 inf:	'kwa~.tu 'te~.pu vo'se mi 'da 'a~.Tis Di po'deX kuj'daR du 'REs.tu du 'sew 'Di.a, da 'paX.Ti ki Li i~.te'rE.sa mu~j~'Ti.si~.mu 'majs
@@ -2465,7 +2465,7 @@ ref:	Podia ver as estrelas em movimento, tranquilamente e com precisão, como se
 inf:	po'Di.a 'ver az es'tre.laz e~j~ mo.vi~'me~.tu, tra~.kwi.la~'me~.Ti i ko~ pre.si'za~w~, 'ko~.mu si ow'vE.si 'gra~.Dis ko~.du'to.ris se.les.Ti'ajs ko.oR.de~'na~.du 'sews mo.vi~'me~.tus
 
 ref:	Ocasionalmente, como se recebendo um comando, cometas e chuvas de meteoros rolavam por entre as estrelas, acrescentando variação à dança.
-inf:	o.ka.zi.o~.naw'me~.Ti, 'ko~.mu si Re.se'be~.du u~ ko~'ma~.du, ko~'mE.taz i 'Su.vas Di me.te'O.rus Ro'la.va~w~ pur 'e~.tri az es'tre.las, a.kre.se~'ta~.du va.ri.a'sa~w~ a 'da~.sa
+inf:	o.ka.zi.o~.naw'me~.Ti, 'ko~.mu si Re.se'be~.du u~ ko~'ma~.du, ko~'me.taz i 'Su.vas Di me.te'O.rus Ro'la.va~w~ pur 'e~.tri az es'tre.las, a.kre.se~'ta~.du va.ri.a'sa~w~ a 'da~.sa
 
 ref:	Era como se o tempo tivesse se tornado dinâmico e volátil, juntando-se a imagem celestial aparentemente caótica, mas administrada com precisão.
 inf:	'E.ra 'ko~.mu si u 'te~.pu Ti'vE.si si toR'na.du Di~'na~.mi.ku i vo'la.Tiw, Zu~'ta~.du si a i~'ma.Ze~j~ se.les.Ti'aw a.pa.re~.Ti~'me~.Ti ka'O.Ti.ka, majz a.Di~.mi~.nis'tra.da ko~ pre.si'za~w~
@@ -2567,7 +2567,7 @@ ref:	Eram as crianças da Terra, os filhos de Papai.
 inf:	'E.ra~w~ as kri'a~.sas da 'tE.Ra, us 'fi.Lus Di pa'paj
 
 ref:	Acercaram-se com dignidade e graça silenciosa, rostos cheios de contentamento e paz, as maiores segurando as mãos das menores.
-inf:	a.seX'ka.ra~w~ si ko~ Dig.ni'da.Di i 'gra.sa si.le~.si'O.za, 'Ros.tu'Sej.us Di ko~.te~.ta~'me~.tu i 'pajs, as maj'O.ris se.gu'ra~.du as 'ma~w~s das me~'nO.ris
+inf:	a.seX'ka.ra~w~ si ko~ Di.gi.ni'da.Di i 'gra.sa si.le~.si'O.za, 'Ros.tu'Sej.us Di ko~.te~.ta~'me~.tu i 'pajs, as maj'O.ris se.gu'ra~.du as 'ma~w~s das me~'nO.ris
 
 ref:	Por um momento Mack se perguntou se Missy estaria ali, mas logo desistiu.
 inf:	pur u~ mo~'me~.tu 'mE.ki si peR.gu~'tow si 'mi.si es.ta'ri.a a'li, majs 'lO.gu de.zis'Tiw
@@ -2942,7 +2942,7 @@ ref:	Depois da escuridão de breu, a claridade foi ofuscante e ele demorou até 
 inf:	de'pojs da es.ku.ri'da~w~ Di 'brew, a kla.ri'da.Di 'foj o.fus'ka~.Ti i 'e.li de~.mo'row a'tE ko~.se'gir a'brir uz 'O.Luz i si es.foX'saX 'pa.ra 'ver u vi.zi'ta~.Ti
 
 ref:	O homem parado junto dele se parecia um pouco com Papai: digno, mais velho, magro e mais alto do que Mack.
-inf:	u 'o~.me~j~ pa'ra.du 'Zu~.tu 'de.li si pa.re'si.a u~ 'pow.ku ko~ pa'paj, 'Dig.nu, 'majs 'vE.Lu, 'ma.gru i 'majz 'aw.tu du ki 'mE.ki
+inf:	u 'o~.me~j~ pa'ra.du 'Zu~.tu 'de.li si pa.re'si.a u~ 'pow.ku ko~ pa'paj, 'Di.gi.nu, 'majs 'vE.Lu, 'ma.gru i 'majz 'aw.tu du ki 'mE.ki
 
 ref:	O cabelo muito branco estava preso num rabo de cavalo, e o bigode e o cavanhaque eram grisalhos.
 inf:	u ka'be.lu 'mu~j~.tu 'bra~.ku es'ta.va 'pre.zu nu~ 'Ra.bu Di ka'va.lu, i u bi'gO.Di i u ka.va~'Ja.ki 'E.ra~w~ gri'za.Lus

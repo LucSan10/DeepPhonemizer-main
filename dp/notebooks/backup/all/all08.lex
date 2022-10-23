@@ -110,10 +110,10 @@ ref:	O corte profundo não é o da lâmina afiada É do ato desprovido de cautel
 corrigida:	u 'kOX.Ti pro'fu~.du 'na~w~ E u da 'la~.mi~.na a.fi'a.da E du 'a.tu des.pro'vi.du Di kaw'tE.la
 
 ref:	Roube da minha mente o tempo que passo contigo. Corte em inumeros pedaços pra eu não conseguir juntar cada fragmento. A insistencia é natural
-corrigida:	'Row.bi da 'mi~.Ja 'me~.Ti u 'te~.pu ki 'pa.su ko~'Ti.gu, 'kOX.Ti e~j~ i~'nu~.me.rus pe'da.sus pra ew 'na~w~ ko~.se'giR Zu~'taX 'ka.da frag'me~.tu, a i~.sis'te~.sja E na.tu'raw
+corrigida:	'Row.bi da 'mi~.Ja 'me~.Ti u 'te~.pu ki 'pa.su ko~'Ti.gu, 'kOX.Ti e~j~ i~'nu~.me.rus pe'da.sus pra ew 'na~w~ ko~.se'giR Zu~'taX 'ka.da fra.gi'me~.tu, a i~.sis'te~.sja E na.tu'raw
 
-ref:	Hoje em dia roupa, corte de cabelo e etc, defini as pessoas.
-inf:	'o.Zi e~j~ 'Di.a 'Row.pa, 'kOX.Ti Di ka'be.lu i eTk, de.fi~'ni as pe'so.as
+ref:	Hoje em dia roupa, corte de cabelo e etc., defini as pessoas.
+corrigida:	'o.Zi e~j~ 'Di.a 'Row.pa, 'kOX.Ti Di ka'be.lu i 'e.Ti 'sE.te.ra, de.fi~'ni as pe'so.as
 
 ref:	Reis não se misturam com bobos da corte
 inf:	'Rejs 'na~w~ si mis'tu.ra~w~ ko~ 'bo.bus da 'kOX.Ti
@@ -134,7 +134,7 @@ ref:	Se um corte alivia  Uma oração  Pode mudar Um dia
 inf:	si u~ 'kOX.Ti a.li'vi.a u~.ma o.ra'sa~w~ 'pO.Di mu'dar u~ 'Di.a
 
 ref:	Me contrarie, me impugne, mas jamais fará com que eu corte a essência de minhas palavras.
-inf:	mi ko~.tra'ri, mi i~'pug.ni, ma.Za~'majs fa'ra ko~ ki ew 'kOX.Ti a e'se~.sja Di 'mi~.Jas pa'la.vras
+inf:	mi ko~.tra'ri, mi i~'pu.gi.ni, ma.Za~'majs fa'ra ko~ ki ew 'kOX.Ti a e'se~.sja Di 'mi~.Jas pa'la.vras
 
 ref:	preconceito sobre raciais. corte seu pulço. e vê se a cor do sangue são iguais.
 inf:	pre.ko~'sej.tu 'so.bri Ra.si'ajs, 'kOX.Ti 'sew 'puw.su, i 've si a 'koR du 'sa~.gi 'sa~w~ i'gwajs
@@ -221,7 +221,7 @@ ref:	Não desmate a natureza, não interrompa vidas, não corte as árvores elas
 inf:	'na~w~ dez'ma.Ti a na.tu're.za, 'na~w~ i~.te'Ro~.pa 'vi.das, 'na~w~ 'kOX.Ti az 'aR.vo.riz 'E.las 'sa~w~ as 'ka.zas dus 'pa.sa.rus
 
 ref:	A crise espiritual é tamanha que nem a picanha entra no corte da ignorância da carne.
-corrigida:	a 'kri.zi es.pi.ri.tu'aw E ta~'ma~.Ja ki ne~j~ a pi'ka~.Ja 'e~.tra nu 'kOX.Ti da ig.no'ra~.sja da 'kaR.ni
+corrigida:	a 'kri.zi es.pi.ri.tu'aw E ta~'ma~.Ja ki ne~j~ a pi'ka~.Ja 'e~.tra nu 'kOX.Ti da i.gi.no'ra~.sja da 'kaR.ni
 
 ref:	Corte o pecado pela raiz, na tentação. Prevenir é sempre melhor que resolver.
 corrigida:	'kOX.Ti u pe'ka.du 'pe.la Ra'is, na te~.ta'sa~w~, pre.ve~'nir E 'se~.pri me'LOX ki Re.zow'veX
@@ -860,7 +860,7 @@ ref:	Passei a procurar novos poetas, a ler novos poetas.
 inf:	pa'sej a pro.ku'raR 'nO.vus po'E.tas, a 'leR 'nO.vus po'E.tas
 
 ref:	Descobri T. S. Eliot.
-inf:	des.ko'bri T, s, e'li.oT
+inf:	des.ko'bri 'te, 'E.si, 'E.li.O.Ti
 
 ref:	Tudo isso me deslumbrava e me modificava.
 inf:	'tu.du 'i.su mi dez.lu~'bra.va i mi mo.Di.fi'ka.va
@@ -875,7 +875,7 @@ ref:	Era a descoberta de um mundo feérico.
 inf:	'E.ra a des.ko'bEX.ta Di u~ 'mu~.du fe'E.ri.ku
 
 ref:	Cheguei, então, ao Drummond e aos versos de Onde há pouco falávamos.
-inf:	Se'gej, e~'ta~w~, aw 'dru~.mo~.D i aws 'vEX.sus Di 'o~.Di 'a 'pow.ku fa'la.va~.mus
+inf:	Se'gej, e~'ta~w~, aw dru~'mo~.Di i aws 'vEX.sus Di 'o~.Di 'a 'pow.ku fa'la.va~.mus
 
 ref:	Descobri, também, a poesia na coisa sórdida, no pus, na poeira, nos insetos.
 corrigida:	des.ko'bri, ta~'be~j~, a po.e'zi.a na 'koj.za 'sOR.Di.da, nu 'pujs, na po'ej.ra, nuz i~'sE.tus
@@ -1053,9 +1053,6 @@ inf:	a.sej'tej i 'la, i.zo'la.du, ko~.me'sej a mi Re.la.si.o~'naR 'majs ko~ u pa
 
 ref:	Um amigo me emprestou então um livro chamado O pensamento de Karl Marx.
 inf:	u~ a~'mi.gu mi e~.pres'tow e~'ta~w~ u~ 'li.vru Sa~'ma.du u pe~.sa~'me~.tu Di kaR.w maX.ks
-
-ref:	De Jean Yves Calvet, um padre conservador.
-inf:	Di Ze'a~ ivis 'kaw.veT, u~ 'pa.dri ko~.seR.va'doX
 
 ref:	Eu me converti ao marxismo lendo o livro de um padre antimarxista!
 inf:	ew mi ko~.veX'Ti aw maX'Siz.mu 'le~.du u 'li.vru Di u~ 'pa.dri a~.Ti~.maX'Sis.ta
@@ -1436,7 +1433,7 @@ ref:	É muito mais fácil reconhecer o erro do que encontrar a verdade; aquele e
 corrigida:	E 'mu~j~.tu 'majs 'fa.siw Re.ko~.Je'ser u 'e.Ru du ki e~.ko~'trar a veR'da.Di, a'ke.li es'ta na su.peX'fi.si i pur 'i.su E 'fa.siw e.Ra.Di'ka lu, 'Es.ta Re'pow.za nu 'fu~.du, i 'na~w~ E kwaw'kEr u~ ki a 'pO.Di i~.ves.Ti'gaX
 
 ref:	O excesso de estudo provoca erro, confusão, melancolia, cólera e fastio.
-inf:	u es'sE.su Di es'tu.du pro'vO.ka 'e.Ru, ko~.fu'za~w~, me.la~.ko'li.a, 'kO.le.ra i fas'Ti.u
+inf:	u e'sE.su Di es'tu.du pro'vO.ka 'e.Ru, ko~.fu'za~w~, me.la~.ko'li.a, 'kO.le.ra i fas'Ti.u
 
 ref:	Verdade num tempo, erro num outro.
 inf:	veR'da.Di nu~ 'te~.pu, 'E.Ru nu~ 'ow.tru
@@ -1607,7 +1604,7 @@ ref:	Em ciência não existe um erro tão grosseiro que, amanhã ou depois, sob 
 inf:	e~j~ si'e~.sja 'na~w~ e'zis.Ti u~ 'e.Ru 'ta~w~ gro'sej.ru ki, a~.ma~'Ja~ ow de'pojs, sob aw'gu~.ma peXs.pek'Ti.va, 'na~w~ pa're.sa pro'fE.Ti.ku
 
 ref:	É da ignorância e da avidez que surge o mundo do erro, e as suas causas e condições existem apenas dentro da mente, em nenhum outro lugar mais.
-corrigida:	E da ig.no'ra~.sja i da a.vi'dejs ki 'suR.Zi u 'mu~.du du 'e.Ru, i as 'su.as 'kaw.zaz i ko~.Di'so~j~z e'zis.te~j~ a'pe~.nas 'de~.tru da 'me~.Ti, e~j~ ne~'Ju~ 'ow.tru lu'gaR 'majs
+corrigida:	E da i.gi.no'ra~.sja i da a.vi'dejs ki 'suR.Zi u 'mu~.du du 'e.Ru, i as 'su.as 'kaw.zaz i ko~.Di'so~j~z e'zis.te~j~ a'pe~.nas 'de~.tru da 'me~.Ti, e~j~ ne~'Ju~ 'ow.tru lu'gaR 'majs
 
 ref:	Um erro é tanto mais perigoso quanto mais verdade contém.
 inf:	u~ 'e.Ru E 'ta~.tu 'majs pe.ri'go.zu 'kwa~.tu 'majs veR'da.Di ko~'te~j~
@@ -1655,13 +1652,13 @@ ref:	A guerra é a arte de matar pessoas inocentes por questões fúteis
 corrigida:	a 'gE.Ra E a 'aX.Ti Di ma'taX pe'so.az i~.no'se~.Tis puX kes'to~j~s 'fu.tejs
 
 ref:	Dentre milhões de deuses, religiões, culturas e etnias o que leva o ser humano a acreditar que seus valores são superiores a de outro?
-inf:	'de~.tri mi'Lo~j~s Di 'dew.zis, Re.li.Zi'o~j~s, kuw'tu.raz i eT'ni.az u ki 'lE.va u 'ser u~'ma~.nu a a.kre.Di'taX ki 'sews va'lo.ris 'sa~w~ su.pe.ri'o.riz a Di 'ow.tru
+inf:	'de~.tri mi'Lo~j~s Di 'dew.zis, Re.li.Zi'o~j~s, kuw'tu.raz i e.Ti'ni.az u ki 'lE.va u 'ser u~'ma~.nu a a.kre.Di'taX ki 'sews va'lo.ris 'sa~w~ su.pe.ri'o.riz a Di 'ow.tru
 
 ref:	O melhor para a raça humana seria se todos deixassem suas diferenças religiosas, físicas e culturais de lado e vivessem em paz compartilhando o que tem
 corrigida:	u me'LOX 'pa.ra a 'Ra.sa u~'ma~.na se'ri.a si 'to.dus dej'Sa.se~j~ 'su.as Di.fe're~.sas Re.li.Zi'O.zas, 'fi.zi.kaz i kuw.tu'rajs Di 'la.du i vi've.se~j~ e~j~ 'pajs ko~.paX.Ti'La~.du u ki 'te~j~
 
 ref:	As pessoas devem assumir sua insignificância para que haja paz
-inf:	as pe'so.as 'dE.ve~j~ a.su~'miX 'su.a i~.sig.ni.fi'ka~.sja 'pa.ra ki 'a.Za 'pajs
+inf:	as pe'so.as 'dE.ve~j~ a.su~'miX 'su.a i~.si.gi.ni.fi'ka~.sja 'pa.ra ki 'a.Za 'pajs
 
 ref:	Eu tenho um sonho, de que um dia a ciência a compaixão e o progresso conduzam o mundo para a felicidade de todos, mas até que isso aconteça, estamos submersos em um mundo de ódio
 corrigida:	ew 'te~.Ju u~ 'so~.Ju, Di ki u~ 'Di.a a si'e~.sja a ko~.paj'Sa~w~ i u pro'grE.su ko~'du.za~w~ u 'mu~.du 'pa.ra a fe.li.si'da.Di Di 'to.dus, majz a'tE ki 'i.su a.ko~'te.sa, es'ta~.mus sub'mEX.suz e~j~ u~ 'mu~.du Di 'O.Dju
@@ -1679,7 +1676,7 @@ ref:	Não se opor ao erro é aprová-lo, não defender a verdade é negá-la.
 inf:	'na~w~ si o'por aw 'e.Ru E a.pro'va lu, 'na~w~ de.fe~'der a veR'da.Di E ne'ga la
 
 ref:	Fantasmas existem por um motivo: para que você não cometa o mesmo erro duas vezes.
-inf:	fa~'taz.maz e'zis.te~j~ pur u~ mo'Ti.vu, 'pa.ra ki vo'se 'na~w~ ko~'mE.ta u 'mez.mu 'e.Ru 'du.as 've.zis
+inf:	fa~'taz.maz e'zis.te~j~ pur u~ mo'Ti.vu, 'pa.ra ki vo'se 'na~w~ ko~'me.ta u 'mez.mu 'e.Ru 'du.as 've.zis
 
 ref:	Na vida existem erros e verdades. Dizer que te amo pode ter sido meu maior erro, mas foi minha maior verdade!
 inf:	na 'vi.da e'zis.te~j~ 'e.Ruz i veR'da.Dis, Di'zeX ki Ti 'a~.mu 'pO.Di 'teX 'si.du 'mew maj'Or 'e.Ru, majs 'foj 'mi~.Ja maj'OR veR'da.Di
@@ -1904,7 +1901,7 @@ ref:	O erro e a maternidade, O poder paternal não deve ser usado para tudo perd
 inf:	u 'e.Ru i a ma.teR.ni'da.Di, u po'deX pa.teR'naw 'na~w~ 'dE.vi 'ser u'za.du 'pa.ra 'tu.du peR.do'aX, i 'si~ 'pa.ra puX 'fi~ a 'du.vi.daz i 'pa.ra a.ko~.se'LaX
 
 ref:	Um erro na vida, não significa uma vida de erros.
-inf:	u~ 'e.Ru na 'vi.da, 'na~w~ sig.ni'fi.ka u~.ma 'vi.da Di 'e.Rus
+inf:	u~ 'e.Ru na 'vi.da, 'na~w~ si.gi.ni'fi.ka u~.ma 'vi.da Di 'e.Rus
 
 ref:	É cobardia quando o homem não assume o seu próprio erro por orgulho.
 corrigida:	E ko.baR'Di.a 'kwa~.du u 'o~.me~j~ 'na~w~ a'su~.mi u 'sew 'prO.prju 'e.Ru pur oR'gu.Lu
@@ -1922,7 +1919,7 @@ ref:	Palavras são erros, e os erros são seus. Não quero lembrar que eu erro t
 inf:	pa'la.vras 'sa~w~ 'e.Rus, i uz 'e.Rus 'sa~w~ 'sews, 'na~w~ 'kE.ru le~'braX ki ew 'e.Ru ta~'be~j~
 
 ref:	Prometa-me que se eu ceder e chorar e me deixar todo exposto, isso não será um erro.
-inf:	pro~'mE.ta mi ki si ew se'der i So'rar i mi dej'SaX 'to.du es'pos.tu, 'i.su 'na~w~ se'ra u~ 'e.Ru
+inf:	pro~'me.ta mi ki si ew se'der i So'rar i mi dej'SaX 'to.du es'pos.tu, 'i.su 'na~w~ se'ra u~ 'e.Ru
 
 ref:	Os que não querem ser vencidos pela verdade, serão vencidos pelo erro.
 inf:	us ki 'na~w~ 'kE.re~j~ 'seR ve~'si.dus 'pe.la veR'da.Di, se'ra~w~ ve~'si.dus 'pe.lu 'e.Ru
@@ -1964,7 +1961,7 @@ ref:	Perdoar é dar-lhe uma nova chance, mas nao quer dizer que estar aceitando 
 corrigida:	peR.do'ar E 'daX Li u~.ma 'nO.va 'Sa~.si, majs 'naw 'kER Di'zeX ki es'tar a.sej'ta~.du 'sew 'e.Ru
 
 ref:	Nunca cometa o mesmo erro.
-inf:	'nu~.ka ko~'mE.ta u 'mez.mu 'e.Ru
+inf:	'nu~.ka ko~'me.ta u 'mez.mu 'e.Ru
 
 ref:	Um erro comum que as pessoas cometem quando tentam projetar coisas completamente à prova de imbecis é subestimar a ingenuidade dos imbecis completos.
 corrigida:	u~ 'e.Ru ko~'mu~ ki as pe'so.as ko~'mE.te~j~ 'kwa~.du 'te~.ta~w~ pro.Ze'taX 'koj.zas ko~.plE.ta~'me~.Ti a 'prO.va Di i~.be'siz E su.bes.Ti~'mar a i~.Ze~.nuj'da.Di duz i~.be'sis ko~'plE.tus
@@ -2060,7 +2057,7 @@ ref:	Errar é ser humano, persistir no erro é ser político.
 corrigida:	e'Rar E 'ser u~'ma~.nu, peX.sis'TiR nu 'e.Ru E 'seX po'li.Ti.ku
 
 ref:	E ela é assim mesmo. Ela faz tudo errado só para evitar que você cometa o erro de se apaixonar por ela!
-inf:	i 'E.la E a'si~ 'mez.mu, 'E.la 'fajs 'tu.du e'Ra.du 'sO 'pa.ra e.vi'taX ki vo'se ko~'mE.ta u 'e.Ru Di si a.paj.So~'naX pur 'E.la
+inf:	i 'E.la E a'si~ 'mez.mu, 'E.la 'fajs 'tu.du e'Ra.du 'sO 'pa.ra e.vi'taX ki vo'se ko~'me.ta u 'e.Ru Di si a.paj.So~'naX pur 'E.la
 
 ref:	A cada erro cometido surge um novo aprendizado.
 inf:	a 'ka.da 'e.Ru ko~.me'Ti.du 'suR.Zi u~ 'no.vu a.pre~.Di'za.du
@@ -2102,7 +2099,7 @@ ref:	Erro se comete uma vez, a segunda vez é uma decisão.
 inf:	'E.Ru si ko~'mE.Ti u~.ma 'vejs, a se'gu~.da 'vejz E u~.ma de.si'za~w~
 
 ref:	Que erro será esse? E que necessidade tinha ele de vir lançar-me este enigma no coração?
-inf:	ki 'e.Ru se'ra 'e.si, i ki ne.se.si'da.Di 'Ti~.Ja 'e.li Di 'viR la~'saX mi 'es.Ti e~'nig.ma nu ko.ra'sa~w~
+inf:	ki 'e.Ru se'ra 'e.si, i ki ne.se.si'da.Di 'Ti~.Ja 'e.li Di 'viR la~'saX mi 'es.Ti e~'ni.gi.ma nu ko.ra'sa~w~
 
 ref:	Não há dúvida de que a Monarquia é ainda, para o Brasil, o melhor governo. Foi um grande erro a República para o Brasil.
 corrigida:	'na~w~ 'a 'du.vi.da Di ki a mo~.naX'ki.a E a'i~.da, 'pa.ra u bra'ziw, u me'LOR go'veR.nu, 'foj u~ 'gra~.Di 'e.Ru a Re'pu.bli.ka 'pa.ra u bra'ziw
@@ -2138,7 +2135,7 @@ ref:	Não sabes o teu futuro, por isso não julgues as pessoas quando elas comet
 inf:	'na~w~ 'sa.biz u 'tew fu'tu.ru, pur 'i.su 'na~w~ 'Zuw.giz as pe'so.as 'kwa~.du 'E.las ko~'mE.te~j~ u~ 'e.Ru
 
 ref:	Não cometa o erro de trocar amizades eternas por amores passageiros.
-inf:	'na~w~ ko~'mE.ta u 'e.Ru Di tro'kar a~.mi'za.Diz e'tER.nas pur a~'mo.ris pa.sa'Zej.rus
+inf:	'na~w~ ko~'me.ta u 'e.Ru Di tro'kar a~.mi'za.Diz e'tER.nas pur a~'mo.ris pa.sa'Zej.rus
 
 ref:	Para quê julgar o erro dos outros, se os seus podem ser piores?
 inf:	'pa.ra 'ke Zuw'gar u 'e.Ru duz 'ow.trus, si us 'sews 'pO.de~j~ 'seX pi'O.ris
@@ -2353,8 +2350,8 @@ inf:	'kwa~.du ka~.mi~'Ja.va pur u~.ma 'Ru.a es'trej.ta, 'E.ra.klis 'viw nu 'Sa~w
 ref:	A coisa então aumentou de volume diante de seus olhos.
 inf:	a 'koj.za e~'ta~w~ aw~.me~'tow Di vo'lu~.mi Di'a~.Ti Di 'sewz 'O.Lus
 
-ref:	Ele a pisoteou com mais forca ainda e a golpeou com a clava.
-inf:	'e.li a pi.zo.te'ow ko~ 'majs 'fOX.ka a'i~.da i a gow.pe'ow ko~ a 'kla.va
+ref:	Ele a pisoteou com mais força ainda e a golpeou com a clava.
+inf:	'e.li a pi.zo.te'ow ko~ 'majs 'fOX.sa a'i~.da i a gow.pe'ow ko~ a 'kla.va
 
 ref:	Mas a coisa engrossou de tal forma que bloqueou o caminho.
 inf:	majz a 'koj.za e~.gro'sow Di 'taw 'fOR.ma ki blo.ke'ow u ka~'mi~.Ju
@@ -2675,10 +2672,10 @@ ref:	Influenciar é sair de casa.
 corrigida:	i~.flu.e~.si'ar E sa'iR Di 'ka.za
 
 ref:	Cada qual tem o seu álcool.
-inf:	'ka.da 'kwaw te~j~ u 'sew 'aw.ko.ow
+inf:	'ka.da 'kwaw te~j~ u 'sew 'aw.kow
 
 ref:	Tenho álcool bastante em existir.
-inf:	'te~.Ju 'aw.ko.ow bas'ta~.Ti e~j~ e.zis'TiX
+inf:	'te~.Ju 'aw.kow bas'ta~.Ti e~j~ e.zis'TiX
 
 ref:	Bêbado de me sentir, vagueio e ando certo.
 inf:	'be.ba.du Di mi se~'TiX, va'gej.u i 'a~.du 'sEX.tu
@@ -2702,7 +2699,7 @@ ref:	Álgebra do Mistério
 inf:	'aw.Ze.bra du mis'tE.rju
 
 ref:	Há um destino igual, porque é abstrato, para os homens e para as coisas - uma designação igualmente indiferente na álgebra do mistério.
-corrigida:	'a u~ des'Ti~.nu i'gwaw, puX'ke E abs'tra.tu, 'pa.ra uz 'o~.me~z i 'pa.ra az 'koj.zas, u~.ma de.zig.na'sa~w~ i.gwaw'me~.Ti i~.Di.fe're~.Ti na 'aw.Ze.bra du mis'tE.rju
+corrigida:	'a u~ des'Ti~.nu i'gwaw, puX'ke E abs'tra.tu, 'pa.ra uz 'o~.me~z i 'pa.ra az 'koj.zas, u~.ma de.zi.gi.na'sa~w~ i.gwaw'me~.Ti i~.Di.fe're~.Ti na 'aw.Ze.bra du mis'tE.rju
 
 ref:	Conhece alguém as fronteiras a sua alma, para que possa dizer - eu sou eu?
 inf:	ko~'JE.si aw'ge~j~ as fro~'tej.raz a 'su.a 'aw.ma, 'pa.ra ki 'pO.sa Di'zeX, ew 'sow ew

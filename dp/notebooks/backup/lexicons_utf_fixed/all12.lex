@@ -179,7 +179,7 @@ ref:	Quando alguém estiver cansado demais para sorrir, sorria você.
 corrigida:	'kwa~.du aw'ge~j~ es.Ti'vEX ka~'sa.du de~'majs 'pa.ra so'RiX, so'Ri.a vo'se
 
 ref:	São os pequenos gestos simples, insignificantes, que tornam a vida suportável.
-corrigida:	'sa~w~ us pe'ke~.nus 'ZEs.tus 'si~.plis, i~.sig.ni.fi'ka~.Tis, ki 'tOR.na~w~ a 'vi.da su.poX'ta.vew
+corrigida:	'sa~w~ us pe'ke~.nus 'ZEs.tus 'si~.plis, i~.si.gi.ni.fi'ka~.Tis, ki 'tOR.na~w~ a 'vi.da su.poX'ta.vew
 
 ref:	Um sorriso, uma festa, uma palavra gentil são um cuidado a menos.
 corrigida:	u~ so'Ri.zu, u~.ma 'fEs.ta, u~.ma pa'la.vra Ze~'Tiw 'sa~w~ 'u~ kuj'da.du a 'me~.nus
@@ -413,7 +413,7 @@ ref:	Cada dia traz novos desafios. e satisfações.
 corrigida:	'ka.da 'Di.a 'trajz 'nO.vus de.za'fi.us, i sa.Tis.fa'so~j~s
 
 ref:	Existem pessoas que tornam nossa caminhada mais significativa. pela companhia, pelo apoio, pelo carinho. e porque nos tornam melhores.
-corrigida:	e'zis.te~j~ pe'so.as ki 'tOR.na~w~ 'nO.sa ka~.mi~'Ja.da 'majs sig.ni.fi.ka'Ti.va, 'pe.la ko~.pa~'Ji.a, 'pe.lu a'poj.u, 'pe.lu ka'ri~.Ju, i puX'ke nus 'tOR.na~w~ me'LO.ris
+corrigida:	e'zis.te~j~ pe'so.as ki 'tOR.na~w~ 'nO.sa ka~.mi~'Ja.da 'majs si.gi.ni.fi.ka'Ti.va, 'pe.la ko~.pa~'Ji.a, 'pe.lu a'poj.u, 'pe.lu ka'ri~.Ju, i puX'ke nus 'tOR.na~w~ me'LO.ris
 
 ref:	Você me persegue, e eu adoro. Você me consome, e eu apoio. Você me seduz, e deduz. Que minha alma é sua Que minha boca é tua E que nossa essência é uma
 corrigida:	vo'se mi peX'sE.gi, i ew a'dO.ru, vo'se mi ko~'so~.mi, i ew a'pOj.u, vo'se mi se'dujs, i de'dujs, ki 'mi~.Ja 'aw.ma E 'su.a ki 'mi~.Ja 'bo.ka E 'tu.a i ki 'nO.sa e'se~.sja E u~ma
@@ -482,7 +482,7 @@ ref:	Toda mulher é forte, basta acreditar. Então menina , engole o choro ergue
 corrigida:	'to.da mu'LEr E 'fOX.Ti, 'bas.ta a.kre.Di'taX, e~'ta~w~ me~'ni~.na, e~'gO.li u 'So.ru 'ER.gi a ka'be.sa i 'si.ga e~j~ 'fre~.Ti, 'se~.pri
 
 ref:	Eu sou uma mistura. Uma mistura de amor e ódio, de riso e de choro, de gentileza e ignorância, de sabedoria e idiotice.
-corrigida:	ew 'sow u~.ma mis'tu.ra, u~.ma mis'tu.ra Di a~'mor i 'O.Dju, Di 'Ri.zu i Di 'So.ru, Di Ze~.Ti'le.za i ig.no'ra~.sja, Di sa.be.do'ri.a i i.Di.o'Ti.si
+corrigida:	ew 'sow u~.ma mis'tu.ra, u~.ma mis'tu.ra Di a~'mor i 'O.Dju, Di 'Ri.zu i Di 'So.ru, Di Ze~.Ti'le.za i i.gi.no'ra~.sja, Di sa.be.do'ri.a i i.Di.o'Ti.si
 
 ref:	Quando amo, amo intensamente. Choro, corro atraz. mas quando esse amor se transforma em odio, meu querido, saia de baixo!
 corrigida:	'kwa~.du 'a~.mu, 'a~.mu i~.te~.sa~'me~.Ti, 'SO.ru, 'ko.Ru a'trajs, majs 'kwa~.du 'e.si a~'moX si tra~s'fOR.ma e~j~ 'O.Dju, 'mew ke'ri.du, 'saj.a Di 'baj.Su
@@ -569,7 +569,7 @@ ref:	Nem toda semente que plantei irei colher, mais a que plantei em teu coraç�
 corrigida:	ne~j~ 'to.da se~'me~.Ti ki pla~'tej i'rej ko'LeX, majz a ki pla~'tej e~j~ 'tew ko.ra'sa~w~ ko.Le'rej, Ti 'a~.mu
 
 ref:	plante a ignorância. até colher pessoas que não sabem o que são frutos.
-corrigida:	'pla~.Ti a ig.no'ra~.sja, a'tE ko'LeX pe'so.as ki 'na~w~ 'sa.be~j~ u ki 'sa~w~ 'fru.tus
+corrigida:	'pla~.Ti a i.gi.no'ra~.sja, a'tE ko'LeX pe'so.as ki 'na~w~ 'sa.be~j~ u ki 'sa~w~ 'fru.tus
 
 ref:	Tudo o que hoje eu sei É fruto do que eu plantei. Tudo o que poderei colher Dependerá do que eu escolher.
 corrigida:	'tu.du u ki 'o.Zi ew 'sej E 'fru.tu du ki ew pla~'tej, 'tu.du u ki po.de'rej ko'LeR de.pe~.de'ra du ki ew es.ko'LeX
@@ -833,7 +833,7 @@ ref:	Metade de mim agora é assim, de um lado a poesia, o verbo, a saudade; do o
 corrigida:	me'ta.Di Di 'mi~ a'gO.ra E a'si~, Di u~ 'la.du a po.e'zi.a, u 'vER.bu, a saw'da.Di, du 'ow.tru a 'lu.ta, a 'foX.sa i a ko'ra.Ze~j~ pra Se'gaR nu 'fi~, i u 'fi~ E 'bE.lu, i~'sEX.tu, de'pe~.Di Di 'ko~.mu vo'se 've
 
 ref:	Senhor, dai-me força para mudar o que pode ser mudado. Resignação para aceitar o que não pode ser mudado. E sabedoria para distinguir uma coisa da outra.
-corrigida:	se~'JoX, 'daj mi 'foX.sa 'pa.ra mu'dar u ki 'pO.Di 'seR mu'da.du, Re.zig.na'sa~w~ 'pa.ra a.sej'tar u ki 'na~w~ 'pO.Di 'seR mu'da.du, i sa.be.do'ri.a 'pa.ra Dis.Ti~'gwir u~.ma 'koj.za da ow.tra
+corrigida:	se~'JoX, 'daj mi 'foX.sa 'pa.ra mu'dar u ki 'pO.Di 'seR mu'da.du, Re.zi.gi.na'sa~w~ 'pa.ra a.sej'tar u ki 'na~w~ 'pO.Di 'seR mu'da.du, i sa.be.do'ri.a 'pa.ra Dis.Ti~'gwir u~.ma 'koj.za da ow.tra
 
 ref:	Saiba que seu destino é traçado pelos seus próprios pensamentos, e não por alguma força que venha de fora.
 corrigida:	'saj.ba ki 'sew des'Ti~.nu E tra'sa.du 'pe.lus 'sews 'prO.prjus pe~.sa~'me~.tus, i 'na~w~ pur aw'gu~.ma 'foX.sa ki 've~.Ja Di 'fO.ra
@@ -899,7 +899,7 @@ ref:	Durante a Era Heian o tanka passa a ser criado por duas pessoas: uma encarr
 corrigida:	du'ra~.Ti a 'E.ra Rej'a~ u 'ta~.ka 'pa.sa a 'seX kri'a.du puR 'du.as pe'so.as, u~.ma e~.ka.Re'ga.da da pri~'mej.ra es'trO.fi, de~.no~.mi~'na.da 'Ro.ku, 'ow.tra 'pe.la es'trO.fi se'gi~.Ti, ko~.Je'si.da puR 'wa.ki.ku
 
 ref:	Nesse momento, o hokku, primeira estrofe do renga haikai, ou simplesmente haikai (cujo significado é poema de dezessete sílabas) irá constituir-se em expressão autônoma.
-corrigida:	'ne.si mo~'me~.tu, u 'Ro.ku, pri~'mej.ra es'trO.fi du 'Re~.ga Raj'kaj, ow si~.pliz'me~.Ti Raj'kaj, 'ku.Zu sig.ni.fi'ka.du E po'e~.ma Di de.ze'sE.Ti 'si.la.bas, i'ra ko~s.Ti.tu'iX si e~j~ es.pre'sa~w~ aw'to~.no~.ma
+corrigida:	'ne.si mo~'me~.tu, u 'Ro.ku, pri~'mej.ra es'trO.fi du 'Re~.ga Raj'kaj, ow si~.pliz'me~.Ti Raj'kaj, 'ku.Zu si.gi.ni.fi'ka.du E po'e~.ma Di de.ze'sE.Ti 'si.la.bas, i'ra ko~s.Ti.tu'iX si e~j~ es.pre'sa~w~ aw'to~.no~.ma
 
 ref:	Em sua jornada de autoconhecimento, Bashô eleva o haicai à condição de kadô (ou caminho da poesia) infundindo a visão de mundo zen em sua criação, herança do confucionismo e do budismo de estirpe Mahayama, principalmente a crença na interdependência de todas as coisas da natureza, as grandes e as pequenas.
 corrigida:	e~j~ 'su.a ZoR'na.da Di aw.tu.ko~.Je.si~'me~.tu, ba'So e'lE.va u Raj'kaj a ko~.Di'sa~w~ Di ka'do, ow ka~'mi~.Ju da po.e'zi.a, i~.fu~'Di~.du a vi'za~w~ Di 'mu~.du ze~ e~j~ 'su.a kri.a'sa~w~, e'ra~.sa du ko~.fu.si.o~'niz.mu i du bu'Diz.mu Di es'TiX.pi ma.Ra'ja~.ma, pri~.si.paw'me~.Ti a 'kre~.sa na i~.teR.de.pe~'de~.sja Di 'to.das as 'koj.zas da na.tu're.za, as 'gra~.Diz i as pe'ke~.nas
@@ -965,7 +965,7 @@ ref:	Por vezes são as pessoas de quem ninguém imagina nada que fazem as coisas
 corrigida:	puR 've.zis 'sa~w~ as pe'so.as Di 'ke~j~ ni~'ge~j~ i~.ma'Zi~.na 'na.da ki 'fa.ze~j~ as koj.zas ki ni~'ge~j~ se'kER i~'ma.Zi~.na
 
 ref:	Se você não pode ganhar o jogo. Se você não conseguir resolver o enigma. Você é apenas outro perdedor.
-corrigida:	si vo'se 'na~w~ 'pO.Di ga~'Jar u 'Zo.gu, si vo'se 'na~w~ ko~.se'gi.Re.zow'ver u e~'nig.ma, vo'se E a'pe~.nas 'ow.tru peR.de'doX
+corrigida:	si vo'se 'na~w~ 'pO.Di ga~'Jar u 'Zo.gu, si vo'se 'na~w~ ko~.se'gi.Re.zow'ver u e~'ni.gi.ma, vo'se E a'pe~.nas 'ow.tru peR.de'doX
 
 ref:	Não importa quem começou o jogo, mas quem chegou ao final.
 corrigida:	'na~w~ i~'pOX.ta 'ke~j~ ko~.me'sow u 'Zo.gu, majs 'ke~j~ Se'gow aw fi~'naw

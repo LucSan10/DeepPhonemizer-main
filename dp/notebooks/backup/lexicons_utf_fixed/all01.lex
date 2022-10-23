@@ -560,7 +560,7 @@ ref:	Ambos usavam os coletes salva-vidas e Mack acenou de volta.
 corrigida:	'a~.buz u'za.va~w~ us ko'le.Tis 'saw.va 'vi.daz i 'mE.ki a.se~'now Di 'vOw.ta
 
 ref:	É estranho como um ato ou acontecimento aparentemente insignificante pode mudar vidas inteiras.
-corrigida:	E es'tra~.Ju 'ko~.mu u~ 'a.tu ow a.ko~.te.si~'me~.tu a.pa.re~.Ti~'me~.Ti i~.sig.ni.fi'ka~.Ti 'pO.Di mu'daR 'vi.daz i~'tej.ras
+corrigida:	E es'tra~.Ju 'ko~.mu u~ 'a.tu ow a.ko~.te.si~'me~.tu a.pa.re~.Ti~'me~.Ti i~.si.gi.ni.fi'ka~.Ti 'pO.Di mu'daR 'vi.daz i~'tej.ras
 
 ref:	Levantando o remo para acenar, Kate perdeu o equilíbrio e emborcou a canoa.
 corrigida:	le.va~'ta~.du u 'Re~.mu 'pa.ra a.se~'naX, 'kej.Ti peR'dew u e.ki'li.brju i e~.boX'kow a ka~'no.a
@@ -587,7 +587,7 @@ ref:	Em questão de segundos ele caiu na água, tirando os sapatos e a camisa.
 corrigida:	e~j~ kes'ta~w~ Di se'gu~.duz 'e.li ka'iw na 'a.gwa, Ti'ra~.du us sa'pa.tuz i a ka~'mi.za
 
 ref:	Nem se deu conta do choque gelado ao disparar na direção da canoa virada, ignorando os soluços aterrorizados da filha.
-corrigida:	ne~j~ si 'dew 'ko~.ta du 'SO.ki Ze'la.du aw Dis.pa'raR na Di.re'sa~w~ da ka~'no.a vi'ra.da, ig.no'ra~.du us so'lu.suz a.te.Ro.ri'za.dus da 'fi.La
+corrigida:	ne~j~ si 'dew 'ko~.ta du 'SO.ki Ze'la.du aw Dis.pa'raR na Di.re'sa~w~ da ka~'no.a vi'ra.da, i.gi.no'ra~.du us so'lu.suz a.te.Ro.ri'za.dus da 'fi.La
 
 ref:	Ela estava em segurança.
 corrigida:	'E.la es'ta.va e~j~ se.gu'ra~.sa
@@ -974,7 +974,7 @@ ref:	Mesmo queimando os dedos e derrubando de novo a massa de panqueca!
 corrigida:	'mez.mu kej~'ma~.du us 'de.duz i de.Ru'ba~.du Di 'no.vu a 'ma.sa Di pa~'kE.ka
 
 ref:	Voltou-se novamente para a tarefa designada, mas nada parecia diferente do que recordava.
-corrigida:	vow'tow si nO.va~'me~.Ti 'pa.ra a ta'rE.fa de.zig'na.da, majs 'na.da pa.re'si.a Di.fe're~.Ti du ki Re.koR'da.va
+corrigida:	vow'tow si nO.va~'me~.Ti 'pa.ra a ta'rE.fa de.zi.gi'na.da, majs 'na.da pa.re'si.a Di.fe're~.Ti du ki Re.koR'da.va
 
 ref:	Nada havia mudado.
 corrigida:	'na.da a'vi.a mu'da.du
@@ -1049,13 +1049,13 @@ ref:	E a má notícia? Mack prendeu o fôlego.
 corrigida:	i a 'ma no'Ti.sja, 'mE.ki pre~'dew u 'fo.le.gu
 
 ref:	Bom, a má notícia, e não estou dizendo que este seja o caso, é que quem deixa algo assim geralmente tem um objetivo, e isso pode significar que já fez a mesma coisa antes.
-corrigida:	'bo~, a 'ma no'Ti.sja, i 'na~w~ es'tow Di'ze~.du ki 'es.Ti 'se.Za u 'ka.zu, E ki 'ke~j~ 'dej.Sa 'aw.gu a'si~ Ze.raw'me~.Ti te~j~ u~ ob.Ze'Ti.vu, i 'i.su 'pO.Di sig.ni.fi'kaX ki 'Za 'fejz a 'mez.ma 'koj.za 'a~.Tis
+corrigida:	'bo~, a 'ma no'Ti.sja, i 'na~w~ es'tow Di'ze~.du ki 'es.Ti 'se.Za u 'ka.zu, E ki 'ke~j~ 'dej.Sa 'aw.gu a'si~ Ze.raw'me~.Ti te~j~ u~ ob.Ze'Ti.vu, i 'i.su 'pO.Di si.gi.ni.fi'kaX ki 'Za 'fejz a 'mez.ma 'koj.za 'a~.Tis
 
 ref:	O quê? reagiu Mack bruscamente.
 corrigida:	u 'ke, Re.a'Ziw 'mE.ki brus.ka~'me~.Ti
 
 ref:	Isso significa que esse cara é uma espécie de maníaco?
-corrigida:	'i.su sig.ni'fi.ka ki 'e.si 'ka.ra E u~.ma es'pE.si Di ma~'ni.a.ku
+corrigida:	'i.su si.gi.ni'fi.ka ki 'e.si 'ka.ra E u~.ma es'pE.si Di ma~'ni.a.ku
 
 ref:	Esse é algum tipo de sinal que ele deixa para se identificar, como se estivesse marcando o território ou algo assim?
 corrigida:	'e.si E aw'gu~ 'Ti.pu Di si~'naw ki 'e.li 'dej.Sa 'pa.ra si i.de~.Ti.fi'kaX, 'ko~.mu si es.Ti'vE.si maX'ka~.du u te.Ri'tO.rju ow 'aw.gu a'si~
@@ -1118,7 +1118,7 @@ ref:	Houve silêncio do outro lado.
 corrigida:	'ow.vi si'le~.sju du 'ow.tru 'la.du
 
 ref:	Mack sussurrou para Dalton: Pergunte a ela o que isso significa.
-corrigida:	'mE.ki su.su'Row 'pa.ra 'daw.to~, peR'gu~.Ti a 'E.la u ki 'i.su sig.ni'fi.ka
+corrigida:	'mE.ki su.su'Row 'pa.ra 'daw.to~, peR'gu~.Ti a 'E.la u ki 'i.su si.gi.ni'fi.ka
 
 ref:	O policial hesitou e depois obedeceu.
 corrigida:	u po.li.si'aw e.zi'tow i de'pojz o.be.de'sew
@@ -1226,7 +1226,7 @@ ref:	Pouco antes do nascer do sol, por fim desistiu.
 corrigida:	'pow.ku 'a~.Tis du na'seR du 'sOw, puX 'fi~ de.zis'Tiw
 
 ref:	Vivera em um só dia anos de emoções e agora sentia-se entorpecido, à deriva num mundo subitamente sem significado.
-corrigida:	vi've.ra e~j~ 'u~ 'sO 'Di.a 'a~.nus Di e~.mo'so~j~z i a'gO.ra se~'Ti.a si e~.toX.pe'si.du, a de'ri.va nu~ 'mu~.du su.bi.ta~'me~.Ti se~j~ sig.ni.fi'ka.du
+corrigida:	vi've.ra e~j~ 'u~ 'sO 'Di.a 'a~.nus Di e~.mo'so~j~z i a'gO.ra se~'Ti.a si e~.toX.pe'si.du, a de'ri.va nu~ 'mu~.du su.bi.ta~'me~.Ti se~j~ si.gi.ni.fi'ka.du
 
 ref:	Depois de protestos consideráveis de Nan, concordaram que seria melhor ela ir para casa com Josh e Kate.
 corrigida:	de'pojs Di pro'tEs.tus ko~.si.de'ra.vejs Di 'na~, ko~.koR'da.ra~w~ ki se'ri.a me'LOr 'E.la 'iX 'pa.ra 'ka.za ko~ 'ZOS i 'kej.Ti
@@ -1466,7 +1466,7 @@ ref:	Era praticamente impossível de se ver no escuro e cheia de buracos.
 corrigida:	'E.ra pra.Ti.ka~'me~.Ti i~.po'si.vew Di si 'veR nu es'ku.ru i 'Sej.a Di bu'ra.kus
 
 ref:	Eles a teriam ignorado se a luz de um dos rastreadores não tivesse se refletido numa calota de veículo.
-corrigida:	'e.liz a te'ri.a~w~ ig.no'ra.du si a 'lujz Di 'u~ dus Ras.tre.a'do.ris 'na~w~ Ti'vE.si si Re.fle'Ti.du 'nu~.ma ka'lO.ta Di ve'i.ku.lu
+corrigida:	'e.liz a te'ri.a~w~ i.gi.no'ra.du si a 'lujz Di 'u~ dus Ras.tre.a'do.ris 'na~w~ Ti'vE.si si Re.fle'Ti.du 'nu~.ma ka'lO.ta Di ve'i.ku.lu
 
 ref:	Debaixo do pó da estrada havia manchas de tinta verde.
 corrigida:	de'baj.Su du 'pO da es'tra.da a'vi.a 'ma~.Sas Di 'Ti~.ta 'veR.Di
@@ -1694,7 +1694,7 @@ ref:	Há ocasiões em que optamos por acreditar em algo que normalmente seria co
 corrigida:	'a o.ka.zi'o~j~z e~j~ ki op'ta~.mus pur a.kre.Di'tar e~j~ 'aw.gu ki noR.maw'me~.Ti se'ri.a ko~.si.de'ra.du ab.so.lu.ta~'me~.Ti i.Ra.si.o~'naw
 
 ref:	Isso não significa que seja mesmo irracional, mas certamente não é racional.
-corrigida:	'i.su 'na~w~ sig.ni'fi.ka ki 'se.Za 'mez.mu i.Ra.si.o~'naw, majs sEX.ta~'me~.Ti 'na~w~ E Ra.si.o~'naw
+corrigida:	'i.su 'na~w~ si.gi.ni'fi.ka ki 'se.Za 'mez.mu i.Ra.si.o~'naw, majs sEX.ta~'me~.Ti 'na~w~ E Ra.si.o~'naw
 
 ref:	Talvez exista a supra-racionalidade: a razão além das definições normais dos fatos ou da lógica baseada em dados.
 corrigida:	taw'vejz e'zis.ta a 'su.pra Ra.si.o~.na.li'da.Di, a Ra'za~w~ a'le~j~ das de.fi~.ni'so~j~s noR'majs dus 'fa.tuz ow da 'lO.Zi.ka ba.ze'a.da e~j~ 'da.dus
@@ -2012,7 +2012,7 @@ ref:	Não acredito que tenha mentido para ela!
 corrigida:	'na~w~ a.kre'Di.tu ki 'te~.Ja me~'Ti.du 'pa.ra 'E.la
 
 ref:	Mack ignorou a explosão do amigo, voltou à casa e entrou no escritório.
-corrigida:	'mE.ki ig.no'row a es.plo'za~w~ du a~'mi.gu, vow'tow a 'ka.za i e~'trow nu es.kri'tO.rju
+corrigida:	'mE.ki i.gi.no'row a es.plo'za~w~ du a~'mi.gu, vow'tow a 'ka.za i e~'trow nu es.kri'tO.rju
 
 ref:	Ali encontrou as chaves de reserva de seu carro e da casa e, hesitando apenas um instante, pegou a pequena lata.
 corrigida:	a'li e~.ko~'trow as 'Sa.vis Di Re'zER.va Di 'sew 'ka.Ru i da 'ka.za i, e.zi'ta~.du a'pe~.naz u~ i~s'ta~.Ti, pe'gow a pe'ke~.na 'la.ta
@@ -2264,10 +2264,10 @@ ref:	Na superfície nada parecia ter mudado, afora o inverno ter despido as árv
 corrigida:	na su.peX'fi.si 'na.da pa.re'si.a 'teR mu'da.du, a'fO.ra u i~'vER.nu 'teR des'pi.du az 'aR.vo.riz i u 'ma~.tu 'bra~.ku Di 'nE.vi ki ko'bri.a u lu'gaX
 
 ref:	A cabana parecia morta e vazia, mas de repente transformou-se num monstro de rosto maligno, retorcido numa careta demoníaca, olhando-o diretamente e desafiando-o a se aproximar.
-corrigida:	a ka'ba~.na pa.re'si.a 'mOX.ta i va'zi.a, majs Di Re'pe~.Ti tra~s.foR'mow si nu~ 'mo~s.tru Di 'Ros.tu ma'lig.nu, Re.toX'si.du 'nu~.ma ka're.ta de~.mo~'ni.a.ka, o'La~.du u Di.rE.ta~'me~.Ti i de.za.fi'a~.du u a si a.pro.si~'maX
+corrigida:	a ka'ba~.na pa.re'si.a 'mOX.ta i va'zi.a, majs Di Re'pe~.Ti tra~s.foR'mow si nu~ 'mo~s.tru Di 'Ros.tu ma'li.gi.nu, Re.toX'si.du 'nu~.ma ka're.ta de~.mo~'ni.a.ka, o'La~.du u Di.rE.ta~'me~.Ti i de.za.fi'a~.du u a si a.pro.si~'maX
 
 ref:	Ignorando o pânico crescente, Mack desceu com decisão os últimos 100 metros e subiu os degraus da varanda.
-corrigida:	ig.no'ra~.du u 'pa~.ni.ku kre'se.Ti, 'mE.ki de'sew ko~ de.si'za~w~ uz 'uw.Ti~.mus se~j~ 'mE.truz i su'biw us de'graws da va'ra~.da
+corrigida:	i.gi.no'ra~.du u 'pa~.ni.ku kre'se.Ti, 'mE.ki de'sew ko~ de.si'za~w~ uz 'uw.Ti~.mus se~j~ 'mE.truz i su'biw us de'graws da va'ra~.da
 
 ref:	As lembranças e o horror da última vez em que estivera ali voltaram num rompante e ele hesitou antes de empurrar a porta.
 corrigida:	as le~'bra~.saz i u o'RoR da 'uw.Ti~.ma 'vejz e~j~ ki es.Ti'vE.ra a'li vow'ta.ra~w~ nu~ Ro~'pa~.Ti i 'e.li e.zi'tow 'a~.Tis Di e~.pu'Rar a 'pOX.ta
@@ -2777,7 +2777,7 @@ ref:	Mack tentou olhar de novo para a mulher asiática.
 corrigida:	'mE.ki te~'tow o'LaR Di 'no.vu 'pa.ra a mu'LEr a.zi'a.Ti.ka
 
 ref:	Pelo que podia ver, ela talvez fosse do Norte da China, ou até mesmo de etnia mongólica.
-corrigida:	'pe.lu ki po'Di.a 'veX, 'E.la taw'vejs 'fo.si du 'nOX.Ti da 'Si~.na, ow a'tE 'mez.mu Di eT'ni.a mo~'gO.li.ka
+corrigida:	'pe.lu ki po'Di.a 'veX, 'E.la taw'vejs 'fo.si du 'nOX.Ti da 'Si~.na, ow a'tE 'mez.mu Di e.Ti'ni.a mo~'gO.li.ka
 
 ref:	Era difícil dizer, porque seus olhos precisavam se esforçar para enxergá-la.
 corrigida:	'E.ra Di'fi.siw Di'zeX, puX'ke 'sewz 'O.Lus pre.si'za.va~w~ si es.foX'saX 'pa.ra e~.SeR'ga la
@@ -2846,7 +2846,7 @@ ref:	Certo, você não precisa me chamar de Elousia.
 corrigida:	'sEX.tu, vo'se 'na~w~ pre'si.za mi Sa~'maR Di e.low'zi.a
 
 ref:	É só um nome de que eu gosto e que tem um significado particular para mim.
-corrigida:	E 'sO u~ 'no~.mi Di ki ew 'gOs.tu i ki te~j~ u~ sig.ni.fi'ka.du paX.Ti.ku'laX 'pa.ra 'mi~
+corrigida:	E 'sO u~ 'no~.mi Di ki ew 'gOs.tu i ki te~j~ u~ si.gi.ni.fi'ka.du paX.Ti.ku'laX 'pa.ra 'mi~
 
 ref:	Então, ela cruzou os braços e pôs a mão sob o queixo, como se pensasse com intensidade especial, pode me chamar do mesmo modo como Nan me chama.
 corrigida:	e~'ta~w~, 'E.la kru'zow us 'bra.suz i 'pojz a 'ma~w~ sob u 'kej.Su, 'ko~.mu si pe~'sa.si ko~ i~.te~.si'da.Di es.pe.si'aw, 'pO.Di mi Sa~'maR du 'mez.mu 'mO.du 'ko~.mu 'na~ mi 'Sa~.ma

@@ -83,7 +83,7 @@ ref:	O interior do chalé era mais espaçoso do que ele havia imaginado.
 inf:	u i~.te.ri'oR du Sa.lEe'ra 'majz es.pa'so.zu du ki 'e.li a'vi.a i~.ma.Zi~'na.du
 
 ref:	Papai estava trabalhando em alguma coisa, de costas para ele, com farinha voando enquanto se balançava ao ritmo da música ou do que quer que estivesse escutando.
-inf:	pa'paj es'ta.va tra.ba'La~.du e~j~ aw'gu~.ma 'koj.za, Di 'kOs.tas 'pa.ra 'e.li, ko~ fa'ri~.Ja vo'a~.du e~'kwa~.tu si ba.la~'sa.va aw 'RiT.mu da 'mu.zi.ka ow du ki 'kEX ki es.Ti'vE.si es.ku'ta~.du
+inf:	pa'paj es'ta.va tra.ba'La~.du e~j~ aw'gu~.ma 'koj.za, Di 'kOs.tas 'pa.ra 'e.li, ko~ fa'ri~.Ja vo'a~.du e~'kwa~.tu si ba.la~'sa.va aw 'Ri.Ti.mu da 'mu.zi.ka ow du ki 'kEX ki es.Ti'vE.si es.ku'ta~.du
 
 ref:	A canção obviamente acabou, marcada por duas últimas sacudidas de ombros e quadris.
 inf:	a ka~'sa~w~ Ob.vi.a~'me~.Ti a.ka'bow, maX'ka.da puR 'du.az 'uw.Ti~.mas sa.ku'Di.das Di 'o~.bruz i kwa'dris
@@ -395,7 +395,7 @@ ref:	Ela parou apenas brevemente e depois voltou para sua tarefa, falando com el
 inf:	'E.la pa'row a'pe~.nas brE.ve~'me~.Ti i de'pojs vow'tow 'pa.ra 'su.a ta'rE.fa, fa'la~.du ko~ 'e.li puX 'si~.ma du 'o~.bru
 
 ref:	Será que liberdade significa que você tem permissão para fazer o que quer?
-inf:	se'ra ki li.beR'da.Di sig.ni'fi.ka ki vo'se te~j~ peR.mi'sa~w~ 'pa.ra fa'zer u ki 'kEX
+inf:	se'ra ki li.beR'da.Di si.gi.ni'fi.ka ki vo'se te~j~ peR.mi'sa~w~ 'pa.ra fa'zer u ki 'kEX
 
 ref:	Ou poderíamos falar sobre tudo o que limita a sua liberdade.
 inf:	ow po.de'ri.a~.mus fa'laX 'so.bri 'tu.du u ki li~'mi.ta a 'su.a li.beR'da.Di
@@ -407,7 +407,7 @@ ref:	Existem as doenças de sua alma que o inibem e amarram, as influências soc
 inf:	e'zis.te~j~ as do'e~.sas Di 'su.a 'aw.ma ki u i~'ni.be~j~ i a~'ma.Ra~w~, az i~.flu'e~.sjas so.si'ajz es'tER.nas, uz 'a.bi.tus ki kri'a.ra~w~ 'E.luz i ka~'mi~.Jus si~'nap.Ti.kus nu 'sew 'sE.re.bru
 
 ref:	E há os anúncios, as propagandas e os paradigmas.
-inf:	i 'a uz a~'nu~.sjus, as pro.pa'ga~.daz i us pa.ra'Dig.mas
+inf:	i 'a uz a~'nu~.sjus, as pro.pa'ga~.daz i us pa.ra'Di.gi.mas
 
 ref:	Diante dessa confluência de inibidores multifacetados, ela suspirou, o que é de fato a liberdade?
 corrigida:	Di'a~.Ti 'dE.sa ko~.flu'e~.sja Di i~.ni.bi'do.ris muw.Ti.fa.se'ta.dus, 'E.la sus.pi'row, u ki E Di 'fa.tu a li.beR'da.Di
@@ -467,7 +467,7 @@ ref:	Jamais pense que o que meu filho optou por fazer não nos custou caro.
 inf:	Za~'majs 'pe~.si ki u ki 'mew 'fi.Lu op'tow puX fa'zeR 'na~w~ nus kus'tow 'ka.ru
 
 ref:	O amor sempre deixa uma marca significativa, ela declarou, baixinho e gentilmente.
-inf:	u a~'moX 'se~.pri 'dej.Sa u~.ma 'maX.ka sig.ni.fi.ka'Ti.va, 'E.la de.kla'row, baj'Si~.Ju i Ze~.Tiw'me~.Ti
+inf:	u a~'moX 'se~.pri 'dej.Sa u~.ma 'maX.ka si.gi.ni.fi.ka'Ti.va, 'E.la de.kla'row, baj'Si~.Ju i Ze~.Tiw'me~.Ti
 
 ref:	Nós estávamos lá, juntos.
 inf:	'nOjz es'ta.va~.mus 'la, 'Zu~.tus
@@ -656,7 +656,7 @@ ref:	Bom, realmente não faço idéia.
 inf:	'bo~, Re.aw'me~.Ti 'na~w~ 'fa.su i'dEj.a
 
 ref:	Quer dizer, você é Deus e eu não sou. Ele não conseguiu afastar o sarcasmo da voz, mas ela o ignorou completamente.
-corrigida:	'kER Di'zeX, vo'se E 'dewz i ew 'na~w~ 'sow, 'e.li 'na~w~ ko~.se'giw a.fas'tar u saX'kaz.mu da 'vOjs, majz 'E.la u ig.no'row ko~.plE.ta~'me~.Ti
+corrigida:	'kER Di'zeX, vo'se E 'dewz i ew 'na~w~ 'sow, 'e.li 'na~w~ ko~.se'giw a.fas'tar u saX'kaz.mu da 'vOjs, majz 'E.la u i.gi.no'row ko~.plE.ta~'me~.Ti
 
 ref:	É, mas não exatamente.
 inf:	E, majs 'na~w~ e.za.ta~'me~.Ti
@@ -737,7 +737,7 @@ ref:	Seria como se este pássaro, cuja natureza é voar, optasse somente por and
 corrigida:	se'ri.a 'ko~.mu si 'es.Ti 'pa.sa.ru, 'ku.Za na.tu're.za E vo'aX, op'ta.si sO~'me~.Ti pur a~'dar i peR.ma~.ne'seR nu 'Sa~w~
 
 ref:	Ele não deixa de ser pássaro, mas isso altera significativamente sua experiência de vida.
-inf:	'e.li 'na~w~ 'dej.Sa Di 'seX 'pa.sa.ru, majz 'i.su aw'tE.ra sig.ni.fi.ka.Ti.va~'me~.Ti 'su.a es.pe.ri'e~.sja Di 'vi.da
+inf:	'e.li 'na~w~ 'dej.Sa Di 'seX 'pa.sa.ru, majz 'i.su aw'tE.ra si.gi.ni.fi.ka.Ti.va~'me~.Ti 'su.a es.pe.ri'e~.sja Di 'vi.da
 
 ref:	Ela parou para se certificar de que Mack ainda estava acompanhando seu raciocínio.
 inf:	'E.la pa'row 'pa.ra si seX.Ti.fi'kaR Di ki 'mE.ki a'i~.da es'ta.va a.ko~.pa~'Ja~.du 'sew Ra.si.o'si~.nju
@@ -800,7 +800,7 @@ ref:	Lembre-se disso: os seres humanos não são definidos por suas limitações
 inf:	'le~.bri si 'Di.su, us 'se.riz u~'ma~.nus 'na~w~ 'sa~w~ de.fi~'ni.dus puX 'su.as li~.mi.ta'so~j~s, i 'si~ 'pe.laz i~.te~'so~j~s ki 'te~.Ju 'pa.ra 'e.lis
 
 ref:	Não pelo que parecem ser, mas por tudo que significa ser criado à minha imagem.
-inf:	'na~w~ 'pe.lu ki pa'rE.se~j~ 'seX, majs puX 'tu.du ki sig.ni'fi.ka 'seX kri'a.du a 'mi~.Ja i~'ma.Ze~j~
+inf:	'na~w~ 'pe.lu ki pa'rE.se~j~ 'seX, majs puX 'tu.du ki si.gi.ni'fi.ka 'seX kri'a.du a 'mi~.Ja i~'ma.Ze~j~
 
 ref:	Mack sentiu necessidade de sentar-se.
 inf:	'mE.ki se~'Tiw ne.se.si'da.Di Di se~'taX si
@@ -1100,7 +1100,7 @@ ref:	Ele também respondeu a perguntas sobre os amigos, e Sarayu pareceu mais in
 inf:	'e.li ta~'be~j~ Res.po~'dew a peR'gu~.tas 'so.bri uz a~'mi.gus, i sa.ra'ju pa.re'sew 'majz i~.te.re'sa.da e~j~ peR.gu~'taX puR 'na~
 
 ref:	Bom, estou aqui falando sobre meus filhos, meus amigos e sobre Nan, mas vocês já sabem tudo o que vou dizer, não é?
-inf:	'bo~, es'tow a'ki fa'la~.du 'so.bri 'mews 'fi.Lus, 'mewz a~'mi.guz i 'so.bri 'na~, majs vo'sej'Za sa.be~j~ 'tu.du u ki 'vow Di'zeX, 'na~w~ E
+inf:	'bo~, es'tow a'ki fa'la~.du 'so.bri 'mews 'fi.Lus, 'mewz a~'mi.guz i 'so.bri 'na~, majs vo'sej'Za 'sa.be~j~ 'tu.du u ki 'vow Di'zeX, 'na~w~ E
 
 ref:	Vocês estão agindo como se ouvissem pela primeira vez.
 inf:	vo'sejz es'ta~w~ a'Zi~.du 'ko~.mu si ow'vi.se~j~ 'pe.la pri~'mej.ra 'vejs
@@ -1193,7 +1193,7 @@ ref:	Em vez disso, Jesus estendeu as mãos sobre a mesa e segurou as de Papai, c
 inf:	e~j~ 'vejz 'Di.su, Ze'zujz es.te~'dew as 'ma~w~s 'so.bri a 'me.za i se.gu'row as Di pa'paj, ko~ as si.ka'tri.ziz a'gO.ra kla.ra~'me~.Ti vi'zi.vejs
 
 ref:	Mack ficou sentado, em extremo fascínio, vendo Jesus beijar as mãos do Pai, depois olhar fundo nos seus olhos e finalmente dizer: Papai, adorei ver como hoje você se tornou completamente disponível para assumir a dor de Mack e deixar que ele escolhesse seu próprio ritmo.
-corrigida:	'mE.ki fi'kow se~'ta.du, e~j~ es'tre~.mu fa'si~.nju, 've~.du Ze'zujs bej'Zar as 'ma~w~s du 'paj, de'pojz o'LaX 'fu~.du nus 'sewz 'O.Luz i fi~.naw'me~.Ti Di'zeX, pa'paj, a.do'rej 'veX 'ko~.mu 'o.Zi vo'se si toR'now ko~.plE.ta~'me~.Ti Dis.po~'ni.vew 'pa.ra a.su~'mir a 'doR Di 'mE.ki i dej'SaX ki 'e.li es.ko'Le.si 'sew 'prO.prju 'RiT.mu
+corrigida:	'mE.ki fi'kow se~'ta.du, e~j~ es'tre~.mu fa'si~.nju, 've~.du Ze'zujs bej'Zar as 'ma~w~s du 'paj, de'pojz o'LaX 'fu~.du nus 'sewz 'O.Luz i fi~.naw'me~.Ti Di'zeX, pa'paj, a.do'rej 'veX 'ko~.mu 'o.Zi vo'se si toR'now ko~.plE.ta~'me~.Ti Dis.po~'ni.vew 'pa.ra a.su~'mir a 'doR Di 'mE.ki i dej'SaX ki 'e.li es.ko'Le.si 'sew 'prO.prju 'Ri.Ti.mu
 
 ref:	Você o honrou e me honrou.
 inf:	vo'se u o~'Row i mi o~'Row
@@ -1418,7 +1418,7 @@ ref:	É um nome simples de uma das nossas línguas humanas.
 corrigida:	E u~ 'no~.mi 'si~.plis Di u~.ma das 'nO.sas 'li~.gwaz u~'ma~.nas
 
 ref:	Significa Vento, na verdade um vento comum.
-inf:	sig.ni'fi.ka 've~.tu, na veR'da.Di u~ 've~.tu ko~'mu~
+inf:	si.gi.ni'fi.ka 've~.tu, na veR'da.Di u~ 've~.tu ko~'mu~
 
 ref:	Ela adora esse nome.
 inf:	'E.la a'do.ra 'e.si 'no~.mi
@@ -1439,7 +1439,7 @@ ref:	Esse é um nome maravilhoso.
 corrigida:	'e.si E u~ 'no~.mi ma.ra.vi'Lo.zu
 
 ref:	El é meu nome como Deus Criador, mas ousia é ser, ou aquilo que é verdadeiramente real, de modo que o nome significa o Deus Criador que é verdadeiramente real e a base de todo o ser.
-inf:	'Ew E 'mew 'no~.mi 'ko~.mu 'dews kri.a'doX, majz ow'zi.a E 'seX, ow a'ki.lu ki E veR.da.dej.ra~'me~.Ti Re'aw, Di 'mO.du ki u 'no~.mi sig.ni'fi.ka u 'dews kri.a'doX ki E veR.da.dej.ra~'me~.Ti Re'aw i a 'ba.zi Di 'to.du u 'seX
+inf:	'Ew E 'mew 'no~.mi 'ko~.mu 'dews kri.a'doX, majz ow'zi.a E 'seX, ow a'ki.lu ki E veR.da.dej.ra~'me~.Ti Re'aw, Di 'mO.du ki u 'no~.mi si.gi.ni'fi.ka u 'dews kri.a'doX ki E veR.da.dej.ra~'me~.Ti Re'aw i a 'ba.zi Di 'to.du u 'seX
 
 ref:	Isso é que é um nome bonito!
 corrigida:	'i.su E ki E u~ 'no~.mi bo~'ni.tu
@@ -1712,7 +1712,7 @@ ref:	Mas em algum lugar dentro de si esperava estar errado.
 inf:	majz e~j~ aw'gu~ lu'gaR 'de~.tru Di 'si es.pe'ra.va es'tar e'Ra.du
 
 ref:	Crescer significa mudar e mudar envolve riscos, uma passagem do conhecido para o desconhecido.
-inf:	kre'seX sig.ni'fi.ka mu'dar i mu'dar e~'vOw.vi 'Ris.kus, u~.ma pa'sa.Ze~j~ du ko~.Je'si.du 'pa.ra u des.ko~.Je'si.du
+inf:	kre'seX si.gi.ni'fi.ka mu'dar i mu'dar e~'vOw.vi 'Ris.kus, u~.ma pa'sa.Ze~j~ du ko~.Je'si.du 'pa.ra u des.ko~.Je'si.du
 
 ref:	Quando chegou no quarto, Mack descobriu que as roupas que havia deixado no carro estavam dobradas em cima da cômoda ou penduradas no armário.
 inf:	'kwa~.du Se'gow nu 'kwaX.tu, 'mE.ki des.ko'briw ki as 'Row.pas ki a'vi.a dej'Sa.du nu 'ka.Ru es'ta.va~w~ do'bra.daz e~j~ 'si~.ma da 'ko~.mo.da ow pe~.du'ra.das nu aR'ma.rju
@@ -2276,7 +2276,7 @@ ref:	E não é?
 inf:	i 'na~w~ E
 
 ref:	É o paradigma humano, acrescentou Papai, após retornar com mais comida.
-corrigida:	E u pa.ra'Dig.ma u~'ma~.nu, a.kre.se~'tow pa'paj, a'pOjs Re.toR'naX ko~ 'majs ko~'mi.da
+corrigida:	E u pa.ra'Di.gi.ma u~'ma~.nu, a.kre.se~'tow pa'paj, a'pOjs Re.toR'naX ko~ 'majs ko~'mi.da
 
 ref:	É como água para os peixes, tão natural que permanece sem ser vista e questionada.
 corrigida:	E 'ko~.mu 'a.gwa 'pa.ra us 'pej.Sis, 'ta~w~ na.tu'raw ki peR.ma~'nE.si se~j~ 'seR 'vis.ta i kes.Ti.o~'na.da
@@ -2414,13 +2414,13 @@ ref:	Tenta dar sentido ao mundo em que vive baseado numa visão pequena e incomp
 inf:	'te~.ta 'daX se~'Ti.du aw 'mu~.du e~j~ ki 'vi.vi ba.ze'a.du 'nu~.ma vi'za~w~ pe'ke~.na i i~.ko~'plE.ta da Re.a.li'da.Di
 
 ref:	É como olhar um desfile pelo buraco minúsculo da dor, da mágoa, do egocentrismo e do poder e acreditar que você está sozinho e é insignificante.
-corrigida:	E 'ko~.mu o'Lar u~ des'fi.li 'pe.lu bu'ra.ku mi~'nus.ku.lu da 'doX, da 'ma.gwa, du e.go.se~'triz.mu i du po'der i a.kre.Di'taX ki vo'se es'ta sO'zi~.Ju i E i~.sig.ni.fi'ka~.Ti
+corrigida:	E 'ko~.mu o'Lar u~ des'fi.li 'pe.lu bu'ra.ku mi~'nus.ku.lu da 'doX, da 'ma.gwa, du e.go.se~'triz.mu i du po'der i a.kre.Di'taX ki vo'se es'ta sO'zi~.Ju i E i~.si.gi.ni.fi'ka~.Ti
 
 ref:	Tudo isso contém mentiras poderosas.
 inf:	'tu.du 'i.su ko~'te~j~ me~'Ti.ras po.de'rO.zas
 
 ref:	Você vê a dor e a morte como males definitivos, e Deus como o traidor definitivo, ou talvez, na melhor das hipóteses, como fundamentalmente indigno de confiança.
-inf:	vo'se 've a 'dor i a 'mOX.Ti 'ko~.mu 'ma.lis de.fi~.ni'Ti.vus, i 'dews 'ko~.mu u traj'doR de.fi~.ni'Ti.vu, ow taw'vejs, na me'LOR daz i'pO.te.zis, 'ko~.mu fu~.da~.me~.taw'me~.Ti i~'Dig.nu Di ko~.fi'a~.sa
+inf:	vo'se 've a 'dor i a 'mOX.Ti 'ko~.mu 'ma.lis de.fi~.ni'Ti.vus, i 'dews 'ko~.mu u traj'doR de.fi~.ni'Ti.vu, ow taw'vejs, na me'LOR daz i'pO.te.zis, 'ko~.mu fu~.da~.me~.taw'me~.Ti i~'Di.gi.nu Di ko~.fi'a~.sa
 
 ref:	Você dita os termos, julga meus atos e me declara culpado.
 inf:	vo'se 'Di.ta us 'teR.mus, 'Zuw.ga 'mewz 'a.tuz i mi de'kla.ra kuw'pa.du
@@ -2528,7 +2528,7 @@ ref:	Mack concentrou-se no caminho.
 inf:	'mE.ki ko~.se~'trow si nu ka~'mi~.Ju
 
 ref:	Enquanto rodeava as árvores, viu pela primeira vez um magnífico jardim e pomar, contido num terreno que não teria mais de 4 mil metros quadrados.
-inf:	e~'kwa~.tu Ro.de'a.va az 'aR.vo.ris, 'viw 'pe.la pri~'mej.ra 'vejz u~ mag'ni.fi.ku ZaR'Di~ i po~'maX, ko~'Ti.du nu~ te'Re~.nu ki 'na~w~ te'ri.a 'majs Di 'kwa.tru 'miw 'mE.trus kwa'dra.dus
+inf:	e~'kwa~.tu Ro.de'a.va az 'aR.vo.ris, 'viw 'pe.la pri~'mej.ra 'vejz u~ ma.gi'ni.fi.ku ZaR'Di~ i po~'maX, ko~'Ti.du nu~ te'Re~.nu ki 'na~w~ te'ri.a 'majs Di 'kwa.tru 'miw 'mE.trus kwa'dra.dus
 
 ref:	Mack imaginara um jardim em estilo inglês, perfeitamente cuidado e organizado.
 inf:	'mE.ki i~.ma.Zi~'na.ra u~ ZaR'Di~ e~j~ es'Ti.lu i~'glejs, peX.fej.ta~'me~.Ti kuj'da.du i oR.ga~.ni'za.du
@@ -2660,7 +2660,7 @@ ref:	Mack deu de ombros, calçou as luvas e começou a amontoar em pilhas o estr
 inf:	'mE.ki 'dew Di 'o~.brus, kaw'sow as 'lu.vaz i ko~.me'sow a a~.mo~.to'ar e~j~ 'pi.Laz u es'tra.gu ki 'E.la es'ta.va fa'ze~.du
 
 ref:	Lutava para acompanhar o ritmo.
-inf:	lu'ta.va 'pa.ra a.ko~.pa~'Jar u 'RiT.mu
+inf:	lu'ta.va 'pa.ra a.ko~.pa~'Jar u 'Ri.Ti.mu
 
 ref:	Para ela talvez não fosse um esforço, mas para ele era um trabalho estafante.
 inf:	'pa.ra 'E.la taw'vejz 'na~w~ 'fo.si u~ es'foX.su, majs 'pa.ra 'e.li 'E.ra u~ tra'ba.Lu es.ta'fa~.Ti
@@ -2786,7 +2786,7 @@ ref:	Sua pergunta parte do princípio de que o veneno é algo ruim, uma coisa se
 corrigida:	'su.a peR'gu~.ta 'paX.Ti du pri~'si.puj Di ki u ve~'ne~.nu E 'aw.gu Ru'i~, u~.ma 'koj.za se~j~ pro'pO.zi.tu
 
 ref:	Muitas das supostas plantas ruins, como esta, contêm propriedades incríveis de curar ou são necessárias para criar maravilhas magníficas quando combinadas com outros elementos.
-inf:	'mu~j~.tas das su'pOs.tas 'pla~.tas Ru'i~s, 'ko~.mu 'Es.ta, ko~'te~j~ pro.pri.e'da.Diz i~'kri.vejs Di ku'rar ow 'sa~w~ ne.se'sa.rjas 'pa.ra kri'aR ma.ra'vi.Las mag'ni.fi.kas 'kwa~.du ko~.bi~'na.das ko~ 'ow.truz e.le~'me~.tus
+inf:	'mu~j~.tas das su'pOs.tas 'pla~.tas Ru'i~s, 'ko~.mu 'Es.ta, ko~'te~j~ pro.pri.e'da.Diz i~'kri.vejs Di ku'rar ow 'sa~w~ ne.se'sa.rjas 'pa.ra kri'aR ma.ra'vi.Las ma.gi'ni.fi.kas 'kwa~.du ko~.bi~'na.das ko~ 'ow.truz e.le~'me~.tus
 
 ref:	Os humanos apressam-se em declarar que algo é bom ou ruim sem saber de fato.
 corrigida:	uz u~'ma~.nuz a'prE.sa~w~ si e~j~ de.kla'raX ki 'aw.gu E 'bo~ ow Ru'i~ se~j~ sa'beR Di 'fa.tu

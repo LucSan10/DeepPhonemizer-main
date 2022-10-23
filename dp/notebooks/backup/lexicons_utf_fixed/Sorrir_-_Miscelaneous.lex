@@ -155,13 +155,13 @@ ref:	Steve Wilson
 corrigida:	'sti.vi 'wiw.so~w~
 
 ref:	John Wolcot
-corrigida:	'Zo~w~ wow'kOT
+corrigida:	'Zo~w~ wow'kO.Ti
 
 ref:	Susannah Morris, 10 anos
 corrigida:	su'za~.na 'mO.Ris, 'dEjz a~'nus
 
 ref:	Wallace Stegner
-corrigida:	'wa.la.si 'stEg'neX
+corrigida:	'wa.la.si 'stE.gi'neX
 
 ref:	Madre Teresa, em Heart of Joy
 corrigida:	'ma.dri te're.za, e~j~ 'RaX.Ti of 'ZOj

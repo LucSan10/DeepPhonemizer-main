@@ -47,7 +47,7 @@ ref:	Brown
 corrigida:	'braw~
 
 ref:	Cavs
-corrigida:	'kavs
+corrigida:	'ka.vis
 
 ref:	Chloe OBrien
 corrigida:	'klo.i o'braj.e~
@@ -173,7 +173,7 @@ ref:	Kurt Cobain
 corrigida:	'kuX.Ti ko'be~j~
 
 ref:	Kutcher
-corrigida:	'kuT.SeX
+corrigida:	'ku.Ti.SeX
 
 ref:	Lady Gaga
 corrigida:	'lej.Di 'ga.ga
@@ -191,7 +191,7 @@ ref:	Ledger
 corrigida:	'lE.DeX
 
 ref:	Led Zeppelin
-corrigida:	'lEd 'zE.pe.li~
+corrigida:	'lE.Di 'zE.pe.li~
 
 ref:	Lee
 corrigida:	'li
@@ -254,7 +254,7 @@ ref:	Queen
 corrigida:	'kwi~j~
 
 ref:	Red Hot Chili Peppers
-corrigida:	'RED 'ROT 'Ti.li 'pE.peXs
+corrigida:	'RED 'RO.Ti 'Ti.li 'pE.peXs
 
 ref:	Reeves
 corrigida:	'Ri.vis
@@ -311,7 +311,7 @@ ref:	Two and a half man
 corrigida:	'tu e~.d a 'Xaw.f 'me~j~
 
 ref:	United States of America
-corrigida:	u~'naj.ted 'stej.Tiz of a~'mE.ri.ka
+corrigida:	u~'naj.te.Di 'stej.Tiz of a~'mE.ri.ka
 
 ref:	U.S.A.
 corrigida:	'u 'E.si 'a
@@ -323,7 +323,7 @@ ref:	Warner Channel
 corrigida:	'waR.neX 'Sa~.new
 
 ref:	Warren Buffet
-corrigida:	wa're~ bu'ffeT
+corrigida:	wa'Re~ bu'fe
 
 ref:	Washington
 corrigida:	'wa.Si~.to~

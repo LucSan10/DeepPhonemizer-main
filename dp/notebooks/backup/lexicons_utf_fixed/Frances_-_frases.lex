@@ -230,7 +230,7 @@ ref:	plateau (platô)
 corrigida:	pla'to
 
 ref:	pot-pourri
-corrigida:	'potS pu'Ri
+corrigida:	'po.Ti pu'Ri
 
 ref:	rendez-vous
 corrigida:	Re~'dejs 'vus

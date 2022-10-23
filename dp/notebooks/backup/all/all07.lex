@@ -2,7 +2,7 @@ ref:	Não quero apoio moral. Quero apoio financeiro.
 inf:	'na~w~ 'kE.ru a'pOj.u mo'raw, 'kE.ru a'poj.u fi~.na~'sej.ru
 
 ref:	Me destes forças quando nem eu acreditava em mim, me destes apoio mesmo com a ignorancia e o medo me tomava conta , me destes amor quando mais precisei .
-inf:	mi 'dEs.Tis 'foX.sas 'kwa~.du ne~j~ ew a.kre.Di'ta.va e~j~ 'mi~, mi 'dEs.Tiz a'poj.u 'mez.mu ko~ a ig.no.ra~'si.a i u 'me.du mi to~'ma.va 'ko~.ta, mi 'dEs.Tiz a~'moX 'kwa~.du 'majs pre.si'zej
+inf:	mi 'dEs.Tis 'foX.sas 'kwa~.du ne~j~ ew a.kre.Di'ta.va e~j~ 'mi~, mi 'dEs.Tiz a'poj.u 'mez.mu ko~ a i.gi.no.ra~'si.a i u 'me.du mi to~'ma.va 'ko~.ta, mi 'dEs.Tiz a~'moX 'kwa~.du 'majs pre.si'zej
 
 ref:	Olhe para o lado e veja quantos precisam de um simples apoio, de uma palavra, de uma  ação da sua parte para aliviar uma angústia, uma tristeza. O que você está esperando?
 inf:	'O.Li 'pa.ra u 'la.du i 've.Za 'kwa~.tus pre'si.za~w~ Di u~ 'si~.pliz a'poj.u, Di u~.ma pa'la.vra, Di u~.ma a'sa~w~ da 'su.a 'paX.Ti 'pa.ra a.li.vi'ar u~.ma a~'gus.Tja, u~.ma tris'te.za, u ki vo'se es'ta es.pe'ra~.du
@@ -44,7 +44,7 @@ ref:	A TERRA. O nordestino é valente também numa luta que nunca se encerra o a
 corrigida:	a 'tE.Ra, u noR.des'Ti~.nu E va'le~.Ti ta~'be~j~ 'nu~.ma 'lu.ta ki 'nu~.ka si e~'sE.Ra u a'poj.u ki pre'si.za 'na~w~ 've~j~ i a 'se.ka E 'majs 'fOX.Ti na 'gE.Ra i a 'u~.ni.ka 'foX.sa ki 'e.li te~j~ E u se~.Ti~'me~.tu Di a~'moX 'pe.la 'tE.Ra
 
 ref:	Um líder que deseje apenas governar deve ter o apoio da elite do país, já aquele que quer ser lembrado através dos tempos e tornar-se um mito deve buscar o apoio das massas.
-inf:	u~ 'li.deX ki de'zE.Zi a'pe~.nas go.veR'naR 'dE.vi 'ter u a'poj.u da e'li.Ti du pa'is, 'Za a'ke.li ki 'kEX 'seR le~'bra.du a.tra'vEjs dus 'te~.puz i toR'naX si u~ 'mi.tu 'dE.vi bus'kar u a'poj.u das 'ma.sas
+inf:	u~ 'li.deX ki de'ze.Zi a'pe~.nas go.veR'naR 'dE.vi 'ter u a'poj.u da e'li.Ti du pa'is, 'Za a'ke.li ki 'kEX 'seR le~'bra.du a.tra'vEjs dus 'te~.puz i toR'naX si u~ 'mi.tu 'dE.vi bus'kar u a'poj.u das 'ma.sas
 
 ref:	Certa vez disse o pensador, digas o que pensa e descubra o ódio opressor, ou o apoio de quem por ti tem puro amor.
 inf:	'sEX.ta 'vejz 'Di.si u pe~.sa'doX, 'Di.gaz u ki 'pe~.sa i des'ku.bra u 'O.Dju o.pre'soX, ow u a'poj.u Di 'ke~j~ puX 'Ti te~j~ 'pu.ru a~'moX
@@ -125,7 +125,7 @@ ref:	Não importa o tamanho de seus problemas, apenas você pode decidir se eles
 inf:	'na~w~ i~'pOX.ta u ta~'ma~.Ju Di 'sews pro'ble~.mas, a'pe~.nas vo'se 'pO.Di de.si'DiX si 'e.lis seR.vi'ra~w~ Di a'poj.u 'pa.ra ki vo'se si le'va~.Ti ow ko~.Ti~'nuj nu 'Sa~w~
 
 ref:	Nosso apoio para Missões não vem de Catedrais, mas de pequenas igrejas. Não vem de potentes FM, mas de Web Rádios. Não de Magnatas, mas de pessoas Gratas. Pr. Teófilo Karkle.
-inf:	'nO.su a'poj.u 'pa.ra mi'so~j~s 'na~w~ 've~j~ Di ka.te'drajs, majs Di pe'ke~.naz i'gre.Zas, 'na~w~ 've~j~ Di po'te~.Tiz 'E.fi e~'mi, majs Di web 'Ra.Djus, 'na~w~ Di mag'na.tas, majs Di pe'so.as 'gra.tas, pX, te'O.fi.lu 'kaX.kli
+inf:	'nO.su a'poj.u 'pa.ra mi'so~j~s 'na~w~ 've~j~ Di ka.te'drajs, majs Di pe'ke~.naz i'gre.Zas, 'na~w~ 've~j~ Di po'te~.Tiz 'E.fi e~'mi, majs Di web 'Ra.Djus, 'na~w~ Di ma.gi'na.tas, majs Di pe'so.as 'gra.tas, pX, te'O.fi.lu 'kaX.kli
 
 ref:	O ambiente familiar é um local onde deve existir harmonia, afetos, proteção e todo o tipo de apoio necessário.
 corrigida:	u a~.bi'e~.Ti fa~.mi.li'ar E u~ lo'kaw 'o~.Di 'dE.vi e.zis'Tir aR.mo~'ni.a, a'fE.tus, pro.te'sa~w~ i 'to.du u 'Ti.pu Di a'poj.u ne.se'sa.rju
@@ -161,7 +161,7 @@ ref:	Você somente terá apoio ou incentivo daqueles que compreenderem a tua lut
 inf:	vo'se sO~'me~.Ti te'ra a'poj.u ow i~.se~'Ti.vu da'ke.lis ki ko~.pre.e~'de.re~j~ a 'tu.a 'lu.ta
 
 ref:	Minha informação é a minha alavanca. Meus colaboradores são o meu apoio. Dê-me uma alavanca e um ponto de apoio e mostrarei a todos vocês como se levanta o Mundo.
-corrigida:	'mi~.Ja i~.foR.ma'sa~w~ E a 'mi~.Ja a.la'va~.ka, 'mews ko.la.bo.ra'do.ris 'sa~w~ u 'mew a'poj.u, u~.ma a.la'va~.ka i u~ 'po~.tu Di a'poj.u i mos.tra'rej a 'to.dus vo'sejs 'ko~.mu si le'va~.ta u 'mu~.du
+corrigida:	'mi~.Ja i~.foR.ma'sa~w~ E a 'mi~.Ja a.la'va~.ka, 'mews ko.la.bo.ra'do.ris 'sa~w~ u 'mew a'poj.u, 'de mi u~.ma a.la'va~.ka i u~ 'po~.tu Di a'poj.u i mos.tra'rej a 'to.dus vo'sejs 'ko~.mu si le'va~.ta u 'mu~.du
 
 ref:	Nos dias de hoje, amigo de verdade é aquele que sempre oferece apoio, mesmo você não precisando. Está sempre ao seu lado. Isto, sim, é que é amigo.
 corrigida:	nus 'Di.as Di 'o.Zi, a~'mi.gu Di veR'da.Di E a'ke.li ki 'se~.pri o.fe'rE.si a'poj.u, 'mez.mu vo'se 'na~w~ pre.si'za~.du, es'ta 'se~.pri aw 'sew 'la.du, 'is.tu, 'si~, E ki E a~'mi.gu
@@ -170,7 +170,7 @@ ref:	A amizade é mais que afinidade, apoio, carinho, respeito ou dedicação: �
 corrigida:	a a~.mi'za.Di E 'majs ki a.fi~.ni'da.Di, a'poj.u, ka'ri~.Ju, Res'pej.tu ow de.Di.ka'sa~w~, E u~.ma 'be~.sa~w~ ki si muw.Ti'pli.ka e~j~ 'ka.da 'ZEs.tu i pa'la.vra, e~j~ 'ka.da si'le~.sju e~j~ ki Dis'kuX.sa~w~ 'nO.sa 'aw.ma i ko.ra'sa~w~
 
 ref:	Submeter pacientes ao tratamento oncológico sem o apoio de um dentista especialista em estomatologia e capacitado no uso do laser, significa condená-los a um sofrimento desnecessário.
-inf:	sub.me'teX pa.si'e~.Tiz aw tra.ta~'me~.tu o~.ko'lO.Zi.ku se~j~ u a'poj.u Di u~ de~'Tis.ta es.pe.si.a'lis.ta e~j~ es.to~.ma.to.lo'Zi.a i ka.pa.si'ta.du nu 'u.zu du la'zeX, sig.ni'fi.ka ko~.de~'na lus a u~ so.fri~'me~.tu dez.ne.se'sa.rju
+inf:	sub.me'teX pa.si'e~.Tiz aw tra.ta~'me~.tu o~.ko'lO.Zi.ku se~j~ u a'poj.u Di u~ de~'Tis.ta es.pe.si.a'lis.ta e~j~ es.to~.ma.to.lo'Zi.a i ka.pa.si'ta.du nu 'u.zu du la'zeX, si.gi.ni'fi.ka ko~.de~'na lus a u~ so.fri~'me~.tu dez.ne.se'sa.rju
 
 ref:	Casamento é assim: os homens têm lá seus dias piores, cabe a nós dar todo apoio.
 inf:	ka.za~'me~.tu E a'si~, uz 'o~.me~s 'te~j~ 'la 'sews 'Di.as pi'O.ris, 'ka.bi a 'nOjs 'daX 'to.du a'poj.u
@@ -533,7 +533,7 @@ ref:	Não choro mais com tanta facilidade e já ganho, não sofro mais com a mal
 inf:	'na~w~ 'SO.ru 'majs ko~ 'ta~.ta fa.si.li'da.Di i 'Za 'ga~.Ju, 'na~w~ 'so.fru 'majs ko~ a maw'da.Di ki 'a~.da Ro.de'a~.du
 
 ref:	Eu acho que sou a pessoa mais complicada do mundo: choro sem motivos, rio sem razão, escrevo e poucos realmente sabem o verdadeiro significado das minhas palavras!
-inf:	ew 'a.Su ki 'sow a pe'so.a 'majs ko~.pli'ka.da du 'mu~.du, 'SO.ru se~j~ mo'Ti.vus, 'Ri.u se~j~ Ra'za~w~, es'kre.vu i 'pow.kus Re.aw'me~.Ti 'sa.be~j~ u veR.da'dej.ru sig.ni.fi'ka.du das 'mi~.Jas pa'la.vras
+inf:	ew 'a.Su ki 'sow a pe'so.a 'majs ko~.pli'ka.da du 'mu~.du, 'SO.ru se~j~ mo'Ti.vus, 'Ri.u se~j~ Ra'za~w~, es'kre.vu i 'pow.kus Re.aw'me~.Ti 'sa.be~j~ u veR.da'dej.ru si.gi.ni.fi'ka.du das 'mi~.Jas pa'la.vras
 
 ref:	Quando fico triste  choro, choro, choro ligo minha vitrola  e chico, chico , chico.
 inf:	'kwa~.du 'fi.ku 'tris.Ti 'So.ru, 'So.ru, 'So.ru 'li.gu 'mi~.Ja vi'trO.la i 'Si.ku, 'Si.ku, 'Si.ku
@@ -1412,7 +1412,7 @@ ref:	Manhã!  Depois da manhã chuvosa eu trouxe o sol pra te aquecer e colher a
 corrigida:	ma~'Ja~, de'pojs da ma~'Ja~ Su'vO.za ew 'trow.si u 'sOw pra Ti a.ke'ser i ko'Ler a 'floX Sej'rO.za ki bro'tow 'mew 'be~j~ ke'rer i Re'gaX Ti 'do.si 'RO.za nu ZaR'Di~ du 'mew vi'veX
 
 ref:	O sentimento é como uma semente, onde muitos sabem plantar, mas, poucos sabem colher...
-inf:	u se~.Ti~'me~.tu E 'ko~.mu u~.ma se~'me~.Ti, 'o~.Di 'mu~j~.tus sa.be~j~ pla~'taX, majs, 'pow.kus sa.be~j~ ko'LeX
+inf:	u se~.Ti~'me~.tu E 'ko~.mu u~.ma se~'me~.Ti, 'o~.Di 'mu~j~.tus 'sa.be~j~ pla~'taX, majs, 'pow.kus 'sa.be~j~ ko'LeX
 
 ref:	Jamais se viu alguém plantar uma coisa e colher outra.
 inf:	Za~'majs si 'viw aw'ge~j~ pla~'tar u~.ma 'koj.za i ko'Ler 'ow.tra
@@ -1808,7 +1808,7 @@ ref:	Não prometo um final feliz, mas garanto um começo inesquecível...
 inf:	'na~w~ pro~'me.tu u~ fi~'naw fe'lis, majs ga'ra~.tu u~ ko~'me.su i~.nes.ke'si.vew
 
 ref:	Começo a significar cada vez menos pras pessoas, e elas pra mim.
-inf:	ko~'mE.su a sig.ni.fi'kaX 'ka.da 'vejz 'me~.nus pras pe'so.as, i 'E.las pra 'mi~
+inf:	ko~'mE.su a si.gi.ni.fi'kaX 'ka.da 'vejz 'me~.nus pras pe'so.as, i 'E.las pra 'mi~
 
 ref:	Certas perdas trazem consigo ganhos inesperados. E certos finais são apenas o começo!
 inf:	'sEX.tas 'peR.das 'tra.ze~j~ ko~'si.gu 'ga~.Juz i~.nes.pe'ra.dus, i 'sEX.tus fi~'najs 'sa~w~ a'pe~.naz u ko~'me.su
@@ -1835,7 +1835,7 @@ ref:	Quando já não suporto pensar nas vítimas dos lares desfeitos, começo a 
 inf:	'kwa~.du 'Za 'na~w~ su'pOX.tu pe~'saR nas 'vi.Ti~.mas dus 'la.ris des'fej.tus, ko~'mE.su a pe~'saR nas 'vi.Ti~.mas dus 'la.riz i~'tak.tus
 
 ref:	O começo e a terminação do amor defrontam-se uma à outra, como enigmas.
-inf:	u ko~'me.su i a teR.mi~.na'sa~w~ du a~'moR de'fro~.ta~w~ si u~.ma a 'ow.tra, 'ko~.mu e~'nig.mas
+inf:	u ko~'me.su i a teR.mi~.na'sa~w~ du a~'moR de'fro~.ta~w~ si u~.ma a 'ow.tra, 'ko~.mu e~'ni.gi.mas
 
 ref:	Prezamos e avaliamos a vida muito mais no seu extremo que no seu começo.
 inf:	pre'za~.muz i a.va.li'a~.muz a 'vi.da 'mu~j~.tu 'majs nu 'sew es'tre~.mu ki nu 'sew ko~'me.su
@@ -2114,7 +2114,7 @@ ref:	No começo pensei que estivesse lutando para salvar seringueiras, depois pe
 inf:	nu ko~'me.su pe~'sej ki es.Ti'vE.si lu'ta~.du 'pa.ra saw'vaX se.ri~'gej.ras, de'pojs pe~'sej ki es'ta.va lu'ta~.du 'pa.ra saw'var a flo'rEs.ta a~.ma'zo~.ni.ka, a'gO.ra, peX'se.bu ki es'tow lu'ta~.du 'pe.la u~.ma~.ni'da.Di
 
 ref:	Descrever o amor é como escrever um livro. Sempre terá um começo mas nunca um fim digno.
-inf:	des.kre'ver u a~'mor E 'ko~.mu es.kre'ver u~ 'li.vru, 'se~.pri te'ra u~ ko~'me.su majs 'nu~.ka u~ 'fi~ 'Dig.nu
+inf:	des.kre'ver u a~'mor E 'ko~.mu es.kre'ver u~ 'li.vru, 'se~.pri te'ra u~ ko~'me.su majs 'nu~.ka u~ 'fi~ 'Di.gi.nu
 
 ref:	Nenhum começo escapa do fim.
 inf:	ne~'Ju~ ko~'me.su es'ka.pa du 'fi~
@@ -2150,7 +2150,7 @@ ref:	Acho que nunca mais vamos nos gostar daquele jeito. Aquele do começo, sabe
 inf:	'a.Su ki 'nu~.ka 'majs 'va~.mus nus gos'taR da'ke.li 'Zej.tu, a'ke.li du ko~'me.su, 'sa.bi, a'ke.li 'Zej.tu Di gos'taR Di 'ke~j~ a'i~.da 'na~w~ si ko~'JE.si
 
 ref:	Tu me inspiras em teus enigmas. É a incógnita! A esfinge! E assim, te torno começo e fim. Sem saber onde começou e se vai terminar.
-corrigida:	'tu mi i~s'pi.raz e~j~ 'tewz e~'nig.mas, E a i~'kOg.ni.ta, a es'fi~.Zi, i a'si~, Ti 'tOR.nu ko~'me.su i 'fi~, se~j~ sa'ber 'o~.Di ko~.me'sow i si 'vaj teR.mi~'naX
+corrigida:	'tu mi i~s'pi.raz e~j~ 'tewz e~'ni.gi.mas, E a i~'kO.gi.ni.ta, a es'fi~.Zi, i a'si~, Ti 'tOR.nu ko~'me.su i 'fi~, se~j~ sa'ber 'o~.Di ko~.me'sow i si 'vaj teR.mi~'naX
 
 ref:	Ninguém muda no começo, porque é cedo demais; ninguém muda no fim porque é tarde demais: o meio termo entre os dois é o caminho.
 corrigida:	ni~'ge~j~ 'mu.da nu ko~'me.su, puX'ke E 'se.du de~'majs, ni~'ge~j~ 'mu.da nu 'fi~ puX'ke E 'taR.Di de~'majs, u 'mej.u 'teR.mu 'e~.tri us 'dojz E u ka~'mi~.Ju
@@ -2240,7 +2240,7 @@ ref:	Ela prefere assumir e seguir, sempre fazendo um novo começo  na esperança
 inf:	'E.la pre'fE.ri a.su~'mir i se'giX, 'se~.pri fa'ze~.du u~ 'no.vu ko~'me.su na es.pe'ra~.sa Di 'seX fe'lis
 
 ref:	Buscar um novo caminho, nem sempre significa uma nova direção. Mas um novo pensamento.
-inf:	bus'kar u~ 'no.vu ka~'mi~.Ju, ne~j~ 'se~.pri sig.ni'fi.ka u~.ma 'nO.va Di.re'sa~w~, majz u~ 'no.vu pe~.sa~'me~.tu
+inf:	bus'kar u~ 'no.vu ka~'mi~.Ju, ne~j~ 'se~.pri si.gi.ni'fi.ka u~.ma 'nO.va Di.re'sa~w~, majz u~ 'no.vu pe~.sa~'me~.tu
 
 ref:	Dizer que sente saudades, Dizer que sente desejo, Dizer que sente ciúmes, Dizer que sente medo de perder. É também dizer eu te amo.
 corrigida:	Di'zeX ki 'se~.Ti saw'da.Dis, Di'zeX ki 'se~.Ti de'ze.Zu, Di'zeX ki 'se~.Ti si'u~.mis, Di'zeX ki 'se~.Ti 'me.du Di peR'deX, E ta~'be~j~ Di'zer ew Ti 'a~.mu
@@ -2264,7 +2264,7 @@ ref:	Sabia desde o inesperado começo. que a tempestade chegaria.
 inf:	sa'bi.a 'dez.Di u i~.nes.pe'ra.du ko~'me.su, ki a te~.pes'ta.Di Se.ga'ri.a
 
 ref:	De Elizabeth Gilbert.
-inf:	Di e.li'za.bet 'Ziw.beX.T
+inf:	Di e.li.za'bE.Ti 'Ziw.beX.T
 
 ref:	Uma História de Amor.
 inf:	u~.ma is'tO.rja Di a~'moX
@@ -2291,7 +2291,7 @@ ref:	Naquela época, me diziam que eu escrevia como homem.
 inf:	na'kE.la 'E.po.ka, mi Di'zi.a~w~ ki ew es.kre'vi.a 'ko~.mu 'o~.me~j~
 
 ref:	Acontece que não sei direito o que significa escrever como homem, mas acredito que, em geral, seja elogio.
-inf:	a.ko~'tE.si ki 'na~w~ 'sej Di'rej.tu u ki sig.ni'fi.ka es.kre'veX 'ko~.mu 'o~.me~j~, majz a.kre'Di.tu ki, e~j~ Ze'raw, 'se.Za e.lo'Zi.u
+inf:	a.ko~'tE.si ki 'na~w~ 'sej Di'rej.tu u ki si.gi.ni'fi.ka es.kre'veX 'ko~.mu 'o~.me~j~, majz a.kre'Di.tu ki, e~j~ Ze'raw, 'se.Za e.lo'Zi.u
 
 ref:	Sem dúvida, na época entendi como elogio.
 inf:	se~j~ 'du.vi.da, na 'E.po.ka e~.te~'Di 'ko~.mu e.lo'Zi.u
@@ -2336,10 +2336,10 @@ ref:	Então, por ser escritora, escrevi um livro a respeito.
 inf:	e~'ta~w~, puX 'ser es.kri'to.ra, es.kre'vi u~ 'li.vru a Res'pej.tu
 
 ref:	Então, porque as vezes a vida e estranhíssima, esse livro se transformou num hipermega best-seller internacional e, de repente, depois de uma década escrevendo exclusivamente sobre homens e masculinidade, passei a ser chamada de escritora chick-lit.
-inf:	e~'ta~w~, puX'ke as 've.ziz a 'vi.da i es.tra~'Ji.si~.ma, 'e.si 'li.vru si tra~s.foR'mow nu~ i.peR'mE.ga 'bEs.Ti 'sE.ler i~.teR.na.si.o~'naw i, Di Re'pe~.Ti, de'pojs Di u~.ma 'dE.ka.da es.kre've~.du es.klu.zi.va~'me~.Ti 'so.bri 'o~.me~z i mas.ku.li~.ni'da.Di, pa'sej a 'seX Sa~'ma.da Di es.kri'to.ra Sik.k liT
+corrigida:	e~'ta~w~, puX'ke as 've.ziz a 'vi.da i es.tra~'Ji.si~.ma, 'e.si 'li.vru si tra~s.foR'mow nu~ i.peR'mE.ga 'bEs.Ti 'sE.ler i~.teR.na.si.o~'naw i, Di Re'pe~.Ti, de'pojs Di u~.ma 'dE.ka.da es.kre've~.du es.klu.zi.va~'me~.Ti 'so.bri 'o~.me~z i mas.ku.li~.ni'da.Di, pa'sej a 'seX Sa~'ma.da Di es.kri'to.ra 'Si.ki 'li.Ti
 
 ref:	Mais uma vez, não sei direito o que significa chick-lit, mas tenho quase certeza de que nunca foi elogio.
-inf:	'majz u~.ma 'vejs, 'na~w~ 'sej Di'rej.tu u ki sig.ni'fi.ka Sik.k liT, majs 'te~.Ju 'kwa.zi seX'te.za Di ki 'nu~.ka 'foj e.lo'Zi.u
+corrigida:	'majz u~.ma 'vejs, 'na~w~ 'sej Di'rej.tu u ki si.gi.ni'fi.ka 'Si.ki 'li.Ti, majs 'te~.Ju 'kwa.zi seX'te.za Di ki 'nu~.ka 'foj e.lo'Zi.u
 
 ref:	Seja como for, agora todos me perguntam o tempo todo se eu sabia que isso ia acontecer.
 inf:	'se.Za 'ko~.mu 'foX, a'gO.ra 'to.dus mi peR'gu~.ta~w~ u 'te~.pu 'to.du si ew sa'bi.a ki 'i.su 'i.a a.ko~.te'seX
@@ -2492,7 +2492,7 @@ ref:	Para ser bem clara, eis os nomes dessas 27 leitoras:
 inf:	'pa.ra 'seR 'be~j~ 'kla.ra, 'ejz us 'no~.mis 'dE.sas 'vi~.Ti i 'sE.Ti lej'to.ras
 
 ref:	Maude, Carole, Catherine, Ann, Darcey, Deborah, Susan, Sofie, Cree, Cat, Abby, Linda, Bernadette, Jen, Jana, Sheryl, Rayya, Iva, Erica, Nichelle, Sany, Anne, Patricia, Tara, Laura, Sarah e Margaret.
-corrigida:	'maw.Di, ka'rO.li, ka.te'ri~.ni, 'a~n, 'daX.sej, de.bO'ra, 'su.za~, so'fi, 'kri, 'kE.Ti, 'E.bi, 'li~.da, beR.na'dE.Ti, 'Ze~, 'Za~.na, 'SE.riw, 'Raj.a, 'i.va, 'E.ri.ka, ni'SE.li, 'sa~.ni, 'a~.ni, pa'tri.sja, 'ta.ra, 'law.ra, 'sa.ra i 'maR.ga.ret
+corrigida:	'maw.Di, ka'rO.li, ka.te'ri~.ni, 'a~n, 'daX.sej, de.bO'ra, 'su.za~, so'fi, 'kri, 'kE.Ti, 'E.bi, 'li~.da, beR.na'dE.Ti, 'Ze~, 'Za~.na, 'SE.riw, 'Raj.a, 'i.va, 'E.ri.ka, ni'SE.li, 'sa~.ni, 'a~.ni, pa'tri.sja, 'ta.ra, 'law.ra, 'sa.ra i 'maR.ga.re.Ti
 
 ref:	Essas 27 mulheres compõem o meu círculo pequeno mas importantíssimo de amigas, parentas e vizinhas.
 inf:	'E.sas 'vi~.Ti i 'sE.Ti mu'LE.ris ko~'po~.e~j~ u 'mew 'siX.ku.lu pe'ke~.nu majz i~.poX'ta~.Ti.si~.mu Di a~'mi.gas, pa're~.taz i vi'zi~.Jas
@@ -2512,8 +2512,8 @@ corrigida:	u~.ma E Re'se~j~ ka'za.da, 'du.as, 'majz ow 'me~.nus, 'kE.re~j~ 'mu~j
 ref:	Outra acabou de encerrar uma década de relacionamento com uma mulher.
 inf:	'ow.tra a.ka'bow Di e~.se'Rar u~.ma 'dE.ka.da Di Re.la.si.o~.na~'me~.tu ko~ u~.ma mu'LEX
 
-ref:	Sete são maes; duas(enquanto escrevo) estão grávidas; o resto, por várias razoes e com vários sentimentos a respeito, não tem filhos.
-inf:	'sE.Ti 'sa~w~ 'ma.js, 'du.as, e~'kwa~.tu es'kre.vu, es'ta~w~ 'gra.vi.das, u 'REs.tu, puR 'va.rjas Ra'zO.iz i ko~ 'va.rjus se~.Ti~'me~.tuz a Res'pej.tu, 'na~w~ te~j~ 'fi.Lus
+ref:	Sete são mães; duas(enquanto escrevo) estão grávidas; o resto, por várias razoes e com vários sentimentos a respeito, não tem filhos.
+inf:	'sE.Ti 'sa~w~ 'ma~j~s, 'du.as, e~'kwa~.tu es'kre.vu, es'ta~w~ 'gra.vi.das, u 'REs.tu, puR 'va.rjas Ra'zO.iz i ko~ 'va.rjus se~.Ti~'me~.tuz a Res'pej.tu, 'na~w~ te~j~ 'fi.Lus
 
 ref:	Algumas são donas de casa; outras, profissionais liberais; poucas, benza Deus, sao donas de casa e profissionais.
 inf:	aw'gu~.mas 'sa~w~ 'do~.nas Di 'ka.za, 'ow.tras, pro.fi.si.o~'najs li.be'rajs, 'pow.kas, 'be~.za 'dews, 'saw 'do~.nas Di 'ka.za i pro.fi.si.o~'najs
@@ -2546,7 +2546,7 @@ ref:	Como sempre, foi uma aula e um alívio tê-las aqui na sala.
 inf:	'ko~.mu 'se~.pri, 'foj u~.ma 'aw.la i u~ a'li.vju 'te las a'ki na 'sa.la
 
 ref:	Elizabeth Gilbert. Nova Jersey, 2009.
-inf:	e.li'za.bet 'Ziw.beX.T, 'nO.va 'ZEX.sej, 'dojs 'miw i 'nO.vi
+inf:	e.li.za'bE.Ti 'Ziw.beX.T, 'nO.va 'ZEX.sej, 'dojs 'miw i 'nO.vi
 
 ref:	Capítulo Um: Casamento e surpresas.
 inf:	ka'pi.tu.lu 'u~, ka.za~'me~.tu i suX'pre.zas
@@ -2555,7 +2555,7 @@ ref:	O casamento é uma amizade reconhecida pela polícia.
 inf:	u ka.za~'me~.tu E u~.ma a~.mi'za.Di Re.ko~.Je'si.da 'pe.la po'li.sja
 
 ref:	Robert Louis Stevenson.
-inf:	'RO.beX.T lowis ste.ve~'so~
+corrigida:	'RO.beX.Ti 'lu.is 'sTi.ve~.so~
 
 ref:	Em 2006, num fim de tarde de verão, eu me encontrava numa pequena aldeia do norte do Vietnã, sentada junto ao fogo fuliginoso de uma cozinha com várias mulheres locais, cujo idioma não sei falar, tentando lhes fazer perguntas sobre casamento.
 inf:	e~j~ 'dojs 'miw i 'sejs, nu~ 'fi~ Di 'taR.Di Di ve'ra~w~, ew mi e~.ko~'tra.va 'nu~.ma pe'ke~.na aw'dej.a du 'nOX.Ti du vi.e.Ti'na~, se~'ta.da 'Zu~.tu aw 'fo.gu fu.li.Zi~'no.zu Di u~.ma ko'zi~.Ja ko~ 'va.rjas mu'LE.ris lo'kajs, 'ku.Zu i.Di'o~.ma 'na~w~ 'sej fa'laX, te~'ta~.du Lis fa'zeX peR'gu~.tas 'so.bri ka.za~'me~.tu
@@ -2630,7 +2630,7 @@ ref:	Sem as restrições da lei, o amante não casado pode sair do mau relaciona
 inf:	se~j~ as Res.tri'so~j~s da 'lej, u a~'ma~.Ti 'na~w~ ka'za.du 'pO.Di sa'iR du 'maw Re.la.si.o~.na~'me~.tu a kwaw'kER mo~'me~.tu
 
 ref:	Mas o casado legalmente que quiser escapar do amor infeliz logo descobre que uma parcela significativa do contrato de casamento pertence ao Estado e que, às vezes, demora muito para o Estado lhe dar permissão de partir.
-inf:	majz u ka'za.du le.gaw'me~.Ti ki ki'zEr es.ka'paR du a~'mor i~.fe'liz 'lO.gu des'kO.bri ki u~.ma paX'sE.la sig.ni.fi.ka'Ti.va du ko~'tra.tu Di ka.za~'me~.tu peX'te~.si aw es'ta.du i ki, as 've.zis, de~'mO.ra 'mu~j~.tu 'pa.ra u es'ta.du Li 'daX peR.mi'sa~w~ Di paX'TiX
+inf:	majz u ka'za.du le.gaw'me~.Ti ki ki'zEr es.ka'paR du a~'mor i~.fe'liz 'lO.gu des'kO.bri ki u~.ma paX'sE.la si.gi.ni.fi.ka'Ti.va du ko~'tra.tu Di ka.za~'me~.tu peX'te~.si aw es'ta.du i ki, as 've.zis, de~'mO.ra 'mu~j~.tu 'pa.ra u es'ta.du Li 'daX peR.mi'sa~w~ Di paX'TiX
 
 ref:	Portanto, é bem possível ficar preso durante meses e até anos numa união legal sem amor que mais se parece com um prédio em chamas.
 corrigida:	poX'ta~.tu, E 'be~j~ po'si.vew fi'kaX 'pre.zu du'ra~.Ti 'me.ziz i a'tE 'a~.nus 'nu~.ma u~.ni'a~w~ le'gaw se~j~ a~'moX ki 'majs si pa'rE.si ko~ u~ pre'Dju e~j~ 'Sa~.mas
@@ -2744,7 +2744,7 @@ ref:	O corte da navalha fere a carne e dói os ossos. O corte das palavras fere 
 corrigida:	u 'kOX.Ti da na'va.La 'fE.ri a 'kaR.ni i 'dOj uz 'O.sus, u 'kOX.Ti das pa'la.vras 'fE.ri i 'aR.Di a'tE na 'aw.ma
 
 ref:	Músicas são tipo forcas A cada erro um corte Corra, lute e pense Mesmo que demore, comemore Viva sua vida do jeito que acha certo Antes que seu tempo esgote!
-inf:	'mu.zi.kas 'sa~w~ 'Ti.pu 'fOX.kaz a 'ka.da 'e.Ru 'u~ 'kOX.Ti 'ko.Ra, 'lu.Ti i 'pe~.si 'mez.mu ki de~'mO.ri, ko~.me~'mO.ri 'vi.va 'su.a 'vi.da du 'Zej.tu ki 'a.Sa 'sEX.tu 'a~.Tis ki 'sew 'te~.pu ez'gO.Ti
+inf:	'mu.zi.kas 'sa~w~ 'Ti.pu 'foX.kaz a 'ka.da 'e.Ru 'u~ 'kOX.Ti 'ko.Ra, 'lu.Ti i 'pe~.si 'mez.mu ki de~'mO.ri, ko~.me~'mO.ri 'vi.va 'su.a 'vi.da du 'Zej.tu ki 'a.Sa 'sEX.tu 'a~.Tis ki 'sew 'te~.pu ez'gO.Ti
 
 ref:	Corte todos estes pontos de exclamação. Um ponto de exclamação é como rir de sua própria piada.
 inf:	'kOX.Ti 'to.duz 'es.Tis 'po~.tus Di es.kla~.ma'sa~w~, u~ 'po~.tu Di es.kla~.ma'sa~w~ E 'ko~.mu 'RiR Di 'su.a 'prO.prja pi'a.da
@@ -2852,7 +2852,7 @@ ref:	Corte meu cabelo Me amordace e me aborreça Puxe esse pino Deixe o mundo ex
 inf:	'kOX.Ti 'mew ka'be.lu mi a~.moR'da.si i mi a.bo'Re.sa 'pu.Si 'e.si 'pi~.nu 'dej.Si u 'mu~.du es.plo'DiX
 
 ref:	Mudo corte e cor do cabelo, coloco piercing e faço tattoo, isso não significa rebeldia e nem mudança de personalidade, significa amor próprio e liberdade para fazer o que quero.
-inf:	'mu.du 'kOX.Ti i 'koR du ka'be.lu, ko'lO.ku pi'EX.si~.g i 'fa.su ta'TtO.u, 'i.su 'na~w~ sig.ni'fi.ka Re.bew'Di.a i ne~j~ mu'da~.sa Di peX.so~.na.li'da.Di, sig.ni'fi.ka a~'moX 'prO.prju i li.beR'da.Di 'pa.ra fa'zer u ki 'kE.ru
+inf:	'mu.du 'kOX.Ti i 'koR du ka'be.lu, ko'lO.ku pi'EX.si~.g i 'fa.su ta'tu, 'i.su 'na~w~ si.gi.ni'fi.ka Re.bew'Di.a i ne~j~ mu'da~.sa Di peX.so~.na.li'da.Di, si.gi.ni'fi.ka a~'moX 'prO.prju i li.beR'da.Di 'pa.ra fa'zer u ki 'kE.ru
 
 ref:	Tudo depende da sua comunicação: se for boa, produza frutos; se for má, corte as raízes e vá se adubar em terreno fértil.
 inf:	'tu.du de'pe~.Di da 'su.a ko~.mu~.ni.ka'sa~w~, si 'foR 'bo.a, pro'du.za 'fru.tus, si 'foR 'ma, 'kOX.Ti as Ra'i.ziz i 'va si a.du'bar e~j~ te'Re~.nu 'fEX.Tiw
@@ -2900,7 +2900,7 @@ ref:	Ele quebrou seu coração? Junte os cacos e corte a cara dele!
 inf:	'e.li ke'brow 'sew ko.ra'sa~w~, 'Zu~.Ti us 'ka.kuz i 'kOX.Ti a 'ka.ra 'de.li
 
 ref:	Aquelas escolhas que deu um nó em sua vida não perca tempo tentando desata , pegue a tesoura e corte logo, disfarça dela antes que cause mas angustia a quem te ama.
-inf:	a'kE.laz es'ko.Las ki 'dew u~ nOe~j~ 'su.a 'vi.da 'na~w~ 'pEX.ka 'te~.pu te~'ta~.du de'za.ta, 'pE.gi a te'zow.ra i 'kOX.Ti 'lO.gu, Dis'faX.sa 'dE.la 'a~.Tis ki 'kaw.zi majz a~.gus'Ti.a a 'ke~j~ Ti 'a~.ma
+inf:	a'kE.laz es'ko.Las ki 'dew u~ nOe~j~ 'su.a 'vi.da 'na~w~ 'peX.ka 'te~.pu te~'ta~.du de'za.ta, 'pE.gi a te'zow.ra i 'kOX.Ti 'lO.gu, Dis'faX.sa 'dE.la 'a~.Tis ki 'kaw.zi majz a~.gus'Ti.a a 'ke~j~ Ti 'a~.ma
 
 ref:	A finalidade do ser humano na Terra é chegar à Suprema Corte Espiritual. Não estamos aqui por acaso. Cada um tem que trabalhar pelo seu avanço espiritual. Aqui é a nossa verdadeira escola.
 corrigida:	a fi~.na.li'da.Di du 'ser u~'ma~.nu na 'tE.Ra E Se'gar a su'pre~.ma 'koX.Ti es.pi.ri.tu'aw, 'na~w~ es'ta~.muz a'ki pur a'ka.zu, 'ka.da 'u~ te~j~ ki tra.ba'LaX 'pe.lu 'sew a'va~.su es.pi.ri.tu'aw, a'ki E a 'nO.sa veR.da'dej.ra es'kO.la

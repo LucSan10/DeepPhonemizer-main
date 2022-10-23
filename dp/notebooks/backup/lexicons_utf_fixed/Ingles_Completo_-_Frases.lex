@@ -344,7 +344,7 @@ ref:	drive-in
 corrigida:	draj'vi~
 
 ref:	drugstore
-corrigida:	drug'stO.ri
+corrigida:	dru.gi'stO.ri
 
 ref:	dumping
 corrigida:	'dã.pi~
@@ -422,7 +422,7 @@ ref:	flutter
 corrigida:	'flu.teX
 
 ref:	fog
-corrigida:	'fOg
+corrigida:	'fO.gi
 
 ref:	follow-up
 corrigida:	'fO.low 'a.pi
@@ -500,7 +500,7 @@ ref:	gospel
 corrigida:	gOs'pew
 
 ref:	goulag
-corrigida:	gu'lag
+corrigida:	gu'la.gi
 
 ref:	green
 corrigida:	'gri~
@@ -644,7 +644,7 @@ ref:	junkie
 corrigida:	'Zã.kij
 
 ref:	kalashnikov
-corrigida:	ka.laS.ni'kOv
+corrigida:	ka.laS.ni'kO.vi
 
 ref:	kleenex
 corrigida:	'kli~.nEks
@@ -734,7 +734,7 @@ ref:	mayor
 corrigida:	'mej.oX
 
 ref:	medley
-corrigida:	'mEd.lej
+corrigida:	'mE.Di.lej
 
 ref:	meeting
 corrigida:	'mi.Ti~
@@ -758,7 +758,7 @@ ref:	mouse
 corrigida:	'mOw.zi
 
 ref:	network
-corrigida:	nET'woX.ki
+corrigida:	nE.Ti'woX.ki
 
 ref:	new-age
 corrigida:	'niw 'ej.Zi
@@ -1142,7 +1142,7 @@ ref:	sportswear
 corrigida:	'spOX.Tiz'wEX
 
 ref:	spot
-corrigida:	'spOTi
+corrigida:	'spO.Ti
 
 ref:	spray
 corrigida:	'sprej

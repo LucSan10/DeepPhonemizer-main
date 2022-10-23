@@ -17,7 +17,7 @@ ref:	De tantos desacertos, uma hora torna-se acerto.
 inf:	Di 'ta~.tus de.za'sEX.tus, u~.ma 'O.ra 'tOR.na si a'seX.tu
 
 ref:	Torça pelo acerto do outro, nunca pelo erro do outro.
-inf:	'tOX.sa 'pe.lu a'seX.tu du 'ow.tru, 'nu~.ka 'pe.lu 'e.Ru du 'ow.tru
+inf:	'toX.sa 'pe.lu a'seX.tu du 'ow.tru, 'nu~.ka 'pe.lu 'e.Ru du 'ow.tru
 
 ref:	Quando acerto com ela ganho felicidade pro mês todo, garota me deixa acertar mais, me deixa chegar mais perto.
 inf:	'kwa~.du a'seX.tu ko~ 'E.la 'ga~.Ju fe.li.si'da.Di pru 'mejs 'to.du, ga'ro.ta mi 'dej.Sa a.seX'taR 'majs, mi 'dej.Sa Se'gaR 'majs 'pEX.tu
@@ -128,7 +128,7 @@ ref:	Acordo com a voz safada de Cazuza repetindo em minha orelha fria: quem tem 
 inf:	a'kOR.du ko~ a 'vOjs sa'fa.da Di ka'zu.za Re.pe'Ti~.du e~j~ 'mi~.Ja o're.La 'fri.a, 'ke~j~ te~j~ u~ 'so~.Ju 'na~w~ 'da~.sa, 'mew a~'moX
 
 ref:	Acima de todas as liberdades, dê-me a de saber, de me expressar, de debater com autonomia, de acordo com minha consciência.
-corrigida:	a'si~.ma Di 'to.daz as li.beR'da.Dis, a Di sa'beX, Di mi es.pre'saX, Di de.ba'teX ko~ aw.to~.no~'mi.a, Di a'koR.du ko~ 'mi~.Ja ko~.si'e~.sja
+corrigida:	a'si~.ma Di 'to.daz as li.beR'da.Dis, 'de mi a Di sa'beX, Di mi es.pre'saX, Di de.ba'teX ko~ aw.to~.no~'mi.a, Di a'koR.du ko~ 'mi~.Ja ko~.si'e~.sja
 
 ref:	A vida se espande ou se encolhe de acordo com a nossa coragem.
 inf:	a 'vi.da si es'pa~.Di ow si e~'kO.Li Di a'koR.du ko~ a 'nO.sa ko'ra.Ze~j~
@@ -143,7 +143,7 @@ ref:	As ações devem ser julgadas de acordo com as intenções.
 inf:	az a'so~j~s 'dE.ve~j~ 'seR Zuw'ga.das Di a'koR.du ko~ az i~.te~'so~j~s
 
 ref:	Quando a propósito de uma ideia se diz que se está em princípio de acordo, isso significa que não se tem a menor intenção de a pôr em prática.
-inf:	'kwa~.du a pro'pO.zi.tu Di u~.ma i'dEj.a si 'Dis ki si es'ta e~j~ pri~'si.pju Di a'koR.du, 'i.su sig.ni'fi.ka ki 'na~w~ si te~j~ a me~'nOr i~.te~'sa~w~ Di a 'por e~j~ 'pra.Ti.ka
+inf:	'kwa~.du a pro'pO.zi.tu Di u~.ma i'dEj.a si 'Dis ki si es'ta e~j~ pri~'si.pju Di a'koR.du, 'i.su si.gi.ni'fi.ka ki 'na~w~ si te~j~ a me~'nOr i~.te~'sa~w~ Di a 'por e~j~ 'pra.Ti.ka
 
 ref:	Não pode haver senão vantagem num acordo e prejuízo num conflito.
 inf:	'na~w~ 'pO.Di a'veX se~'na~w~ va~'ta.Ze~j~ nu~ a'koR.du i pre.Zu'i.zu nu~ ko~'fli.tu
@@ -275,7 +275,7 @@ ref:	Eu te amo tanto, que pela madrugada acordo dizendo : como você me tira o s
 inf:	ew Ti 'a~.mu 'ta~.tu, ki 'pe.la ma.dru'ga.da a'koR.du Di'ze~.du, 'ko~.mu vo'se mi 'Ti.ra u 'so~.nu
 
 ref:	Eu sou uma mulher guerreira, que todo dia acordo muito bela, confiante e disposta a viver a vida dignamente, com muito amor e muita fé em Deus. Ele é o meu guia e o meu maior protetor!
-corrigida:	ew 'sow u~.ma mu'LER ge'Rej.ra, ki 'to.du 'Di.a a'kOR.du 'mu~j~.tu 'bE.la, ko~.fi'a~.Ti i Dis'pOs.ta a vi'ver a 'vi.da Dig.na~'me~.Ti, ko~ 'mu~j~.tu a~'mor i 'mu~j~.ta 'fE e~j~ 'dews, 'e.li E u 'mew 'gi.a i u 'mew maj'OX pro.te'toX
+corrigida:	ew 'sow u~.ma mu'LER ge'Rej.ra, ki 'to.du 'Di.a a'kOR.du 'mu~j~.tu 'bE.la, ko~.fi'a~.Ti i Dis'pOs.ta a vi'ver a 'vi.da Di.gi.na~'me~.Ti, ko~ 'mu~j~.tu a~'mor i 'mu~j~.ta 'fE e~j~ 'dews, 'e.li E u 'mew 'gi.a i u 'mew maj'OX pro.te'toX
 
 ref:	Quando o pecador crê que Cristo é seu Salvador pessoal, então, de acordo com as Suas promessas infalíveis, Deus lhe perdoa o pecado e o justifica livremente.
 corrigida:	'kwa~.du u pe.ka'doX 'kre ki 'kris.tu E 'sew saw.va'doX pe.so'aw, e~'ta~w~, Di a'koR.du ko~ as 'su.as pro~'mE.saz i~.fa'li.vejs, 'dews Li peR'do.a u pe'ka.du i u Zus.Ti'fi.ka li.vri~'me~.Ti
@@ -305,7 +305,7 @@ ref:	Todo o dia eu acordo sabendo que quanto mais vidas eu tento salvar mais ini
 corrigida:	'to.du u 'Di.a ew a'kOR.du sa'be~.du ki 'kwa~.tu 'majs 'vi.daz ew 'te~.tu saw'vaR 'majz i~.ni~'mi.guz ew 'fa.su i E 'sO u~.ma kes'ta~w~ Di 'te~.pu a'tE ki ew e~'ko~.tri a'ke.lis ko~ 'majs po'deR du ki ew 'pO.su li'daX
 
 ref:	Quando violamos o acordo do casamento, violamos o desígnio de Deus para nós.
-inf:	'kwa~.du vi.o'la~.muz u a'koR.du du ka.za~'me~.tu, vi.o'la~.muz u de'zig.nju Di 'dews 'pa.ra 'nOjs
+inf:	'kwa~.du vi.o'la~.muz u a'koR.du du ka.za~'me~.tu, vi.o'la~.muz u de'zi.gi.nju Di 'dews 'pa.ra 'nOjs
 
 ref:	Quando acordo pela manhã, escuto a voz de Deus, dizendo vai em frente, enfrenta esse dia, que achas que vai ser difícil que eu te capacito. Bom dia, lembra que sou teu pai, jamais te abandono!
 inf:	'kwa~.du a'kOR.du 'pe.la ma~'Ja~, es'ku.tu a 'vOjz Di 'dews, Di'ze~.du 'vaj e~j~ 'fre~.Ti, e~'fre~.ta 'e.si 'Di.a, ki 'a.Sas ki 'vaj 'seR Di'fi.siw ki ew Ti ka.pa'si.tu, 'bo~ 'Di.a, 'le~.bra ki 'sow 'tew 'paj, Za~'majs Ti a.ba~'do~.nu
@@ -398,7 +398,7 @@ ref:	Não estou neste mundo para viver de acordo com as suas expectativas e nem 
 inf:	'na~w~ es'tow 'nes.Ti 'mu~.du 'pa.ra vi'veR Di a'koR.du ko~ as 'su.az es.pek.ta'Ti.vaz i ne~j~ vo'se ko~ as 'mi~.Jas
 
 ref:	Toda propaganda deve ser popular e estabelecer o seu nível espiritual de acordo com a capacidade de compreensão do mais ignorante dentre aqueles a quem ela pretende se dirigir.
-inf:	'to.da pro.pa'ga~.da 'dE.vi 'seX po.pu'lar i es.ta.be.le'ser u 'sew 'ni.vew es.pi.ri.tu'aw Di a'koR.du ko~ a ka.pa.si'da.Di Di ko~.pre.e~'sa~w~ du 'majz ig.no'ra~.Ti 'de~.tri a'ke.liz a 'ke~j~ 'E.la pre'te~.Di si Di.ri'ZiX
+inf:	'to.da pro.pa'ga~.da 'dE.vi 'seX po.pu'lar i es.ta.be.le'ser u 'sew 'ni.vew es.pi.ri.tu'aw Di a'koR.du ko~ a ka.pa.si'da.Di Di ko~.pre.e~'sa~w~ du 'majz i.gi.no'ra~.Ti 'de~.tri a'ke.liz a 'ke~j~ 'E.la pre'te~.Di si Di.ri'ZiX
 
 ref:	O povo busca um salvador na política e nela ele não estará, aí cada um de acordo a sua consciência escolhe seu reflexo para lhe representar...
 corrigida:	u 'po.vu 'bus.ka u~ saw.va'doR na po'li.Ti.ka i 'nE.la 'e.li 'na~w~ es.ta'ra, a'i 'ka.da 'u~ Di a'koR.du a 'su.a ko~.si'e~.sja es'kO.Li 'sew Re'flEk.su 'pa.ra Li Re.pre.ze~'taX
@@ -476,7 +476,7 @@ ref:	A cor que melhor combina com você, é aquela que escolhe de acordo com a s
 corrigida:	a 'koX ki me'LOX ko~'bi~.na ko~ vo'se, E a'kE.la ki es'kO.Li Di a'koR.du ko~ a 'su.a e~.neR'Zi.a a.tu'aw
 
 ref:	Acordo significa discutir o problema entre duas ou mais pessoas e achar a melhor solução que agrade a maioria.
-inf:	a'koR.du sig.ni'fi.ka Dis.ku'Tir u pro'ble~.ma 'e~.tri 'du.az ow 'majs pe'so.az i a'Sar a me'LOX so.lu'sa~w~ ki a'gra.Di a maj.o'ri.a
+inf:	a'koR.du si.gi.ni'fi.ka Dis.ku'Tir u pro'ble~.ma 'e~.tri 'du.az ow 'majs pe'so.az i a'Sar a me'LOX so.lu'sa~w~ ki a'gra.Di a maj.o'ri.a
 
 ref:	Entre eu e Deus existe um acordo nos Céus: receber a Coroa Eterna que Jesus me prometeu.
 inf:	'e~.tri ew i 'dewz e'zis.Ti u~ a'koR.du nus 'sEws, Re.se'ber a ko'ro.a e'tER.na ki Ze'zujs mi pro~.me'tew
@@ -494,7 +494,7 @@ ref:	Sono, Lentos. Um acordo? Mas não estamos Acordados.
 inf:	'so~.nu, 'le~.tus, u~ a'koR.du, majs 'na~w~ es'ta~.muz a.koR'da.dus
 
 ref:	O Daesh é filho do Acordo secreto Sykes-Picot da mesma forma que Hitler é filho do Tratado de Versalhes.
-corrigida:	u da'ES E 'fi.Lu du a'koR.du se'krE.tu 'saj.kis pi'koT da 'mez.ma 'fOR.ma ki 'Rit.ler E 'fi.Lu du tra'ta.du Di veX'sa.Lis
+corrigida:	u da'ES E 'fi.Lu du a'koR.du se'krE.tu 'saj.kis pi'ko da 'mez.ma 'fOR.ma ki 'Rit.ler E 'fi.Lu du tra'ta.du Di veX'sa.Lis
 
 ref:	Incline-se demais as tentações e vaidades e o destino te mostrará o real resultado!
 inf:	i~'kli~.ni si de~'majz as te~.ta'so~j~z i vaj'da.Diz i u des'Ti~.nu Ti mos.tra'ra u Re'aw Re.zuw'ta.du
@@ -584,10 +584,10 @@ ref:	Muitas pessoas acreditam que existe no sistema de coordenadas do mundo um p
 inf:	'mu~j~.tas pe'so.az a.kre'Di.ta~w~ ki e'zis.Ti nu sis'te~.ma Di ko.oR.de~'na.das du 'mu~.du u~ 'po~.tu peX'fej.tu 'o~.Di 'te~.pu i es'pa.su 'Se.ga~w~ a u~ a'koR.du
 
 ref:	Negociar bem não significa ganhar sempre, mas chegar a acordos mutuamente vantajosos.
-inf:	ne.go.si'aR 'be~j~ 'na~w~ sig.ni'fi.ka ga~'JaX 'se~.pri, majs Se'gar a a'kOR.dus mu.tu.a~'me~.Ti va~.ta'ZO.zus
+inf:	ne.go.si'aR 'be~j~ 'na~w~ si.gi.ni'fi.ka ga~'JaX 'se~.pri, majs Se'gar a a'kOR.dus mu.tu.a~'me~.Ti va~.ta'ZO.zus
 
 ref:	Nenhum acordo vale a sua Alma, honra e dignidade não tem preço.
-inf:	ne~'Ju~ a'koR.du 'va.li a 'su.a 'aw.ma, 'o~.Ra i Dig.ni'da.Di 'na~w~ te~j~ 'pre.su
+inf:	ne~'Ju~ a'koR.du 'va.li a 'su.a 'aw.ma, 'o~.Ra i Di.gi.ni'da.Di 'na~w~ te~j~ 'pre.su
 
 ref:	Você sempre escolhe de acordo com as suas emoções. A forma que vemos o mundo é percebida de acordo como o sentimos. Isso pouco tem haver com fatos.
 corrigida:	vo'se 'se~.pri es'kO.Li Di a'koR.du ko~ as 'su.az e~.mo'so~j~s, a 'fOR.ma ki 've~.muz u 'mu~.du E peX.se'bi.da Di a'koR.du 'ko~.mu u se~'Ti~.mus, 'i.su 'pow.ku te~j~ a'veX ko~ 'fa.tus
@@ -628,8 +628,8 @@ inf:	'nO.Ti u de.zi.ki'li.brju es.pi.ri.tu'aw daz 'aw.mas ki 'fa.la~w~ Di 'dewz 
 ref:	Um mau acordo pode ser muito mais vantajoso que uma boa briga
 inf:	u~ 'maw a'koR.du 'pO.Di 'seR 'mu~j~.tu 'majs va~.ta'Zo.zu ki u~.ma 'bo.a 'bri.ga
 
-ref:	Quando uma nova criação inicia-se, tudo transforma-se de acordo com a criatura. rojanemary
-inf:	'kwa~.du u~.ma 'nO.va kri.a'sa~w~ i~.ni'si.a si, 'tu.du tra~s'fOR.ma si Di a'koR.du ko~ a kri.a'tu.ra, Ro.Za~'ne~.maR.j
+ref:	Quando uma nova criação inicia-se, tudo transforma-se de acordo com a criatura. rojane mary
+corrigida:	'kwa~.du u~.ma 'nO.va kri.a'sa~w~ i~.ni'si.a si, 'tu.du tra~s'fOR.ma si Di a'koR.du ko~ a kri.a'tu.ra, Ro'Za~.ni 'ma.ri
 
 ref:	Presuma o pior cenário! Presuma catástrofe e aja de acordo!
 inf:	pre'zu~.ma u pi'OX se~'na.rju, pre'zu~.ma ka'tas.tro.fi i 'a.Za Di a'koR.du
@@ -637,8 +637,8 @@ inf:	pre'zu~.ma u pi'OX se~'na.rju, pre'zu~.ma ka'tas.tro.fi i 'a.Za Di a'koR.du
 ref:	Quando algo não está de acordo com aquilo que desejamos, mudemos a trajetória do caminho.
 inf:	'kwa~.du 'aw.gu 'na~w~ es'ta Di a'koR.du ko~ a'ki.lu ki de.ze'Za~.mus, mu'de~.muz a tra.Ze'tO.rja du ka~'mi~.Ju
 
-ref:	Acordo todos os dias as quatro horas da manhã para viver duas horas a mais por dia. rojanemary
-inf:	a'koR.du 'to.duz us 'Di.az as 'kwa.tru 'O.ras da ma~'Ja~ 'pa.ra vi'veR 'du.az 'O.raz a 'majs puR 'Di.a, Ro.Za~'ne~.maR.j
+ref:	Acordo todos os dias as quatro horas da manhã para viver duas horas a mais por dia. rojane mary
+corrigida:	a'kOR.du 'to.duz us 'Di.az as 'kwa.tru 'O.ras da ma~'Ja~ 'pa.ra vi'veR 'du.az 'O.raz a 'majs puR 'Di.a, Ro'Za~.ni 'ma.ri
 
 ref:	Eu quando Rio transbordo e acordo para um continente chamado eu
 corrigida:	ew 'kwa~.du 'Ri.u tra~z'bOR.du i a'kOR.du 'pa.ra u~ ko~.Ti~'ne~.Ti Sa~'ma.du ew
@@ -671,7 +671,7 @@ ref:	De cada um, de acordo com suas possibilidades; a cada um, de acordo com sua
 inf:	Di 'ka.da 'u~, Di a'koR.du ko~ 'su.as po.si.bi.li'da.Dis, a 'ka.da 'u~, Di a'koR.du ko~ 'su.as ne.se.si'da.Dis
 
 ref:	Vivemos tempos em que desabam, fragosamente, certezas tidas por solidamente construídas
-inf:	vi've~.mus 'te~.puz e~j~ ki de'za.ba~w~, fra.gO.za~'me~.Ti, seX'tE.zas 'Ti.das puX sO.li.da~'me~.Ti ko~s.tru'i.das
+inf:	vi've~.mus 'te~.puz e~j~ ki de'za.ba~w~, fra.gO.za~'me~.Ti, seX'te.zas 'Ti.das puX sO.li.da~'me~.Ti ko~s.tru'i.das
 
 ref:	Nunca aceite palavras que não estejam de acordo com teus objetivos.
 inf:	'nu~.ka a'sej.Ti pa'la.vras ki 'na~w~ es'te.Za~w~ Di a'koR.du ko~ 'tewz ob.Ze'Ti.vus
@@ -791,7 +791,7 @@ ref:	À Morte e Transfiguração, em que Richard Strauss me revela um destino?
 inf:	a 'mOX.Ti i tra~s.fi.gu.ra'sa~w~, e~j~ ki 'Ri.SaR.D 'straws mi Re'vE.la u~ des'Ti~.nu
 
 ref:	Sobretudo dedico-me às vésperas de hoje e a hoje, ao transparente véu de Debussy, a Marlos Nobre, a Prokofiev, a Carl Orff, a Schönberg, aos dodecafônicos, aos gritos rascantes dos eletrônicos, a todos esses que em mim atingiram zonas assustadoramente inesperadas, todos esses profetas do presente e que a mim me vaticinaram a mim mesmo a ponto de eu neste instante explodir em: eu.
-corrigida:	so.bre'tu.du de'Di.ku mi as 'vEs.pe.ras Di 'o.Zi i a 'o.Zi, aw tra~s.pa're~.Ti 'vEw Di de.bu'si, a 'maR.lus 'nO.bri, a pro.ko.fi'ev, a 'karl 'OXf, a So~'bER.gi, aws do.de.ka'fo~.ni.kus, aws 'gri.tus Ras'ka~.Tis duz e.le'tro~.ni.kus, a 'to.duz 'e.sis ki e~j~ 'mi~ a.Ti~'Zi.ra~w~ 'zo~.naz a.sus.ta.do.ra~'me~.Ti i~.nes.pe'ra.das, 'to.duz 'e.sis pro'fE.tas du pre'ze~.Ti i ki a 'mi~ mi va.Ti.si~'na.ra~w~ a 'mi~ 'mez.mu a 'po~.tu Di ew 'nes.Ti i~s'ta~.Ti es.plo'Dir e~j~, ew
+corrigida:	so.bre'tu.du de'Di.ku mi as 'vEs.pe.ras Di 'o.Zi i a 'o.Zi, aw tra~s.pa're~.Ti 'vEw Di de.bu'si, a 'maR.lus 'nO.bri, a pro.ko.fi'E.vi, a 'karl 'OXf, a So~'bER.gi, aws do.de.ka'fo~.ni.kus, aws 'gri.tus Ras'ka~.Tis duz e.le'tro~.ni.kus, a 'to.duz 'e.sis ki e~j~ 'mi~ a.Ti~'Zi.ra~w~ 'zo~.naz a.sus.ta.do.ra~'me~.Ti i~.nes.pe'ra.das, 'to.duz 'e.sis pro'fE.tas du pre'ze~.Ti i ki a 'mi~ mi va.Ti.si~'na.ra~w~ a 'mi~ 'mez.mu a 'po~.tu Di ew 'nes.Ti i~s'ta~.Ti es.plo'Dir e~j~, ew
 
 ref:	Meditar não precisa de ter resultados: a meditação pode ter como fim apenas ela mesma.
 inf:	me.Di'taR 'na~w~ pre'si.za Di 'te.Re.zuw'ta.dus, a me.Di.ta'sa~w~ 'pO.Di 'teX 'ko~.mu 'fi~ a'pe~.naz 'E.la 'mez.ma
@@ -875,7 +875,7 @@ ref:	A verdade é sempre um contato interior e inexplicável.
 corrigida:	a veR'da.Di E 'se~.pri u~ ko~'ta.tu i~.te.ri'or i i~.nes.pli'ka.vew
 
 ref:	A minha vida a mais verdadeira é irreconhecível, extremamente interior e não tem uma só palavra que a signifique.
-corrigida:	a 'mi~.Ja 'vi.da a 'majs veR.da'dej.ra E i.Re.ko~.Je'si.vew, es.tre~.ma~'me~.Ti i~.te.ri'or i 'na~w~ te~j~ u~.ma 'sO pa'la.vra ki a sig.ni'fi.ki
+corrigida:	a 'mi~.Ja 'vi.da a 'majs veR.da'dej.ra E i.Re.ko~.Je'si.vew, es.tre~.ma~'me~.Ti i~.te.ri'or i 'na~w~ te~j~ u~.ma 'sO pa'la.vra ki a si.gi.ni'fi.ki
 
 ref:	Meu coração se esvaziou de todo desejo e reduz-se ao próprio último ou primeiro pulsar.
 corrigida:	'mew ko.ra'sa~w~ si ez.va.zi'ow Di 'to.du de'ze.Zu i Re'dujs si aw 'prO.prju 'uw.Ti~.mu ow pri~'mej.ru puw'saX
@@ -1064,13 +1064,13 @@ ref:	Ela, que deveria ter ficado no sertão de Alagoas com vestido de chita e se
 corrigida:	'E.la, ki de.ve'ri.a 'teX fi'ka.du nu seX'ta~w~ Di a.la'go.as ko~ ves'Ti.du Di 'Si.ta i se~j~ ne~'Ju~.ma, da.Ti.lo.gra'fi.a, 'Za ki es.kre'vi.a 'ta~w~ 'maw, 'sO 'Ti~.Ja a'tE u teX'sej.ru 'a~.nu pri~'ma.rju
 
 ref:	Por ser ignorante era obrigada na datilografia a copiar lentamente letra por letra, a tia é que lhe dera um curso ralo de como bater à máquina.
-corrigida:	puX 'ser ig.no'ra~.Ti 'E.ra o.bri'ga.da na da.Ti.lo.gra'fi.a a ko.pi'aR le~.ta~'me~.Ti 'le.tra puR 'le.tra, a 'Ti.a E ki Li 'dE.ra u~ 'kuX.su 'Ra.lu Di 'ko~.mu ba'ter a 'ma.ki~.na
+corrigida:	puX 'ser i.gi.no'ra~.Ti 'E.ra o.bri'ga.da na da.Ti.lo.gra'fi.a a ko.pi'aR le~.ta~'me~.Ti 'le.tra puR 'le.tra, a 'Ti.a E ki Li 'dE.ra u~ 'kuX.su 'Ra.lu Di 'ko~.mu ba'ter a 'ma.ki~.na
 
 ref:	E a moça ganhara uma dignidade: era enfim datilógrafa.
-inf:	i a 'mo.sa ga~'Ja.ra u~.ma Dig.ni'da.Di, 'E.ra e~'fi~ da.Ti'lO.gra.fa
+inf:	i a 'mo.sa ga~'Ja.ra u~.ma Di.gi.ni'da.Di, 'E.ra e~'fi~ da.Ti'lO.gra.fa
 
 ref:	Embora, ao que parece, não aprovasse na linguagem duas consoantes juntas e copiava a letra linda e redonda do amado chefe a palavra designar de modo como em língua falada diria: desiguinar.
-inf:	e~'bO.ra, aw ki pa'rE.si, 'na~w~ a.pro'va.si na li~'gwa.Ze~j~ 'du.as ko~.so'a~.Ti'Zu~.taz i ko.pi'a.va a 'le.tra 'li~.da i Re'do~.da du a~'ma.du 'SE.fi a pa'la.vra de.zig'naR Di 'mO.du 'ko~.mu e~j~ 'li~.gwa fa'la.da Di'ri.a, de.zi.gi~'naX
+inf:	e~'bO.ra, aw ki pa'rE.si, 'na~w~ a.pro'va.si na li~'gwa.Ze~j~ 'du.as ko~.so'a~.Ti'Zu~.taz i ko.pi'a.va a 'le.tra 'li~.da i Re'do~.da du a~'ma.du 'SE.fi a pa'la.vra de.zi.gi'naR Di 'mO.du 'ko~.mu e~j~ 'li~.gwa fa'la.da Di'ri.a, de.zi.gi~'naX
 
 ref:	Desculpai-me mas vou continuar a falar de mim que sou meu desconhecido, e ao escrever me surpreendo um pouco pois descobri que tenho um destino.
 inf:	des.kuw'paj mi majs 'vow ko~.Ti~.nu'ar a fa'laR Di 'mi~ ki 'sow 'mew des.ko~.Je'si.du, i aw es.kre'veR mi suX.pre'e~.du u~ 'pow.ku 'pojs des.ko'bri ki 'te~.Ju u~ des'Ti~.nu
@@ -1115,7 +1115,7 @@ ref:	É que a esta história falta melodia cantabile.
 corrigida:	E ki a 'Es.ta is'tO.rja 'faw.ta me.lo'Di.a ka~.ta'bi.li
 
 ref:	O seu ritmo é às vezes descompassado.
-corrigida:	u 'sew 'RiT.mu E as 've.zis des.ko~.pa'sa.du
+corrigida:	u 'sew 'Ri.Ti.mu E as 've.zis des.ko~.pa'sa.du
 
 ref:	E tem fatos.
 inf:	i te~j~ 'fa.tus
@@ -1196,7 +1196,7 @@ ref:	Tem tendência mas então agora mesmo seco e endureço tudo.
 inf:	te~j~ te~'de~.sja majz e~'ta~w~ a'gO.ra 'mez.mu 'se.ku i e~.du're.su 'tu.du
 
 ref:	E pelo menos o que escrevo não pede favor a ninguém e não implora socorro: aguenta-se na sua chamada dor com uma dignidade de barão.
-inf:	i 'pe.lu 'me~.nuz u ki es'kre.vu 'na~w~ 'pE.Di fa'vor a ni~'ge~j~ i 'na~w~ i~'plO.ra so'ko.Ru, a'gwe~.ta si na 'su.a Sa~'ma.da 'doX ko~ u~.ma Dig.ni'da.Di Di ba'ra~w~
+inf:	i 'pe.lu 'me~.nuz u ki es'kre.vu 'na~w~ 'pE.Di fa'vor a ni~'ge~j~ i 'na~w~ i~'plO.ra so'ko.Ru, a'gwe~.ta si na 'su.a Sa~'ma.da 'doX ko~ u~.ma Di.gi.ni'da.Di Di ba'ra~w~
 
 ref:	Parece que estou mudando de modo de escrever.
 inf:	pa'rE.si ki es'tow mu'da~.du Di 'mO.du Di es.kre'veX
@@ -1256,7 +1256,7 @@ ref:	Nunca a esqueci: jamais se esquece a pessoa com quem se dormiu.
 inf:	'nu~.ka a es.ke'si, Za~'majs si es'kE.si a pe'so.a ko~ 'ke~j~ si doR'miw
 
 ref:	O acontecimento fica tatuado em marca de fogo na carne viva e todos os que percebem o estigma fogem com horror.
-inf:	u a.ko~.te.si~'me~.tu 'fi.ka ta.tu'a.du e~j~ 'maX.ka Di 'fo.gu na 'kaR.ni 'vi.va i 'to.duz us ki peX'sE.be~j~ u es'Tig.ma 'fO.Ze~j~ ko~ o'RoX
+inf:	u a.ko~.te.si~'me~.tu 'fi.ka ta.tu'a.du e~j~ 'maX.ka Di 'fo.gu na 'kaR.ni 'vi.va i 'to.duz us ki peX'sE.be~j~ u es'Ti.gi.ma 'fO.Ze~j~ ko~ o'RoX
 
 ref:	Quero neste instante falar da nordestina.
 inf:	'kE.ru 'nes.Ti i~s'ta~.Ti fa'laR da noR.des'Ti~.na
@@ -2036,7 +2036,7 @@ ref:	A moça que pelo menos comida não mendigava, havia toda uma subclasse de g
 inf:	a 'mo.sa ki 'pe.lu 'me~.nus ko~'mi.da 'na~w~ me~.Di'ga.va, a'vi.a 'to.da u~.ma sub'kla.si Di 'Ze~.Ti 'majs peR'Di.da i ko~ 'fo~.mi
 
 ref:	Depois, ignora-se por quê, tinham vindo para o Rio, o inacreditável Rio de Janeiro, a tia lhe arranjara emprego, finalmente morrera e ela, agora sozinha, morava numa vaga de quarto compartilhado com mais quatro moças balconistas das Lojas Americanas.
-inf:	de'pojs, ig'nO.ra si puX 'ke, 'Ti~.Ja~w~ 'vi~.du 'pa.ra u 'Ri.u, u i~.na.kre.Di'ta.vew 'Ri.u Di Za~'nej.ru, a 'Ti.a Li a.Ra~'Za.ra e~'pre.gu, fi~.naw'me~.Ti mo'Rr.ra i 'E.la, a'gO.ra sO'zi~.Ja, mo'ra.va 'nu~.ma 'va.ga Di 'kwaX.tu ko~.paX.Ti'La.du ko~ 'majs 'kwa.tru 'mo.sas baw.ko~'nis.tas das 'lO.Zaz a~.me.ri'ka~.nas
+inf:	de'pojs, i.gi'nO.ra si puX 'ke, 'Ti~.Ja~w~ 'vi~.du 'pa.ra u 'Ri.u, u i~.na.kre.Di'ta.vew 'Ri.u Di Za~'nej.ru, a 'Ti.a Li a.Ra~'Za.ra e~'pre.gu, fi~.naw'me~.Ti mo'Rr.ra i 'E.la, a'gO.ra sO'zi~.Ja, mo'ra.va 'nu~.ma 'va.ga Di 'kwaX.tu ko~.paX.Ti'La.du ko~ 'majs 'kwa.tru 'mo.sas baw.ko~'nis.tas das 'lO.Zaz a~.me.ri'ka~.nas
 
 ref:	O quarto ficava num velho sobrado colonial da áspera rua do Acre entre as prostitutas que serviam a marinheiros, depósitos de carvão e de cimento em pó, não longe do cais do porto.
 inf:	u 'kwaX.tu fi'ka.va nu~ 'vE.Lu so'bra.du ko.lo~.ni'aw da 'as.pe.ra 'Ru.a du 'a.kri 'e~.tri as pros.Ti'tu.tas ki seR'vi.a~w~ a ma.ri~'Jej.rus, de'pO.si.tus Di kaR'va~w~ i Di si~'me~.tu e~j~ 'pO, 'na~w~ 'lo~.Zi du 'kajs du 'poX.tu
@@ -2135,7 +2135,7 @@ ref:	Estavam cansadas demais pelo trabalho que nem por ser anônimo era menos á
 inf:	es'ta.va~w~ ka~'sa.das de~'majs 'pe.lu tra'ba.Lu ki ne~j~ puX 'ser a~'no~.ni~.mu 'E.ra 'me~.nuz 'aR.dwu
 
 ref:	Uma vendia pó-de-arroz Coty, mas que idéia.
-inf:	u~.ma ve~'Di.a 'pO, Di a'Rojs koT.j, majs ki i'dEj.a
+corrigida:	u~.ma ve~'Di.a 'pO Di a'Rojs ko'Ti, majs ki i'dEj.a
 
 ref:	Elas viravam para o outro lado e readormeciam.
 inf:	'E.las vi'ra.va~w~ 'pa.ra u 'ow.tru 'la.du i Re.a.doR.me'si.a~w~
@@ -2570,7 +2570,7 @@ ref:	Ironia da vida: a mulher dá-se como prêmio ao fraco e apoio ao forte, e n
 inf:	i.ro~'ni.a da 'vi.da, a mu'LEX 'ko~.mu 'pre~.mju aw 'fra.ku i a'pOj.u aw 'fOX.Ti, i 'nu~.ka ni~'ge~j~ te~j~ u ki pre'si.za
 
 ref:	Dê-me uma alavanca e um ponto de apoio e levantarei o mundo
-inf:	'de~.mi u~.ma a.la'va~.ka i u~ 'po~.tu Di a'poj.u i le.va~.ta'rej u mu~.du
+inf:	'de mi u~.ma a.la'va~.ka i u~ 'po~.tu Di a'poj.u i le.va~.ta'rej u mu~.du
 
 ref:	Um governo que precisa de juramentos não merece apoio, nem deve ser apoiado.
 inf:	u~ go'veR.nu ki pre'si.za Di Zu.ra~'me~.tus 'na~w~ me'rE.si a'poj.u, ne~j~ 'dE.vi 'ser a.poj'a.du
@@ -2651,10 +2651,10 @@ ref:	Seja o melhor que você possa ser em tudo. Não espere recompensa por isso,
 corrigida:	'se.Za u me'LOX ki vo'se 'pO.sa 'ser e~j~ 'tu.du, 'na~w~ es'pE.ri Re.ko~'pe~.sa pur 'i.su, es'pE.ri kre.si~'me~.tu pe.so'aw
 
 ref:	Sempre haverá amor, sempre haverá o bem, numa via de mão dupla com a força de um trem. Alguém ajuda você e você ajuda alguém.
-inf:	'se~.pri a.ve'ra a~'moX, 'se~.pri a.ve'ra u 'be~j~, 'nu~.ma 'vi.a Di 'ma~w~ 'du.pla ko~ a 'foX.sa Di u~ tre~j~, aw'ge~j~ a'Zu.da vo'se i vo'se a'Zu.da aw'ge~j~
+inf:	'se~.pri a.ve'ra a~'moX, 'se~.pri a.ve'ra u 'be~j~, 'nu~.ma 'vi.a Di 'ma~w~ 'du.pla ko~ a 'foX.sa Di u~ 'tre~j~, aw'ge~j~ a'Zu.da vo'se i vo'se a'Zu.da aw'ge~j~
 
 ref:	Patriotismo significa apoiar o país. Não significa apoiar o presidente nem nenhum outro funcionário público.
-inf:	pa.tri.o'Tiz.mu sig.ni'fi.ka a.poj'ar u pa'is, 'na~w~ sig.ni'fi.ka a.poj'ar u pre.zi'de~.Ti ne~j~ ne~'Ju~ 'ow.tru fu~.si.o~'na.rju 'pu.bli.ku
+inf:	pa.tri.o'Tiz.mu si.gi.ni'fi.ka a.poj'ar u pa'is, 'na~w~ si.gi.ni'fi.ka a.poj'ar u pre.zi'de~.Ti ne~j~ ne~'Ju~ 'ow.tru fu~.si.o~'na.rju 'pu.bli.ku
 
 ref:	Nunca diga: É bom demais para ser verdade. Se almejamos somente a média, seremos medíocres. Se almejamos a excelência, seremos excelentes!
 corrigida:	'nu~.ka 'Di.ga, E 'bo~ de~'majs 'pa.ra 'seR veR'da.Di, si aw.me'Za~.mus sO~'me~.Ti a 'mE.Dja, se're~.mus me'Di.o.kris, si aw.me'Za~.muz a e.se'le~.sja, se're~.muz e.se'le~.Tis
@@ -2717,7 +2717,7 @@ ref:	Falar francamente com seus pais, de modo humilde, é conseguir deles a comp
 inf:	fa'laX fra~.ka~'me~.Ti ko~ 'sews 'pajs, Di 'mO.du u~'miw.Di, E ko~.se'giR 'de.liz a ko~.pre.e~'sa~w~, u a'poj.u i a sa.be.do'ri.a
 
 ref:	Agradeço minha família pelo apoio e incentivo dedicados em todos os momentos de minha vida, em especial àquele que me fez digno de ser seu filho.
-inf:	a.gra'de.su 'mi~.Ja fa~'mi.lja 'pe.lu a'poj.u i i~.se~'Ti.vu de.Di'ka.duz e~j~ 'to.duz us mo~'me~.tus Di 'mi~.Ja 'vi.da, e~j~ es.pe.si'aw a'kE.li ki mi 'fejz 'Dig.nu Di 'seX 'sew 'fi.Lu
+inf:	a.gra'de.su 'mi~.Ja fa~'mi.lja 'pe.lu a'poj.u i i~.se~'Ti.vu de.Di'ka.duz e~j~ 'to.duz us mo~'me~.tus Di 'mi~.Ja 'vi.da, e~j~ es.pe.si'aw a'ke.li ki mi 'fejz 'Di.gi.nu Di 'seX 'sew 'fi.Lu
 
 ref:	As marcas em meus joelhos não são de subserviência, e sim de apoio para me levantar!
 inf:	as 'maX.kaz e~j~ 'mew.Zu'e.Lus 'na~w~ 'sa~w~ Di sub.seR.vi'e~.sja, i 'si~ Di a'poj.u 'pa.ra mi le.va~'taX
@@ -2882,7 +2882,7 @@ ref:	Aceite o meu carinho, a minha amizade, atenção e todo apoio possível, ma
 inf:	a'sej.Ti u 'mew ka'ri~.Ju, a 'mi~.Ja a~.mi'za.Di, a.te~'sa~w~ i 'to.du a'poj.u po'si.vew, majs 'na~w~ e'zi.Za Di 'mi~ u ki ew 'na~w~ 'pO.su Ti 'daX
 
 ref:	Esses lapsos de memória já se tornaram amigos, nos momentos de discórdia apoio-me tal e coisa e coisa e tal, por fim nas angústias nada mal...
-inf:	'e.sis 'lap.sus Di me~'mO.rja 'Za si toR'na.ra~w~ a~'mi.gus, nus mo~'me~.tus Di Dis'kOR.Dja a'poj.u mi 'taw i 'koj.za i 'koj.za i 'taw, puX 'fi~ naz a~'gus.Tjas 'na.da 'maw
+corrigida:	'e.sis 'lap.sus Di me~'mO.rja 'Za si toR'na.ra~w~ a~'mi.gus, nus mo~'me~.tus Di Dis'kOR.Dja a'pOj.u mi 'taw i 'koj.za i 'koj.za i 'taw, puX 'fi~ naz a~'gus.Tjas 'na.da 'maw
 
 ref:	Amor é isso: é segurança, é apoio, é solo, é firmeza e é ponte quando o abismo permanece aberto.
 corrigida:	a~'mor E 'i.su, E se.gu'ra~.sa, E a'poj.u, E 'sO.lu, E fiR'me.za i E 'po~.Ti 'kwa~.du u a'biz.mu peR.ma~'nE.si a'bEX.tu
@@ -2924,7 +2924,7 @@ ref:	Eu, muitas e muitas vezes, não ficaria de pé se não fosse o apoio dos am
 corrigida:	ew, 'mu~j~.taz i 'mu~j~.tas 've.zis, 'na~w~ fi.ka'ri.a Di 'pE si 'na~w~ 'fo.si u a'poj.u duz a~'mi.gus
 
 ref:	Ter uma mente aberta aos interesses de um grupo social é a melhor meta para se conquistar apoio e simpatia do mesmo.
-corrigida:	'ter u~.ma 'me~.Ti a'bEX.ta awz i~.te're.sis Di u~ 'gru.pu so.si'aw E a me'LOR 'me.ta 'pa.ra si ko~.kis'tar a'poj.u i si~.pa'Ti.a du 'mez.mu
+corrigida:	'ter u~.ma 'me~.Ti a'bEX.ta awz i~.te're.sis Di u~ 'gru.pu so.si'aw E a me'LOR 'mE.ta 'pa.ra si ko~.kis'tar a'poj.u i si~.pa'Ti.a du 'mez.mu
 
 ref:	Fica mais fácil quando tem alguém do seu lado te dando forças, te dando apoio, te motivando prosseguir.
 inf:	'fi.ka 'majs 'fa.siw 'kwa~.du te~j~ aw'ge~j~ du 'sew 'la.du Ti 'da~.du 'foX.sas, Ti 'da~.du a'poj.u, Ti mo.Ti'va~.du pro.se'giX
@@ -2966,7 +2966,7 @@ ref:	Sonhe grande! Sonho pequeno não merece apoio.
 inf:	'so~.Ji 'gra~.Di, 'so~.Ju pe'ke~.nu 'na~w~ me'rE.si a'poj.u
 
 ref:	Existe dois modos de ser forte: Ser julgado por pessoas ignorantes; Ou ter apoio de pessoas inteligentes;
-inf:	e'zis.Ti 'dojs 'mO.dus Di 'seX 'fOX.Ti, 'seR Zuw'ga.du puX pe'so.az ig.no'ra~.Tis, ow 'ter a'poj.u Di pe'so.az i~.te.li'Ze~.Tis
+inf:	e'zis.Ti 'dojs 'mO.dus Di 'seX 'fOX.Ti, 'seR Zuw'ga.du puX pe'so.az i.gi.no'ra~.Tis, ow 'ter a'poj.u Di pe'so.az i~.te.li'Ze~.Tis
 
 ref:	Buscar o sucesso, é sempre algo almejado, mas sem planejamento, e sem o  apoio dos amigos, nunca venceremos.
 corrigida:	bus'kar u su'sE.su, E 'se~.pri 'aw.gu aw.me'Za.du, majs se~j~ pla~.ne.Za~'me~.tu, i se~j~ u a'poj.u duz a~'mi.gus, 'nu~.ka ve~.se're~.mus
