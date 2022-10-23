@@ -2420,7 +2420,7 @@ ref:	Logo que elas os abrem, escapa-se.
 corrigida:	'lO.gu ki 'E.laz uz 'a.bre~j~, es'ka.pa si
 
 ref:	Seguem alguns depoimentos comprobatórios desta teoria:
-corrigida:	se.ge~j~ aw'gu~s de.po.i~'me~.tus ko~.pro.ba'tO.rjus 'dEs.ta te.o'ri.a
+corrigida:	'sE.ge~j~ aw'gu~s de.po.i~'me~.tus ko~.pro.ba'tO.rjus 'dEs.ta te.o'ri.a
 
 ref:	Você é de Santa Catarina?
 corrigida:	vo'se E Di 'sa~.ta ka.ta'ri~.na

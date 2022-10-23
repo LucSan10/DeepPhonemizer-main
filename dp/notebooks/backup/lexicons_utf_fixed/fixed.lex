@@ -368,7 +368,7 @@ ref:	Foi a sede oficial do governo de D. João no Brasil, entre 1808 e 1821, mas
 corrigida:	'foj a 'sE.Di o.fi.si'aw du go'veR.nu Di 'do~w~ Zo'a~w~ nu bra'ziw, 'e~.tri 'miw oj.tu'se~.tuz i 'oj.tu i 'miw oj.tu'se~.tuz i 'vi~.Ti i 'u~, majz 'o.Zi u~ tu'ris.ta de.za.vi'za.du po.de'ri.a pa'saX pur 'e.li se~j~ to~'maX ko~.Je.si~'me~.tu 'dE.sa i~.foR.ma'sa~w~
 
 ref:	Com exceção de uma carruagem antiga, de madeira e sem indentificação, exposta junto à janela direita da entrada principal, nada ali faz referência a seu passado histórico.
-corrigida:	ko~ e.se'sa~w~ Di u~.ma ka.Ru.a.Ze~j~ a~'Ti.ga, Di ma'dej.ra i se~j~ i~.de~.Ti.fi.ka'sa~w~, es'pOs.ta 'Zu~.tu a Za~'nE.la Di'rej.ta da e~'tra.da pri~.si'paw, 'na.da a'li 'fajz Re.fe're~.sja a 'sew pa'sa.du is'tO.ri.ku
+corrigida:	ko~ e.se'sa~w~ Di u~.ma ka.Ru'a.Ze~j~ a~'Ti.ga, Di ma'dej.ra i se~j~ i~.de~.Ti.fi.ka'sa~w~, es'pOs.ta 'Zu~.tu a Za~'nE.la Di'rej.ta da e~'tra.da pri~.si'paw, 'na.da a'li 'fajz Re.fe're~.sja a 'sew pa'sa.du is'tO.ri.ku
 
 ref:	Na parede ao lado da carruagem, um mapa em alto-relevo mostra os prédios e arranha céus do centro do Rio de Janeiro atual.
 corrigida:	na pa're.Di aw 'la.du da ka.Ru'a.Ze~j~, u~ 'ma.pa e~j~ 'aw.tu Re'le.vu 'mOs.tra us 'prE.Djuz i a'Ra~.Ja 'sEws du 'se~.tru du 'Ri.u Di Za~'nej.ru a.tu'aw
@@ -419,7 +419,7 @@ ref:	O propósito deste livro é resgatar a história da corte portuguesa no Bra
 corrigida:	u pro'pO.si.tu 'des.Ti 'li.vru E Rez.ga'tar a is'tO.rja da 'koX.Ti poX.tu'ge.za nu bra'ziw du Re.la'Ti.vu es.ke.si~'me~.tu a ki 'foj ko~.fi~'na.da i te~'taR de.vow'veX 'sews pro.ta.go~'nis.taz a Di~.me~'sa~w~ 'majs ko'RE.ta po'si.vew dus pa'pEjs ki de.ze~.pe~'Ja.ra~w~ du'ze~.tuz 'a~.nuz a'trajs
 
 ref:	Como se verá nos capítulos adiante, esses personagens podem ser, sim, inacreditavelmente caricatos, algo que se poderia dizer de todos os governantes que os seguiram, inclusive alguns muito atuais.
-corrigida:	'ko~.mu si ve'ra nus ka'pi.tu.luz a.Di'a~.Ti, 'e.sis peX.so~'na.Ze~s pO.de~j~ 'seX, 'si~, i~.na.kre.Di.ta.vew'me~.Ti ka.ri'ka.tus, 'aw.gu ki si po.de'ri.a Di'zeR Di 'to.duz us go.veR'na~.Tis ki us se'gi.ra~w~, i~.klu'zi.vi aw'gu~s 'mu~j~.tu a.tu'ajs
+corrigida:	'ko~.mu si ve'ra nus ka'pi.tu.luz a.Di'a~.Ti, 'e.sis peX.so~'na.Ze~s 'pO.de~j~ 'seX, 'si~, i~.na.kre.Di.ta.vew'me~.Ti ka.ri'ka.tus, 'aw.gu ki si po.de'ri.a Di'zeR Di 'to.duz us go.veR'na~.Tis ki us se'gi.ra~w~, i~.klu'zi.vi aw'gu~s 'mu~j~.tu a.tu'ajs
 
 ref:	Obviamente, o Brasil de D. João VI não se resume a graçolas.
 corrigida:	Ob.vi.a~'me~.Ti, u bra'ziw Di 'do~w~ Zo'a~w~ 'ses.tu 'na~w~ si Re'zu~.mi a gra'sO.las
@@ -680,7 +680,7 @@ ref:	O primeiro tratado de comércio entre os dois países é de 1308.
 corrigida:	u pri~'mej.ru tra'ta.du Di ko~'mEX.sju 'e~.tri us 'dojs pa'i.ziz E Di 'miw tre'ze~.tuz i 'oj.tu
 
 ref:	A história da medicina não é o testamento de idealistas à procura da saúde e da vida, assim como a história do homem não é mais gloriosa do que uma lista de irracionalidade brutal e egoísta com lampejos espasmódicos de sanidade.
-corrigida:	a is'tO.rja da me.Di'si~.na 'na~w~ E u tes.ta~'me~.tu Di i.de.a'lis.taz a pro'ku.ra da sa'u.Di i da 'vi.da, a'si~ 'ko~.mu a is'tO.rja du o~.me~j~ 'na~w~ E 'majs glo.ri'O.za du ki u~.ma 'lis.ta Di i.Ra.si.o~.na.li'da.Di bru'taw i e.go'is.ta ko~ la~'pe.Zuz es.paz'mO.Di.kus Di sa~.ni'da.Di
+corrigida:	a is'tO.rja da me.Di'si~.na 'na~w~ E u tes.ta~'me~.tu Di i.de.a'lis.taz a pro'ku.ra da sa'u.Di i da 'vi.da, a'si~ 'ko~.mu a is'tO.rja du 'o~.me~j~ 'na~w~ E 'majs glo.ri'O.za du ki u~.ma 'lis.ta Di i.Ra.si.o~.na.li'da.Di bru'taw i e.go'is.ta ko~ la~'pe.Zuz es.paz'mO.Di.kus Di sa~.ni'da.Di
 
 ref:	O leitor inteligente, tendo chegado até aqui, há tanto tempo de pé na biblioteca ou na livraria, pode pensar que indo agora diretamente ao fim do livro vai poupar trabalho e dinheiro.
 corrigida:	u lej'tor i~.te.li'Ze~.Ti, 'te~.du Se'ga.du a'tE a'ki, 'a 'ta~.tu 'te~.pu Di 'pE na bi.bli.o'tE.ka ow na li.vra'ri.a, 'pO.Di pe~'saX ki 'i~.du a'gO.ra Di.rE.ta~'me~.Ti aw 'fi~ du 'li.vru 'vaj pow'paX tra'ba.Lu i Di~'Jej.ru
@@ -752,7 +752,7 @@ ref:	No outro lado do Mediterrâneo, na escola de medicina de Alexandria, fundad
 corrigida:	nu 'ow.tru 'la.du du me.Di.te'Ra~.nju, na es'kO.la Di me.Di'si~.na Di a.le.Sa~'dri.a, fu~'da.da e~j~ tre'ze~.tuz i 'tri~.ta i 'dojz 'a 'se, e'rO.fi.lu i e.ra'zis.tra.tu, pur 'vOw.ta Di tre'ze~.tuz 'a 'se, 'Za 'Ti~.Ja~w~ a so.lu'sa~w~ a~.na'to~.mi.ka, 'e.lis Di.se'ka.va~w~ 'vi.vuz us kri~.mi~'nO.zus da pri'za~w~ Re'aw
 
 ref:	A religião é sem dúvida a Coisa Boa, oferecendo os meios valiosos para instalar sobre os ombros do homem auto-afirmativo o peso de alguém mais importando do que ele, com um conjunto excelente de regras com as quais, na maior parte das vezes, ele não consegue dirigir sua vida, oferecendo esperança, consolo, orientação e humildade, além da maravilhosa arquitetura da Basílica de São Pedro e do Taj Mahal.
-corrigida:	a Re.li.Zi'a~w~ E se~j~ 'du.vi.da a 'koj.za 'bo.a, o.fe.re'se~.du us mej'us va.li'O.zus 'pa.ra i~s.ta'laX 'so.bri uz 'o~.brus du o~.me~j~ 'aw.tu a.fiR.ma'Ti.vu u 'pe.su Di aw'ge~j~ 'majz i~.poX'ta~.du du ki 'e.li, ko~ u~ ko~'Zu~.tu e.se'le~.Ti Di 'RE.gras ko~ as 'kwajs, na maj'OX 'paX.Ti das 've.zis, 'e.li 'na~w~ ko~'sE.gi Di.ri'ZiX 'su.a 'vi.da, o.fe.re'se~.du es.pe'ra~.sa, ko~'so.lu, o.ri.e~.ta'sa~w~ i u~.miw'da.Di, a'le~j~ da ma.ra.vi'LO.za aX.ki.te'tu.ra da ba'zi.li.ka Di 'sa~w~ 'pe.dru i du taZ ma'aw
+corrigida:	a Re.li.Zi'a~w~ E se~j~ 'du.vi.da a 'koj.za 'bo.a, o.fe.re'se~.du us mej'us va.li'O.zus 'pa.ra i~s.ta'laX 'so.bri uz 'o~.brus du 'o~.me~j~ 'aw.tu a.fiR.ma'Ti.vu u 'pe.su Di aw'ge~j~ 'majz i~.poX'ta~.du du ki 'e.li, ko~ u~ ko~'Zu~.tu e.se'le~.Ti Di 'RE.gras ko~ as 'kwajs, na maj'OX 'paX.Ti das 've.zis, 'e.li 'na~w~ ko~'sE.gi Di.ri'ZiX 'su.a 'vi.da, o.fe.re'se~.du es.pe'ra~.sa, ko~'so.lu, o.ri.e~.ta'sa~w~ i u~.miw'da.Di, a'le~j~ da ma.ra.vi'LO.za aX.ki.te'tu.ra da ba'zi.li.ka Di 'sa~w~ 'pe.dru i du taZ ma'aw
 
 ref:	Guarda a minha alma, pois sou santo: ó Deus meu, salva o teu servo, que em ti confia.
 corrigida:	'gwaR.da a 'mi~.Ja 'aw.ma, 'pojs 'sow 'sa~.tu, 'O 'dews 'mew, 'saw.va u 'tew 'sER.vu, ki e~j~ 'Ti ko~'fi.a
@@ -848,7 +848,7 @@ ref:	Quase podemos ouvir um suspiro de alívio erguer-se em uníssono na cidade 
 corrigida:	'kwa.zi po'de~.muz ow'vir u~ sus'pi.ru Di a'li.vju eR'geX si e~j~ u~'ni.so~.nu na si'da.Di 'prO.si~.ma i nu 'ka~.pu, 'o~.Di a na.tu're.za i~.teR'vej.u 'pa.ra 'dar u~.ma 'fOw.ga awz e'zaws.tus 'se.riz u~'ma~.nus
 
 ref:	É claro que as tempestades também interrompem negócios, e, embora umas poucas empresas tenham um ganho extra, outras perdem dinheiro, o que significa que existem os que não sentem júbilo quando tudo fecha temporariamente.
-corrigida:	E 'kla.ru ki as te~.pes'ta.Dis ta~'be~j~ i~.te.Ro~.pe~j~ ne'gO.sjus, i, e~'bO.ra u~.mas 'pow.kaz e~'pre.zas 'te~.Ja~w~ u~ 'ga~.Ju 'es.tra, 'ow.tras 'pER.de~j~ Di~'Jej.ru, u ki si.gi.ni'fi.ka ki e'zis.te~j~ us ki 'na~w~ se~.te~j~ 'Zu.bi.lu 'kwa~.du 'tu.du 'fE.Sa te~.po.ra.ri.a~'me~.Ti
+corrigida:	E 'kla.ru ki as te~.pes'ta.Dis ta~'be~j~ i~.te'Ro~.pe~j~ ne'gO.sjus, i, e~'bO.ra u~.mas 'pow.kaz e~'pre.zas 'te~.Ja~w~ u~ 'ga~.Ju 'es.tra, 'ow.tras 'pER.de~j~ Di~'Jej.ru, u ki si.gi.ni'fi.ka ki e'zis.te~j~ us ki 'na~w~ 'se~.te~j~ 'Zu.bi.lu 'kwa~.du 'tu.du 'fE.Sa te~.po.ra.ri.a~'me~.Ti
 
 ref:	Até as atividades comuns se tornam extraordinárias.
 corrigida:	a'tE az a.Ti.vi'da.Dis ko~'mu~s si 'tOR.na~w~ es.tra.oR.Di~'na.rjas
@@ -2072,7 +2072,7 @@ ref:	A forma poética predominante no Man'yôshû, com mais de 4 mil poemas, é 
 corrigida:	a 'fOR.ma po'E.Ti.ka pre.do~.mi~'na~.Ti nu ma~'jo.Su, ko~ 'majs Di 'kwa.tru 'miw po'e~.mas, E u 'ta~.ka, ko~'pos.tu Di 'si~.ku 'sE.Ti 'si~.ku 'sE.Ti 'sE.Ti 'si.la.bas
 
 ref:	Entre os séculos XVI e XVII, surgem duas principais escolas de renga haikai: a Teimon-ha, ou escola de Matsunaga Teitoku - que buscava a sofisticação da linguagem e a composição elaborada, e a Danrim-fú, ou templo, cujo principal representante foi Nishiyama Sôin.
-corrigida:	'e~.tri us 'sE.ku.lus de.ze'sejz i de.ze'sE.Ti, suR.Ze~j~ 'du.as pri~.si'pajz es'kO.las Di 'Re~.ga Raj'kaj, a tej~'mo~ 'Xa, ow es'kO.la Di ma.tsu~'na.ga tej'to.ku, ki bus'ka.va a so.fis.Ti.ka'sa~w~ da li~'gwa.Ze~j~ i a ko~.po.zi'sa~w~ e.la.bo'ra.da, i a da~'Ri~ 'fu, ow 'te~.plu, 'ku.Zu pri~.si'paw Re.pre.ze~'ta~.Ti 'foj ni.Si'ja~.ma 'so.i~
+corrigida:	'e~.tri us 'sE.ku.lus de.ze'sejz i de.ze'sE.Ti, 'suR.Ze~j~ 'du.as pri~.si'pajz es'kO.las Di 'Re~.ga Raj'kaj, a tej~'mo~ 'Xa, ow es'kO.la Di ma.tsu~'na.ga tej'to.ku, ki bus'ka.va a so.fis.Ti.ka'sa~w~ da li~'gwa.Ze~j~ i a ko~.po.zi'sa~w~ e.la.bo'ra.da, i a da~'Ri~ 'fu, ow 'te~.plu, 'ku.Zu pri~.si'paw Re.pre.ze~'ta~.Ti 'foj ni.Si'ja~.ma 'so.i~
 
 ref:	Consta que o poeta teve mais de 3 mil discípulos em vida, entre eles o chamado Bashô Jijjetsu (dez grandes discípulos de Bashô): Sampu, Kyorai, Ransêtsu, Kyorôku, Kikaku, Josô, Yaha, Shikô, Etsujin e Hokúshi, todos dignos herdeiros de sua trajetória de vida, pautada pela humildade, pelo desapego e pela simplicidade.
 corrigida:	'ko~s.ta ki u po'E.ta 'te.vi 'majs Di 'trejs 'miw Di'si.pu.luz e~j~ 'vi.da, 'e~.tri 'e.liz u Sa~'ma.du ba'So Zi'Ze.tsu, 'dEjz 'gra~.Dis Di'si.pu.lus Di ba'So, sa~'pu, kjo'raj, Ra~'set.su, kjo'ro.ku, ki'ka.ku, Zo'so, 'ja.Xa, Si'ko, et.su'Zi~ i Xo'ku.Si, 'to.dus 'Di.gi.nuz eR'dej.rus Di 'su.a tra.Ze'tO.rja Di 'vi.da, paw'ta.da 'pe.la u~.miw'da.Di, 'pe.lu de.za'pe.gu i 'pe.la si~.pli.si'da.Di

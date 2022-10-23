@@ -1,5 +1,5 @@
 ref:	Os  trovões  reluzem  Riscando  o  firmamento, Vocações  conduzem  Ao  acerto  de  um  invento,
-inf:	us tro'vo~j~s Re.lu.ze~j~ Ris'ka~.du u fiR.ma~'me~.tu, vo.ka'so~j~s ko~'du.ze~j~ aw a'seX.tu Di u~ i~'ve~.tu
+inf:	us tro'vo~j~s Re'lu.ze~j~ Ris'ka~.du u fiR.ma~'me~.tu, vo.ka'so~j~s ko~'du.ze~j~ aw a'seX.tu Di u~ i~'ve~.tu
 
 ref:	O erro é pra ser cometido, mas poucos sabem que o acerto também é uma escolha.
 corrigida:	u 'e.Ru E pra 'seX ko~.me'Ti.du, majs 'pow.kus 'sa.be~j~ ki u a'seX.tu ta~'be~j~ E u~.ma es'ko.La
@@ -457,8 +457,8 @@ corrigida:	a 'paX.Ti 'majs 'gra.vi da ko.Rup'sa~w~ E u ko~'Sa.vu i a i~.pu~.ni'd
 ref:	Vamos fazer um acordo. Não conheço você e você não me conhece. E como não nos conhecemos, não temos nada a perder. Podemos ser sinceros. Pode ser? Sem máscaras.
 inf:	'va~.mus fa'zer u~ a'koR.du, 'na~w~ ko~'Je.su vo'se i vo'se 'na~w~ mi ko~'JE.si, i 'ko~.mu 'na~w~ nus ko~.Je'se~.mus, 'na~w~ 'te~.mus 'na.da a peR'deX, po'de~.mus 'seX si~'sE.rus, 'pO.Di 'seX, se~j~ 'mas.ka.ras
 
-ref:	Não deposite expectativasem mim, não há acordo espiritual, físico ou material que me obrigue a mudara minha essência para me encaixar nesta existência.
-inf:	'na~w~ de.po'zi.Ti es.pek.ta.Ti.va.ze~j~ 'mi~, 'na~w~ 'a a'koR.du es.pi.ri.tu'aw, 'fi.zi.ku ow ma.te.ri'aw ki mi o'bri.gi a mu'da.ra 'mi~.Ja e'se~.sja 'pa.ra mi e~.kaj'SaR 'nEs.ta e.zis'te~.sja
+ref:	Não deposite expectativas em mim, não há acordo espiritual, físico ou material que me obrigue a mudara minha essência para me encaixar nesta existência.
+inf:	'na~w~ de.po'zi.Ti es.pek.ta'Ti.vaz e~j~ 'mi~, 'na~w~ 'a a'koR.du es.pi.ri.tu'aw, 'fi.zi.ku ow ma.te.ri'aw ki mi o'bri.gi a mu'da.ra 'mi~.Ja e'se~.sja 'pa.ra mi e~.kaj'SaR 'nEs.ta e.zis'te~.sja
 
 ref:	Um acordo é sempre melhor do que uma guerra.
 corrigida:	u~ a'koR.du E 'se~.pri me'LOR du ki u~.ma 'gE.Ra
@@ -2801,7 +2801,7 @@ ref:	Eu queria estar ao seu lado  todos dias da sua vida. Pra que nos dias ruins
 inf:	ew ke'ri.a es'tar aw 'sew 'la.du 'to.dus 'Di.as da 'su.a 'vi.da, pra ki nus 'Di.as Ru'i~z ew 'se.Za 'sew a'poj.u, i nus Di fe.li.si'da.Di 'ser u mo'Ti.vu 'dE.la
 
 ref:	Palavras de apoio e de carinho, não ditas na hora de um sofrimento ferem tanto quanto as mal ditas.
-inf:	pa'la.vras Di a'poj.u i Di ka'ri~.Ju, 'na~w~ 'Di.tas na 'O.ra Di u~ so.fri~'me~.tu fE.re~j~ 'ta~.tu 'kwa~.tu as 'maw 'Di.tas
+inf:	pa'la.vras Di a'poj.u i Di ka'ri~.Ju, 'na~w~ 'Di.tas na 'O.ra Di u~ so.fri~'me~.tu 'fE.re~j~ 'ta~.tu 'kwa~.tu as 'maw 'Di.tas
 
 ref:	Quando menos se espera, aparece uma mão do lugar mais inusitado para te dar apoio.
 inf:	'kwa~.du 'me~.nus si es'pE.ra, a.pa'rE.si u~.ma 'ma~w~ du lu'gaR 'majz i~.nu.zi'ta.du 'pa.ra Ti 'dar a'poj.u

@@ -782,13 +782,13 @@ ref:	Jesus, como ser humano, não tinha poder para curar ninguém.
 corrigida:	Ze'zujs, 'ko~.mu 'ser u~'ma~.nu, 'na~w~ 'Ti~.Ja po'deX 'pa.ra ku'raR ni~'ge~j~
 
 ref:	Isso foi um choque para as crenças religiosas de Mack.
-inf:	'i.su 'foj u~ 'SO.ki 'pa.ra as 'kre~.sas Re.li.Zi'O.zas Di 'mE.ki
+corrigida:	'i.su 'foj u~ 'SO.ki 'pa.ra as 'kre~.sas Re.li.Zi'O.zas Di 'mE.ki
 
 ref:	Só enquanto ele repousava em seu relacionamento comigo e em nossa comunhão, nossa comum-união, ele se tornava capaz de expressar meu coração e minha vontade em qualquer circunstância determinada.
-inf:	'sO e~'kwa~.tu 'e.li Re.pow'za.va e~j~ 'sew Re.la.si.o~.na~'me~.tu ko~'mi.gu i e~j~ 'nO.sa ko~.mu~'Ja~w~, 'nO.sa ko~'mu~ u~.ni'a~w~, 'e.li si toR'na.va ka'pajz Di es.pre'saR 'mew ko.ra'sa~w~ i 'mi~.Ja vo~'ta.Di e~j~ kwaw'kEX siX.ku~s'ta~.sja de.teR.mi~'na.da
+corrigida:	'sO e~'kwa~.tu 'e.li Re.pow'za.va e~j~ 'sew Re.la.si.o~.na~'me~.tu ko~'mi.gu i e~j~ 'nO.sa ko~.mu~'Ja~w~, 'nO.sa ko~'mu~ u~.ni'a~w~, 'e.li si toR'na.va ka'pajz Di es.pre'saR 'mew ko.ra'sa~w~ i 'mi~.Ja vo~'ta.Di e~j~ kwaw'kEX siX.ku~s'ta~.sja de.teR.mi~'na.da
 
 ref:	Mas o que você está realmente vendo sou eu, minha vida nele.
-inf:	majz u ki vo'se es'ta Re.aw'me~.Ti 've~.du 'sow ew, 'mi~.Ja 'vi.da 'ne.li
+corrigida:	majz u ki vo'se es'ta Re.aw'me~.Ti 've~.du 'sow ew, 'mi~.Ja 'vi.da 'ne.li
 
 ref:	É assim que ele vive e age como um verdadeiro ser humano, como cada humano está destinado a viver: a partir da minha vida.
 corrigida:	E a'si~ ki 'e.li 'vi.vi i 'a.Zi 'ko~.mu u~ veR.da'dej.ru 'ser u~'ma~.nu, 'ko~.mu 'ka.da u~'ma~.nu es'ta des.Ti~'na.du a vi'veX, a paX'TiR da 'mi~.Ja 'vi.da
@@ -797,43 +797,43 @@ ref:	E continuou: Um pássaro não é definido por estar preso ao chão, mas por
 corrigida:	i ko~.Ti~.nu'ow, u~ 'pa.sa.ru 'na~w~ E de.fi~'ni.du pur es'taX 'pre.zu aw 'Sa~w~, majs puX 'su.a ka.pa.si'da.Di Di vo'aX
 
 ref:	Lembre-se disso: os seres humanos não são definidos por suas limitações, e sim pelas intenções que tenho para eles.
-inf:	'le~.bri si 'Di.su, us 'se.riz u~'ma~.nus 'na~w~ 'sa~w~ de.fi~'ni.dus puX 'su.as li~.mi.ta'so~j~s, i 'si~ 'pe.laz i~.te~'so~j~s ki 'te~.Ju 'pa.ra 'e.lis
+corrigida:	'le~.bri si 'Di.su, us 'se.riz u~'ma~.nus 'na~w~ 'sa~w~ de.fi~'ni.dus puX 'su.as li~.mi.ta'so~j~s, i 'si~ 'pe.laz i~.te~'so~j~s ki 'te~.Ju 'pa.ra 'e.lis
 
 ref:	Não pelo que parecem ser, mas por tudo que significa ser criado à minha imagem.
-inf:	'na~w~ 'pe.lu ki pa'rE.se~j~ 'seX, majs puX 'tu.du ki si.gi.ni'fi.ka 'seX kri'a.du a 'mi~.Ja i~'ma.Ze~j~
+corrigida:	'na~w~ 'pe.lu ki pa'rE.se~j~ 'seX, majs puX 'tu.du ki si.gi.ni'fi.ka 'seX kri'a.du a 'mi~.Ja i~'ma.Ze~j~
 
 ref:	Mack sentiu necessidade de sentar-se.
-inf:	'mE.ki se~'Tiw ne.se.si'da.Di Di se~'taX si
+corrigida:	'mE.ki se~'Tiw ne.se.si'da.Di Di se~'taX si
 
 ref:	Papai colocou o pássaro sobre a mesa, perto de Mack, virou-se para abrir o forno e deu uma olhadinha na torta que estava assando.
-inf:	pa'paj ko.lo'kow u 'pa.sa.ru 'so.bri a 'me.za, 'pEX.tu Di 'mE.ki, vi'row si 'pa.ra a'brir u 'foR.nu i 'dew u~.ma o.La'Di~.Ja na 'tOX.ta ki es'ta.va a'sa~.du
+corrigida:	pa'paj ko.lo'kow u 'pa.sa.ru 'so.bri a 'me.za, 'pEX.tu Di 'mE.ki, vi'row si 'pa.ra a'brir u 'foR.nu i 'dew u~.ma o.La'Di~.Ja na 'tOX.ta ki es'ta.va a'sa~.du
 
 ref:	Satisfeita porque tudo ia bem, puxou uma cadeira para perto.
-inf:	sa.Tis'fej.ta puX'ke 'tu.du 'i.a 'be~j~, pu'Sow u~.ma ka'dej.ra 'pa.ra 'pEX.tu
+corrigida:	sa.Tis'fej.ta puX'ke 'tu.du 'i.a 'be~j~, pu'Sow u~.ma ka'dej.ra 'pa.ra 'pEX.tu
 
 ref:	Mack olhou o pássaro que, espantosamente, parecia contente em apenas ficar ali com eles.
-inf:	'mE.ki o'Low u 'pa.sa.ru ki, es.pa~.tO.za~'me~.Ti, pa.re'si.a ko~'te~.Ti e~j~ a'pe~.nas fi'kar a'li ko~ 'e.lis
+corrigida:	'mE.ki o'Low u 'pa.sa.ru ki, es.pa~.tO.za~'me~.Ti, pa.re'si.a ko~'te~.Ti e~j~ a'pe~.nas fi'kar a'li ko~ 'e.lis
 
 ref:	O absurdo daquilo fez Mack dar um risinho.
-inf:	u ab'suR.du da'ki.lu 'fejz 'mE.ki 'dar u~ Ri'zi~.Ju
+corrigida:	u ab'suR.du da'ki.lu 'fejz 'mE.ki 'dar u~ Ri'zi~.Ju
 
 ref:	Para começar, é bom que você não consiga entender a maravilha da minha natureza.
 corrigida:	'pa.ra ko~.me'saX, E 'bo~ ki vo'se 'na~w~ ko~'si.ga e~.te~'der a ma.ra'vi.La da 'mi~.Ja na.tu're.za
 
 ref:	Quem quer adorar um Deus que pode ser totalmente compreendido, hein?
-inf:	'ke~j~ 'kEr a.do'rar u~ 'dews ki 'pO.Di 'seX to.taw'me~.Ti ko~.pre.e~'Di.du, 'e~j~
+corrigida:	'ke~j~ 'kEr a.do'rar u~ 'dews ki 'pO.Di 'seX to.taw'me~.Ti ko~.pre.e~'Di.du, 'e~j~
 
 ref:	Não há muito mistério nisso.
-inf:	'na~w~ 'a 'mu~j~.tu mis'tE.rju 'ni.su
+corrigida:	'na~w~ 'a 'mu~j~.tu mis'tE.rju 'ni.su
 
 ref:	É isso mesmo?
 corrigida:	E 'i.su 'mez.mu
 
 ref:	É, sim. Ela riu.
-inf:	E, 'si~, 'E.la 'Riw
+corrigida:	E, 'si~, 'E.la 'Riw
 
 ref:	Ela parecia estar gostando daquilo.
-inf:	'E.la pa.re'si.a es'taR gos'ta~.du da'ki.lu
+corrigida:	'E.la pa.re'si.a es'taR gos'ta~.du da'ki.lu
 
 ref:	Não somos três deuses e não estamos falando de um deus com três atitudes, como um homem que é marido, pai e trabalhador.
 corrigida:	'na~w~ 'so~.mus 'trejs 'dew.ziz i 'na~w~ es'ta~.mus fa'la~.du Di u~ 'dews ko~ 'trejz a.Ti'tu.Dis, 'ko~.mu u~ 'o~.me~j~ ki E ma'ri.du, 'paj i tra.ba.La'doX
@@ -842,190 +842,190 @@ ref:	Sou um só Deus e sou três pessoas, e cada uma das três é total e inteir
 corrigida:	'sow 'u~ 'sO 'dewz i 'sow 'trejs pe'so.as, i 'ka.da u~.ma das 'trejz E to'taw i i~.tej.ra~'me~.Ti u 'u~
 
 ref:	Não importa, continuou a mulher.
-inf:	'na~w~ i~'pOX.ta, ko~.Ti~.nu'ow a mu'LEX
+corrigida:	'na~w~ i~'pOX.ta, ko~.Ti~.nu'ow a mu'LEX
 
 ref:	O importante é o seguinte: se eu fosse simplesmente Um Deus e Uma Pessoa, você iria se encontrar nesta Criação sem algo maravilhoso, sem algo que é essencial.
 corrigida:	u i~.poX'ta~.Ti E u se'gi~.Ti, si ew 'fo.si si~.pliz'me~.Ti 'u~ 'dewz i u~.ma pe'so.a, vo'se i'ri.a si e~.ko~'traR 'nEs.ta kri.a'sa~w~ se~j~ 'aw.gu ma.ra.vi'Lo.zu, se~j~ 'aw.gu ki E e.se~.si'aw
 
 ref:	E eu seria absolutamente diferente do que sou.
-inf:	i ew se'ri.a ab.so.lu.ta~'me~.Ti Di.fe're~.Ti du ki 'sow
+corrigida:	i ew se'ri.a ab.so.lu.ta~'me~.Ti Di.fe're~.Ti du ki 'sow
 
 ref:	Amor e relacionamento.
-inf:	a~'mor i Re.la.si.o~.na~'me~.tu
+corrigida:	a~'mor i Re.la.si.o~.na~'me~.tu
 
 ref:	O amor não é a limitação.
 corrigida:	u a~'moR 'na~w~ E a li~.mi.ta'sa~w~
 
 ref:	Como que em resposta à declaração dela, o pássaro partiu voando pela janela.
-inf:	'ko~.mu ki e~j~ Res'pOs.ta a de.kla.ra'sa~w~ 'dE.la, u 'pa.sa.ru paX'Tiw vo'a~.du 'pe.la Za~'nE.la
+corrigida:	'ko~.mu ki e~j~ Res'pOs.ta a de.kla.ra'sa~w~ 'dE.la, u 'pa.sa.ru paX'Tiw vo'a~.du 'pe.la Za~'nE.la
 
 ref:	olhá lo voando causou um intenso deleite.
-inf:	o'La lu vo'a~.du kaw'zow u~ i~'te~.su de'lej.Ti
+corrigida:	o'La lu vo'a~.du kaw'zow u~ i~'te~.su de'lej.Ti
 
 ref:	Mack virou-se de volta para Papai e olhou-a maravilhado.
-inf:	'mE.ki vi'row si Di 'vOw.ta 'pa.ra pa'paj i o'Low a ma.ra.vi'La.du
+corrigida:	'mE.ki vi'row si Di 'vOw.ta 'pa.ra pa'paj i o'Low a ma.ra.vi'La.du
 
 ref:	Ela era muito linda e espantosa e, apesar de estar se sentindo meio perdido e de a Grande Tristeza ainda o acompanhar, percebeu crescendo dentro dele um pouco de segurança por estar perto dela.
-inf:	'E.la 'E.ra 'mu~j~.tu 'li~.da i es.pa~'tO.za i, a.pe'zaR Di es'taX si se~'Ti~.du 'mej.u peR'Di.du i Di a 'gra~.Di tris'te.za a'i~.da u a.ko~.pa~'JaX, peX.se'bew kre'se~.du 'de~.tru 'de.li u~ 'pow.ku Di se.gu'ra~.sa pur es'taX 'pEX.tu 'dE.la
+corrigida:	'E.la 'E.ra 'mu~j~.tu 'li~.da i es.pa~'tO.za i, a.pe'zaR Di es'taX si se~'Ti~.du 'mej.u peR'Di.du i Di a 'gra~.Di tris'te.za a'i~.da u a.ko~.pa~'JaX, peX.se'bew kre'se~.du 'de~.tru 'de.li u~ 'pow.ku Di se.gu'ra~.sa pur es'taX 'pEX.tu 'dE.la
 
 ref:	Entenda o seguinte, continuou Papai.
-inf:	e~'te~.da u se'gi~.Ti, ko~.Ti~.nu'ow pa'paj
+corrigida:	e~'te~.da u se'gi~.Ti, ko~.Ti~.nu'ow pa'paj
 
 ref:	Para que eu tenha um objeto para amar ou, mais exatamente, um alguém para amar, é preciso que exista esse relacionamento dentro de mim.
 corrigida:	'pa.ra ki ew 'te~.Ja u~ ob'ZE.tu 'pa.ra a~'mar ow, 'majz e.za.ta~'me~.Ti, u~ aw'ge~j~ 'pa.ra a~'maX, E pre'si.zu ki e'zis.ta 'e.si Re.la.si.o~.na~'me~.tu 'de~.tru Di 'mi~
 
 ref:	Caso contrário, eu não seria capaz de amar.
-inf:	'ka.zu ko~'tra.rju, ew 'na~w~ se'ri.a ka'pajz Di a~'maX
+corrigida:	'ka.zu ko~'tra.rju, ew 'na~w~ se'ri.a ka'pajz Di a~'maX
 
 ref:	Você teria um deus incapaz de amar.
-inf:	vo'se te'ri.a u~ 'dewz i~.ka'pajz Di a~'maX
+corrigida:	vo'se te'ri.a u~ 'dewz i~.ka'pajz Di a~'maX
 
 ref:	Ou, talvez pior, você teria um deus que, quando escolhesse amar, só poderia fazê-lo como uma limitação de sua natureza.
-inf:	ow, taw'vejs pi'OX, vo'se te'ri.a u~ 'dews ki, 'kwa~.du es.ko'Le.si a~'maX, 'sO po.de'ri.a fa'ze lu 'ko~.mu u~.ma li~.mi.ta'sa~w~ Di 'su.a na.tu're.za
+corrigida:	ow, taw'vejs pi'OX, vo'se te'ri.a u~ 'dews ki, 'kwa~.du es.ko'Le.si a~'maX, 'sO po.de'ri.a fa'ze lu 'ko~.mu u~.ma li~.mi.ta'sa~w~ Di 'su.a na.tu're.za
 
 ref:	Esse tipo de deus possívelmente poderia agir sem amor e seria um desastre.
-inf:	'e.si 'Ti.pu Di 'dews po'si.vew.me~.Ti po.de'ri.a a'ZiX se~j~ a~'mor i se'ri.a u~ de'zas.tri
+corrigida:	'e.si 'Ti.pu Di 'dews po'si.vew.me~.Ti po.de'ri.a a'ZiX se~j~ a~'mor i se'ri.a u~ de'zas.tri
 
 ref:	E isso certamente não sou eu.
-inf:	i 'i.su sEX.ta~'me~.Ti 'na~w~ 'sow ew
+corrigida:	i 'i.su sEX.ta~'me~.Ti 'na~w~ 'sow ew
 
 ref:	Papai se levantou, foi até a porta do forno, tirou a torta recém-assada, colocou-a na bancada e, virando-se como se fosse se apresentar, disse: O Deus que é, o eu sou quem eu sou, não pode agir fora do amor!
-inf:	pa'paj si le.va~'tow, 'foj a'tE a 'pOX.ta du 'foR.nu, Ti'row a 'tOX.ta Re'se~j~ a'sa.da, ko.lo'kow a na ba~'ka.da i, vi'ra~.du si 'ko~.mu si 'fo.si si a.pre.ze~'taX, 'Di.si, u 'dews ki E, u ew 'sow 'ke~j~ ew 'sow, 'na~w~ 'pO.Di a'ZiX 'fO.ra du a~'moX
+corrigida:	pa'paj si le.va~'tow, 'foj a'tE a 'pOX.ta du 'foR.nu, Ti'row a 'tOX.ta Re'se~j~ a'sa.da, ko.lo'kow a na ba~'ka.da i, vi'ra~.du si 'ko~.mu si 'fo.si si a.pre.ze~'taX, 'Di.si, u 'dews ki E, u ew 'sow 'ke~j~ ew 'sow, 'na~w~ 'pO.Di a'ZiX 'fO.ra du a~'moX
 
 ref:	Mack soube que, por mais difícil de entender que fosse, o que estava escutando era algo espantoso e incrível.
-inf:	'mE.ki 'sow.bi ki, puR 'majs Di'fi.siw Di e~.te~'deX ki 'fo.si, u ki es'ta.va es.ku'ta~.du 'E.ra 'aw.gu es.pa~'to.zu i i~'kri.vew
+corrigida:	'mE.ki 'sow.bi ki, puR 'majs Di'fi.siw Di e~.te~'deX ki 'fo.si, u ki es'ta.va es.ku'ta~.du 'E.ra 'aw.gu es.pa~'to.zu i i~'kri.vew
 
 ref:	Como se as palavras dela estivessem se enrolando nele, envolvendo-o e falando com ele de maneiras que iam além do que ele poderia ouvir.
-inf:	'ko~.mu si as pa'la.vras 'dE.la es.Ti'vE.se~j~ si e~.Ro'la~.du 'ne.li, e~.vow've~.du u i fa'la~.du ko~ 'e.li Di ma~'nej.ras ki 'i.a~w~ a'le~j~ du ki 'e.li po.de'ri.a ow'viX
+corrigida:	'ko~.mu si as pa'la.vras 'dE.la es.Ti'vE.se~j~ si e~.Ro'la~.du 'ne.li, e~.vow've~.du u i fa'la~.du ko~ 'e.li Di ma~'nej.ras ki 'i.a~w~ a'le~j~ du ki 'e.li po.de'ri.a ow'viX
 
 ref:	Não que acreditasse de fato em nada daquilo.
-inf:	'na~w~ ki a.kre.Di'ta.si Di 'fa.tu e~j~ 'na.da da'ki.lu
+corrigida:	'na~w~ ki a.kre.Di'ta.si Di 'fa.tu e~j~ 'na.da da'ki.lu
 
 ref:	Se ao menos fosse verdade!
-inf:	si aw 'me~.nus 'fo.si veR'da.Di
+corrigida:	si aw 'me~.nus 'fo.si veR'da.Di
 
 ref:	Sua experiência lhe dizia o contrário.
-inf:	'su.a es.pe.ri'e~.sja Li Di'zi.a u ko~'tra.rju
+corrigida:	'su.a es.pe.ri'e~.sja Li Di'zi.a u ko~'tra.rju
 
 ref:	Este fim de semana tem a ver com relacionamento e amor.
-inf:	'es.Ti 'fi~ Di se~'ma~.na te~j~ a 'veX ko~ Re.la.si.o~.na~'me~.tu i a~'moX
+corrigida:	'es.Ti 'fi~ Di se~'ma~.na te~j~ a 'veX ko~ Re.la.si.o~.na~'me~.tu i a~'moX
 
 ref:	Bom, eu sei que você tem um monte de coisas para me dizer, mas neste momento é melhor ir se lavar.
 corrigida:	'bo~, ew 'sej ki vo'se te~j~ u~ 'mo~.Ti Di 'koj.zas 'pa.ra mi Di'zeX, majs 'nes.Ti mo~'me~.tu E me'LOr 'iX si la'vaX
 
 ref:	Os outros dois estão vindo para o jantar. Ela foi andando, mas parou e virou-se.
-inf:	uz 'ow.trus 'dojz es'ta~w~ 'vi~.du 'pa.ra u Za~'taX, 'E.la 'foj a~'da~.du, majs pa'row i vi'row si
+corrigida:	uz 'ow.trus 'dojz es'ta~w~ 'vi~.du 'pa.ra u Za~'taX, 'E.la 'foj a~'da~.du, majs pa'row i vi'row si
 
 ref:	Mackenzie, sei que seu coração está cheio de dor, de raiva e de muita confusão.
-inf:	ma'ke~.zi, 'sej ki 'sew ko.ra'sa~w~ es'ta 'Sej.u Di 'doX, Di 'Raj.va i Di 'mu~j~.ta ko~.fu'za~w~
+corrigida:	ma'ke~.zi, 'sej ki 'sew ko.ra'sa~w~ es'ta 'Sej.u Di 'doX, Di 'Raj.va i Di 'mu~j~.ta ko~.fu'za~w~
 
 ref:	Nós dois vamos falar um pouco disso enquanto você estiver aqui.
-inf:	'nOjs 'dojs 'va~.mus fa'lar u~ 'pow.ku 'Di.su e~'kwa~.tu vo'se es.Ti'vEr a'ki
+corrigida:	'nOjs 'dojs 'va~.mus fa'lar u~ 'pow.ku 'Di.su e~'kwa~.tu vo'se es.Ti'vEr a'ki
 
 ref:	Mas também quero que saiba que estão acontecendo mais coisas do que você pode imaginar ou entender.
-inf:	majs ta~'be~j~ 'kE.ru ki 'saj.ba ki es'ta~w~ a.ko~.te'se~.du 'majs 'koj.zas du ki vo'se 'pO.Di i~.ma.Zi~'nar ow e~.te~'deX
+corrigida:	majs ta~'be~j~ 'kE.ru ki 'saj.ba ki es'ta~w~ a.ko~.te'se~.du 'majs 'koj.zas du ki vo'se 'pO.Di i~.ma.Zi~'nar ow e~.te~'deX
 
 ref:	Procure usar ao máximo a confiança que tiver em mim, mesmo que ela seja pequena, está bem?
-inf:	pro'ku.ri u'zar aw 'ma.si~.mu a ko~.fi'a~.sa ki Ti'vEr e~j~ 'mi~, 'mez.mu ki 'E.la 'se.Za pe'ke~.na, es'ta 'be~j~
+corrigida:	pro'ku.ri u'zar aw 'ma.si~.mu a ko~.fi'a~.sa ki Ti'vEr e~j~ 'mi~, 'mez.mu ki 'E.la 'se.Za pe'ke~.na, es'ta 'be~j~
 
 ref:	Mack baixara a cabeça e olhava para o chão.
-inf:	'mE.ki baj'Sa.ra a ka'be.sa i o'La.va 'pa.ra u 'Sa~w~
+corrigida:	'mE.ki baj'Sa.ra a ka'be.sa i o'La.va 'pa.ra u 'Sa~w~
 
 ref:	Ela sabe, pensou.
-inf:	'E.la 'sa.bi, pe~'sow
+corrigida:	'E.la 'sa.bi, pe~'sow
 
 ref:	Pequena ou praticamente nada?
-inf:	pe'ke~.na ow pra.Ti.ka~'me~.Ti 'na.da
+corrigida:	pe'ke~.na ow pra.Ti.ka~'me~.Ti 'na.da
 
 ref:	Confirmando com a cabeça, olhou para cima e notou novamente as cicatrizes nos pulsos dela.
-inf:	ko~.fiR'ma~.du ko~ a ka'be.sa, o'Low 'pa.ra 'si~.ma i no'tow nO.va~'me~.Ti as si.ka'tri.zis nus 'puw.sus 'dE.la
+corrigida:	ko~.fiR'ma~.du ko~ a ka'be.sa, o'Low 'pa.ra 'si~.ma i no'tow nO.va~'me~.Ti as si.ka'tri.zis nus 'puw.sus 'dE.la
 
 ref:	Papai? disse Mack muito sem jeito.
-inf:	pa'paj, 'Di.si 'mE.ki 'mu~j~.tu se~j~ 'Zej.tu
+corrigida:	pa'paj, 'Di.si 'mE.ki 'mu~j~.tu se~j~ 'Zej.tu
 
 ref:	O que é, querido?
-inf:	u ki E, ke'ri.du
+corrigida:	u ki E, ke'ri.du
 
 ref:	Mack lutou para encontrar as palavras que expressassem o que lhe ia no coração.
-inf:	'mE.ki lu'tow 'pa.ra e~.ko~'trar as pa'la.vras ki es.pre'sa.se~j~ u ki Li 'i.a nu ko.ra'sa~w~
+corrigida:	'mE.ki lu'tow 'pa.ra e~.ko~'trar as pa'la.vras ki es.pre'sa.se~j~ u ki Li 'i.a nu ko.ra'sa~w~
 
 ref:	Lamento muito que você, que Jesus tivesse de morrer.
-inf:	la~'me~.tu 'mu~j~.tu ki vo'se, ki Ze'zujs Ti'vE.si Di mo'ReX
+corrigida:	la~'me~.tu 'mu~j~.tu ki vo'se, ki Ze'zujs Ti'vE.si Di mo'ReX
 
 ref:	Ela rodeou a mesa e deu outro grande abraço em Mack.
-inf:	'E.la Ro.de'ow a 'me.za i 'dew 'ow.tru 'gra~.Di a'bra.su e~j~ 'mE.ki
+corrigida:	'E.la Ro.de'ow a 'me.za i 'dew 'ow.tru 'gra~.Di a'bra.su e~j~ 'mE.ki
 
 ref:	Sei que lamenta e agradeço.
-inf:	'sej ki la~'me~.ta i a.gra'de.su
+corrigida:	'sej ki la~'me~.ta i a.gra'de.su
 
 ref:	Mas você precisa saber que nós não lamentamos nem um pouco.
-inf:	majs vo'se pre'si.za sa'beX ki 'nOjs 'na~w~ la~.me~'ta~.mus ne~j~ u~ 'pow.ku
+corrigida:	majs vo'se pre'si.za sa'beX ki 'nOjs 'na~w~ la~.me~'ta~.mus ne~j~ u~ 'pow.ku
 
 ref:	Valeu a pena.
-inf:	va'lew a 'pe~.na
+corrigida:	va'lew a 'pe~.na
 
 ref:	Não é, filho?
-inf:	'na~w~ E, 'fi.Lu
+corrigida:	'na~w~ E, 'fi.Lu
 
 ref:	Ela se virou para fazer a pergunta a Jesus, que havia acabado de entrar no chalé.
-inf:	'E.la si vi'row 'pa.ra fa'zer a peR'gu~.ta a Ze'zujs, ki a'vi.a a.ka'ba.du Di e~'traR nu Sa'lE
+corrigida:	'E.la si vi'row 'pa.ra fa'zer a peR'gu~.ta a Ze'zujs, ki a'vi.a a.ka'ba.du Di e~'traR nu Sa'lE
 
 ref:	Sem dúvida! Ele fez uma pausa e depois olhou para Mack.
-inf:	se~j~ 'du.vi.da, 'e.li 'fejz u~.ma 'paw.za i de'pojz o'Low 'pa.ra 'mE.ki
+corrigida:	se~j~ 'du.vi.da, 'e.li 'fejz u~.ma 'paw.za i de'pojz o'Low 'pa.ra 'mE.ki
 
 ref:	E eu teria feito aquilo mesmo que fosse somente por você.
-inf:	i ew te'ri.a 'fej.tu a'ki.lu 'mez.mu ki 'fo.si sO~'me~.Ti puR vo'se
+corrigida:	i ew te'ri.a 'fej.tu a'ki.lu 'mez.mu ki 'fo.si sO~'me~.Ti puR vo'se
 
 ref:	Mas não foi! disse com um sorriso acolhedor.
-inf:	majs 'na~w~ 'foj, 'Di.si ko~ u~ so'Ri.zu a.ko.Le'doX
+corrigida:	majs 'na~w~ 'foj, 'Di.si ko~ u~ so'Ri.zu a.ko.Le'doX
 
 ref:	Mack pediu licença e saiu em direção ao banheiro.
-inf:	'mE.ki pe'Diw li'se~.sa i sa'iw e~j~ Di.re'sa~w~ aw ba~'Jej.ru
+corrigida:	'mE.ki pe'Diw li'se~.sa i sa'iw e~j~ Di.re'sa~w~ aw ba~'Jej.ru
 
 ref:	Lavou as mãos e o rosto e tentou recuperar a compostura.
-inf:	la'vow as 'ma~w~z i u 'Ros.tu i te~'tow Re.ku.pe'rar a ko~.pos'tu.ra
+corrigida:	la'vow as 'ma~w~z i u 'Ros.tu i te~'tow Re.ku.pe'rar a ko~.pos'tu.ra
 
 ref:	Oremos para que a raça humana jamais escape da Terra para espalhar sua iniquidade em outros lugares.
-inf:	o're~.mus 'pa.ra ki a 'Ra.sa u~'ma~.na Za~'majz es'ka.pi da 'tE.Ra 'pa.ra es.pa'LaX 'su.a i~.ni.kwi'da.Di e~j~ 'ow.trus lu'ga.ris
+corrigida:	o're~.mus 'pa.ra ki a 'Ra.sa u~'ma~.na Za~'majz es'ka.pi da 'tE.Ra 'pa.ra es.pa'LaX 'su.a i~.ni.kwi'da.Di e~j~ 'ow.trus lu'ga.ris
 
 ref:	Mack ficou parado no banheiro olhando o espelho enquanto enxugava o rosto com uma toalha.
-inf:	'mE.ki fi'kow pa'ra.du nu ba~'Jej.ru o'La~.du u es'pe.Lu e~'kwa~.tu e~.Su'ga.va u 'Ros.tu ko~ u~.ma to'a.La
+corrigida:	'mE.ki fi'kow pa'ra.du nu ba~'Jej.ru o'La~.du u es'pe.Lu e~'kwa~.tu e~.Su'ga.va u 'Ros.tu ko~ u~.ma to'a.La
 
 ref:	Procurava algum sinal de insanidade naqueles olhos que o espiavam de volta.
-inf:	pro.ku'ra.va aw'gu~ si~'naw Di i~.sa~.ni'da.Di na'ke.liz 'O.Lus ki u es.pi'a.va~w~ Di 'vOw.ta
+corrigida:	pro.ku'ra.va aw'gu~ si~'naw Di i~.sa~.ni'da.Di na'ke.liz 'O.Lus ki u es.pi'a.va~w~ Di 'vOw.ta
 
 ref:	Aquilo seria real?
-inf:	a'ki.lu se'ri.a Re'aw
+corrigida:	a'ki.lu se'ri.a Re'aw
 
 ref:	Claro que não, era impossível.
-inf:	'kla.ru ki 'na~w~, 'E.ra i~.po'si.vew
+corrigida:	'kla.ru ki 'na~w~, 'E.ra i~.po'si.vew
 
 ref:	Talvez fosse uma alucinação trazida por todo o seu sofrimento e desespero.
-inf:	taw'vejs 'fo.si u~.ma a.lu.si~.na'sa~w~ tra'zi.da puX 'to.du u 'sew so.fri~'me~.tu i de.zes'pe.ru
+corrigida:	taw'vejs 'fo.si u~.ma a.lu.si~.na'sa~w~ tra'zi.da puX 'to.du u 'sew so.fri~'me~.tu i de.zes'pe.ru
 
 ref:	Talvez fosse um sonho e ele estivesse dormindo em algum lugar, quem sabe na cabana, morrendo congelado.
-inf:	taw'vejs 'fo.si u~ 'so~.Ju i 'e.li es.Ti'vE.si doR'mi~.du e~j~ aw'gu~ lu'gaX, 'ke~j~ 'sa.bi na ka'ba~.na, mo'Re~.du ko~.Ze'la.du
+corrigida:	taw'vejs 'fo.si u~ 'so~.Ju i 'e.li es.Ti'vE.si doR'mi~.du e~j~ aw'gu~ lu'gaX, 'ke~j~ 'sa.bi na ka'ba~.na, mo'Re~.du ko~.Ze'la.du
 
 ref:	Vinha da direção da cozinha e deixou Mack paralisado.
-inf:	'vi~.Ja da Di.re'sa~w~ da ko'zi~.Ja i dej'Sow 'mE.ki pa.ra.li'za.du
+corrigida:	'vi~.Ja da Di.re'sa~w~ da ko'zi~.Ja i dej'Sow 'mE.ki pa.ra.li'za.du
 
 ref:	Por um momento houve um silêncio mortal e depois, inesperadamente, gargalhadas retumbantes.
-inf:	pur u~ mo~'me~.tu 'ow.vi u~ si'le~.sju moX'taw i de'pojs, i~.nes.pe.ra.da~'me~.Ti, gaR.ga'La.das Re.tu~'ba~.Tis
+corrigida:	pur u~ mo~'me~.tu 'ow.vi u~ si'le~.sju moX'taw i de'pojs, i~.nes.pe.ra.da~'me~.Ti, gaR.ga'La.das Re.tu~'ba~.Tis
 
 ref:	Curioso, saiu do banheiro e enfiou a cabeça pela porta da cozinha.
-inf:	ku.ri'o.zu, sa'iw du ba~'Jej.ru i e~.fi'ow a ka'be.sa 'pe.la 'pOX.ta da ko'zi~.Ja
+corrigida:	ku.ri'o.zu, sa'iw du ba~'Jej.ru i e~.fi'ow a ka'be.sa 'pe.la 'pOX.ta da ko'zi~.Ja
 
 ref:	Mack ficou chocado diante da cena.
-inf:	'mE.ki fi'kow So'ka.du Di'a~.Ti da 'se~.na
+corrigida:	'mE.ki fi'kow So'ka.du Di'a~.Ti da 'se~.na
 
 ref:	A barra da saia de Papai e seus pés descalços estavam cobertos pela massa gosmenta.
-inf:	a 'ba.Ra da 'saj.a Di pa'paj i 'sews 'pEjs des'kaw.suz es'ta.va~w~ ko'bEX.tus 'pe.la 'ma.sa goz'me~.ta
+corrigida:	a 'ba.Ra da 'saj.a Di pa'paj i 'sews 'pEjs des'kaw.suz es'ta.va~w~ ko'bEX.tus 'pe.la 'ma.sa goz'me~.ta
 
 ref:	Sarayu disse alguma coisa sobre a falta de jeito dos humanos e os três caíram na risada.
-inf:	sa.ra'ju 'Di.si aw'gu~.ma 'koj.za 'so.bri a 'faw.ta Di 'Zej.tu duz u~'ma~.nuz i us 'trejs ka'i.ra~w~ na Ri'za.da
+corrigida:	sa.ra'ju 'Di.si aw'gu~.ma 'koj.za 'so.bri a 'faw.ta Di 'Zej.tu duz u~'ma~.nuz i us 'trejs ka'i.ra~w~ na Ri'za.da
 
 ref:	Por fim, Jesus passou por Mack e voltou com toalhas e uma grande bacia de água.
-inf:	puX 'fi~, Ze'zujs pa'sow puR 'mE.ki i vow'tow ko~ to'a.Laz i u~.ma 'gra~.Di ba'si.a Di 'a.gwa
+corrigida:	puX 'fi~, Ze'zujs pa'sow puR 'mE.ki i vow'tow ko~ to'a.Laz i u~.ma 'gra~.Di ba'si.a Di 'a.gwa
 
 ref:	Sarayu já estava começando a limpar a sujeira do chão e dos armários, mas Jesus foi direto até Papai e, ajoelhando-se aos pés dela, começou a limpar a frente de seu vestido.
 corrigida:	sa.ra'ju 'Za es'ta.va ko~.me'sa~.du a li~'par a su'Zej.ra du 'Sa~w~ i duz aR'ma.rjus, ma.Ze'zujs 'foj Di'rE.tu a'tE pa'paj i, a.Zo.e'La~.du si aws 'pEjs 'dE.la, ko~.me'sow a li~'par a 'fre~.Ti Di 'sew ves'Ti.du
@@ -1037,127 +1037,127 @@ ref:	Uuuuuh, isso é tão bom! exclamou Papai.
 corrigida:	'uuuuu, 'i.su E 'ta~w~ 'bo~, es.kla~'mow pa'paj
 
 ref:	Encostado no portal, Mack não parava de pensar.
-inf:	e~.kos'ta.du nu poX'taw, 'mE.ki 'na~w~ pa'ra.va Di pe~'saX
+corrigida:	e~.kos'ta.du nu poX'taw, 'mE.ki 'na~w~ pa'ra.va Di pe~'saX
 
 ref:	Então Deus era assim no relacionamento?
-inf:	e~'ta~w~ 'dewz 'E.ra a'si~ nu Re.la.si.o~.na~'me~.tu
+corrigida:	e~'ta~w~ 'dewz 'E.ra a'si~ nu Re.la.si.o~.na~'me~.tu
 
 ref:	Muito linda e atraente!
-inf:	'mu~j~.tu 'li~.da i a.tra'e~.Ti
+corrigida:	'mu~j~.tu 'li~.da i a.tra'e~.Ti
 
 ref:	Ele sabia que ninguém estava em busca do culpado pela sujeira do chão, pela tigela quebrada ou por um prato que não seria compartilhado.
-inf:	'e.li sa'bi.a ki ni~'ge~j~ es'ta.va e~j~ 'bus.ka du kuw'pa.du 'pe.la su'Zej.ra du 'Sa~w~, 'pe.la Ti'ZE.la ke'bra.da ow pur u~ 'pra.tu ki 'na~w~ se'ri.a ko~.paX.Ti'La.du
+corrigida:	'e.li sa'bi.a ki ni~'ge~j~ es'ta.va e~j~ 'bus.ka du kuw'pa.du 'pe.la su'Zej.ra du 'Sa~w~, 'pe.la Ti'ZE.la ke'bra.da ow pur u~ 'pra.tu ki 'na~w~ se'ri.a ko~.paX.Ti'La.du
 
 ref:	Era óbvio que o que realmente importava era o amor que eles sentiam uns pelos outros e a plenitude que esse amor lhes trazia.
-inf:	'E.ra 'Ob.vju ki u ki Re.aw'me~.Ti i~.poX'ta.va 'E.ra u a~'moX ki 'e.lis se~'Ti.a~w~ u~s 'pe.luz 'ow.truz i a ple~.ni'tu.Di ki 'e.si a~'moR Lis tra'zi.a
+corrigida:	'E.ra 'Ob.vju ki u ki Re.aw'me~.Ti i~.poX'ta.va 'E.ra u a~'moX ki 'e.lis se~'Ti.a~w~ u~s 'pe.luz 'ow.truz i a ple~.ni'tu.Di ki 'e.si a~'moR Lis tra'zi.a
 
 ref:	Balançou a cabeça.
-inf:	ba.la~'sow a ka'be.sa
+corrigida:	ba.la~'sow a ka'be.sa
 
 ref:	Como isso era diferente da maneira como ele tratava seus entes queridos!
-inf:	'ko~.mu 'i.su 'E.ra Di.fe're~.Ti da ma~'nej.ra 'ko~.mu 'e.li tra'ta.va 'sewz 'e~.Tis ke'ri.dus
+corrigida:	'ko~.mu 'i.su 'E.ra Di.fe're~.Ti da ma~'nej.ra 'ko~.mu 'e.li tra'ta.va 'sewz 'e~.Tis ke'ri.dus
 
 ref:	Embora simples, o jantar foi um banquete.
-inf:	e~'bO.ra 'si~.plis, u Za~'taX 'foj u~ ba~'ke.Ti
+corrigida:	e~'bO.ra 'si~.plis, u Za~'taX 'foj u~ ba~'ke.Ti
 
 ref:	Algum tipo de ave assada com uma espécie de molho de laranja, manga e alguma outra coisa, verduras frescas temperadas com sabe-se lá o quê, com gosto de fruta e de gengibre, e arroz de uma qualidade que Mack jamais havia provado.
-inf:	aw'gu~ 'Ti.pu Di 'a.vi a'sa.da ko~ u~.ma es'pE.si Di 'mo.Lu Di la'ra~.Za, 'ma~.ga i aw'gu~.ma 'ow.tra 'koj.za, veR'du.ras 'fres.kas te~.pe'ra.das ko~ 'sa.bi si 'la u 'ke, ko~ 'gos.tu Di 'fru.ta i Di Ze~'Zi.bri, i a'Rojz Di u~.ma kwa.li'da.Di ki 'mE.ki Za~'majz a'vi.a pro'va.du
+corrigida:	aw'gu~ 'Ti.pu Di 'a.vi a'sa.da ko~ u~.ma es'pE.si Di 'mo.Lu Di la'ra~.Za, 'ma~.ga i aw'gu~.ma 'ow.tra 'koj.za, veR'du.ras 'fres.kas te~.pe'ra.das ko~ 'sa.bi si 'la u 'ke, ko~ 'gos.tu Di 'fru.ta i Di Ze~'Zi.bri, i a'Rojz Di u~.ma kwa.li'da.Di ki 'mE.ki Za~'majz a'vi.a pro'va.du
 
 ref:	Por hábito, abaixou a cabeça para orar.
-inf:	pur 'a.bi.tu, a.baj'Sow a ka'be.sa 'pa.ra o'raX
+corrigida:	pur 'a.bi.tu, a.baj'Sow a ka'be.sa 'pa.ra o'raX
 
 ref:	Levantou-a e viu os três rindo para ele.
-inf:	le.va~'tow a i 'viw us 'trejs 'Ri~.du 'pa.ra 'e.li
+corrigida:	le.va~'tow a i 'viw us 'trejs 'Ri~.du 'pa.ra 'e.li
 
 ref:	Claro. Nós íamos ter um molho japonês incrível, mas o sem-jeito ali, Papai acenou na direção de Jesus, decidiu ver se a tigela quicava.
-inf:	'kla.ru, 'nOjz 'i.a~.mus 'ter u~ 'mo.Lu Za.po~'nejz i~'kri.vew, majz u se~j~ 'Zej.tu a'li, pa'paj a.se~'now na Di.re'sa~w~ Di Ze'zujs, de.si'Diw 'veX si a Ti'ZE.la ki'ka.va
+corrigida:	'kla.ru, 'nOjz 'i.a~.mus 'ter u~ 'mo.Lu Za.po~'nejz i~'kri.vew, majz u se~j~ 'Zej.tu a'li, pa'paj a.se~'now na Di.re'sa~w~ Di Ze'zujs, de.si'Diw 'veX si a Ti'ZE.la ki'ka.va
 
 ref:	Ah, qual é? respondeu Jesus num arremedo de defesa.
-inf:	a, 'kwaw E, Res.po~'dew Ze'zujs nu~ a.Re~'me.du Di de'fe.za
+corrigida:	a, 'kwaw E, Res.po~'dew Ze'zujs nu~ a.Re~'me.du Di de'fe.za
 
 ref:	Minhas mãos estavam escorregadias.
-inf:	'mi~.Jas 'ma~w~z es'ta.va~w~ es.ko.Re.ga'Di.as
+corrigida:	'mi~.Jas 'ma~w~z es'ta.va~w~ es.ko.Re.ga'Di.as
 
 ref:	Papai piscou para Mack enquanto lhe passava o arroz.
-inf:	pa'paj pis'kow 'pa.ra 'mE.ki e~'kwa~.tu Li pa'sa.va u a'Rojs
+corrigida:	pa'paj pis'kow 'pa.ra 'mE.ki e~'kwa~.tu Li pa'sa.va u a'Rojs
 
 ref:	Não se consegue bons empregados por aqui.
-inf:	'na~w~ si ko~'sE.gi 'bo~z e~.pre'ga.dus pur a'ki
+corrigida:	'na~w~ si ko~'sE.gi 'bo~z e~.pre'ga.dus pur a'ki
 
 ref:	Todo mundo riu.
-inf:	'to.du 'mu~.du 'Riw
+corrigida:	'to.du 'mu~.du 'Riw
 
 ref:	A conversa parecia quase normal.
-inf:	a ko~'vEX.sa pa.re'si.a 'kwa.zi noR'maw
+corrigida:	a ko~'vEX.sa pa.re'si.a 'kwa.zi noR'maw
 
 ref:	Pediram que Mack falasse de cada um dos filhos, menos de Missy, e ele contou das várias lutas e conquistas deles.
-inf:	pe'Di.ra~w~ ki 'mE.ki fa'la.si Di 'ka.da 'u~ dus 'fi.Lus, 'me~.nus Di 'mi.si, i 'e.li ko~'tow das 'va.rjas 'lu.taz i ko~'kis.tas 'de.lis
+corrigida:	pe'Di.ra~w~ ki 'mE.ki fa'la.si Di 'ka.da 'u~ dus 'fi.Lus, 'me~.nus Di 'mi.si, i 'e.li ko~'tow das 'va.rjas 'lu.taz i ko~'kis.tas 'de.lis
 
 ref:	Quando falou de suas preocupações com Kate, os três apenas assentiram com uma expressão solidária, mas não ofereceram nenhum conselho.
-inf:	'kwa~.du fa'low Di 'su.as prew.ku.pa'so~j~s ko~ 'kej.Ti, us 'trejz a'pe~.naz a.se~'Ti.ra~w~ ko~ u~.ma es.pre'sa~w~ so.li'da.rja, majs 'na~w~ o.fe.re'se.ra~w~ ne~'Ju~ ko~'se.Lu
+corrigida:	'kwa~.du fa'low Di 'su.as prew.ku.pa'so~j~s ko~ 'kej.Ti, us 'trejz a'pe~.naz a.se~'Ti.ra~w~ ko~ u~.ma es.pre'sa~w~ so.li'da.rja, majs 'na~w~ o.fe.re'se.ra~w~ ne~'Ju~ ko~'se.Lu
 
 ref:	Ele também respondeu a perguntas sobre os amigos, e Sarayu pareceu mais interessada em perguntar por Nan.
-inf:	'e.li ta~'be~j~ Res.po~'dew a peR'gu~.tas 'so.bri uz a~'mi.gus, i sa.ra'ju pa.re'sew 'majz i~.te.re'sa.da e~j~ peR.gu~'taX puR 'na~
+corrigida:	'e.li ta~'be~j~ Res.po~'dew a peR'gu~.tas 'so.bri uz a~'mi.gus, i sa.ra'ju pa.re'sew 'majz i~.te.re'sa.da e~j~ peR.gu~'taX puR 'na~
 
 ref:	Bom, estou aqui falando sobre meus filhos, meus amigos e sobre Nan, mas vocês já sabem tudo o que vou dizer, não é?
-inf:	'bo~, es'tow a'ki fa'la~.du 'so.bri 'mews 'fi.Lus, 'mewz a~'mi.guz i 'so.bri 'na~, majs vo'sej'Za 'sa.be~j~ 'tu.du u ki 'vow Di'zeX, 'na~w~ E
+corrigida:	'bo~, es'tow a'ki fa'la~.du 'so.bri 'mews 'fi.Lus, 'mewz a~'mi.guz i 'so.bri 'na~, majs vo'sej'Za 'sa.be~j~ 'tu.du u ki 'vow Di'zeX, 'na~w~ E
 
 ref:	Vocês estão agindo como se ouvissem pela primeira vez.
-inf:	vo'sejz es'ta~w~ a'Zi~.du 'ko~.mu si ow'vi.se~j~ 'pe.la pri~'mej.ra 'vejs
+corrigida:	vo'sejz es'ta~w~ a'Zi~.du 'ko~.mu si ow'vi.se~j~ 'pe.la pri~'mej.ra 'vejs
 
 ref:	Sarayu estendeu a mão por cima da mesa e segurou a dele.
-inf:	sa.ra'ju es.te~'dew a 'ma~w~ puX 'si~.ma da 'me.za i se.gu'row a 'de.li
+corrigida:	sa.ra'ju es.te~'dew a 'ma~w~ puX 'si~.ma da 'me.za i se.gu'row a 'de.li
 
 ref:	Mackenzie, lembra-se da nossa conversa anterior sobre limitação?
-inf:	ma'ke~.zi, 'le~.bra si da 'nO.sa ko~'vEX.sa a~.te.ri'oX 'so.bri li~.mi.ta'sa~w~
+corrigida:	ma'ke~.zi, 'le~.bra si da 'nO.sa ko~'vEX.sa a~.te.ri'oX 'so.bri li~.mi.ta'sa~w~
 
 ref:	Nossa conversa? Ele olhou para Papai, que assentiu como quem sabe das coisas.
-inf:	'nO.sa ko~'vEX.sa, 'e.li o'Low 'pa.ra pa'paj, ki a.se~'Tiw 'ko~.mu 'ke~j~ 'sa.bi das 'koj.zas
+corrigida:	'nO.sa ko~'vEX.sa, 'e.li o'Low 'pa.ra pa'paj, ki a.se~'Tiw 'ko~.mu 'ke~j~ 'sa.bi das 'koj.zas
 
 ref:	Você não pode compartilhar com um de nós sem que compartilhe com todos, disse Sarayu e sorriu.
-inf:	vo'se 'na~w~ 'pO.Di ko~.paX.Ti'LaX ko~ 'u~ Di 'nOjs se~j~ ki ko~.paX'Ti.Li ko~ 'to.dus, 'Di.si sa.ra'ju i so'Riw
+corrigida:	vo'se 'na~w~ 'pO.Di ko~.paX.Ti'LaX ko~ 'u~ Di 'nOjs se~j~ ki ko~.paX'Ti.Li ko~ 'to.dus, 'Di.si sa.ra'ju i so'Riw
 
 ref:	Lembre-se das muitas vezes em que escolheu sentar no chão para facilitar um relacionamento, para honrá-lo.
-inf:	'le~.bri si das 'mu~j~.tas 've.ziz e~j~ ki es.ko'Lew se~'taR nu 'Sa~w~ 'pa.ra fa.si.li'tar u~ Re.la.si.o~.na~'me~.tu, 'pa.ra o~'Ra lu
+corrigida:	'le~.bri si das 'mu~j~.tas 've.ziz e~j~ ki es.ko'Lew se~'taR nu 'Sa~w~ 'pa.ra fa.si.li'tar u~ Re.la.si.o~.na~'me~.tu, 'pa.ra o~'Ra lu
 
 ref:	Mackenzie, você faz isso frequentemente.
-inf:	ma'ke~.zi, vo'se 'fajz 'i.su fre.kwe~.Ti~'me~.Ti
+corrigida:	ma'ke~.zi, vo'se 'fajz 'i.su fre.kwe~.Ti~'me~.Ti
 
 ref:	Você não brinca com uma criança ou colore uma figura com ela para mostrar sua superioridade.
-inf:	vo'se 'na~w~ 'bri~.ka ko~ u~.ma kri'a~.sa ow ko'lO.ri u~.ma fi'gu.ra ko~ 'E.la 'pa.ra mos'traX 'su.a su.pe.ri.o.ri'da.Di
+corrigida:	vo'se 'na~w~ 'bri~.ka ko~ u~.ma kri'a~.sa ow ko'lO.ri u~.ma fi'gu.ra ko~ 'E.la 'pa.ra mos'traX 'su.a su.pe.ri.o.ri'da.Di
 
 ref:	Pelo contrário, você escolhe se limitar para facilitar e honrar o relacionamento.
-inf:	'pe.lu ko~'tra.rju, vo'se es'kO.Li si li~.mi'taX 'pa.ra fa.si.li'tar i o~'Rar u Re.la.si.o~.na~'me~.tu
+corrigida:	'pe.lu ko~'tra.rju, vo'se es'kO.Li si li~.mi'taX 'pa.ra fa.si.li'tar i o~'Rar u Re.la.si.o~.na~'me~.tu
 
 ref:	Você é até capaz de perder uma competição como um ato de amor.
 corrigida:	vo'se E a'tE ka'pajz Di peR'der u~.ma ko~.pe.Ti'sa~w~ 'ko~.mu u~ 'a.tu Di a~'moX
 
 ref:	Isso não tem nada a ver com ganhar e perder, e sim com amor e respeito.
-inf:	'i.su 'na~w~ te~j~ 'na.da a 'veX ko~ ga~'Jar i peR'deX, i 'si~ ko~ a~'mor i Res'pej.tu
+corrigida:	'i.su 'na~w~ te~j~ 'na.da a 'veX ko~ ga~'Jar i peR'deX, i 'si~ ko~ a~'mor i Res'pej.tu
 
 ref:	Então o que acontece quando estou falando com vocês sobre meus filhos?
 corrigida:	e~'ta~w~ u ki a.ko~'tE.si 'kwa~.du es'tow fa'la~.du ko~ vo'sejs 'so.bri 'mews 'fi.Lus
 
 ref:	Nós nos limitamos por respeito a você.
-inf:	'nOjs nus li~.mi'ta~.mus pu.Res'pej.tu a vo'se
+corrigida:	'nOjs nus li~.mi'ta~.mus pu.Res'pej.tu a vo'se
 
 ref:	Não estamos trazendo à mente, por assim dizer, nosso conhecimento sobre seus filhos.
-inf:	'na~w~ es'ta~.mus tra'ze~.du a 'me~.Ti, pur a'si~ Di'zeX, 'nO.su ko~.Je.si~'me~.tu 'so.bri 'sews 'fi.Lus
+corrigida:	'na~w~ es'ta~.mus tra'ze~.du a 'me~.Ti, pur a'si~ Di'zeX, 'nO.su ko~.Je.si~'me~.tu 'so.bri 'sews 'fi.Lus
 
 ref:	Ouvimos como se fosse a primeira vez e temos enorme prazer em conhecê-los através dos seus olhos.
-inf:	ow'vi~.mus 'ko~.mu si 'fo.si a pri~'mej.ra 'vejz i 'te~.muz e~'nOR.mi pra'zer e~j~ ko~.Je'se luz a.tra'vEjs dus 'sewz 'O.Lus
+corrigida:	ow'vi~.mus 'ko~.mu si 'fo.si a pri~'mej.ra 'vejz i 'te~.muz e~'nOR.mi pra'zer e~j~ ko~.Je'se luz a.tra'vEjs dus 'sewz 'O.Lus
 
 ref:	Gosto disso, refletiu Mack, recostando-se na cadeira.
-inf:	'gOs.tu 'Di.su, Re.fle'Tiw 'mE.ki, Re.kos'ta~.du si na ka'dej.ra
+corrigida:	'gOs.tu 'Di.su, Re.fle'Tiw 'mE.ki, Re.kos'ta~.du si na ka'dej.ra
 
 ref:	Sarayu apertou a mão dele e pareceu se recostar.
-inf:	sa.ra'ju a.peX'tow a 'ma~w~ 'de.li i pa.re'sew si Re.kos'taX
+corrigida:	sa.ra'ju a.peX'tow a 'ma~w~ 'de.li i pa.re'sew si Re.kos'taX
 
 ref:	Eu também!
-inf:	ew ta~'be~j~
+corrigida:	ew ta~'be~j~
 
 ref:	Os relacionamentos não têm nada a ver com poder. Nunca!
-inf:	us Re.la.si.o~.na~'me~.tus 'na~w~ 'te~j~ 'na.da a 'veX ko~ po'deX, 'nu~.ka
+corrigida:	us Re.la.si.o~.na~'me~.tus 'na~w~ 'te~j~ 'na.da a 'veX ko~ po'deX, 'nu~.ka
 
 ref:	E um modo de evitar a vontade de exercer poder é escolher se limitar e servir.
 corrigida:	i u~ 'mO.du Di e.vi'tar a vo~'ta.Di Di e.zeX'seX po'der E es.ko'LeX si li~.mi'tar i seR'viX
@@ -1166,130 +1166,130 @@ ref:	Os humanos costumam fazer isso quando cuidam dos enfermos, quando servem os
 corrigida:	uz u~'ma~.nus kos'tu~.ma~w~ fa'zer 'i.su 'kwa~.du 'kuj.da~w~ duz e~'feR.mus, 'kwa~.du 'sER.ve~j~ uz i'dO.zus, 'kwa~.du si Re.la.si'o~.na~w~ ko~ us 'pO.bris, 'kwa~.du 'a~.ma~w~ us 'mu~j~.tu 'vE.Luz i us 'mu~j~.tu 'nO.vus, ow a'tE 'mez.mu 'kwa~.du si i~'pOX.ta~w~ ko~ a'ke.lis ki a.su~'mi.ra~w~ u~.ma po.zi'sa~w~ Di po'deX 'so.bri 'e.lis
 
 ref:	Bem falado, Sarayu, disse Papai, com o rosto luzindo de orgulho.
-inf:	'be~j~ fa'la.du, sa.ra'ju, 'Di.si pa'paj, ko~ u 'Ros.tu lu'zi~.du Di oR'gu.Lu
+corrigida:	'be~j~ fa'la.du, sa.ra'ju, 'Di.si pa'paj, ko~ u 'Ros.tu lu'zi~.du Di oR'gu.Lu
 
 ref:	Eu cuido dos pratos depois. Mas primeiro gostaria de ter um tempo para as devoções.
-inf:	ew 'kuj.du dus 'pra.tus de'pojs, majs pri~'mej.ru gos.ta'ri.a Di 'ter u~ 'te~.pu 'pa.ra as de.vo'so~j~s
+corrigida:	ew 'kuj.du dus 'pra.tus de'pojs, majs pri~'mej.ru gos.ta'ri.a Di 'ter u~ 'te~.pu 'pa.ra as de.vo'so~j~s
 
 ref:	Mack teve de conter um risinho diante da idéia de Deus fazendo orações.
-inf:	'mE.ki 'te.vi Di ko~'ter u~ Ri'zi~.Ju Di'a~.Ti da i'dEj.a Di 'dews fa'ze~.du o.ra'so~j~s
+corrigida:	'mE.ki 'te.vi Di ko~'ter u~ Ri'zi~.Ju Di'a~.Ti da i'dEj.a Di 'dews fa'ze~.du o.ra'so~j~s
 
 ref:	Imagens de devoções familiares de sua infância vieram se derramar em seu pensamento.
-inf:	i~'ma.Ze~s Di de.vo'so~j~s fa~.mi.li'a.ris Di 'su.a i~'fa~.sja vi'E.ra~w~ si de.Ra~'mar e~j~ 'sew pe~.sa~'me~.tu
+corrigida:	i~'ma.Ze~s Di de.vo'so~j~s fa~.mi.li'a.ris Di 'su.a i~'fa~.sja vi'E.ra~w~ si de.Ra~'mar e~j~ 'sew pe~.sa~'me~.tu
 
 ref:	E não eram exatamente boas lembranças.
-inf:	i 'na~w~ 'E.ra~w~ e.za.ta~'me~.Ti 'bo.as le~'bra~.sas
+corrigida:	i 'na~w~ 'E.ra~w~ e.za.ta~'me~.Ti 'bo.as le~'bra~.sas
 
 ref:	Com frequência consistiam em um exercício tedioso de dar as respostas certas, ou melhor, as mesmas velhas respostas às mesmas velhas perguntas sobre histórias da Bíblia e depois tentar ficar acordado durante as orações exaustivamente longas de seu pai.
-inf:	ko~ fre'kwe~.sja ko~.sis'Ti.a~w~ e~j~ u~ e.zeX'si.sju te.Di'o.zu Di 'dar as Res'pOs.tas 'sEX.tas, ow me'LOX, as 'mez.mas 'vE.Las Res'pOs.taz as 'mez.mas 'vE.Las peR'gu~.tas 'so.bri is'tO.rjas da 'bi.blja i de'pojs te~'taX fi'kar a.koR'da.du du'ra~.Ti az o.ra'so~j~z e.zaws.Ti.va~'me~.Ti 'lo~.gas Di 'sew 'paj
+corrigida:	ko~ fre'kwe~.sja ko~.sis'Ti.a~w~ e~j~ u~ e.zeX'si.sju te.Di'o.zu Di 'dar as Res'pOs.tas 'sEX.tas, ow me'LOX, as 'mez.mas 'vE.Las Res'pOs.taz as 'mez.mas 'vE.Las peR'gu~.tas 'so.bri is'tO.rjas da 'bi.blja i de'pojs te~'taX fi'kar a.koR'da.du du'ra~.Ti az o.ra'so~j~z e.zaws.Ti.va~'me~.Ti 'lo~.gas Di 'sew 'paj
 
 ref:	E, quando o pai tinha bebido, as orações da família sempre se tornavam um terrível campo minado, em que qualquer resposta errada ou um olhar distraído provocava uma explosão.
 corrigida:	i, 'kwa~.du u 'paj 'Ti~.Ja be'bi.du, az o.ra'so~j~s da fa~'mi.lja 'se~.pri si toR'na.va~w~ u~ te'Ri.vew 'ka~.pu mi~'na.du, e~j~ ki kwaw'kE.Res'pOs.ta e'Ra.da ow u~ o'LaR Dis.tra'i.du pro.vo'ka.va u~.ma es.plo'za~w~
 
 ref:	Ficou esperando que Jesus pegasse uma velha versão da Bíblia.
-inf:	fi'kow es.pe'ra~.du ki Ze'zujs pe'ga.si u~.ma 'vE.La veX'sa~w~ da 'bi.blja
+corrigida:	fi'kow es.pe'ra~.du ki Ze'zujs pe'ga.si u~.ma 'vE.La veX'sa~w~ da 'bi.blja
 
 ref:	Em vez disso, Jesus estendeu as mãos sobre a mesa e segurou as de Papai, com as cicatrizes agora claramente visíveis.
-inf:	e~j~ 'vejz 'Di.su, Ze'zujz es.te~'dew as 'ma~w~s 'so.bri a 'me.za i se.gu'row as Di pa'paj, ko~ as si.ka'tri.ziz a'gO.ra kla.ra~'me~.Ti vi'zi.vejs
+corrigida:	e~j~ 'vejz 'Di.su, Ze'zujz es.te~'dew as 'ma~w~s 'so.bri a 'me.za i se.gu'row as Di pa'paj, ko~ as si.ka'tri.ziz a'gO.ra kla.ra~'me~.Ti vi'zi.vejs
 
 ref:	Mack ficou sentado, em extremo fascínio, vendo Jesus beijar as mãos do Pai, depois olhar fundo nos seus olhos e finalmente dizer: Papai, adorei ver como hoje você se tornou completamente disponível para assumir a dor de Mack e deixar que ele escolhesse seu próprio ritmo.
 corrigida:	'mE.ki fi'kow se~'ta.du, e~j~ es'tre~.mu fa'si~.nju, 've~.du Ze'zujs bej'Zar as 'ma~w~s du 'paj, de'pojz o'LaX 'fu~.du nus 'sewz 'O.Luz i fi~.naw'me~.Ti Di'zeX, pa'paj, a.do'rej 'veX 'ko~.mu 'o.Zi vo'se si toR'now ko~.plE.ta~'me~.Ti Dis.po~'ni.vew 'pa.ra a.su~'mir a 'doR Di 'mE.ki i dej'SaX ki 'e.li es.ko'Le.si 'sew 'prO.prju 'Ri.Ti.mu
 
 ref:	Você o honrou e me honrou.
-inf:	vo'se u o~'Row i mi o~'Row
+corrigida:	vo'se u o~'Row i mi o~'Row
 
 ref:	Ouvir você sussurrar amor e calma no coração dele foi realmente incrível.
-inf:	ow'viR vo'se su.su'Rar a~'mor i 'kaw.ma nu ko.ra'sa~w~ 'de.li 'foj Re.aw'me~.Ti i~'kri.vew
+corrigida:	ow'viR vo'se su.su'Rar a~'mor i 'kaw.ma nu ko.ra'sa~w~ 'de.li 'foj Re.aw'me~.Ti i~'kri.vew
 
 ref:	Que alegria imensa ver isso!
-inf:	ki a.le'gri.a i~'me~.sa 'ver 'i.su
+corrigida:	ki a.le'gri.a i~'me~.sa 'ver 'i.su
 
 ref:	Adoro ser seu filho.
-inf:	a'dO.ru 'seX 'sew 'fi.Lu
+corrigida:	a'dO.ru 'seX 'sew 'fi.Lu
 
 ref:	Embora Mack se sentisse um intruso, ninguém pareceu se preocupar e, de qualquer modo, ele não tinha idéia de para onde ir.
-inf:	e~'bO.ra 'mE.ki si se~'Ti.si u~ i~'tru.zu, ni~'ge~j~ pa.re'sew si prew.ku'par i, Di kwaw'kER 'mO.du, 'e.li 'na~w~ 'Ti~.Ja i'dEj.a Di 'pa.ra 'o~.Di 'iX
+corrigida:	e~'bO.ra 'mE.ki si se~'Ti.si u~ i~'tru.zu, ni~'ge~j~ pa.re'sew si prew.ku'par i, Di kwaw'kER 'mO.du, 'e.li 'na~w~ 'Ti~.Ja i'dEj.a Di 'pa.ra 'o~.Di 'iX
 
 ref:	Presenciar a expressão de tamanho amor parecia deslocar qualquer entrave lógico e, ainda que ele não soubesse exatamente o que sentia, era muito bom.
-inf:	pre.ze~.si'ar a es.pre'sa~w~ Di ta~'ma~.Ju a~'moX pa.re'si.a dez.lo'kaX kwaw'kEr e~'tra.vi 'lO.Zi.ku i, a'i~.da ki 'e.li 'na~w~ sow'bE.si e.za.ta~'me~.Ti u ki se~'Ti.a, 'E.ra 'mu~j~.tu 'bo~
+corrigida:	pre.ze~.si'ar a es.pre'sa~w~ Di ta~'ma~.Ju a~'moX pa.re'si.a dez.lo'kaX kwaw'kEr e~'tra.vi 'lO.Zi.ku i, a'i~.da ki 'e.li 'na~w~ sow'bE.si e.za.ta~'me~.Ti u ki se~'Ti.a, 'E.ra 'mu~j~.tu 'bo~
 
 ref:	Estava testemunhando algo simples, caloroso, íntimo e verdadeiro.
-inf:	es'ta.va tes.te~.mu~'Ja~.du 'aw.gu 'si~.plis, ka.lo'ro.zu, 'i~.Ti~.mu i veR.da'dej.ru
+corrigida:	es'ta.va tes.te~.mu~'Ja~.du 'aw.gu 'si~.plis, ka.lo'ro.zu, 'i~.Ti~.mu i veR.da'dej.ru
 
 ref:	Isso era sagrado.
-inf:	'i.su 'E.ra sa'gra.du
+corrigida:	'i.su 'E.ra sa'gra.du
 
 ref:	A santidade sempre fora um conceito frio e estéril para Mack, mas isso era diferente.
-inf:	a sa~.Ti'da.Di 'se~.pri 'fo.ra u~ ko~'sej.tu 'fri.u i es'tE.riw 'pa.ra 'mE.ki, majz 'i.su 'E.ra Di.fe're~.Ti
+corrigida:	a sa~.Ti'da.Di 'se~.pri 'fo.ra u~ ko~'sej.tu 'fri.u i es'tE.riw 'pa.ra 'mE.ki, majz 'i.su 'E.ra Di.fe're~.Ti
 
 ref:	Preocupado em não fazer qualquer gesto que perturbasse aquele momento, simplesmente fechou os olhos e cruzou as mãos.
-inf:	prew.ku'pa.du e~j~ 'na~w~ fa'zeX kwaw'kER 'ZEs.tu ki peX.tuR'ba.si a'ke.li mo~'me~.tu, si~.pliz'me~.Ti fe'Sow uz 'O.Luz i kru'zow as 'ma~w~s
+corrigida:	prew.ku'pa.du e~j~ 'na~w~ fa'zeX kwaw'kER 'ZEs.tu ki peX.tuR'ba.si a'ke.li mo~'me~.tu, si~.pliz'me~.Ti fe'Sow uz 'O.Luz i kru'zow as 'ma~w~s
 
 ref:	Ouvindo atentamente de olhos fechados, sentiu Jesus mexer a cadeira.
-inf:	ow'vi~.du a.te~.ta~'me~.Ti Di 'O.Lus fe'Sa.dus, se~'Tiw Ze'zujs me'Ser a ka'dej.ra
+corrigida:	ow'vi~.du a.te~.ta~'me~.Ti Di 'O.Lus fe'Sa.dus, se~'Tiw Ze'zujs me'Ser a ka'dej.ra
 
 ref:	Houve uma pausa antes que ele falasse de novo: Sarayu, começou Jesus com suavidade e ternura, você lava, eu enxugo.
-inf:	'ow.vi u~.ma 'paw.za 'a~.Tis ki 'e.li fa'la.si Di 'no.vu, sa.ra'ju, ko~.me'sow Ze'zujs ko~ su.a.vi'da.Di i teR'nu.ra, vo'se 'la.va, ew e~'Su.gu
+corrigida:	'ow.vi u~.ma 'paw.za 'a~.Tis ki 'e.li fa'la.si Di 'no.vu, sa.ra'ju, ko~.me'sow Ze'zujs ko~ su.a.vi'da.Di i teR'nu.ra, vo'se 'la.va, ew e~'Su.gu
 
 ref:	Ficou sentado alguns minutos sem saber o que fazer.
-inf:	fi'kow se~'ta.du aw'gu~s mi~'nu.tus se~j~ sa'ber u ki fa'zeX
+corrigida:	fi'kow se~'ta.du aw'gu~s mi~'nu.tus se~j~ sa'ber u ki fa'zeX
 
 ref:	Papai tinha ido a algum lugar e os outros dois estavam ocupados com os pratos.
-inf:	pa'paj 'Ti~.Ja 'i.du a aw'gu~ lu'gar i uz 'ow.trus 'dojz es'ta.va~w~ o.ku'pa.dus ko~ us 'pra.tus
+corrigida:	pa'paj 'Ti~.Ja 'i.du a aw'gu~ lu'gar i uz 'ow.trus 'dojz es'ta.va~w~ o.ku'pa.dus ko~ us 'pra.tus
 
 ref:	A decisão foi fácil.
-inf:	a de.si'za~w~ 'foj 'fa.siw
+corrigida:	a de.si'za~w~ 'foj 'fa.siw
 
 ref:	Pegou os talheres e os copos e levou-os para a cozinha.
-inf:	pe'gow us ta'LE.riz i us 'kO.puz i le'vow us 'pa.ra a ko'zi~.Ja
+corrigida:	pe'gow us ta'LE.riz i us 'kO.puz i le'vow us 'pa.ra a ko'zi~.Ja
 
 ref:	Assim que entrou, Jesus lhe jogou um pano e, enquanto Sarayu lavava os pratos, os dois começaram a enxugar.
-inf:	a'si~ ki e~'trow, Ze'zujs Li Zo'gow u~ 'pa~.nu i, e~'kwa~.tu sa.ra'ju la'va.va us 'pra.tus, us 'dojs ko~.me'sa.ra~w~ a e~.Su'gaX
+corrigida:	a'si~ ki e~'trow, Ze'zujs Li Zo'gow u~ 'pa~.nu i, e~'kwa~.tu sa.ra'ju la'va.va us 'pra.tus, us 'dojs ko~.me'sa.ra~w~ a e~.Su'gaX
 
 ref:	Sarayu começou a cantarolar uma música evocativa que ele havia escutado Papai cantar.
-inf:	sa.ra'ju ko~.me'sow a ka~.ta.ro'lar u~.ma 'mu.zi.ka e.vo.ka'Ti.va ki 'e.li a'vi.a es.ku'ta.du pa'paj ka~'taX
+corrigida:	sa.ra'ju ko~.me'sow a ka~.ta.ro'lar u~.ma 'mu.zi.ka e.vo.ka'Ti.va ki 'e.li a'vi.a es.ku'ta.du pa'paj ka~'taX
 
 ref:	Mais uma vez a melodia mexeu no fundo de Mack, despertando lembranças e emoções.
-inf:	'majz u~.ma 'vejz a me.lo'Di.a me'Sew nu 'fu~.du Di 'mE.ki, des.peX'ta~.du le~'bra~.saz i e~.mo'so~j~s
+corrigida:	'majz u~.ma 'vejz a me.lo'Di.a me'Sew nu 'fu~.du Di 'mE.ki, des.peX'ta~.du le~'bra~.saz i e~.mo'so~j~s
 
 ref:	Se pudesse permanecer ouvindo aquela canção, aceitaria ficar enxugando os pratos pelo resto da vida.
-inf:	si pu'dE.si peR.ma~.ne'ser ow'vi~.du a'kE.la ka~'sa~w~, a.sej.ta'ri.a fi'kar e~.Su'ga~.du us 'pra.tus 'pe.lu 'REs.tu da 'vi.da
+corrigida:	si pu'dE.si peR.ma~.ne'ser ow'vi~.du a'kE.la ka~'sa~w~, a.sej.ta'ri.a fi'kar e~.Su'ga~.du us 'pra.tus 'pe.lu 'REs.tu da 'vi.da
 
 ref:	Cerca de 10 minutos depois haviam acabado.
-inf:	'seX.ka Di 'dEjz mi~'nu.tus de'pojz a'vi.a~w~ a.ka'ba.du
+corrigida:	'seX.ka Di 'dEjz mi~'nu.tus de'pojz a'vi.a~w~ a.ka'ba.du
 
 ref:	Jesus deu um beijo no rosto de Sarayu e ela desapareceu no corredor.
-inf:	Ze'zujs 'dew u~ 'bej.Zu nu 'Ros.tu Di sa.ra'ju i 'E.la de.za.pa.re'sew nu ko.Re'doX
+corrigida:	Ze'zujs 'dew u~ 'bej.Zu nu 'Ros.tu Di sa.ra'ju i 'E.la de.za.pa.re'sew nu ko.Re'doX
 
 ref:	Em seguida ele sorriu para Mack.
-inf:	e~j~ se'gi.da 'e.li so'Riw 'pa.ra 'mE.ki
+corrigida:	e~j~ se'gi.da 'e.li so'Riw 'pa.ra 'mE.ki
 
 ref:	Vamos ao cais olhar as estrelas.
-inf:	'va~.muz aw 'kajz o'Lar az es'tre.las
+corrigida:	'va~.muz aw 'kajz o'Lar az es'tre.las
 
 ref:	E os outros? perguntou Mack.
-inf:	i uz 'ow.trus, peR.gu~'tow 'mE.ki
+corrigida:	i uz 'ow.trus, peR.gu~'tow 'mE.ki
 
 ref:	Estou aqui, respondeu Jesus. Sempre estou aqui.
-inf:	es'tow a'ki, Res.po~'dew Ze'zujs, 'se~.pri es'tow a'ki
+corrigida:	es'tow a'ki, Res.po~'dew Ze'zujs, 'se~.pri es'tow a'ki
 
 ref:	Mack assentiu.
-inf:	'mE.ki a.se~'Tiw
+corrigida:	'mE.ki a.se~'Tiw
 
 ref:	Esse negócio da presença de Deus, embora difícil de entender, parecia estar penetrando constantemente em sua mente e em seu coração.
-inf:	'e.si ne'gO.sju da pre'ze~.sa Di 'dews, e~'bO.ra Di'fi.siw Di e~.te~'deX, pa.re'si.a es'taX pe~.ne'tra~.du ko~s.ta~.Ti~'me~.Ti e~j~ 'su.a 'me~.Ti i e~j~ 'sew ko.ra'sa~w~
+corrigida:	'e.si ne'gO.sju da pre'ze~.sa Di 'dews, e~'bO.ra Di'fi.siw Di e~.te~'deX, pa.re'si.a es'taX pe~.ne'tra~.du ko~s.ta~.Ti~'me~.Ti e~j~ 'su.a 'me~.Ti i e~j~ 'sew ko.ra'sa~w~
 
 ref:	Por isso relaxou.
-inf:	pur 'i.su Re.la'Sow
+corrigida:	pur 'i.su Re.la'Sow
 
 ref:	Vamos, disse Jesus, interrompendo seus pensamentos.
-inf:	'va~.mus, 'Di.si Ze'zujs, i~.te.Ro~'pe~.du 'sews pe~.sa~'me~.tus
+corrigida:	'va~.mus, 'Di.si Ze'zujs, i~.te.Ro~'pe~.du 'sews pe~.sa~'me~.tus
 
 ref:	Sei que você gosta de olhar as estrelas! Parecia uma criança cheia de ansiedade e expectativa.
-inf:	'sej ki vo'se 'gOs.ta Di o'Lar az es'tre.las, pa.re'si.a u~.ma kri'a~.sa 'Sej.a Di a~.si.e'da.Di i es.pek.ta'Ti.va
+corrigida:	'sej ki vo'se 'gOs.ta Di o'Lar az es'tre.las, pa.re'si.a u~.ma kri'a~.sa 'Sej.a Di a~.si.e'da.Di i es.pek.ta'Ti.va
 
 ref:	É, acho que gosto, respondeu Mack, percebendo que a última vez em que fizera isso fora na maldita viagem com as crianças.
-inf:	E, 'a.Su ki 'gOs.tu, Res.po~'dew 'mE.ki, peX.se'be~.du ki a 'uw.Ti~.ma 'vejz e~j~ ki fi'zE.ra 'i.su 'fO.ra na maw'Di.ta vi'a.Ze~j~ ko~ as kri'a~.sas
+corrigida:	E, 'a.Su ki 'gOs.tu, Res.po~'dew 'mE.ki, peX.se'be~.du ki a 'uw.Ti~.ma 'vejz e~j~ ki fi'zE.ra 'i.su 'fo.ra na maw'Di.ta vi'a.Ze~j~ ko~ as kri'a~.sas
 
 ref:	Talvez tivesse chegado a hora de correr alguns riscos.
 inf:	taw'vejs Ti'vE.si Se'ga.du a 'O.ra Di ko'Rer aw'gu~s 'Ris.kus
@@ -1298,7 +1298,7 @@ ref:	Seguiu Jesus, saindo pela porta dos fundos.
 inf:	se'giw Ze'zujs, sa'i~.du 'pe.la 'pOX.ta dus 'fu~.dus
 
 ref:	Nos momentos finais do crepúsculo, Mack podia ver a margem rochosa do lago, não cheia de mato alto como ele recordava, mas lindamente cuidada e perfeita como uma pintura.
-inf:	nus mo~'me~.tus fi~'najs du kre'pus.ku.lu, 'mE.ki po'Di.a 'ver a maR.Ze~j~ Ro'SO.za du 'la.gu, 'na~w~ 'Sej.a Di 'ma.tu 'aw.tu 'ko~.mu 'e.li Re.koR'da.va, majs li~.da~'me~.Ti kuj'da.da i peX'fej.ta 'ko~.mu u~.ma pi~'tu.ra
+inf:	nus mo~'me~.tus fi~'najs du kre'pus.ku.lu, 'mE.ki po'Di.a 'ver a 'maR.Ze~j~ Ro'SO.za du 'la.gu, 'na~w~ 'Sej.a Di 'ma.tu 'aw.tu 'ko~.mu 'e.li Re.koR'da.va, majs li~.da~'me~.Ti kuj'da.da i peX'fej.ta 'ko~.mu u~.ma pi~'tu.ra
 
 ref:	O riacho ali perto parecia cantarolar algum tipo de música.
 inf:	u Ri'a.Su a'li 'pEX.tu pa.re'si.a ka~.ta.ro'lar aw'gu~ 'Ti.pu Di 'mu.zi.ka
@@ -1814,7 +1814,7 @@ ref:	Era perfeito, liso como o vidro, a não ser pelo salto ocasional de alguma 
 corrigida:	'E.ra peX'fej.tu, 'li.zu 'ko~.mu u 'vi.dru, a 'na~w~ 'seX 'pe.lu 'saw.tu o.ka.zi.o~'naw Di aw'gu~.ma 'tru.ta, la~'sa~.du 'siX.ku.lus Di 'o~.daz e~j~ mi~.ni.a'tu.ra ki si i.Ra.Di'a.va~w~ 'pe.la su.peX'fi.si Di u~ a'zuw pro'fu~.du a'tE 'se.re~j~ le~.ta~'me~.Ti ab.soR'vi.das Di 'vOw.ta na su.peX'fi.si maj'OX
 
 ref:	Avaliou que a margem mais distante estaria a uns 800 metros.
-inf:	a.va.li'ow ki a maR.Ze~j~ 'majs Dis'ta~.Ti es.ta'ri.a a u~z oj.tu'se~.tus 'mE.trus
+inf:	a.va.li'ow ki a 'maR.Ze~j~ 'majs Dis'ta~.Ti es.ta'ri.a a u~z oj.tu'se~.tus 'mE.trus
 
 ref:	O orvalho brilhava em toda parte como diamantes refletindo o amor do sol.
 corrigida:	u oR'va.Lu bri'La.va e~j~ 'to.da 'paX.Ti 'ko~.mu Di.a~'ma~.Tis Re.fle'Ti~.du u a~'moR du 'sOw

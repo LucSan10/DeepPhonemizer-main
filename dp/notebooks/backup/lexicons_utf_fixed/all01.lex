@@ -659,7 +659,7 @@ ref:	Demorou alguns minutos antes de pensar em Missy.
 corrigida:	de~.mo'row aw'gu~s mi~'nu.tuz 'a~.Tis Di pe~'sar e~j~ 'mi.si
 
 ref:	Lembrando-se que ela ficara colorindo o livro, subiu pela margem até onde podia ver seu acampamento, mas não havia sinal da menina.
-corrigida:	le~'bra~.du si ki 'E.la fi'ka.ra ko.lo'ri~.du u 'li.vru, su'biw 'pe.la maR.Ze~j~ a'tE 'o~.Di po'Di.a 'veX 'sew a.ka~.pa~'me~.tu, majs 'na~w~ a'vi.a si~'naw da me~'ni~.na
+corrigida:	le~'bra~.du si ki 'E.la fi'ka.ra ko.lo'ri~.du u 'li.vru, su'biw 'pe.la 'maR.Ze~j~ a'tE 'o~.Di po'Di.a 'veX 'sew a.ka~.pa~'me~.tu, majs 'na~w~ a'vi.a si~'naw da me~'ni~.na
 
 ref:	Não houve resposta.
 corrigida:	'na~w~ 'ow.vi Res'pOs.ta

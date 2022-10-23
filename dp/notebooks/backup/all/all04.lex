@@ -401,7 +401,7 @@ ref:	Juntos, começaram a andar pelo cais.
 inf:	'Zu~.tus, ko~.me'sa.ra~w~ a a~'daX 'pe.lu 'kajs
 
 ref:	Quando se aproximavam da margem voltaram a diminuir o passo.
-inf:	'kwa~.du si a.pro.si~'ma.va~w~ da maR.Ze~j~ vow'ta.ra~w~ a Di~.mi~.nu'ir u 'pa.su
+inf:	'kwa~.du si a.pro.si~'ma.va~w~ da 'maR.Ze~j~ vow'ta.ra~w~ a Di~.mi~.nu'ir u 'pa.su
 
 ref:	Jesus colocou a mão no ombro de Mack e virou-o gentilmente, até ficarem cara a cara.
 corrigida:	Ze'zujs ko.lo'kow a 'ma~w~ nu 'o~.bru Di 'mE.ki i vi'row u Ze~.Tiw'me~.Ti, a'tE fi'ka.re~j~ 'ka.ra a 'ka.ra
@@ -1472,7 +1472,7 @@ ref:	Algumas vezes quero que perceba especialmente a minha presença.
 inf:	aw'gu~.mas 've.zis 'kE.ru ki peX'sE.ba es.pe.si.aw'me~.Ti a 'mi~.Ja pre'ze~.sa
 
 ref:	Mack assentiu, entendendo, e virou a canoa para a margem distante onde ficava a cabana.
-inf:	'mE.ki a.se~'Tiw, e~.te~'de~.du, i vi'row a ka~'no.a 'pa.ra a maR.Ze~j~ Dis'ta~.Ti 'o~.Di fi'ka.va a ka'ba~.na
+inf:	'mE.ki a.se~'Tiw, e~.te~'de~.du, i vi'row a ka~'no.a 'pa.ra a 'maR.Ze~j~ Dis'ta~.Ti 'o~.Di fi'ka.va a ka'ba~.na
 
 ref:	A presença dela provocava um arrepio na coluna.
 inf:	a pre'ze~.sa 'dE.la pro.vo'ka.va u~ a.Re'pi.u na ko'lu~.na

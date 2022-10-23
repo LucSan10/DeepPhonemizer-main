@@ -857,7 +857,7 @@ ref:	Não há sofrimento na Terra que o Céu não possa curar.
 inf:	'na~w~ 'a so.fri~'me~.tu na 'tE.Ra ki u 'sEw 'na~w~ 'pO.sa ku'raX
 
 ref:	Chegaram de volta ao chalé em pouco tempo.
-inf:	Se'ga.ra~w~ Di 'vOw.ta aw Sa.lEe~j~ 'pow.ku 'te~.pu
+inf:	Se'ga.ra~w~ Di 'vOw.ta aw Sa'lE e~j~ 'pow.ku 'te~.pu
 
 ref:	Jesus e Sarayu esperavam perto da porta dos fundos.
 inf:	Ze'zujz i sa.ra'ju es.pe'ra.va~w~ 'pEX.tu da 'pOX.ta dus 'fu~.dus
@@ -1970,7 +1970,7 @@ ref:	Mas só aquele que vê tira os sapatos;
 inf:	majs 'sO a'ke.li ki 've 'Ti.ra us sa'pa.tus
 
 ref:	Os outros se sentam ao redor e colhem amoras.
-inf:	uz 'ow.trus si 'se~.ta~w~ aw Re'dOr i kO.Le~j~ a~'mO.ras
+inf:	uz 'ow.trus si 'se~.ta~w~ aw Re'dOr i 'kO.Le~j~ a~'mO.ras
 
 ref:	Sobre o Autor de A Cabana
 inf:	'so.bri u aw'toR Di a ka'ba~.na
@@ -2138,7 +2138,7 @@ ref:	Cockburn era o favorito de toda a família havia anos.
 inf:	kO.ki'buR.ni 'E.ra u fa.vo'ri.tu Di 'to.da a fa~'mi.lja a'vi.a 'a~.nus
 
 ref:	Como você pode dizer isso diante de toda a dor deste mundo, de todas as guerras e desastres que destroem milhares?
-inf:	'ko~.mu vo'se 'pO.Di Di'zer 'i.su Di'a~.Ti Di 'to.da a 'doR 'des.Ti 'mu~.du, Di 'to.daz as 'gE.Raz i de'zas.tris ki des.trO.e~j~ mi'La.ris
+inf:	'ko~.mu vo'se 'pO.Di Di'zer 'i.su Di'a~.Ti Di 'to.da a 'doR 'des.Ti 'mu~.du, Di 'to.daz as 'gE.Raz i de'zas.tris ki des'trO.e~j~ mi'La.ris
 
 ref:	Vejam o custo, toda a dor, todo o sofrimento, tudo que é tão terrível e mau.
 corrigida:	've.Za~w~ u 'kus.tu, 'to.da a 'doX, 'to.du u so.fri~'me~.tu, 'tu.du ki E 'ta~w~ te'Ri.vew i 'maw
@@ -2768,7 +2768,7 @@ ref:	Acertos e erros são estados momentâneos. O acerto nas mãos do ignorante 
 inf:	a'sEX.tuz i 'e.Rus 'sa~w~ es'ta.dus mo~.me~'ta~.njus, u a'seX.tu nas 'ma~w~s du i.gi.no'ra~.Ti 'tOR.na si u~.ma so'beR.ba vi'tO.rja, u 'e.Ru nas 'ma~w~s du 'sa.bju 'tOR.na si u~.ma es.tra'tE.Zja Di 'glO.rja
 
 ref:	Atras do erro ou de um acerto, surgem você. E você sempre tem a possibilidade de escolher o que mais lhe atrai.
-inf:	'a.tras du 'e.Ru ow Di u~ a'seX.tu, suR.Ze~j~ vo'se, i vo'se 'se~.pri te~j~ a po.si.bi.li'da.Di Di es.ko'Ler u ki 'majs Li a'traj
+inf:	'a.tras du 'e.Ru ow Di u~ a'seX.tu, 'suR.Ze~j~ vo'se, i vo'se 'se~.pri te~j~ a po.si.bi.li'da.Di Di es.ko'Ler u ki 'majs Li a'traj
 
 ref:	Um grande erro é a base de um grande acerto...
 corrigida:	u~ 'gra~.Di 'e.Ru E a 'ba.zi Di u~ 'gra~.Di a'seX.tu

@@ -524,7 +524,7 @@ ref:	Tirou os sapatos, espremeu as meias e enrolou as pernas da calça.
 inf:	Ti'row us sa'pa.tus, es.pre~'mew as 'mej.az i e~.Ro'low as 'pER.nas da 'kaw.sa
 
 ref:	Partiram levando os calçados e as sacolas e caminharam para a margem oposta, a cerca de 800 metros de distância.
-inf:	paX'Ti.ra~w~ le'va~.du us kaw'sa.duz i as sa'kO.laz i ka~.mi~'Ja.ra~w~ 'pa.ra a maR.Ze~j~ o'pOs.ta, a 'seX.ka Di oj.tu'se~.tus 'mE.trus Di Dis'ta~.sja
+inf:	paX'Ti.ra~w~ le'va~.du us kaw'sa.duz i as sa'kO.laz i ka~.mi~'Ja.ra~w~ 'pa.ra a 'maR.Ze~j~ o'pOs.ta, a 'seX.ka Di oj.tu'se~.tus 'mE.trus Di Dis'ta~.sja
 
 ref:	A água era fresca e revigorante e fazia subir arrepios pela coluna.
 inf:	a 'a.gwa 'E.ra 'fres.ka i Re.vi.go'ra~.Ti i fa'zi.a su'bir a.Re'pi.us 'pe.la ko'lu~.na
@@ -2795,7 +2795,7 @@ ref:	Olhou para trás e viu Jesus parado na margem com os braços cruzados diant
 inf:	o'Low 'pa.ra 'trajz i 'viw Ze'zujs pa'ra.du na 'maR.Ze~j~ ko~ us 'bra.sus kru'za.dus Di'a~.Ti du 'pej.tu, o'La~.du u
 
 ref:	Mack virou-se e olhou para a margem oposta.
-inf:	'mE.ki vi'row si i o'Low 'pa.ra a maR.Ze~j~ o'pOs.ta
+inf:	'mE.ki vi'row si i o'Low 'pa.ra a 'maR.Ze~j~ o'pOs.ta
 
 ref:	Não sabia por que dessa vez não tinha funcionado, mas decidiu continuar tentando.
 inf:	'na~w~ sa'bi.a puX 'ke 'dE.sa 'vejz 'na~w~ 'Ti~.Ja fu~.si.o~'na.du, majs de.si'Diw ko~.Ti~.nu'aX te~'ta~.du

@@ -86,7 +86,7 @@ ref:	Qualquer detento que cumprir as ordens da Suprema Corte da Justiça de Deus
 inf:	kwaw'kER de'te~.tu ki ku~'prir az 'OR.de~j~s da su'pre~.ma 'kOX.Ti da Zus'Ti.sa Di 'dews na 'bi.blja es'ta i'ze~.tu das 'prO.vas Di a.ku.za'sa~w~ Di sa.ta~'najs 'kwa~.du 'es.Ti 'foR veR.da.dej.ra~'me~.Ti li'bEX.tu e~j~ 'kris.tu
 
 ref:	Corte as raízes, antes que elas enraizem em você.
-inf:	'kOX.Ti as Ra'i.zis, 'a~.Tis ki 'E.laz e~.Raj.ze~j~ e~j~ vo'se
+inf:	'kOX.Ti as Ra'i.zis, 'a~.Tis ki 'E.laz e~.Ra'i.ze~j~ e~j~ vo'se
 
 ref:	Eis que me tornei, troféu para os loucos, derrota para os sãos e como um gado de corte me preparei para o abate.
 corrigida:	'ejs ki mi toR'nej, tro'fEw 'pa.ra us 'low.kus, de'RO.ta 'pa.ra us 'sa~w~z i 'ko~.mu u~ 'ga.du Di 'kOX.Ti mi pre.pa'rej 'pa.ra u a'ba.Ti
@@ -425,7 +425,7 @@ ref:	ELA: Nas viagens de carro, antes mesmo de sair da garagem, pergunte: Querid
 inf:	'E.la, nas vi'a.Ze~s Di 'ka.Ru, 'a~.Tis 'mez.mu Di sa'iR da ga'ra.Ze~j~, peR'gu~.Ti, ke'ri.du, vo'se 'na~w~ es'ta ko'Re~.du 'mu~j~.tu
 
 ref:	ELE: Quando saírem para passear, dirija igual um louco, e faça tudo rápido como se estivesse aflito para ficar livre daquela obrigação.
-inf:	'e.li, 'kwa~.du sa.ire~j~ 'pa.ra pa.se'aX, Di'ri.Za i'gwaw u~ 'low.ku, i 'fa.sa 'tu.du 'Ra.pi.du 'ko~.mu si es.Ti'vE.si a'fli.tu 'pa.ra fi'kaR 'li.vri da'kE.la o.bri.ga'sa~w~
+inf:	'e.li, 'kwa~.du sa'i.re~j~ 'pa.ra pa.se'aX, Di'ri.Za i'gwaw u~ 'low.ku, i 'fa.sa 'tu.du 'Ra.pi.du 'ko~.mu si es.Ti'vE.si a'fli.tu 'pa.ra fi'kaR 'li.vri da'kE.la o.bri.ga'sa~w~
 
 ref:	ELA: Quando sair sozinha com ele, ligue de dez em dez minutos para casa para ver como estão as crianças.
 corrigida:	'E.la, 'kwa~.du sa'iX sO'zi~.Ja ko~ 'e.li, 'li.gi Di 'dEjz e~j~ 'dEjz mi~'nu.tus 'pa.ra 'ka.za 'pa.ra 'veX 'ko~.mu es'ta~w~ as kri'a~.sas
@@ -2717,7 +2717,7 @@ ref:	Onde há forma há alma.
 inf:	'o~.Di 'a 'fOR.ma 'a 'aw.ma
 
 ref:	Mal nisso penso, logo dentro a visão do meu espírito surgem cientistas curvados sobre estampas, sabendo bem que elas são vidas; microscopistas da tessitura surgem dos tapetes; fisicistas do seu desenho largo e bruxuleante nos contornos; químicos, sim, da ideia das formas e das cores nos quadros; geologistas das camadas estráticas dos camafeus; psicólogos, enfim - e isto mais importa - que uma a uma notam e congregam as sensações que deve sentir uma estatueta, as ideias que devem passar pelo psiquismo esbatido de uma figura de quadro ou de vitral.
-inf:	'maw 'ni.su 'pe~.su, 'lO.gu 'de~.tru a vi'za~w~ du 'mew es'pi.ri.tu suR.Ze~j~ si.e~'Tis.tas kuR'va.dus 'so.bri es'ta~.pas, sa'be~.du 'be~j~ ki 'E.las 'sa~w~ 'vi.das, mi.kros.ko'pis.tas da te.si'tu.ra 'suR.Ze~j~ dus ta'pE.Tis, fi.zi'sis.tas du 'sew de'ze~.Ju 'laR.gu i bru.Su.le'a~.Ti nus ko~'tOR.nus, 'ki~.mi.kus, 'si~, da i'dEj.a das 'fOR.maz i das 'ko.ris nus 'kwa.drus, Ze.o.lo'Zis.tas das ka~'ma.daz es'tra.Ti.kas dus ka~.ma'fews, psi'kO.lo.gus, e~'fi~, i 'is.tu 'majs i~'pOX.ta, ki u~.ma a u~.ma 'nO.ta~w~ i ko~'grE.ga~w~ as se~.sa'so~j~s ki 'dE.vi se~'Tir u~.ma es.ta.tu'E.ta, az i'dEj.as ki 'dE.ve~j~ pa'saX 'pe.lu psi'kiz.mu ez.ba'Ti.du Di u~.ma fi'gu.ra Di 'kwa.dru ow Di vi'traw
+inf:	'maw 'ni.su 'pe~.su, 'lO.gu 'de~.tru a vi'za~w~ du 'mew es'pi.ri.tu 'suR.Ze~j~ si.e~'Tis.tas kuR'va.dus 'so.bri es'ta~.pas, sa'be~.du 'be~j~ ki 'E.las 'sa~w~ 'vi.das, mi.kros.ko'pis.tas da te.si'tu.ra 'suR.Ze~j~ dus ta'pE.Tis, fi.zi'sis.tas du 'sew de'ze~.Ju 'laR.gu i bru.Su.le'a~.Ti nus ko~'tOR.nus, 'ki~.mi.kus, 'si~, da i'dEj.a das 'fOR.maz i das 'ko.ris nus 'kwa.drus, Ze.o.lo'Zis.tas das ka~'ma.daz es'tra.Ti.kas dus ka~.ma'fews, psi'kO.lo.gus, e~'fi~, i 'is.tu 'majs i~'pOX.ta, ki u~.ma a u~.ma 'nO.ta~w~ i ko~'grE.ga~w~ as se~.sa'so~j~s ki 'dE.vi se~'Tir u~.ma es.ta.tu'E.ta, az i'dEj.as ki 'dE.ve~j~ pa'saX 'pe.lu psi'kiz.mu ez.ba'Ti.du Di u~.ma fi'gu.ra Di 'kwa.dru ow Di vi'traw
 
 ref:	A imensa série de pessoas e de coisas que forma o mundo é para mim uma galeria interminável de quadros, cujo interior me não interessa.
 inf:	a i~'me~.sa 'sE.ri Di pe'so.az i Di 'koj.zas ki 'fOR.ma u 'mu~.du E 'pa.ra 'mi~ u~.ma ga.le'ri.a i~.teR.mi~'na.vew Di 'kwa.drus, 'ku.Zu i~.te.ri'oR mi 'na~w~ i~.te'rE.sa
