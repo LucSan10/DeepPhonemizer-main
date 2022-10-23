@@ -380,7 +380,7 @@ ref:	É enfermeira e trabalha com pacientes terminais de câncer.
 corrigida:	E e~.feR'mej.ra i tra'ba.La ko~ pa.si'e~.Tis teR.mi~'najs Di 'ka~.seX
 
 ref:	É um trabalho duro, mas ela adora.
-corrigida:	E u~ tra'ba.Lu 'du.ru, majz 'E.la a'do.ra
+corrigida:	E u~ tra'ba.Lu 'du.ru, majz 'E.la a'dO.ra
 
 ref:	Bom, Nan escreveu alguns textos e tem feito palestras em congressos.
 corrigida:	'bo~, 'na~ es.kre'vew aw'gu~s 'tes.tuz i te~j~ 'fej.tu pa'lEs.traz e~j~ ko~'grE.sus

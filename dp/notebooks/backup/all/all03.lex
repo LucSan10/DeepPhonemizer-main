@@ -1751,7 +1751,7 @@ ref:	Sem dúvida, um pai como você pode julgar o Pai!
 inf:	se~j~ 'du.vi.da, u~ 'paj 'ko~.mu vo'se 'pO.Di Zuw'gar u 'paj
 
 ref:	De novo a raiva dele subiu como uma chama gigantesca.
-inf:	Di 'no.vu a 'Raj.va 'de.li su'biw 'ko~.mu u~.ma 'Sa~.ma Zi.ga~'tEs.ka
+inf:	Di 'no.vu a 'Raj.va 'de.li su'biw 'ko~.mu u~.ma 'Sa~.ma Zi.ga~'tes.ka
 
 ref:	Queria golpear alguma coisa, mas ela estava certa e não havia sentido em negar.
 inf:	ke'ri.a gow.pe'ar aw'gu~.ma 'koj.za, majz 'E.la es'ta.va 'sEX.ta i 'na~w~ a'vi.a se~'Ti.du e~j~ ne'gaX
@@ -2255,7 +2255,7 @@ ref:	Porém sabe que você está atrás dela.
 inf:	po're~j~ 'sa.bi ki vo'se es'ta a'trajs 'dE.la
 
 ref:	Cachoeiras! exclamou Mack, rindo sozinho. Ela adora cachoeiras!
-inf:	ka.So'ej.ras, es.kla~'mow 'mE.ki, 'Ri~.du sO'zi~.Ju, 'E.la a'do.ra ka.So'ej.ras
+inf:	ka.So'ej.ras, es.kla~'mow 'mE.ki, 'Ri~.du sO'zi~.Ju, 'E.la a'dO.ra ka.So'ej.ras
 
 ref:	Agora Mack se concentrou na filha, tentando memorizar de novo cada detalhe de sua expressão, do cabelo e das mãos.
 inf:	a'gO.ra 'mE.ki si ko~.se~'trow na 'fi.La, te~'ta~.du me~.mo.ri'zaR Di 'no.vu 'ka.da de'ta.Li Di 'su.a es.pre'sa~w~, du ka'be.lu i das 'ma~w~s
@@ -2783,7 +2783,7 @@ ref:	Então, sem dizer mais nenhuma palavra, levantou-se, pendurou os sapatos no
 inf:	e~'ta~w~, se~j~ Di'zeR 'majs ne~'Ju~.ma pa'la.vra, le.va~'tow si, pe~.du'row us sa'pa.tus nu 'o~.bru i si~.pliz'me~.Ti e~'trow na 'a.gwa
 
 ref:	Ficou um pouco surpreso quando seu primeiro passo encontrou o fundo do lago abaixo dos tornozelos, mas não se importou.
-inf:	fi'kow u~ 'pow.ku suX'pre.zu 'kwa~.du 'sew pri~'mej.ru 'pa.su e~.ko~'trow u 'fu~.du du 'la.gu a'baj.Su dus toR.no'zE.lus, majs 'na~w~ si i~.poX'tow
+inf:	fi'kow u~ 'pow.ku suX'pre.zu 'kwa~.du 'sew pri~'mej.ru 'pa.su e~.ko~'trow u 'fu~.du du 'la.gu a'baj.Su dus toR.no'ze.lus, majs 'na~w~ si i~.poX'tow
 
 ref:	Parou, enrolou as pernas da calça acima dos joelhos e deu mais um passo na água gelada.
 inf:	pa'row, e~.Ro'low as 'pER.nas da 'kaw.sa a'si~.ma du.Zu'e.Luz i 'dew 'majz u~ 'pa.su na 'a.gwa Ze'la.da

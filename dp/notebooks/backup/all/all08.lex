@@ -1097,7 +1097,7 @@ ref:	Surgiam sinais de que o golpe na Argentina seria muito violento.
 inf:	suR'Zi.a~w~ si~'najs Di ki u 'gOw.pi na aR.Ze~'Ti~.na se'ri.a 'mu~j~.tu vi.o'le~.tu
 
 ref:	Mas eu não podia sair do pais, porque meu passaporte fora apreendido.
-inf:	majz ew 'na~w~ po'Di.a sa'iR du 'pajs, puX'ke 'mew pa.sa'pOX.Ti 'fO.ra a.pre.e~'Di.du
+inf:	majz ew 'na~w~ po'Di.a sa'iR du 'pajs, puX'ke 'mew pa.sa'pOX.Ti 'fo.ra a.pre.e~'Di.du
 
 ref:	Aí pensei: Vou escrever a última coisa de minha vida.
 corrigida:	a'i pe~'sej, 'vow es.kre'ver a 'uw.Ti~.ma 'koj.za Di 'mi~.Ja 'vi.da
@@ -2990,7 +2990,7 @@ ref:	Olho-o, identifico-o tal se em profundo sigilo de mim o procurasse desde o 
 inf:	'o.Lu u, i.de~.Ti'fi.ko.u 'taw si e~j~ pro'fu~.du si'Zi.lu Di 'mi~ u pro.ku'ra.si 'dez.Di u i~'ni.sju
 
 ref:	Me ilumino! todo o existido fora apenas a preparação deste encontro.
-inf:	mi i.lu~'mi~.nu, 'to.du u e.zis'Ti.du 'fO.ra a'pe~.naz a pre.pa.ra'sa~w~ 'des.Ti e~'ko~.tru
+inf:	mi i.lu~'mi~.nu, 'to.du u e.zis'Ti.du 'fo.ra a'pe~.naz a pre.pa.ra'sa~w~ 'des.Ti e~'ko~.tru
 
 ref:	Antes que o olhar, detendo o pássaro no vôo, do céu descesse até o ombro sólido do anjo, criando-o, que tempo mágico ele habitava?
 corrigida:	'a~.Tis ki u o'LaX, de'te~.du u 'pa.sa.ru nu 'vo.u, du 'sEw de'se.si a'tE u 'o~.bru 'sO.li.du du 'a~.Zu, kri'a~.du u, ki 'te~.pu 'ma.Zi.ku 'e.li a.bi'ta.va

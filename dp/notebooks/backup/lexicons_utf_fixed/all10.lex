@@ -2120,7 +2120,7 @@ ref:	Em um bom jogo da sedução, você sempre tem que fingir ser a vítima. Pra
 corrigida:	e~j~ u~ 'bo~ 'Zo.gu da se.du'sa~w~, vo'se 'se~.pri te~j~ ki fi~'ZiX 'ser a 'vi.Ti~.ma, pra vi'rar u pla'kar i ga~'JaR Di vi'ra.da
 
 ref:	Se você vier eu trago um saco cheio de amores Que eu guardei pra você Jogo fora as mágoas, enxugo todas as minhas lágrimas E atiro a tristeza aqui do décimo andar Pra você me amar.
-corrigida:	si vo'se vi'Er ew 'tra.gu u~ 'sa.ku 'Sej.u Di a~'mo.ris ki ew gwaR'dej pra vo'se 'ZO.gu 'fo.ra as 'ma.gwas, e~'Su.gu 'to.daz as 'mi~.Jas 'la.gri~.maz i a'Ti.ru a tris'te.za a'ki du 'dE.si~.mu a~'daX pra vo'se mi a~'maX
+corrigida:	si vo'se vi'Er ew 'tra.gu u~ 'sa.ku 'Sej.u Di a~'mo.ris ki ew gwaR'dej pra vo'se 'ZO.gu 'fO.ra as 'ma.gwas, e~'Su.gu 'to.daz as 'mi~.Jas 'la.gri~.maz i a'Ti.ru a tris'te.za a'ki du 'dE.si~.mu a~'daX pra vo'se mi a~'maX
 
 ref:	O suicídio é a carta coringa do jogo chamado vida
 corrigida:	u suj'si.Dju E a 'kaX.ta ko'ri~.ga du 'Zo.gu Sa~'ma.du 'vi.da

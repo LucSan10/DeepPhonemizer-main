@@ -1019,7 +1019,7 @@ ref:	A canoa era dele, poderiam ter sido seus filhos.
 corrigida:	a ka~'no.a 'E.ra 'de.li, po.de'ri.a~w~ 'teX 'si.du 'sews 'fi.Lus
 
 ref:	Apressou o passo, correndo até a barraca, chamando seu nome com o máximo de calma que conseguiu.
-corrigida:	a.pre'sow u 'pa.su, ko'Re~.du a'tE a ba'Ra.ka, Sa~'ma~.du 'sew 'no~.mi ko~ u 'ma.Si~.mu Di 'kaw.ma ki ko~.se'giw
+corrigida:	a.pre'sow u 'pa.su, ko'Re~.du a'tE a ba'Ra.ka, Sa~'ma~.du 'sew 'no~.mi ko~ u 'ma.si~.mu Di 'kaw.ma ki ko~.se'giw
 
 ref:	Imaginando se Missy estaria em um dos chuveiros, começou a bater na porta de cada um até obter resposta.
 corrigida:	i~.ma.Zi~'na~.du si 'mi.si es.ta'ri.a e~j~ 'u~ dus Su'vej.rus, ko~.me'sow a ba'teR na 'pOX.ta Di 'ka.da 'u~ a'tE ob'te.Res'pOs.ta

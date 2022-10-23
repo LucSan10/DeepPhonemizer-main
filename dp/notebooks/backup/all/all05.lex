@@ -29,7 +29,7 @@ ref:	Meu presente vai esperar aqui até sua volta, sorriu Jesus e também abraç
 corrigida:	'mew pre'ze~.Ti 'vaj es.pe'rar a'ki a'tE 'su.a 'vOw.ta, so'Riw Ze'zujz i ta~'be~j~ a.bra'sow 'mE.ki
 
 ref:	Os dois saíram pelos fundos e Mack ficou sozinho com Papai, que estava fritando ovos com bacon.
-inf:	us 'dojs sa'i.ra~w~ 'pe.lus 'fu~.duz i 'mE.ki fi'kow sO'zi~.Ju ko~ pa'paj, ki es'ta.va fri'ta~.du 'O.vus ko~ ba'ko~
+inf:	us 'dojs sa'i.ra~w~ 'pe.lus 'fu~.duz i 'mE.ki fi'kow sO'zi~.Ju ko~ pa'paj, ki es'ta.va fri'ta~.du 'O.vus ko~ 'bej.ko~
 
 ref:	Papai, perguntou Mack, surpreso ao ver como havia ficado fácil chamá-lo assim.
 inf:	pa'paj, peR.gu~'tow 'mE.ki, suX'pre.zu aw 'veX 'ko~.mu a'vi.a fi'ka.du 'fa.siw Sa~'ma lu a'si~
@@ -782,7 +782,7 @@ ref:	Indicou para Mack o mesmo arco vermelho.
 inf:	i~.Di'kow 'pa.ra 'mE.ki u 'mez.mu 'aX.ku veR'me.Lu
 
 ref:	E Mack descobriu que o caminho que estavam seguindo fora marcado pelo homem que levara sua filha.
-inf:	i 'mE.ki des.ko'briw ki u ka~'mi~.Ju ki es'ta.va~w~ se'gi~.du 'fO.ra maX'ka.du 'pe.lu 'o~.me~j~ ki le'va.ra 'su.a 'fi.La
+inf:	i 'mE.ki des.ko'briw ki u ka~'mi~.Ju ki es'ta.va~w~ se'gi~.du 'fo.ra maX'ka.du 'pe.lu 'o~.me~j~ ki le'va.ra 'su.a 'fi.La
 
 ref:	Enquanto caminhavam, Papai explicou a Mack que nenhum corpo fora encontrado porque esse homem procurava lugares para escondê-los meses antes de sequestrar as meninas.
 inf:	e~'kwa~.tu ka~.mi~'Ja.va~w~, pa'paj es.pli'kow a 'mE.ki ki ne~'Ju~ 'koX.pu 'fo.ra e~.ko~'tra.du puX'ke 'e.si 'o~.me~j~ pro.ku'ra.va lu'ga.ris 'pa.ra es.ko~'de lus 'me.ziz 'a~.Tis Di se'kwes'trar as me~'ni~.nas
@@ -809,7 +809,7 @@ ref:	Assim que a entrada ficou livre, eles tiraram com a picareta e a pá a terr
 inf:	a'si~ ki a e~'tra.da fi'kow 'li.vri, 'e.lis Ti'ra.ra~w~ ko~ a pi.ka're.ta i a 'pa a 'tE.Ra e~.du.re'si.da i u kas'ka.Lu ki blo.ke'a.va~w~ a pa'sa.Ze~j~
 
 ref:	De repente o resto de entulho cedeu e apareceu a entrada de uma pequena caverna que provavelmente já fora a toca de algum animal durante a hibernação.
-inf:	Di Re'pe~.Ti u 'REs.tu Di e~'tu.Lu se'dew i a.pa.re'sew a e~'tra.da Di u~.ma pe'ke~.na ka'vER.na ki pro.va.vew'me~.Ti 'Za 'fO.ra a 'tO.ka Di aw'gu~ a~.ni~'maw du'ra~.Ti a i.beR.na'sa~w~
+inf:	Di Re'pe~.Ti u 'REs.tu Di e~'tu.Lu se'dew i a.pa.re'sew a e~'tra.da Di u~.ma pe'ke~.na ka'vER.na ki pro.va.vew'me~.Ti 'Za 'fo.ra a 'tO.ka Di aw'gu~ a~.ni~'maw du'ra~.Ti a i.beR.na'sa~w~
 
 ref:	Um odor rançoso de podridão saiu, deixando Mack engasgado.
 inf:	u~ o'do.Ra~'so.zu Di po.dri'da~w~ sa'iw, dej'Sa~.du 'mE.ki e~.gaz'ga.du
@@ -845,7 +845,7 @@ ref:	Mack saiu primeiro e Papai lhe passou o tesouro.
 inf:	'mE.ki sa'iw pri~'mej.ru i pa'paj Li pa'sow u te'zow.ru
 
 ref:	Nenhuma palavra fora dita, a não ser as de Mack, que murmurava baixinho:
-inf:	ne~'Ju~.ma pa'la.vra 'fO.ra 'Di.ta, a 'na~w~ 'ser as Di 'mE.ki, ki muR.mu'ra.va baj'Si~.Ju
+inf:	ne~'Ju~.ma pa'la.vra 'fo.ra 'Di.ta, a 'na~w~ 'ser as Di 'mE.ki, ki muR.mu'ra.va baj'Si~.Ju
 
 ref:	Antes de deixarem o local, Papai pegou a rocha com o arco vermelho e colocou-a sobre a entrada.
 inf:	'a~.Tis Di dej'Sa.re~j~ u lo'kaw, pa'paj pe'gow a 'RO.Sa ko~ u 'aX.ku veR'me.Lu i ko.lo'kow a 'so.bri a e~'tra.da
@@ -920,7 +920,7 @@ ref:	Fecharam a tampa, Jesus e Mack pegaram as extremidades e levaram o caixão 
 corrigida:	fe'Sa.ra~w~ a 'ta~.pa, Ze'zujz i 'mE.ki pe'ga.ra~w~ az es.tre~.mi'da.Diz i le'va.ra~w~ u kaj'Sa~w~ 'pa.ra 'fO.ra, se'gi~.du sa.ra'ju a'tE u lo'kaw du po~'maX ki 'mE.ki a.Zu'da.ra a li~'paX
 
 ref:	Ali, entre cerejeiras e pessegueiros, rodeado por orquídeas e lírios, fora aberto um buraco no lugar onde Mack havia desenraizado os arbustos floridos na véspera.
-inf:	a'li, 'e~.tri se.re'Zej.raz i pe.se'gej.rus, Ro.de'a.du pur oX'ki.Daz i 'li.rjus, 'fO.ra a'bEX.tu u~ bu'ra.ku nu lu'gar 'o~.Di 'mE.ki a'vi.a de.ze~.Raj'za.du uz aR'bus.tus flo'ri.dus na 'vEs.pe.ra
+inf:	a'li, 'e~.tri se.re'Zej.raz i pe.se'gej.rus, Ro.de'a.du pur oX'ki.Daz i 'li.rjus, 'fo.ra a'bEX.tu u~ bu'ra.ku nu lu'gar 'o~.Di 'mE.ki a'vi.a de.ze~.Raj'za.du uz aR'bus.tus flo'ri.dus na 'vEs.pe.ra
 
 ref:	Papai esperava-os.
 inf:	pa'paj es.pe'ra.va us
