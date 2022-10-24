@@ -1079,7 +1079,7 @@ ref:	Atrás da mesa se encontrava uma mulher alta, linda, de pele morena, com fe
 inf:	a'trajs da 'me.za si e~.ko~'tra.va u~.ma mu'LEr 'aw.ta, 'li~.da, Di 'pE.li mo're~.na, ko~ fej'so~j~z is'pa~.ni.kas 'be~j~ maX'ka.das, ves'Ti~.du u~ 'ma~.tu 'laR.gu Di 'ko.riz es'ku.ras
 
 ref:	Estava sentada ereta e regia como um juiz da suprema corte.
-inf:	es'ta.va se~'ta.da e'rE.ta i Re'Zi.a 'ko~.mu u~ Zu'iz da su'pre~.ma 'kOX.Ti
+inf:	es'ta.va se~'ta.da e'rE.ta i Re'Zi.a 'ko~.mu u~ Zu'iz da su'pre~.ma 'koX.Ti
 
 ref:	Sua beleza era estonteante.
 inf:	'su.a be'le.za 'E.ra es.to~.te'a~.Ti
@@ -1100,7 +1100,7 @@ ref:	Mack não ousou falar, com medo de que sua voz fosse engolida pela intensid
 inf:	'mE.ki 'na~w~ ow'zow fa'laX, ko~ 'me.du Di ki 'su.a 'vOjs 'fo.si e~.go'li.da 'pe.la i~.te~.si'da.Di du a~.bi'e~.Ti
 
 ref:	Pensou: Sou o camundongo Mickey em vias de falar com Pavarotti.
-inf:	pe~'sow, 'sow u ka~.mu~'do~.gu 'mik.kej e~j~ 'vi.as Di fa'laX ko~ pa.va.rO'Ti
+inf:	pe~'sow, 'sow u ka~.mu~'do~.gu 'mik.kej e~j~ 'vi.as Di fa'laX ko~ pa.va'rO.Ti
 
 ref:	O pensamento o fez sorrir.
 inf:	u pe~.sa~'me~.tu u 'fejs so'RiX
@@ -2713,8 +2713,8 @@ inf:	nu pri~.si'pi.u, 'na~w~
 ref:	O medo era avassalador e ela estava em estado de choque.
 inf:	u 'me.du 'E.ra a.va.sa.la'dor i 'E.la es'ta.va e~j~ es'ta.du Di 'SO.ki
 
-ref:	Demorou horas para chegar do acampamento ate aqui.
-inf:	de~.mo'row 'O.ras 'pa.ra Se'gaR du a.ka~.pa~'me~.tu 'a.Ti a'ki
+ref:	Demorou horas para chegar do acampamento até aqui.
+inf:	de~.mo'row 'O.ras 'pa.ra Se'gaR du a.ka~.pa~'me~.tu a'tE a'ki
 
 ref:	Mas, quando Sarayu se enrolou ao redor dela, Missy se acalmou.
 inf:	majs, 'kwa~.du sa.ra'ju si e~.Ro'low aw Re'dOR 'dE.la, 'mi.si si a.kaw'mow
@@ -2788,8 +2788,8 @@ inf:	fi'kow u~ 'pow.ku suX'pre.zu 'kwa~.du 'sew pri~'mej.ru 'pa.su e~.ko~'trow u
 ref:	Parou, enrolou as pernas da calça acima dos joelhos e deu mais um passo na água gelada.
 inf:	pa'row, e~.Ro'low as 'pER.nas da 'kaw.sa a'si~.ma du.Zu'e.Luz i 'dew 'majz u~ 'pa.su na 'a.gwa Ze'la.da
 
-ref:	A água chegou ate o meio das canelas e, no passo seguinte, logo abaixo dos joelhos.
-inf:	a 'a.gwa Se'gow 'a.Ti u 'mej.u das ka~'nE.laz i, nu 'pa.su se'gi~.Ti, 'lO.gu a'baj.Su du.Zu'e.Lus
+ref:	A água chegou até o meio das canelas e, no passo seguinte, logo abaixo dos joelhos.
+inf:	a 'a.gwa Se'gow a'tE u 'mej.u das ka~'nE.laz i, nu 'pa.su se'gi~.Ti, 'lO.gu a'baj.Su du.Zu'e.Lus
 
 ref:	Olhou para trás e viu Jesus parado na margem com os braços cruzados diante do peito, olhando-o.
 inf:	o'Low 'pa.ra 'trajz i 'viw Ze'zujs pa'ra.du na 'maR.Ze~j~ ko~ us 'bra.sus kru'za.dus Di'a~.Ti du 'pej.tu, o'La~.du u

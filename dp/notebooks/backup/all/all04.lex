@@ -368,7 +368,7 @@ ref:	O importante é saber que tudo é um processo e não um acontecimento.
 corrigida:	u i~.poX'ta~.Ti E sa'beX ki 'tu.du E u~ pro'sE.su i 'na~w~ u~ a.ko~.te.si~'me~.tu
 
 ref:	Só quero que você confie em mim o pouco que puder e que cresça no amor pelas pessoas ao seu redor com o mesmo amor que compartilho com você.
-inf:	'sO 'kE.ru ki vo'se ko~'fi e~j~ 'mi~ u 'pow.ku ki pu'dEr i ki 'krE.sa nu a~'moX 'pe.las pe'so.az aw 'sew Re'dOX ko~ u 'mez.mu a~'moX ki ko~.paX'Ti.Lu ko~ vo'se
+inf:	'sO 'kE.ru ki vo'se ko~'fi.i e~j~ 'mi~ u 'pow.ku ki pu'dEr i ki 'krE.sa nu a~'moX 'pe.las pe'so.az aw 'sew Re'dOX ko~ u 'mez.mu a~'moX ki ko~.paX'Ti.Lu ko~ vo'se
 
 ref:	Não cabe a você mudá-las nem convencê-las.
 inf:	'na~w~ 'ka.bi a vo'se mu'da las ne~j~ ko~.ve~'se las
@@ -2228,7 +2228,7 @@ ref:	Como sou sua capacidade de reagir livremente, tenho de estar presente em vo
 inf:	'ko~.mu 'sow 'su.a ka.pa.si'da.Di Di Re.a'ZiR li.vri~'me~.Ti, 'te~.Ju Di es'taX pre'ze~.Ti e~j~ vo'sejs
 
 ref:	Se eu simplesmente lhes desse uma responsabilidade, não teria de estar com vocês.
-inf:	si ew si~.pliz'me~.Ti Lis 'de.si u~.ma Res.po~.sa.bi.li'da.Di, 'na~w~ te'ri.a Di es'taX ko~ vo'sejs
+inf:	si ew si~.pliz'me~.Ti Lis 'dE.si u~.ma Res.po~.sa.bi.li'da.Di, 'na~w~ te'ri.a Di es'taX ko~ vo'sejs
 
 ref:	A responsabilidade seria uma tarefa a realizar, uma obrigação a cumprir, algo para vencer ou fracassar.
 inf:	a Res.po~.sa.bi.li'da.Di se'ri.a u~.ma ta'rE.fa a Re.a.li'zaX, u~.ma o.bri.ga'sa~w~ a ku~'priX, 'aw.gu 'pa.ra ve~'ser ow fra.ka'saX
@@ -2767,8 +2767,8 @@ inf:	u~.ma 'o~.da Di e~.mo'so~j~s, u~.ma mis'tu.ra Di 'Raj.va i a~'sej.u, va'Rew
 ref:	Nesse momento as cores de seu pai explodiram da campina e o envolveram.
 inf:	'ne.si mo~'me~.tu as 'ko.ris Di 'sew 'paj es.plo'Di.ra~w~ da ka~'pi~.na i u e~.vow've.ra~w~
 
-ref:	Ele ficou perdido num jorro de rubi e vermelhao, magenta e violeta, à medida que a luz e a dor faziam um redemoinho ao seu redor e o cobriam.
-inf:	'e.li fi'kow peR'Di.du nu~ 'Zo.Ru Di Ru'bi i veR.me'Law, ma'Ze~.ta i vi.o'lE.ta, a me'Di.da ki a 'lujz i a 'doX fa'zi.a~w~ u~ Re.de~.mo'i~.Ju aw 'sew Re'dOr i u ko'bri.a~w~
+ref:	Ele ficou perdido num jorro de rubi e vermelhão, magenta e violeta, à medida que a luz e a dor faziam um redemoinho ao seu redor e o cobriam.
+inf:	'e.li fi'kow peR'Di.du nu~ 'Zo.Ru Di Ru'bi i veR.me'La~w~, ma'Ze~.ta i vi.o'lE.ta, a me'Di.da ki a 'lujz i a 'doX fa'zi.a~w~ u~ Re.de~.mo'i~.Ju aw 'sew Re'dOr i u ko'bri.a~w~
 
 ref:	E de algum modo, no meio da tempestade que explodia, ele se viu correndo pela campina para encontrar o pai, correndo para a fonte de cores e emoções.
 inf:	i Di aw'gu~ 'mO.du, nu 'mej.u da te~.pes'ta.Di ki es.plo'Di.a, 'e.li si 'viw ko'Re~.du 'pe.la ka~'pi~.na 'pa.ra e~.ko~'trar u 'paj, ko'Re~.du 'pa.ra a 'fo~.Ti Di 'ko.riz i e~.mo'so~j~s
@@ -2978,7 +2978,7 @@ ref:	Tem tudo de que você precisa na cadeira e na mesa ao pé da sua cama.
 corrigida:	te~j~ 'tu.du Di ki vo'se pre'si.za na ka'dej.ra i na 'me.za aw 'pE da 'su.a 'ka~.ma
 
 ref:	Encontro-o na cozinha, onde você pode comer alguma coisa antes de sairmos.
-inf:	e~'ko~.tru u na ko'zi~.Ja, 'o~.Di vo'se 'pO.Di ko~'mer aw'gu~.ma 'koj.za 'a~.Tis Di 'saj.Rmus
+inf:	e~'ko~.tru u na ko'zi~.Ja, 'o~.Di vo'se 'pO.Di ko~'mer aw'gu~.ma 'koj.za 'a~.Tis Di sa'iR.mus
 
 ref:	Não se incomodou em perguntar aonde iria.
 inf:	'na~w~ si i~.ko~.mo'dow e~j~ peR.gu~'tar a'o~.Di i'ri.a

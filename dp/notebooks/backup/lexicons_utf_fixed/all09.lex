@@ -1972,7 +1972,7 @@ corrigida:	e~j~ 'su.a 'prO.prja a.va.li.a'sa~w~, 'ma.rju 'foj de~.ma.zi'a.du se'
 ref:	Segundo mais de um crítico, seu juízo implacável condenaria o jovem autor ao silêncio estéril, encerrando, com esse episódio, sua trajetória poética - Cocktails será publicado somente em 1986, seis décadas após sua concepção.
 corrigida:	se'gu~.du 'majs Di 'u~ 'kri.Ti.ku, 'sew Zu'i.zu i~.pla'ka.vew ko~.de~.na'ri.a u 'ZO.ve~j~ aw'tor aw si'le~.sju es'tE.riw, e~.se'Ra~.du, ko~ 'e.si e.pi'zO.Dju, 'su.a tra.Ze'tO.rja po'E.Ti.ka, kO.ki'tej.us se'ra pu.bli'ka.du sO~'me~.Ti e~j~ 'miw nO.vi'se~.tuz i oj'te~.ta i 'sejs, 'sejs 'dE.ka.daz a'pOjs 'su.a ko~.sep'sa~w~
 
-ref:	Em Drogaria de éter e de sombra, um dos três poemas longos que compõem a obra, Luís Aranha inseriu dois haicais, o mais saboroso deles inspirado em conhecido poema de Yamazaki Sokán (1465-1552).
+ref:	Em Drogaria de éter e de sombra, um dos três poemas longos que compõem a obra, Luís Aranha inseriu dois haicais, o mais saboroso deles inspirado em conhecido poema de Yamazaki Sokán.
 corrigida:	e~j~ dro.ga'ri.a Di 'E.ter i Di 'so~.bra, u~ dus 'trejs po'e~.mas 'lo~.gus ki ko~'po~.e~j~ a 'O.bra, lu'iz a'ra~.Ja i~.se'riw 'dojz Raj'kajs, u 'majs sa.bo'ro.zu 'de.liz i~s.pi'ra.du e~j~ ko~.Je'si.du po'e~.ma Di ja~.ma'za.ki so'kan
 
 ref:	Trata-se dos primeiros haicais concebidos por um poeta brasileiro.

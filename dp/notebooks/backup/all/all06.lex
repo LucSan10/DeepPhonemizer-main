@@ -422,7 +422,7 @@ ref:	Quando acordo digo para mim mesma. Tudo vai ficar bem. Tudo vai ficar bem. 
 inf:	'kwa~.du a'kOR.du 'Di.gu 'pa.ra 'mi~ 'mez.ma, 'tu.du 'vaj fi'kaR 'be~j~, 'tu.du 'vaj fi'kaR 'be~j~, i, 'se~.pri 'fi.ka
 
 ref:	Vou colocar a música do plantão da globo como despertador, porque eu ja acordo no clima de desastre.
-inf:	'vow ko.lo'kar a 'mu.zi.ka du pla~'ta~w~ da 'glO.bu 'ko~.mu des.peX.ta'doX, puX'ke ew 'Za a'kOR.du nu 'kli~.ma Di de'zas.tri
+inf:	'vow ko.lo'kar a 'mu.zi.ka du pla~'ta~w~ da 'glo.bu 'ko~.mu des.peX.ta'doX, puX'ke ew 'Za a'kOR.du nu 'kli~.ma Di de'zas.tri
 
 ref:	Por que nunca me disseste o que querias, para que eu vivesse exatamente de acordo com a tua vontade. Por que me deste liberdade, que eu não sabia usar?
 inf:	puX 'ke 'nu~.ka mi Di'sEs.Ti u ki ke'ri.as, 'pa.ra ki ew vi've.si e.za.ta~'me~.Ti Di a'koR.du ko~ a 'tu.a vo~'ta.Di, puX 'ke mi 'dEs.Ti li.beR'da.Di, ki ew 'na~w~ sa'bi.a u'zaX
@@ -767,7 +767,7 @@ ref:	Dedicatória do autor, Na verdade Clarice Lispector
 inf:	de.Di.ka'tO.rja du aw'toX, na veR'da.Di kla'ri.si lis.pek'toX
 
 ref:	Pois que dedico esta coisa ai ao antigo Schumann e sua doce Clara que são hoje ossos, ai de nós.
-inf:	'pojs ki de'Di.ku 'Es.ta 'koj.za aj aw a~'Ti.gu sSu~.ma~n i 'su.a 'do.si 'kla.ra ki 'sa~w~ 'o.Zi 'O.sus, aj Di 'nOjs
+inf:	'pojs ki de'Di.ku 'Es.ta 'koj.za 'aj aw a~'Ti.gu sSu~.ma~n i 'su.a 'do.si 'kla.ra ki 'sa~w~ 'o.Zi 'O.sus, 'aj Di 'nOjs
 
 ref:	Dedico-me à cor rubra muito escarlate como o meu sangue de homem em plena idade e portanto dedico-me a meu sangue.
 inf:	de'Di.ko~.mi a 'ko'Ru.bra 'mu~j~.tu es.kaR'la.Ti 'ko~.mu u 'mew 'sa~.gi Di 'o~.me~j~ e~j~ 'ple~.na i'da.Di i poX'ta~.tu de'Di.ko~.mi a 'mew 'sa~.gi
@@ -1733,7 +1733,7 @@ ref:	Aprendera em pequena á cerzir.
 inf:	a.pre~'de.ra e~j~ pe'ke~.na a seR'ziX
 
 ref:	Ela se realizaria muito mais se se desse ao delicado labor de restaurar fios, quem sabe se de seda.
-inf:	'E.la si Re.a.li.za'ri.a 'mu~j~.tu 'majs si si 'de.si aw de.li'ka.du la'boR Di Res.taw'raX 'fi.us, 'ke~j~ 'sa.bi si Di 'se.da
+inf:	'E.la si Re.a.li.za'ri.a 'mu~j~.tu 'majs si si 'dE.si aw de.li'ka.du la'boR Di Res.taw'raX 'fi.us, 'ke~j~ 'sa.bi si Di 'se.da
 
 ref:	Ou de luxo: cetim bem brilhoso, um beijo de almas.
 inf:	ow Di 'lu.Su, se'Ti~ 'be~j~ bri'Lo.zu, u~ 'bej.Zu Di 'aw.mas

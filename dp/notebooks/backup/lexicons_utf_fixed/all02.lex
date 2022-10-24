@@ -2777,7 +2777,7 @@ ref:	Se você não tivesse me dito que era seguro tocar, ele teria me envenenado
 corrigida:	si vo'se 'na~w~ Ti'vE.si mi 'Di.tu ki 'E.ra se'gu.ru to'kaX, 'e.li te'ri.a mi e~.ve~.ne~'na.du
 
 ref:	Mas, se eu o der para você tocar, é diferente.
-corrigida:	majs, si ew u 'dEX 'pa.ra vo'se to'kaX, E Di.fe're~'Ti
+corrigida:	majs, si ew u 'dEX 'pa.ra vo'se to'kaX, E Di.fe're~.Ti
 
 ref:	Então por que criar plantas venenosas? perguntou Mack, devolvendo o galho.
 corrigida:	e~'ta~w~ puX 'ke kri'aX 'pla~.tas ve~.ne~'nO.zas, peR.gu~'tow 'mE.ki, de.vow've~.du u 'ga.Lu

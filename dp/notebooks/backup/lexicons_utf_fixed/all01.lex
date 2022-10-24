@@ -2285,7 +2285,7 @@ ref:	Sentindo-se mais seguro, entrou na sala e parou.
 corrigida:	se~'Ti~.du si 'majs se'gu.ru, e~'trow na 'sa.la i pa'row
 
 ref:	Enquanto seus olhos se ajustavam à semi-escuridão, começou a perceber os detalhes da sala com a luz da tarde se filtrando pelas janelas quebradas.
-corrigida:	e~'kwa~.tu 'sewz 'O.Lus si a.Zus'ta.va~w~ a se~'mi es.ku.ri'da~w~, ko~.me'sow a peX.se'ber us de'ta.Lis da 'sa.la ko~ a 'lujz da 'taR.Di si fiw'tra~.du 'pe.la.Za~'nE.las ke'bra.das
+corrigida:	e~'kwa~.tu 'sewz 'O.Lus si a.Zus'ta.va~w~ a 'se~.mi es.ku.ri'da~w~, ko~.me'sow a peX.se'ber us de'ta.Lis da 'sa.la ko~ a 'lujz da 'taR.Di si fiw'tra~.du 'pe.la.Za~'nE.las ke'bra.das
 
 ref:	Reconheceu as cadeiras velhas e a mesa.
 corrigida:	Re.ko~.Je'sew as ka'dej.ras 'vE.Laz i a 'me.za

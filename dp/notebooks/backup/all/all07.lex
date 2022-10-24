@@ -233,9 +233,9 @@ ref:	A perfeição é como uma montanha lisa e perfeita. Não há como subir sem
 inf:	a peX.fej'sa~w~ E 'ko~.mu u~.ma mo~'ta~.Ja 'li.za i peX'fej.ta, 'na~w~ 'a 'ko~.mu su'biX se~j~ 'ter a'poj.u nu 'as.pe.ru daz i~.peX.fej'so~j~s
 
 ref:	Leonardo da Vinci
-inf:	le.o~'naR.du da vi~'si
+inf:	le.o~'naR.du da 'vi~.si
 
-ref:	Pintor, escultor, arquiteto, engenheiro, cientista, inventor e escritor italiano (1452-1519).
+ref:	Pintor, escultor, arquiteto, engenheiro, cientista, inventor e escritor italiano.
 inf:	pi~'toX, es.kuw'toX, aX.ki'tE.tu, e~.Ze~'Jej.ru, si.e~'Tis.ta, i~.ve~'tor i es.kri'tor i.ta.li'a~.nu
 
 ref:	É considerado o maior nome do Renascimento, ao lado de Michelangelo.
@@ -245,19 +245,19 @@ ref:	Sua arte influencia toda a história da pintura que se segue: supera o pens
 inf:	'su.a 'aX.Ti i~.flu.e~'si.a 'to.da a is'tO.rja da pi~'tu.ra ki si 'sE.gi, su'pE.ra u pe~.sa~'me~.tu me.Di.e'vaw, do~.mi~'na.du 'pe.lus va'lo.ris Re.li.Zi'O.zus, i ko'lO.ka u 'o~.me~j~ nu 'se~.tru da kri.a'sa~w~
 
 ref:	Nasce em Vinci, perto de Florença, e, por volta de 1466, torna-se aprendiz do pintor e escultor florentino Andrea del Verrocchio.
-inf:	'na.si e~j~ vi~'si, 'pEX.tu Di flo're~.sa, i, puR 'vOw.ta Di 'miw kwa.tro'se~.tuz i se'se~.ta i 'sejs, 'tOR.na si a.pre~'Diz du pi~'tor i es.kuw'toX flo.re~'Ti~.nu a~'drE.a 'dEw ve.Ro'kSi.u
+inf:	'na.si e~j~ 'vi~.si, 'pEX.tu Di flo're~.sa, i, puR 'vOw.ta Di 'miw kwa.tro'se~.tuz i se'se~.ta i 'sejs, 'tOR.na si a.pre~'Diz du pi~'tor i es.kuw'toX flo.re~'Ti~.nu a~'drE.a 'dEw ve.Ro'kSi.u
 
-ref:	Entre 1482 e 1499 vive em Milão, onde pinta o afresco A Última Ceia (1495-1497) e faz um projeto urbanístico para a cidade, com rede de canais e um sistema de abastecimento de água e esgotos.
+ref:	Entre 1482 e 1499 vive em Milão, onde pinta o afresco A Última Ceia e faz um projeto urbanístico para a cidade, com rede de canais e um sistema de abastecimento de água e esgotos.
 inf:	'e~.tri 'miw kwa.tro'se~.tuz i oj'te~.ta i 'dojz i 'miw kwa.tro'se~.tuz i no've~.ta i 'nO.vi 'vi.vi e~j~ mi'la~w~, 'o~.Di 'pi~.ta u a'frEs.ku a 'uw.Ti~.ma 'sej.a i 'fajz u~ pro'ZE.tu uR.ba~'nis.Ti.ku 'pa.ra a si'da.Di, ko~ 'Re.Di Di ka~'najz i u~ sis'te~.ma Di a.bas.te.si~'me~.tu Di 'a.gwa i ez'gO.tus
 
 ref:	Nesse período estuda perspectiva, óptica, proporções e anatomia.
 inf:	'ne.si pe'ri.o.du es'tu.da peXs.pek'Ti.va, 'Op.Ti.ka, pro.poX'so~j~z i a~.na.to~'mi.a
 
-ref:	De volta a Florença, pinta Mona Lisa (1503-1506), sua obra mais famosa.
+ref:	De volta a Florença, pinta Mona Lisa, sua obra mais famosa.
 inf:	Di 'vOw.ta a flo're~.sa, 'pi~.ta 'mo~.na 'li.za, 'su.a 'O.bra 'majs fa~'mO.za
 
 ref:	Vive em Roma entre 1513 e 1517, onde se envolve em intrigas do Vaticano e decide se juntar à Corte do rei francês Francisco I.
-inf:	'vi.vi e~j~ 'Ro~.ma 'e~.tri 'miw ki~'Je~.tuz i 'tre.zi i 'miw ki~'Je~.tuz i de.ze'sE.Ti, 'o~.Di si e~'vOw.vi e~j~ i~'tri.gas du va.Ti'ka~.nu i de'si.Di si Zu~'tar a 'kOX.Ti du 'Rej fra~'sejs fra~'sis.ku pri~'mej.ru
+inf:	'vi.vi e~j~ 'Ro~.ma 'e~.tri 'miw ki~'Je~.tuz i 'tre.zi i 'miw ki~'Je~.tuz i de.ze'sE.Ti, 'o~.Di si e~'vOw.vi e~j~ i~'tri.gas du va.Ti'ka~.nu i de'si.Di si Zu~'tar a 'koX.Ti du 'Rej fra~'sejs fra~'sis.ku pri~'mej.ru
 
 ref:	Nos estudos científicos, antecipa muitas descobertas modernas, como o helicóptero e o pára-quedas.
 inf:	nuz es'tu.dus si.e~'Ti.fi.kus, a~.te'si.pa 'mu~j~.tas des.ko'bEX.tas mo'dER.nas, 'ko~.mu u e.li'kOp.te.ru i u 'pa.ra 'kE.das
@@ -344,7 +344,7 @@ ref:	É num sorriso que o amor se faz, num abraço que se conquista, no choro qu
 corrigida:	E nu~ so'Ri.zu ki u a~'moX si 'fajs, nu~ a'bra.su ki si ko~'kis.ta, nu 'So.ru ki si foX.ta'lE.si
 
 ref:	Bota aí um uísque com uma cerveja para acompanhar. E não poupa no choro, boneca.
-inf:	'bO.ta a'i u~ u.is'ki ko~ u~.ma seR've.Za 'pa.ra a.ko~.pa~'JaX, i 'na~w~ 'pow.pa nu 'So.ru, bo~'nE.ka
+inf:	'bO.ta a'i u~ u'is.ki ko~ u~.ma seR've.Za 'pa.ra a.ko~.pa~'JaX, i 'na~w~ 'pow.pa nu 'So.ru, bo~'nE.ka
 
 ref:	Não sou de ficar chorando por aí, pra todo mundo ver. Quando eu choro na frente de alguém, acredite, é porque cheguei ao meu limite.
 corrigida:	'na~w~ 'sow Di fi'kaX So'ra~.du pur a'i, pra 'to.du 'mu~.du 'veX, 'kwa~.du ew 'SO.ru na 'fre~.Ti Di aw'ge~j~, a.kre'Di.Ti, E puX'ke Se'gej aw 'mew li~'mi.Ti
@@ -841,7 +841,7 @@ corrigida:	mi pre.ze~'tej.a ko~ u~.ma kaj'Si~.Ja Di 'le~.sus, E ki 'se~.pri mi e
 ref:	Fará alguns meses, que se agrupados em dias daria o número 365. Ainda choro. Ainda...
 inf:	fa'ra aw'gu~s 'me.zis, ki si a.gru'pa.duz e~j~ 'Di.as da'ri.a u 'nu~.me.ru tre'ze~.tuz i se'se~.ta i 'si~.ku, a'i~.da 'SO.ru, a'i~.da
 
-ref:	As vezes quando tenho que sorrir eu choro, quando tenho que calar eu falo, quando tenho que ir eu fico, mas quando eu tenho que amar ai eu insisto...
+ref:	As vezes quando tenho que sorrir eu choro, quando tenho que calar eu falo, quando tenho que ir eu fico, mas quando eu tenho que amar aí eu insisto...
 inf:	as 've.zis 'kwa~.du 'te~.Ju ki so'Rir ew 'So.ru, 'kwa~.du 'te~.Ju ki ka'lar ew 'fa.lu, 'kwa~.du 'te~.Ju ki 'ir ew 'fi.ku, majs 'kwa~.du ew 'te~.Ju ki a~.ma'r a'i ew i~'sis.tu
 
 ref:	Salmos 40. 1 Esperei com paciência no Senhor, e ele se inclinou para mim, e ouviu o meu choro e clamor.
@@ -1511,7 +1511,7 @@ ref:	Para colher flores não basta semear, é necessário cuidar. É impossível
 inf:	'pa.ra ko'LeX 'flo.ris 'na~w~ 'bas.ta se~.me'aX, E ne.se'sa.rju kuj'daX, E i~.po'si.vew kuw.Ti'vaX 'flo.riz i 'ER.vas da~'ni~.Ja'Zu~.tas, e.li~'mi~.ni az 'ER.vas da~'ni~.Jaz i 'sew ZaR'Di~ se'ra Re'plE.tu Di 'flo.ris, a'si~ E a 'vi.da
 
 ref:	Te presenteio com as mais belas rosas, mas se quiser pode colher aqui mesmo em meu jardim! Sergio Fornasari
-inf:	Ti pre.ze~'tej.u ko~ as 'majs 'bE.las 'RO.zas, majs si ki'zEX 'pO.Di ko'Ler a'ki 'mez.mu e~j~ 'mew ZaR'Di~, seR'Zi.u foR.na.za'ri
+inf:	Ti pre.ze~'tej.u ko~ as 'majs 'bE.las 'RO.zas, majs si ki'zEX 'pO.Di ko'Ler a'ki 'mez.mu e~j~ 'mew ZaR'Di~, sER.Zju foR.na'sa.ri
 
 ref:	Aprender Para Adquirir, Colher Para Ter.
 inf:	a.pre~'deX 'pa.ra a.Di.ki'riX, ko'LeX 'pa.ra 'teX
@@ -2399,7 +2399,7 @@ ref:	Às vezes, e assim que me sinto com Comer, Rezar, Amar.
 inf:	as 've.zis, i a'si~ ki mi 'si~.tu ko~ ko~'meX, Re'zaX, a~'maX
 
 ref:	A trajetória desse livro chegou a um ponto em que eu não conseguia mais absorver as suas dimensões com sanidade, e ai desisti de tentar e voltei a minha atenção para outros objetivos.
-inf:	a tra.Ze'tO.rja 'de.si 'li.vru Se'gow a u~ 'po~.tu e~j~ ki ew 'na~w~ ko~.se'gi.a 'majz ab.soR'ver as 'su.as Di~.me~'so~j~s ko~ sa~.ni'da.Di, i aj de.zis'Ti Di te~'tar i vow'tej a 'mi~.Ja a.te~'sa~w~ 'pa.ra 'ow.truz ob.Ze'Ti.vus
+inf:	a tra.Ze'tO.rja 'de.si 'li.vru Se'gow a u~ 'po~.tu e~j~ ki ew 'na~w~ ko~.se'gi.a 'majz ab.soR'ver as 'su.as Di~.me~'so~j~s ko~ sa~.ni'da.Di, i 'aj de.zis'Ti Di te~'tar i vow'tej a 'mi~.Ja a.te~'sa~w~ 'pa.ra 'ow.truz ob.Ze'Ti.vus
 
 ref:	Cultivar a horta ajudou; não há nada melhor do que catar caramujos dos tomateiros para entender melhor as coisas.
 inf:	kuw.Ti'var a 'OX.ta a.Zu'dow, 'na~w~ 'a 'na.da me'LOR du ki ka'taX ka.ra~'mu.Zus dus to~.ma'tej.rus 'pa.ra e~.te~'deR me'LOr as 'koj.zas
@@ -2492,7 +2492,7 @@ ref:	Para ser bem clara, eis os nomes dessas 27 leitoras:
 inf:	'pa.ra 'seR 'be~j~ 'kla.ra, 'ejz us 'no~.mis 'dE.sas 'vi~.Ti i 'sE.Ti lej'to.ras
 
 ref:	Maude, Carole, Catherine, Ann, Darcey, Deborah, Susan, Sofie, Cree, Cat, Abby, Linda, Bernadette, Jen, Jana, Sheryl, Rayya, Iva, Erica, Nichelle, Sany, Anne, Patricia, Tara, Laura, Sarah e Margaret.
-corrigida:	'maw.Di, ka'rO.li, ka.te'ri~.ni, 'a~n, 'daX.sej, de.bO'ra, 'su.za~, so'fi, 'kri, 'kE.Ti, 'E.bi, 'li~.da, beR.na'dE.Ti, 'Ze~, 'Za~.na, 'SE.riw, 'Raj.a, 'i.va, 'E.ri.ka, ni'SE.li, 'sa~.ni, 'a~.ni, pa'tri.sja, 'ta.ra, 'law.ra, 'sa.ra i 'maR.ga.re.Ti
+corrigida:	'maw.Di, ka'rO.li, ka.te'ri~.ni, 'a~n, 'daX.sej, de.bO'ra, 'su.za~, so'fi.i, 'kri.i, 'kE.Ti, 'E.bi, 'li~.da, beR.na'dE.Ti, 'Ze~, 'Za~.na, 'SE.riw, 'Raj.a, 'i.va, 'E.ri.ka, ni'SE.li, 'sa~.ni, 'a~.ni, pa'tri.sja, 'ta.ra, 'law.ra, 'sa.ra i 'maR.ga.re.Ti
 
 ref:	Essas 27 mulheres compõem o meu círculo pequeno mas importantíssimo de amigas, parentas e vizinhas.
 inf:	'E.sas 'vi~.Ti i 'sE.Ti mu'LE.ris ko~'po~.e~j~ u 'mew 'siX.ku.lu pe'ke~.nu majz i~.poX'ta~.Ti.si~.mu Di a~'mi.gas, pa're~.taz i vi'zi~.Jas
@@ -2582,7 +2582,7 @@ ref:	Felipe e um cavalheiro brasileiro gentil e afetuoso, 17 anos mais velho do 
 inf:	fe'li.pi i u~ ka.va'Lej.ru bra.zi'lej.ru Ze~'Tiw i a.fe.tu'o.zu, de.ze'sE.Ti 'a~.nus 'majs 'vE.Lu du ki ew, ki ko~.Je'si e~j~ 'ow.tra vi'a.Ze~j~, u~.ma vi'a.Ze~j~ pla~.ne'Za.da Di veR'da.Di, ki 'fis 'pe.lu 'mu~.du, aw'gu~z 'a~.nuz 'a~.Tis, na te~.ta'Ti.va Di Re~.me~'dar u~ ko.ra'sa~w~ gra.ve~'me~.Ti paX'Ti.du
 
 ref:	Perto do fim da viagem, encontrei Felipe, que havia anos morava sozinho e tranquilo em Bali, cuidando do seu coração partido.
-inf:	'pEX.tu du 'fi~ da vi'a.Ze~j~, e~.ko~'trej fe'li.pi, ki a'vi.a 'a~.nus mo'ra.va sO'zi~.Ju i tra~'kwi.lu e~j~ ba'li, kuj'da~.du du 'sew ko.ra'sa~w~ paX'Ti.du
+inf:	'pEX.tu du 'fi~ da vi'a.Ze~j~, e~.ko~'trej fe'li.pi, ki a'vi.a 'a~.nus mo'ra.va sO'zi~.Ju i tra~'kwi.lu e~j~ 'ba.li, kuj'da~.du du 'sew ko.ra'sa~w~ paX'Ti.du
 
 ref:	O que veio em seguida foi atração, depois um lento corte e, finalmente, para nosso espanto mútuo, amor.
 inf:	u ki 'vej.u e~j~ se'gi.da 'foj a.tra'sa~w~, de'pojz u~ 'le~.tu 'kOX.Ti i, fi~.naw'me~.Ti, 'pa.ra 'nO.su es'pa~.tu 'mu.twu, a~'moX
@@ -2612,7 +2612,7 @@ ref:	E se arrastou durante mais de dois anos.
 inf:	i si a.Ras'tow du'ra~.Ti 'majs Di 'dojz 'a~.nus
 
 ref:	Quanto a Felipe, seu primeiro casamento (com uma profissional liberal australiana inteligente) terminara quase uma década antes de nos conhecermos em Bali.
-inf:	'kwa~.tu a fe'li.pi, 'sew pri~'mej.ru ka.za~'me~.tu, ko~ u~.ma pro.fi.si.o~'naw li.be'raw aws.tra.li'a~.na i~.te.li'Ze~.Ti, teR.mi~'na.ra 'kwa.zi u~.ma 'dE.ka.da 'a~.Tis Di nus ko~.Je'seR.muz e~j~ ba'li
+inf:	'kwa~.tu a fe'li.pi, 'sew pri~'mej.ru ka.za~'me~.tu, ko~ u~.ma pro.fi.si.o~'naw li.be'raw aws.tra.li'a~.na i~.te.li'Ze~.Ti, teR.mi~'na.ra 'kwa.zi u~.ma 'dE.ka.da 'a~.Tis Di nus ko~.Je'seR.muz e~j~ 'ba.li
 
 ref:	Na época, o divórcio se desenrolara bastante bem, mas perder a mulher (e, junto com ela, o acesso a casa, aos filhos e a quase duas décadas de história) deixara a esse homem bom uma herança de tristeza duradoura, com ênfase especial no arrependimento, no isolamento e na ansiedade econômica.
 inf:	na 'E.po.ka, u Di'vOX.sju si de.ze~.Ro'la.ra bas'ta~.Ti 'be~j~, majs peR'der a mu'LEX, i, 'Zu~.tu ko~ 'E.la, u a'sE.su a 'ka.za, aws 'fi.Luz i a 'kwa.zi 'du.as 'dE.ka.das Di is'tO.rja, dej'Sa.ra a 'e.si 'o~.me~j~ 'bo~ u~.ma e'ra~.sa Di tris'te.za du.ra'dow.ra, ko~ 'e~.fa.zi es.pe.si'aw nu a.Re.pe~.Di~'me~.tu, nu i.zo.la~'me~.tu i na a~.si.e'da.Di e.ko~'no~.mi.ka
@@ -2662,8 +2662,8 @@ inf:	i 'e.si 'nO.su 'pak.tu, ko~.si.e~.Ti~'me~.Ti pri'va.du Di ko~.pro~'mi.su o.
 ref:	Foi como se tivéssemos encontrado o Caminho Marítimo para as Índias da Intimidade Perfeita, algo que, como escreveu Gabriel Garcia Marquez, lembrava o amor, mas sem os problemas do amor.
 inf:	'foj 'ko~.mu si Ti'vE.se~.muz e~.ko~'tra.du u ka~'mi~.Ju ma'ri.Ti~.mu 'pa.ra az 'i~.Djas da i~.Ti~.mi'da.Di peX'fej.ta, 'aw.gu ki, 'ko~.mu es.kre'vew ga.bri'Ew gaX'si.a maX'kejs, le~'bra.va u a~'moX, majs se~j~ us pro'ble~.mas du a~'moX
 
-ref:	E foi isso que passamos a fazer ate a primavera de 2006: cuidar da nossa vida, construir juntos, com irrestrito contentamento, uma vida delicadamente dividida.
-inf:	i 'foj 'i.su ki pa'sa~.muz a fa'zer 'a.Ti a pri~.ma'vE.ra Di 'dojs 'miw i 'sejs kuj'daR da 'nO.sa 'vi.da, ko~s.tru'iR 'Zu~.tus, ko~ i.Res'tri.tu ko~.te~.ta~'me~.tu, u~.ma 'vi.da de.li.ka.da~'me~.Ti Di.vi'Di.da
+ref:	E foi isso que passamos a fazer até a primavera de 2006: cuidar da nossa vida, construir juntos, com irrestrito contentamento, uma vida delicadamente dividida.
+inf:	i 'foj 'i.su ki pa'sa~.muz a fa'zer a'tE a pri~.ma'vE.ra Di 'dojs 'miw i 'sejs kuj'daR da 'nO.sa 'vi.da, ko~s.tru'iR 'Zu~.tus, ko~ i.Res'tri.tu ko~.te~.ta~'me~.tu, u~.ma 'vi.da de.li.ka.da~'me~.Ti Di.vi'Di.da
 
 ref:	E poderiamos continuar a viver assim, felizes para sempre, se não fosse uma interferência muitíssimo inconveniente.
 inf:	i po.de.ri'a~.mus ko~.Ti~.nu'ar a vi'ver a'si~, fe'li.zis 'pa.ra 'se~.pri, si 'na~w~ 'fo.si u~.ma i~.teX.fe're~.sja mu~j~'Ti.si~.mu i~.ko~.ve~.ni'e~.Ti
@@ -2675,7 +2675,7 @@ ref:	Corte sua própria lenha. Assim, ela aquecerá você duas vezes.
 inf:	'kOX.Ti 'su.a 'prO.prja 'le~.Ja, a'si~, 'E.la a.ke.se'ra vo'se 'du.as 've.zis
 
 ref:	A prudência é uma rica rapariga que não casou, a quem a incapacidade faz a corte.
-inf:	a pru'de~.sja E u~.ma 'Ri.ka Ra.pa'ri.ga ki 'na~w~ ka'zow, a 'ke~j~ a i~.ka.pa.si'da.Di 'fajz a 'kOX.Ti
+inf:	a pru'de~.sja E u~.ma 'Ri.ka Ra.pa'ri.ga ki 'na~w~ ka'zow, a 'ke~j~ a i~.ka.pa.si'da.Di 'fajz a 'koX.Ti
 
 ref:	Não há corte sem dor.
 inf:	'na~w~ 'a 'kOX.Ti se~j~ 'doX
@@ -2771,7 +2771,7 @@ ref:	Eu poderia suportar qualquer dor na minha própria carne, mas morreria ao m
 inf:	ew po.de'ri.a su.poX'taX kwaw'kER 'doR na 'mi~.Ja 'prO.prja 'kaR.ni, majs mo.Re'ri.a aw me~'nOX 'kOX.Ti e~j~ u~.ma pe'so.a ki 'a~.mu
 
 ref:	A corte se estende. Político não deveria vir com propostas, nem currículo e sim com árvore genealógica.
-inf:	a 'kOX.Ti si es'te~.Di, po'li.Ti.ku 'na~w~ de.ve'ri.a 'viX ko~ pro'pOs.tas, ne~j~ ku'Ri.ku.lu i 'si~ ko~ 'aR.vo.ri Ze~.ne.a'lO.Zi.ka
+inf:	a 'koX.Ti si es'te~.Di, po'li.Ti.ku 'na~w~ de.ve'ri.a 'viX ko~ pro'pOs.tas, ne~j~ ku'Ri.ku.lu i 'si~ ko~ 'aR.vo.ri Ze~.ne.a'lO.Zi.ka
 
 ref:	Ontem, seria feliz apenas com um corte de cetim. Hoje, quero a fazenda toda.
 inf:	'o~.te~j~, se'ri.a fe'liz a'pe~.nas ko~ u~ 'kOX.Ti Di se'Ti~, 'o.Zi, 'kE.ru a fa'ze~.da 'to.da
@@ -2816,10 +2816,10 @@ ref:	Se a única saída é cortar o dedo para salvar o braço, então que o dedo
 corrigida:	si a 'u~.ni.ka sa'i.da E koX'tar u 'de.du 'pa.ra saw'var u 'bra.su, e~'ta~w~ ki u 'de.du 'se.Za koX'ta.du
 
 ref:	Nós temos uma Suprema Corte totalmente acovardada
-inf:	'nOjs 'te~.muz u~.ma su'pre~.ma 'kOX.Ti to.taw'me~.Ti a.ko.vaR'da.da
+inf:	'nOjs 'te~.muz u~.ma su'pre~.ma 'koX.Ti to.taw'me~.Ti a.ko.vaR'da.da
 
-ref:	Conta-me   Conta-me Do teu vestido verde Seda pura Corte liso Conta-me Do que é preciso Para que vistas luar E sombra Pele e luz.
-inf:	'ko~.ta mi 'ko~.ta mi du 'tew ves'Ti.du 'veR.Di 'se.da 'pu.ra 'kOX.Ti 'li.zu 'ko~.ta mi du ki E pre'si.zu 'pa.ra ki 'vis.tas lu'ar i 'so~.bra 'pE.li i 'lujs
+ref:	Conta-me   Conta-me Do teu vestido verde. Seda pura. Corte liso. Conta-me Do que é preciso Para que vistas luar E sombra Pele e luz.
+inf:	'ko~.ta mi 'ko~.ta mi du 'tew ves'Ti.du 'veR.Di, 'se.da 'pu.ra, 'kOX.Ti 'li.zu, 'ko~.ta mi du ki E pre'si.zu 'pa.ra ki 'vis.tas lu'ar i 'so~.bra 'pE.li i 'lujs
 
 ref:	Não se corte, ele não merece nem um oi, imagine seu sangue
 inf:	'na~w~ si 'kOX.Ti, 'e.li 'na~w~ me'rE.si ne~j~ u~ 'oj, i~.ma'Zi~.ni 'sew 'sa~.gi
@@ -2951,7 +2951,7 @@ ref:	De ponto em ponto o corte se fecha.
 inf:	Di 'po~.tu e~j~ 'po~.tu u 'kOX.Ti si 'fE.Sa
 
 ref:	Somos dois bobos da corte nesse reino quase sem graça... .
-inf:	'so~.mus 'dojs 'bo.bus da 'kOX.Ti 'ne.si 'Rej.nu 'kwa.zi se~j~ 'gra.sa
+inf:	'so~.mus 'dojs 'bo.bus da 'koX.Ti 'ne.si 'Rej.nu 'kwa.zi se~j~ 'gra.sa
 
 ref:	Veio e foice rápida afiada delirante, foice loucura terebrante, foice corte era cortante, foice amor. Tudo que foi foice, se foi.
 inf:	'vej.u i 'foj.si 'Ra.pi.da a.fi'a.da de.li'ra~.Ti, 'foj.si low'ku.ra te.re'bra~.Ti, 'foj.si 'kOX.Ti 'E.ra koX'ta~.Ti, 'foj.si a~'moX, 'tu.du ki 'foj 'foj.si, si 'foj
@@ -2962,8 +2962,8 @@ inf:	a.pa're.Lu Di baR.be'aR 'na~w~ si a~'mO.la, 'mu~j~.tu 'me~.nus si ko~'sEX.t
 ref:	Não corte as minhas asas, eu ficaria triste. Não me queira triste, eu não te faria feliz. E se eu não te fizer feliz ninguém mais o fará. Não seja gaiola, seja céu. Meu céu.
 inf:	'na~w~ 'kOX.Ti as 'mi~.Jaz 'a.zas, ew fi.ka'ri.a 'tris.Ti, 'na~w~ mi 'kej.ra 'tris.Ti, ew 'na~w~ Ti fa'ri.a fe'lis, i si ew 'na~w~ Ti fi'zeX fe'liz ni~'ge~j~ 'majz u fa'ra, 'na~w~ 'se.Za gaj'O.la, 'se.Za 'sEw, 'mew 'sEw
 
-ref:	Não vou tratar como rei quem me trata como bobo ta corte.
-inf:	'na~w~ 'vow tra'taX 'ko~.mu 'Rej 'ke~j~ mi 'tra.ta 'ko~.mu 'bo.bu ta 'kOX.Ti
+ref:	Não vou tratar como rei quem me trata como bobo da corte.
+inf:	'na~w~ 'vow tra'taX 'ko~.mu 'Rej 'ke~j~ mi 'tra.ta 'ko~.mu 'bo.bu da 'koX.Ti
 
 ref:	Não vale a pena pensar muito na beleza, o que é importante é a sua mente. Você não quer um corte de cabelo de cinquenta dólares numa cabeça de cinquenta centavos.
 corrigida:	'na~w~ 'va.li a 'pe~.na pe~'saR 'mu~j~.tu na be'le.za, u ki E i~.poX'ta~.Ti E a 'su.a 'me~.Ti, vo'se 'na~w~ 'kEr u~ 'kOX.Ti Di ka'be.lu Di si~'kwe~.ta 'dO.la.ris 'nu~.ma ka'be.sa Di si~'kwe~.ta se~'ta.vus
@@ -2981,7 +2981,7 @@ ref:	Todo Corte Fere Cada Cortar Sangra
 inf:	'to.du 'kOX.Ti 'fE.ri 'ka.da koX'taX 'sa~.gra
 
 ref:	Perfil no facebook é como carne exposta no açougue, por mais que se capriche no corte, sempre fica pingando sangue.
-inf:	peX'fiw nu fa.se'bO.ok E 'ko~.mu 'kaR.ni es'pOs.ta nu a.sow'gi, puR 'majs ki si ka'pri.Si nu 'kOX.Ti, 'se~.pri 'fi.ka pi~'ga~.du 'sa~.gi
+inf:	peX'fiw nu fa.se'bO.ok E 'ko~.mu 'kaR.ni es'pOs.ta nu a'sow.gi, puR 'majs ki si ka'pri.Si nu 'kOX.Ti, 'se~.pri 'fi.ka pi~'ga~.du 'sa~.gi
 
 ref:	Guru é o bobo da corte levado a sério.
 corrigida:	gu'ru E u 'bo.bu da 'koX.Ti le'va.du a 'sE.rju

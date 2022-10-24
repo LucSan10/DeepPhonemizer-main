@@ -751,7 +751,7 @@ corrigida:	a 'doR du 'kOX.Ti Di u~.ma 'la~.mi~.na E 'be~j~ 'me~.nus do.lo'rO.za 
 ref:	Uma brisa. Um corte! Você. Uma morte! O que era para ser suave, machuca.
 corrigida:	u~.ma 'bri.za, u~ 'kOX.Ti, vo'se, u~.ma 'mOX.Ti, u ki 'E.ra 'pa.ra 'seX su'a.vi, ma'Su.ka
 
-ref:	Dizem por ai que você mudou o corte de cabelo. Não ouve mais os mesmos estilos de musicas da nossa época. Dizem que me esqueceu Zé.
+ref:	Dizem por aí que você mudou o corte de cabelo. Não ouve mais os mesmos estilos de musicas da nossa época. Dizem que me esqueceu Zé.
 corrigida:	'Di.ze~j~ pur a'i ki vo'se mu'dow u 'kOX.Ti Di ka'be.lu, 'na~w~ 'ow.vi 'majz us 'mez.muz es'Ti.lus Di 'mu.zi.kas da 'nO.sa 'E.po.ka, 'Di.ze~j~ ki mi es.ke'sew 'zE
 
 ref:	Amante ao avesso. Desconheço o corte do pensar sem o arder da queda do não saber.

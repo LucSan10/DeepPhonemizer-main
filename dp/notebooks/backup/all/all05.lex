@@ -1655,7 +1655,7 @@ ref:	Mas a nitidez e a profundidade das lembranças a tocaram e lentamente foram
 corrigida:	majz a ni.Ti'dejz i a pro.fu~.Di'da.Di das le~'bra~.saz a to'ka.ra~w~ i le~.ta~'me~.Ti 'fo.ra~w~ so.la'pa~.du 'su.a 'du.vi.da
 
 ref:	Era intensamente vivo o que Mack estava contando e ela entendeu rapidamente e que o que quer que tivesse acontecido causara um enorme impacto e transformara seu marido.
-inf:	'E.ra i~.te~.sa~'me~.Ti 'vi.vu u ki 'mE.ki es'ta.va ko~'ta~.du i 'E.la e~.te~'dew Ra.pi.da~.me~'Ti i ki u ki 'kEX ki Ti'vE.si a.ko~.te'si.du kaw'za.ra u~ e~'nOR.mi i~'pak.tu i tra~s.foR'ma.ra 'sew ma'ri.du
+inf:	'E.ra i~.te~.sa~'me~.Ti 'vi.vu u ki 'mE.ki es'ta.va ko~'ta~.du i 'E.la e~.te~'dew Ra.pi.da~'me~.Ti i ki u ki 'kEX ki Ti'vE.si a.ko~.te'si.du kaw'za.ra u~ e~'nOR.mi i~'pak.tu i tra~s.foR'ma.ra 'sew ma'ri.du
 
 ref:	O ceticismo de Nan foi cedendo e finalmente ela concordou em terem uma conversa com Kate.
 corrigida:	u se.Ti'siz.mu Di 'na~ 'foj se'de~.du i fi~.naw'me~.Ti 'E.la ko~.koR'dow e~j~ 'te.re~j~ u~.ma ko~'vEX.sa ko~ 'kej.Ti
@@ -2261,7 +2261,7 @@ ref:	A sabedoria não vem do acerto, mas do aprendizado com os erros.
 inf:	a sa.be.do'ri.a 'na~w~ 've~j~ du a'seX.tu, majs du a.pre~.Di'za.du ko~ uz 'e.Rus
 
 ref:	Tem uma coisa que muito me entristece. Quando eu acerto ninguem vê e quando erro ninguem esquece!
-inf:	te~j~ u~.ma 'koj.za ki 'mu~j~.tu mi e~.tris'tE.si, 'kwa~.du ew a'sEX.tu ni~'ge~j~ 've i 'kwa~.du 'e.Ru ni~'ge~j~ es'kE.si
+inf:	te~j~ u~.ma 'koj.za ki 'mu~j~.tu mi e~.tris'tE.si, 'kwa~.du ew a'sEX.tu ni~'ge~j~ 've i 'kwa~.du 'E.Ru ni~'ge~j~ es'kE.si
 
 ref:	E você foi o acerto na minha hora incerta de me apaixonar.
 inf:	i vo'se 'foj u a'seX.tu na 'mi~.Ja 'O.ra i~'sEX.ta Di mi a.paj.So~'naX
@@ -2284,7 +2284,7 @@ corrigida:	'be.ba.du 'kwa~.du a 'tE.Ra pa'raR Di Zi'rar ew a'sEX.tu us 'mews 'pa
 ref:	Primeiro: Eu sou humano; sofro, erro, rio, acerto! Segundo: Eu sou eu; e como SINGULAR, tenho uma personalidade PRÓPRIA.
 corrigida:	pri~'mej.ru, ew 'sow u~'ma~.nu, 'so.fru, 'E.Ru, 'Ri.u, a'sEX.tu, se'gu~.du, ew 'sow ew, i 'ko~.mu si~.gu'laX, 'te~.Ju u~.ma peX.so~.na.li'da.Di 'prO.prja
 
-ref:	Quando você erra e admite pode estar fazendo desse erro um acerto, mas se mentir para remediar certamente estará duplicando ele. E é ai que estará verdadeiramente errando!
+ref:	Quando você erra e admite pode estar fazendo desse erro um acerto, mas se mentir para remediar certamente estará duplicando ele. E é aí que estará verdadeiramente errando!
 corrigida:	'kwa~.du vo'se 'E.Ra i a.Di~'mi.Ti 'pO.Di es'taX fa'ze~.du 'de.si 'e.Ru u~ a'seX.tu, majs si me~'TiX 'pa.ra Re~.me.Di'aX sEX.ta~'me~.Ti es.ta'ra du.pli'ka~.du 'e.li, i E a'i ki es.ta'ra veR.da.dej.ra~'me~.Ti e'Ra~.du
 
 ref:	Teu troféu foi tua pior vitória. Teu erro foi meu maior acerto. Tua partida foi o melhor que você já fez por nós. Nosso fim, meu recomeço.
@@ -2330,7 +2330,7 @@ ref:	Um acerto não substitui um erro, a verdade não apaga a mentira, o perdão
 inf:	u~ a'seX.tu 'na~w~ subs.Ti'tuj u~ 'e.Ru, a veR'da.Di 'na~w~ a'pa.ga a me~'Ti.ra, u peR'da~w~ 'na~w~ 'ku.ra a fe'ri.da
 
 ref:	Erro e acerto, sempre por impulso.
-inf:	'e.Ru i a'seX.tu, 'se~.pri pur i~'puw.su
+inf:	'E.Ru i a'seX.tu, 'se~.pri pur i~'puw.su
 
 ref:	O acerto é a soma de vários erros.
 corrigida:	u a'seX.tu E a 'so~.ma Di 'va.rjuz 'e.Rus
@@ -2398,8 +2398,8 @@ corrigida:	u 'e.Ru o~'nEs.tu E u a'seX.tu fu'tu.ru
 ref:	Se todos que errassem reconhecessem o erro já teriam feito um grande acerto
 inf:	si 'to.dus ki e'Ra.se~j~ Re.ko~.Je'se.se~j~ u 'e.Ru 'Za te'ri.a~w~ 'fej.tu u~ 'gra~.Di a'seX.tu
 
-ref:	O acerto convem de um erro.
-inf:	u a'seX.tu 'ko~.ve~j~ Di u~ 'e.Ru
+ref:	O acerto convém de um erro.
+corrigida:	u a'seX.tu ko~'ve~j~ Di u~ 'e.Ru
 
 ref:	Os caminhos que percorro, os amores que vivo, as amizades que faço, cada erro e cada acerto meus são os fragmentos que compõem meu ser.
 inf:	us ka~'mi~.Jus ki peX'ko.Ru, uz a~'mo.ris ki 'vi.vu, az a~.mi'za.Dis ki 'fa.su, 'ka.da 'e.Ru i 'ka.da a'seX.tu 'mews 'sa~w~ us fra.gi'me~.tus ki ko~'po~.e~j~ 'mew 'seX
@@ -2462,10 +2462,10 @@ ref:	Todo erro é um exemplo, mas nem todo acerto pode ser exemplar.
 corrigida:	'to.du 'e.Ru E u~ e'ze~.plu, majs ne~j~ 'to.du a'seX.tu 'pO.Di 'ser e.ze~'plaX
 
 ref:	De tudo o que me chateia, destaco o seguinte: Quando acerto ninguém elogia, mas quando erro todo mundo critica.
-inf:	Di 'tu.du u ki mi Sa'tej.a, des'ta.ku u se'gi~.Ti, 'kwa~.du a'seX.tu ni~'ge~j~ e.lo'Zi.a, majs 'kwa~.du 'e.Ru 'to.du 'mu~.du kri'Ti.ka
+inf:	Di 'tu.du u ki mi Sa'tej.a, des'ta.ku u se'gi~.Ti, 'kwa~.du a'seX.tu ni~'ge~j~ e.lo'Zi.a, majs 'kwa~.du 'E.Ru 'to.du 'mu~.du kri'Ti.ka
 
 ref:	Por que quando acerto ninguém escreve? Por que quando erro ninguém esquece? Talvez seja porquê o amor pareça leve!
-inf:	puX 'ke 'kwa~.du a'seX.tu ni~'ge~j~ es'krE.vi, puX 'ke 'kwa~.du 'e.Ru ni~'ge~j~ es'kE.si, taw'vejs 'se.Za puX'ke u a~'moX pa're.sa 'lE.vi
+inf:	puX 'ke 'kwa~.du a'seX.tu ni~'ge~j~ es'krE.vi, puX 'ke 'kwa~.du 'E.Ru ni~'ge~j~ es'kE.si, taw'vejs 'se.Za puX'ke u a~'moX pa're.sa 'lE.vi
 
 ref:	Se te amar for um erro, estou reprovado! Se for um acerto, já sou formado. E se por acaso for um crime, que pena, fui condenado!
 inf:	si Ti a~'maX 'for u~ 'e.Ru, es'tow Re.pro'va.du, si 'for u~ a'seX.tu, 'Za 'sow foR'ma.du, i si pur a'ka.zu 'for u~ 'kri~.mi, ki 'pe~.na, 'fuj ko~.de~'na.du
@@ -2633,7 +2633,7 @@ ref:	No final dá tudo certo de algum jeito. Eu me acerto, eu tropeço e não pa
 corrigida:	nu fi~'naw 'da 'tu.du 'sEX.tu Di aw'gu~ 'Zej.tu, ew mi a'sEX.tu, ew tro'pE.su i 'na~w~ 'pa.su du 'Sa~w~, ew su'pOX.tu a ko.li'za~w~, da veR'da.Di na 'ko~.tra 'ma~w~, Di 'ta~.tu tro.pe'saR 'Za a'tE 'sej 'ko~.mu ka'iX
 
 ref:	Os erros de cada um vem da tentativa de acerto, erro sempre no desejo infinito de acertar e sair na conquista dos meus desejos!
-inf:	uz 'e.Rus Di 'ka.da 'u~ 've~j~ da te~.ta'Ti.va Di a'seX.tu, 'e.Ru 'se~.pri nu de'ze.Zu i~.fi~'ni.tu Di a.seX'tar i sa'iR na ko~'kis.ta dus 'mews de'ze.Zus
+inf:	uz 'e.Rus Di 'ka.da 'u~ 've~j~ da te~.ta'Ti.va Di a'seX.tu, 'E.Ru 'se~.pri nu de'ze.Zu i~.fi~'ni.tu Di a.seX'tar i sa'iR na ko~'kis.ta dus 'mews de'ze.Zus
 
 ref:	Quando o acerto pensou em vir, o erro veio e ensinou como se faz, assim nasceu a perfeição.
 inf:	'kwa~.du u a'seX.tu pe~'sow e~j~ 'viX, u 'e.Ru 'vej.u i e~.si~'now 'ko~.mu si 'fajs, a'si~ na'sew a peX.fej'sa~w~
@@ -2837,7 +2837,7 @@ ref:	Quem pisa no próximo esquece que o acerto é feito com Deus.
 corrigida:	'ke~j~ 'pi.za nu 'prO.si~.mu es'kE.si ki u a'seX.tu E 'fej.tu ko~ 'dews
 
 ref:	Nas coisas da vida as vezes acerto, as vezes erro mas vou vivendo e aprendendo dentro das minhas possibilidades, e Deus lá de cima vai vendo que estou tentando ser melhor, a cada novo dia eu renasço.
-inf:	nas 'koj.zas da 'vi.da as 've.ziz a'seX.tu, as 've.ziz 'e.Ru majs 'vow vi've~.du i a.pre~'de~.du 'de~.tru das 'mi~.Jas po.si.bi.li'da.Dis, i 'dews 'la Di 'si~.ma 'vaj 've~.du ki es'tow te~'ta~.du 'seR me'LOX, a 'ka.da 'no.vu 'Di.a ew Re~'na.su
+inf:	nas 'koj.zas da 'vi.da as 've.ziz a'seX.tu, as 've.ziz 'E.Ru majs 'vow vi've~.du i a.pre~'de~.du 'de~.tru das 'mi~.Jas po.si.bi.li'da.Dis, i 'dews 'la Di 'si~.ma 'vaj 've~.du ki es'tow te~'ta~.du 'seR me'LOX, a 'ka.da 'no.vu 'Di.a ew Re~'na.su
 
 ref:	Quando a lágrima lava a face, O orgulho enche o peito. De todos os erros também há o acerto. Divino e lindo amor, que supera barreiras, ainda estará a existir!
 inf:	'kwa~.du a 'la.gri~.ma 'la.va a 'fa.si, u oR'gu.Lu 'e~.Si u 'pej.tu, Di 'to.duz uz 'e.Rus ta~'be~j~ 'a u a'seX.tu, Di'vi~.nu i 'li~.du a~'moX, ki su'pE.ra ba'Rej.ras, a'i~.da es.ta'ra a e.zis'TiX
@@ -2894,7 +2894,7 @@ ref:	Você é o erro que não devia ter acontecido, mas não se assuste, esse er
 corrigida:	vo'se E u 'e.Ru ki 'na~w~ de'vi.a 'ter a.ko~.te'si.du, majs 'na~w~ si a'sus.Ti, 'e.si 'e.Ru 'pO.Di 'ser u~ a'seX.tu u~.ma 'O.ra, u~ a'seX.tu ki 'ta de~.mo'ra~.du a.ko~.te'seX
 
 ref:	Sabe por quê isso tudo veio da minha cabeça, não sou robô. Eu falho, erro e depois acerto.
-inf:	'sa.bi puX 'ke 'i.su 'tu.du 'vej.u da 'mi~.Ja ka'be.sa, 'na~w~ 'sow Ro'bo, ew 'fa.Lu, 'e.Ru i de'pojz a'seX.tu
+inf:	'sa.bi puX 'ke 'i.su 'tu.du 'vej.u da 'mi~.Ja ka'be.sa, 'na~w~ 'sow Ro'bo, ew 'fa.Lu, 'E.Ru i de'pojz a'seX.tu
 
 ref:	O acerto não é prerrogativa de quem não erra, mas de quem decide acertar. Não ter errado é um forte indício de que você sequer tentou.
 corrigida:	u a'seX.tu 'na~w~ E pre.Ro.ga'Ti.va Di 'ke~j~ 'na~w~ 'E.Ra, majs Di 'ke~j~ de'si.Di a.seX'taX, 'na~w~ 'ter e'Ra.du E u~ 'fOX.Ti i~'Di.sju Di ki vo'se se'kEX te~'tow
