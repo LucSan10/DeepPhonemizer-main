@@ -2567,7 +2567,7 @@ ref:	Um ateu é um homem que não possui meios invisíveis de apoio.
 inf:	u~ a'tew E u~ 'o~.me~j~ ki 'na~w~ po.su.i 'mej.uz i~.vi'zi.vejs Di a'poj.u
 
 ref:	Ironia da vida: a mulher dá-se como prêmio ao fraco e apoio ao forte, e nunca ninguém tem o que precisa.
-inf:	i.ro~'ni.a da 'vi.da, a mu'LEX 'ko~.mu 'pre~.mju aw 'fra.ku i a'pOj.u aw 'fOX.Ti, i 'nu~.ka ni~'ge~j~ te~j~ u ki pre'si.za
+inf:	i.ro~'ni.a da 'vi.da, a mu'LEX 'ko~.mu 'pre~.mju aw 'fra.ku i a'poj.u aw 'fOX.Ti, i 'nu~.ka ni~'ge~j~ te~j~ u ki pre'si.za
 
 ref:	Dê-me uma alavanca e um ponto de apoio e levantarei o mundo
 inf:	'de mi u~.ma a.la'va~.ka i u~ 'po~.tu Di a'poj.u i le.va~.ta'rej u mu~.du
@@ -2591,7 +2591,7 @@ ref:	Os seres aos quais servimos de amparo são para nós um apoio na vida.
 inf:	us 'se.riz aws 'kwajs seR'vi~.mus Di a~'pa.ru 'sa~w~ 'pa.ra 'nOjz u~ a'poj.u na 'vi.da
 
 ref:	O princípio do modelo constitui o mais forte apoio das modificações que se verificam no mundo.
-inf:	u pri~'si.pju du mo'de.lu ko~s.Ti'tuj u 'majs 'fOX.Ti a'pOj.u das mo.Di.fi.ka'so~j~s ki si ve.ri'fi.ka~w~ nu 'mu~.du
+inf:	u pri~'si.pju du mo'de.lu ko~s.Ti'tuj u 'majs 'fOX.Ti a'poj.u das mo.Di.fi.ka'so~j~s ki si ve.ri'fi.ka~w~ nu 'mu~.du
 
 ref:	Não apoio o fascismo, ou qualquer outro ismo. Na minha opinião, os ismos não prestam. Não se deve acreditar neles, mas sim em nós mesmo.
 corrigida:	'na~w~ a'pOj.u u fa'siz.mu, ow kwaw'kEr 'ow.tru 'iz.mu, na 'mi~.Ja o.pi~.ni'a~w~, uz 'iz.mus 'na~w~ 'prEs.ta~w~, 'na~w~ si 'dE.vi a.kre.Di'taR 'ne.lis, majs 'si~ e~j~ 'nOjs 'mez.mu
@@ -2618,7 +2618,7 @@ ref:	Cuidado com quem você compartilha seus sonhos. Ao invés de apoio, você p
 inf:	kuj'da.du ko~ 'ke~j~ vo'se ko~.paX'Ti.La 'sews 'so~.Jus, aw i~'vEjs Di a'poj.u, vo'se po.de'ra Re.se'ber i~'vE.Za
 
 ref:	A vitória demora, mas com muito trabalho, perseverança, tombos, desafios e apoio de pessoas valiosas, ela chega e chega com tudo.
-inf:	a vi'tO.rja de~'mO.ra, majs ko~ 'mu~j~.tu tra'ba.Lu, peX.se.ve'ra~.sa, 'to~.bus, de.za'fi.uz i a'pOj.u Di pe'so.as va.li'O.zas, 'E.la 'Se.ga i 'Se.ga ko~ 'tu.du
+inf:	a vi'tO.rja de~'mO.ra, majs ko~ 'mu~j~.tu tra'ba.Lu, peX.se.ve'ra~.sa, 'to~.bus, de.za'fi.uz i a'poj.u Di pe'so.as va.li'O.zas, 'E.la 'Se.ga i 'Se.ga ko~ 'tu.du
 
 ref:	Agora me apoio sobre minha janela e me debruço sobre meus erros extravagantes e comuns. Eu me encaro no espelho, eu cresci, e ninguém me perguntou se era isso que eu queria.
 inf:	a'gO.ra mi a'pOj.u 'so.bri 'mi~.Ja Za~'nE.la i mi de'bru.su 'so.bri 'mewz 'e.Ruz es.tra.va'ga~.Tiz i ko~'mu~s, ew mi e~'ka.ru nu es'pe.Lu, ew kre'si, i ni~'ge~j~ mi peR.gu~'tow si 'E.ra 'i.su ki ew ke'ri.a
@@ -2636,7 +2636,7 @@ ref:	Se você quer perdoar, ceder, conceder, eu dou o maior apoio. MAS FAÇA ISS
 inf:	si vo'se 'kEX peR.do'aX, se'deX, ko~.se'deX, ew 'dow u maj'Or a'poj.u, mas'fa.sa i.so.poR.vo'se, 'na~w~ pe.la.ow.tra.pe'so.a
 
 ref:	O mundo não quer a verdade, quer adulações, apoio ao erro e aplausos ao pecado.
-inf:	u 'mu~.du 'na~w~ 'kEr a veR'da.Di, 'kEr a.du.la'so~j~s, a'pOj.u aw 'e.Ru i a'plaw.zuz aw pe'ka.du
+inf:	u 'mu~.du 'na~w~ 'kEr a veR'da.Di, 'kEr a.du.la'so~j~s, a'poj.u aw 'e.Ru i a'plaw.zuz aw pe'ka.du
 
 ref:	O silêncio de muitos diante de uma crise política demonstra complacência ou apoio por haver similitudes diante do ato imoral político.
 inf:	u si'le~.sju Di 'mu~j~.tus Di'a~.Ti Di u~.ma 'kri.zi po'li.Ti.ka de~'mo~s.tra ko~.pla'se~.sja ow a'poj.u pur a'veX si~.mi.li'tu.Dis Di'a~.Ti du 'a.tu i~.mo'raw po'li.Ti.ku
@@ -2735,7 +2735,7 @@ ref:	Busca o apoio de quem mais te ama, nos momentos em que a dor reclama.
 inf:	'bus.ka u a'poj.u Di 'ke~j~ 'majs Ti 'a~.ma, nus mo~'me~.tuz e~j~ ki a 'do.Re'kla~.ma
 
 ref:	Não use os obstáculos da vida como motivo de desistência, e sim como apoio para o sucesso.
-inf:	'na~w~ 'u.zi uz obs'ta.ku.lus da 'vi.da 'ko~.mu mo'Ti.vu Di de.zis'te~.sja, i 'si~ 'ko~.mu a'pOj.u 'pa.ra u su'sE.su
+inf:	'na~w~ 'u.zi uz obs'ta.ku.lus da 'vi.da 'ko~.mu mo'Ti.vu Di de.zis'te~.sja, i 'si~ 'ko~.mu a'poj.u 'pa.ra u su'sE.su
 
 ref:	Eu detesto dramas fúteis! Eu gosto mesmo é de futilidades felizes e apoio demais os dramas úteis.
 corrigida:	ew de'tEs.tu 'dra~.mas 'fu.tejs, ew 'gOs.tu 'mez.mu E Di fu.Ti.li'da.Dis fe'li.ziz i a'pOj.u de~'majz us 'dra~.maz 'u.tejs
@@ -2744,7 +2744,7 @@ ref:	Uma palavra de apoio, um sorriso e um afago são mais eficientes que quaisq
 inf:	u~.ma pa'la.vra Di a'poj.u, u~ so'Ri.zu i u~ a'fa.gu 'sa~w~ 'majz e.fi.si'e~.Tis ki kwajs'kER li'so~j~s
 
 ref:	Apoio todos os seus direitos desde que não interfiram nos meus.
-inf:	a'poj.u 'to.duz us 'sews Di'rej.tus 'dez.Di ki 'na~w~ i~.teX'fi.ra~w~ nus 'mews
+inf:	a'pOj.u 'to.duz us 'sews Di'rej.tus 'dez.Di ki 'na~w~ i~.teX'fi.ra~w~ nus 'mews
 
 ref:	Quando a pessoa que amamos nos oferece alicerce e apoio para sustentação de nossa relação, fica mais fácil aprendermos a amá-la, pois estamos sendo amado e querido pelo nosso amor.
 inf:	'kwa~.du a pe'so.a ki a~'ma~.mus nuz o.fe'rE.si a.li'sEX.si i a'poj.u 'pa.ra sus.te~.ta'sa~w~ Di 'nO.sa Re.la'sa~w~, 'fi.ka 'majs 'fa.siw a.pre~'deR.muz a a~'ma la, 'pojz es'ta~.mus 'se~.du a~'ma.du i ke'ri.du 'pe.lu 'nO.su a~'moX
@@ -2810,13 +2810,13 @@ ref:	Pode ser três letras para humilhar um ser que precisa de um simples apoio.
 inf:	'pO.Di 'seX 'trejs 'le.tras 'pa.ra u~.mi'Lar u~ 'seX ki pre'si.za Di u~ 'si~.pliz a'poj.u
 
 ref:	Ouço todas as opiniões, depois contesto em primeiro lugar as que apoio e concordo, afinal, quem procura ter resultados excelentes, precisa por a prova até mesmo as suas próprias convicções!
-inf:	'ow.su 'to.daz az o.pi~.ni'o~j~s, de'pojs ko~'tEs.tu e~j~ pri~'mej.ru lu'gar as ki a'poj.u i ko~'kOR.du, a.fi~'naw, 'ke~j~ pro'ku.ra 'te.Re.zuw'ta.duz e.se'le~.Tis, pre'si.za pur a 'prO.va a'tE 'mez.mu as 'su.as 'prO.prjas ko~.vik'so~j~s
+inf:	'ow.su 'to.daz az o.pi~.ni'o~j~s, de'pojs ko~'tEs.tu e~j~ pri~'mej.ru lu'gar as ki a'pOj.u i ko~'kOR.du, a.fi~'naw, 'ke~j~ pro'ku.ra 'te.Re.zuw'ta.duz e.se'le~.Tis, pre'si.za pur a 'prO.va a'tE 'mez.mu as 'su.as 'prO.prjas ko~.vik'so~j~s
 
 ref:	Não se engane achando que uma pessoa que sempre se mostra forte jamais vai precisar de seu apoio. Ela pode apenas ser do tipo que, mesmo nos momentos mais críticos, não sai gritando por socorro.
 inf:	'na~w~ si e~'ga~.ni a'Sa~.du ki u~.ma pe'so.a ki 'se~.pri si 'mOs.tra 'fOX.Ti Za~'majs 'vaj pre.si'zaR Di 'sew a'poj.u, 'E.la 'pO.Di a'pe~.nas 'seR du 'Ti.pu ki, 'mez.mu nus mo~'me~.tus 'majs 'kri.Ti.kus, 'na~w~ 'saj gri'ta~.du puX so'ko.Ru
 
-ref:	pior coisa dentro de uma crise e não ter o apoio de quem imaginavamos
-inf:	pi'OX 'koj.za 'de~.tru Di u~.ma 'kri.zi i 'na~w~ 'ter u a'poj.u Di 'ke~j~ i~.ma.Zi~.na'va~.mus
+ref:	pior coisa dentro de uma crise e não ter o apoio de quem imaginávamos
+inf:	pi'OX 'koj.za 'de~.tru Di u~.ma 'kri.zi i 'na~w~ 'ter u a'poj.u Di 'ke~j~ i~.ma.Zi~'na.va~.mus
 
 ref:	Talentos são desperdiçados na juventude por falta de apoio ou conhecimento de gente profissional que não conseguem cooperar ou orientar o futuro brilhante deles.
 inf:	ta'le~.tus 'sa~w~ des.peR.Di'sa.dus na Zu.ve~'tu.Di puX 'faw.ta Di a'poj.u ow ko~.Je.si~'me~.tu Di 'Ze~.Ti pro.fi.si.o~'naw ki 'na~w~ ko~'sE.ge~j~ ko.o.pe'rar ow o.ri.e~'tar u fu'tu.ru bri'La~.Ti 'de.lis
@@ -2867,13 +2867,13 @@ ref:	Então eu acho que nós dois somos ex-seres sobrenaturais. Devemos começar
 corrigida:	e~'ta~w~ ew 'a.Su ki 'nOjs 'dojs 'so~.muz 'ejs 'se.ris so.bre~.na.tu'rajs, de've~.mus ko~.me'sar u~ 'gru.pu Di a'poj.u
 
 ref:	Ódio, racismo, intolerância, partidarismo cego, apoio a torturadores ladrão julgando ladrão estamos involuindo, quando vamos evoluir?
-inf:	'O.Dju, Ra'siz.mu, i~.to.le'ra~.sja, paX.Ti.da'riz.mu 'sE.gu, a'pOj.u a toX.tu.ra'do.ris la'dra~w~ Zuw'ga~.du la'dra~w~ es'ta~.muz i~.vo.lu'i~.du, 'kwa~.du 'va~.muz e.vo.lu'iX
+inf:	'O.Dju, Ra'siz.mu, i~.to.le'ra~.sja, paX.Ti.da'riz.mu 'sE.gu, a'poj.u a toX.tu.ra'do.ris la'dra~w~ Zuw'ga~.du la'dra~w~ es'ta~.muz i~.vo.lu'i~.du, 'kwa~.du 'va~.muz e.vo.lu'iX
 
 ref:	Quando Deus não está no negócio pouco importa o apoio da parte do homem. Não confie na força do seu braço.
 inf:	'kwa~.du 'dews 'na~w~ es'ta nu ne'gO.sju 'pow.ku i~'pOX.ta u a'poj.u da 'paX.Ti du 'o~.me~j~, 'na~w~ ko~'fi.i na 'foX.sa du 'sew 'bra.su
 
 ref:	Testemunho diariamente uma aguerrida batalha cerebral. Nem sempre sai vencedor mas apoio insistentemente o lado direito.
-inf:	tes.te~'mu~.Ju Di.a.ri.a~'me~.Ti u~.ma a.ge'Ri.da ba'ta.La se.re'braw, ne~j~ 'se~.pri 'saj ve~.se'doR majz a'poj.u i~.sis.te~.Ti~'me~.Ti u 'la.du Di'rej.tu
+inf:	tes.te~'mu~.Ju Di.a.ri.a~'me~.Ti u~.ma a.ge'Ri.da ba'ta.La se.re'braw, ne~j~ 'se~.pri 'saj ve~.se'doR majz a'pOj.u i~.sis.te~.Ti~'me~.Ti u 'la.du Di'rej.tu
 
 ref:	Podemos afirmar, sem receio de ferir a verdade, que a força do casamento existe unicamente no apoio dos costumes.
 inf:	po'de~.muz a.fiR'maX, se~j~ Re'sej.u Di fe'rir a veR'da.Di, ki a 'foX.sa du ka.za~'me~.tu e'zis.Ti u~.ni.ka~'me~.Ti nu a'poj.u dus kos'tu~.mis
@@ -2915,7 +2915,7 @@ ref:	Assim como as estrelas necessitam do sol para brilhar, as pessoas precisam 
 corrigida:	a'si~ 'ko~.mu az es'tre.las ne.se'si.ta~w~ du 'sOw 'pa.ra bri'LaX, as pe'so.as pre'si.za~w~ du a'poj.u i ka'ri~.Ju u~.ma daz 'ow.tras 'pa.ra e.vo.lu'ir i bri'LaR 'Zu~.tas
 
 ref:	Que nunca nos falte: vontade de fazer diferente, força para recomeçar, apoio para nossas decisões, motivos para seguir em frente.
-inf:	ki 'nu~.ka nus 'faw.Ti, vo~'ta.Di Di fa'zeR Di.fe're~.Ti, 'foX.sa 'pa.ra Re.ko~.me'saX, a'pOj.u 'pa.ra 'nO.sas de.si'zo~j~s, mo'Ti.vus 'pa.ra se'gir e~j~ 'fre~.Ti
+inf:	ki 'nu~.ka nus 'faw.Ti, vo~'ta.Di Di fa'zeR Di.fe're~.Ti, 'foX.sa 'pa.ra Re.ko~.me'saX, a'poj.u 'pa.ra 'nO.sas de.si'zo~j~s, mo'Ti.vus 'pa.ra se'gir e~j~ 'fre~.Ti
 
 ref:	Um mundo com mais amor, eu apoio.
 inf:	u~ 'mu~.du ko~ 'majz a~'moX, ew a'pOj.u
@@ -2978,19 +2978,19 @@ ref:	De um necessitado eu passei a ser necessário, de necessário pedi apoio a 
 inf:	Di u~ ne.se.si'ta.du ew pa'sej a 'seR ne.se'sa.rju, Di ne.se'sa.rju pe'Di a'poj.u a u~ mi.si.o~'na.rju puX'ke pe~'sej ki 'na.da i'ri.a a'le~j~ na 'mi~.Ja 'vi.da, se~j~ 'teX 'fej.tu pri~'mej.ru 'es.Ti se~'na.rju
 
 ref:	Não quero apoio moral, quero apoio financeiro !
-inf:	'na~w~ 'kE.ru a'pOj.u mo'raw, 'kE.ru a'poj.u fi~.na~'sej.ru
+inf:	'na~w~ 'kE.ru a'poj.u mo'raw, 'kE.ru a'poj.u fi~.na~'sej.ru
 
 ref:	Niguém sobe na vida sem apoio.
 corrigida:	ni'ge~j~ 'sO.bi na 'vi.da se~j~ a'poj.u
 
 ref:	Algums fazem ideias. Eu as critico. Quando não, as apoio...
-corrigida:	'aw.gu~s 'fa.ze~j~ i'dEj.as, ew as kri'Ti.ku, 'kwa~.du 'na~w~, az a'poj.u
+corrigida:	'aw.gu~s 'fa.ze~j~ i'dEj.as, ew as kri'Ti.ku, 'kwa~.du 'na~w~, az a'pOj.u
 
 ref:	Não use as pessoas como apoio, um dias elas vão embora e você cai!
-inf:	'na~w~ 'u.zi as pe'so.as 'ko~.mu a'pOj.u, u~ 'Di.az 'E.las 'va~w~ e~'bO.ra i vo'se 'kaj
+inf:	'na~w~ 'u.zi as pe'so.as 'ko~.mu a'poj.u, u~ 'Di.az 'E.las 'va~w~ e~'bO.ra i vo'se 'kaj
 
 ref:	Espere respeito e não apoio.
-inf:	es'pE.ri Res'pej.tu i 'na~w~ a'pOj.u
+inf:	es'pE.ri Res'pej.tu i 'na~w~ a'poj.u
 
 ref:	Faça sempre o bem e acumule riqueza de apoio durante toda vida.
 inf:	'fa.sa 'se~.pri u 'be~j~ i a.ku~'mu.li Ri'ke.za Di a'poj.u du'ra~.Ti 'to.da 'vi.da

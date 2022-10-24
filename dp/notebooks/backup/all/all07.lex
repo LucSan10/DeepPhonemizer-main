@@ -1,5 +1,5 @@
 ref:	Não quero apoio moral. Quero apoio financeiro.
-inf:	'na~w~ 'kE.ru a'pOj.u mo'raw, 'kE.ru a'poj.u fi~.na~'sej.ru
+inf:	'na~w~ 'kE.ru a'poj.u mo'raw, 'kE.ru a'poj.u fi~.na~'sej.ru
 
 ref:	Me destes forças quando nem eu acreditava em mim, me destes apoio mesmo com a ignorancia e o medo me tomava conta , me destes amor quando mais precisei .
 inf:	mi 'dEs.Tis 'foX.sas 'kwa~.du ne~j~ ew a.kre.Di'ta.va e~j~ 'mi~, mi 'dEs.Tiz a'poj.u 'mez.mu ko~ a i.gi.no.ra~'si.a i u 'me.du mi to~'ma.va 'ko~.ta, mi 'dEs.Tiz a~'moX 'kwa~.du 'majs pre.si'zej
@@ -53,10 +53,10 @@ ref:	O apoio que qualquer pessoa pode te dar é limitado. Quando se tratam de so
 corrigida:	u a'poj.u ki kwaw'kEX pe'so.a 'pO.Di Ti 'dar E li~.mi'ta.du, 'kwa~.du si 'tra.ta~w~ Di 'so~.Jus, E vo'se puR vo'se, 'lu.ta Di'a.rja, ow es'krE.vi, ow es'krE.vi
 
 ref:	Não apoio causas e nem lutas, apoio idéias.
-inf:	'na~w~ a'pOj.u 'kaw.zaz i ne~j~ 'lu.tas, a'poj.u i'dEj.as
+inf:	'na~w~ a'pOj.u 'kaw.zaz i ne~j~ 'lu.tas, a'pOj.u i'dEj.as
 
-ref:	Viver a paixão exige tolerancia pelas diferenças e apoio aos interesses em comum.
-inf:	vi'ver a paj'Sa~w~ e'zi.Zi to.le.ra~'si.a 'pe.las Di.fe're~.saz i a'pOj.u awz i~.te're.siz e~j~ ko~'mu~
+ref:	Viver a paixão exige tolerância pelas diferenças e apoio aos interesses em comum.
+inf:	vi'ver a paj'Sa~w~ e'zi.Zi to.le'ra~.sja 'pe.las Di.fe're~.saz i a'poj.u awz i~.te're.siz e~j~ ko~'mu~
 
 ref:	Apoio moral não coloca comida na mesa
 inf:	a'poj.u mo'raw 'na~w~ ko'lO.ka ko~'mi.da na 'me.za
@@ -65,7 +65,7 @@ ref:	Você é como meu travesseiro. Nos dias tristes me apóio nele e choro. A �
 corrigida:	vo'se E 'ko~.mu 'mew tra.ve'sej.ru, nus 'Di.as 'tris.Tis mi a'pOj.u 'ne.li i 'SO.ru, a 'u~.ni.ka Di.fe're~.sa E ki 'e.li es'ta 'pEX.tu, majz as 'mi~.Jas 'la.gri~.mas 'sE.ka~w~ nu tra.ve'sej.ru a'si~ 'ko~.mu 'sE.ka~w~ na 'su.a ko~.pa~'Ji.a
 
 ref:	Raio de luz nos meus dias cinzentos, apoio nos dias de fraqueza, mãos que protegem, afagam e me levanta, parceria forte, te amo amor.
-inf:	'Raj.u Di 'lujz nus 'mews 'Di.as si~'ze~.tus, a'pOj.u nus 'Di.as Di fra'ke.za, 'ma~w~s ki pro'tE.Ze~j~, a'fa.ga~w~ i mi le'va~.ta, paX.se'ri.a 'fOX.Ti, Ti 'a~.mu a~'moX
+inf:	'Raj.u Di 'lujz nus 'mews 'Di.as si~'ze~.tus, a'poj.u nus 'Di.as Di fra'ke.za, 'ma~w~s ki pro'tE.Ze~j~, a'fa.ga~w~ i mi le'va~.ta, paX.se'ri.a 'fOX.Ti, Ti 'a~.mu a~'moX
 
 ref:	Uma palavra amorosa é apoio, é suporte na dor, é bússola para o que está sem rumo. É remédio que sara feridas feitas às vezes por outras palavras.
 corrigida:	u~.ma pa'la.vra a~.mo'rO.za E a'poj.u, E su'pOX.Ti na 'doX, E 'bu.so.la 'pa.ra u ki es'ta se~j~ 'Ru~.mu, E Re~'mE.Dju ki 'sa.ra fe'ri.das 'fej.taz as 've.zis pur 'ow.tras pa'la.vras
@@ -98,10 +98,10 @@ ref:	Nem sempre temos todo o apoio do mundo , mas  apoiar-se em um e melhor do q
 inf:	ne~j~ 'se~.pri 'te~.mus 'to.du u a'poj.u du 'mu~.du, majz a.poj'aX si e~j~ u~ i me'LOR du ki 'na.da
 
 ref:	Um bom modelo constitui o mais forte apoio para as mudanças que se verificam nas pessoas. Nada é tão transmissível como um bom exemplo.
-inf:	u~ 'bo~ mo'de.lu ko~s.Ti'tuj u 'majs 'fOX.Ti a'pOj.u 'pa.ra as mu'da~.sas ki si ve.ri'fi.ka~w~ nas pe'so.as, 'na.da E 'ta~w~ tra~z.mi'si.vew 'ko~.mu u~ 'bo~ e'ze~.plu
+inf:	u~ 'bo~ mo'de.lu ko~s.Ti'tuj u 'majs 'fOX.Ti a'poj.u 'pa.ra as mu'da~.sas ki si ve.ri'fi.ka~w~ nas pe'so.as, 'na.da E 'ta~w~ tra~z.mi'si.vew 'ko~.mu u~ 'bo~ e'ze~.plu
 
 ref:	Cair e levantar, como se fosse fácil quando seu ultimo apoio lhe dar as costas para não te ajudar.
-inf:	ka'ir i le.va~'taX, 'ko~.mu si 'fo.si 'fa.siw 'kwa~.du 'sew uw'Ti~.mu a'pOj.u Li 'dar as 'kOs.tas 'pa.ra 'na~w~ Ti a.Zu'daX
+inf:	ka'ir i le.va~'taX, 'ko~.mu si 'fo.si 'fa.siw 'kwa~.du 'sew uw'Ti~.mu a'poj.u Li 'dar as 'kOs.tas 'pa.ra 'na~w~ Ti a.Zu'daX
 
 ref:	Quando eu tava triste você veio me ajudar, Dando força e muito apoio pra eu poder me levantar.
 inf:	'kwa~.du ew 'ta.va 'tris.Ti vo'se 'vej.u mi a.Zu'daX, 'da~.du 'foX.sa i 'mu~j~.tu a'poj.u pra ew po'deR mi le.va~'taX
@@ -113,7 +113,7 @@ ref:	Dar apoio não é balançar a cabeça afirmativamente. Dar apoio é estende
 corrigida:	'dar a'poj.u 'na~w~ E ba.la~'sar a ka'be.sa a.fiR.ma.Ti.va~'me~.Ti, 'dar a'poj.u E es.te~'der a 'ma~w~
 
 ref:	Estou do lado do coração  Apoio a grande massa, Os que são humildes de espirito. Me importo com aqueles Que com um simples posicionamento, Diz subliminarmente Que ama o próximo.
-inf:	es'tow du 'la.du du ko.ra'sa~w~ a'poj.u a 'gra~.Di 'ma.sa, us ki 'sa~w~ u~'miw.Dis Di es.pi'ri.tu, mi i~'pOX.tu ko~ a'ke.lis ki ko~ u~ 'si~.plis po.zi.si.o~.na~'me~.tu, 'Dis su.bli~.mi~.naR'me~.Ti ki 'a~.ma u 'prO.si~.mu
+inf:	es'tow du 'la.du du ko.ra'sa~w~ a'pOj.u a 'gra~.Di 'ma.sa, us ki 'sa~w~ u~'miw.Dis Di es.pi'ri.tu, mi i~'pOX.tu ko~ a'ke.lis ki ko~ u~ 'si~.plis po.zi.si.o~.na~'me~.tu, 'Dis su.bli~.mi~.naR'me~.Ti ki 'a~.ma u 'prO.si~.mu
 
 ref:	Não existe meia vida, meia paixão, amor  não existe meio gostar ou meio apoio, ou ainda meia amizade, a isenção e a omissão são covardias da alma.
 inf:	'na~w~ e'zis.Ti 'mej.a 'vi.da, 'mej.a paj'Sa~w~, a~'moR 'na~w~ e'zis.Ti 'mej.u gos'tar ow 'mej.u a'poj.u, ow a'i~.da 'mej.a a~.mi'za.Di, a i.ze~'sa~w~ i a o~.mi'sa~w~ 'sa~w~ ko.vaR'Di.as da 'aw.ma
@@ -155,7 +155,7 @@ ref:	O pregador que fala a linguagem do povo, conquista sua atenção, admiraç�
 inf:	u pre.ga'doX ki 'fa.la a li~'gwa.Ze~j~ du 'po.vu, ko~'kis.ta 'su.a a.te~'sa~w~, a.Di~.mi.ra'sa~w~ i a'poj.u
 
 ref:	Apoio incondicionalmente toda forma de expressão e de protestos, mas abomino terminantemente a violência e o vandalismo.
-inf:	a'poj.u i~.ko~.Di.si.o~.naw'me~.Ti 'to.da 'fOR.ma Di es.pre'sa~w~ i Di pro'tEs.tus, majz a.bo~'mi~.nu teR.mi~.na~.Ti~'me~.Ti a vi.o'le~.sja i u va~.da'liz.mu
+inf:	a'pOj.u i~.ko~.Di.si.o~.naw'me~.Ti 'to.da 'fOR.ma Di es.pre'sa~w~ i Di pro'tEs.tus, majz a.bo~'mi~.nu teR.mi~.na~.Ti~'me~.Ti a vi.o'le~.sja i u va~.da'liz.mu
 
 ref:	Você somente terá apoio ou incentivo daqueles que compreenderem a tua luta.
 inf:	vo'se sO~'me~.Ti te'ra a'poj.u ow i~.se~'Ti.vu da'ke.lis ki ko~.pre.e~'de.re~j~ a 'tu.a 'lu.ta
@@ -211,8 +211,8 @@ inf:	es'te.Za 'se~.pri aw 'la.du du 'sew li.de'ra.du seR'vi~.du Di a'poj.u, a'tr
 ref:	Lembra de mim ? Sou aquele que te dava apoio e te protegia quando todos te julgavam.
 inf:	'le~.bra Di 'mi~, 'sow a'ke.li ki Ti 'da.va a'poj.u i Ti pro.te'Zi.a 'kwa~.du 'to.dus Ti Zuw'ga.va~w~
 
-ref:	Apoio moral ajuda a lidar com o apoio fnanceiro e não o contrário
-inf:	a'poj.u mo'raw a'Zu.da a li'daX ko~ u a'poj.u fna~'sej.ru i 'na~w~ u ko~'tra.rju
+ref:	Apoio moral ajuda a lidar com o apoio financeiro e não o contrário
+inf:	a'poj.u mo'raw a'Zu.da a li'daX ko~ u a'poj.u fi~.na~'sej.ru i 'na~w~ u ko~'tra.rju
 
 ref:	Em meio as tempestades boas amizades nos cercam de apoio amoroso e oração.
 inf:	e~j~ 'mej.u as te~.pes'ta.Dis 'bo.az a~.mi'za.Dis nus 'sEX.ka~w~ Di a'poj.u a~.mo'ro.zu i o.ra'sa~w~
