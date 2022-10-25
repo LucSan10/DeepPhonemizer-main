@@ -296,7 +296,7 @@ ref:	The Killers
 corrigida:	de 'ki.leXs
 
 ref:	The New York Times
-corrigida:	de new joX.k 'Ti~.mis
+corrigida:	de 'niw 'jOX.ki 'Taj~.mis
 
 ref:	The Wall Street Journal
 corrigida:	de 'wOw 'stri.Ti ZoR'naw

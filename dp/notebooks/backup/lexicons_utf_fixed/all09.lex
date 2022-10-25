@@ -692,7 +692,7 @@ ref:	Arme-se com a arma da oração, e terá mais força no combate diário.
 corrigida:	'aR.mi si ko~ a 'aR.ma da o.ra'sa~w~, i te'ra 'majs 'foX.sa nu ko~'ba.Ti Di'a.rju
 
 ref:	Ainda que a minha mente e o meu corpo enfraqueçam, Deus é a minha força, Ele é tudo o que eu sempre preciso.
-corrigida:	a'i~.da ki a 'mi~.Ja 'me~.Ti i u 'mew 'koX.pu e~.fra'kE.sa~w~, 'dewz E a 'mi~.Ja 'foX.sa, 'e.li E 'tu.du u ki ew 'se~.pri pre'si.zu
+corrigida:	a'i~.da ki a 'mi~.Ja 'me~.Ti i u 'mew 'koX.pu e~.fra'ke.sa~w~, 'dewz E a 'mi~.Ja 'foX.sa, 'e.li E 'tu.du u ki ew 'se~.pri pre'si.zu
 
 ref:	Atitudes são como um bumerangue. Temos que medir a força com que o jogamos; Pois ao voltar ele pode cortar nossos dedos fora.
 corrigida:	a.Ti'tu.Dis 'sa~w~ 'ko~.mu u~ bu~.me'ra~.gi, 'te~.mus ki me'Dir a 'foX.sa ko~ ki u Zo'ga~.mus, 'pojz aw vow'tar 'e.li 'pO.Di koX'taR 'nO.sus 'de.dus 'fO.ra

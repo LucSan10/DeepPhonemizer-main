@@ -1619,7 +1619,7 @@ ref:	É preciso sobreviver para atingir a idade da realização, para ser feliz.
 corrigida:	E pre'si.zu so.bre.vi'veX 'pa.ra a.Ti~'Zir a i'da.Di da Re.a.li.za'sa~w~, 'pa.ra 'seX fe'lis, 'na~w~ 'va.li sa'ir 'a~.Tis du 'Zo.gu teR.mi~'naX
 
 ref:	Ando tão só. Ando tão triste que às vezes me jogo na cama, meto a cara fundo no travesseiro e quase começo a chorar. Claro que não consigo. Sempre lembro de você nessas horas.
-corrigida:	'a~.du 'ta~w~ 'sO, 'a~.du 'ta~w~ 'tris.Ti ki as 've.zis mi 'ZO.gu na 'ka~.ma, 'me.tu a 'ka.ra 'fu~.du nu tra.ve'sej.ru i 'kwa.zi ko~'me.su a So'raX, 'kla.ru ki 'na~w~ ko~'si.gu, 'se~.pri 'le~.bru Di vo'se 'nE.saz 'O.ras
+corrigida:	'a~.du 'ta~w~ 'sO, 'a~.du 'ta~w~ 'tris.Ti ki as 've.zis mi 'ZO.gu na 'ka~.ma, 'me.tu a 'ka.ra 'fu~.du nu tra.ve'sej.ru i 'kwa.zi ko~'mE.su a So'raX, 'kla.ru ki 'na~w~ ko~'si.gu, 'se~.pri 'le~.bru Di vo'se 'nE.saz 'O.ras
 
 ref:	Movido a  No teu umbigo  bebo o suco  afrodisíaco, combustível  que move e segura  o jogo de cintura.
 corrigida:	mo'vi.du a nu 'tew u~'bi.gu 'be.bu u 'su.ku a.fro.Di'zi.a.ku, ko~.bus'Ti.vew ki 'mO.vi i se'gu.ra u 'Zo.gu Di si~'tu.ra

@@ -521,7 +521,7 @@ ref:	Além da preciosa bibliografia existente sobre o assunto, usei algumas font
 corrigida:	a'le~j~ da pre.si'O.za bi.bli.o.gra'fi.a e.zis'te~.Ti 'so.bri u a'su~.tu, u'zej aw'gu~.mas 'fo~.Tis Di pes'ki.za 'na~w~ ko~.ve~.si.o~'najs, a'i~.da 'na~w~ Re.ko~.Je'si.das 'pe.la is.to.ri.o.gra'fi.a o.fi.si'aw, majs ki si Re.ve'la.ra~w~ Di es'tre~.ma u.Ti.li'da.Di 'pe.la fa.si.li'da.Di Di a'sE.su i 'pe.lu vo'lu~.mi Di i~.foR.ma'so~j~s ki o.fe'rE.se~j~
 
 ref:	São todas fontes digitais, disponíveis na Internet, a rede mundial de computadores.
-corrigida:	'sa~w~ 'to.das 'fo~.Tis Di.Zi'tajs, Dis.po~'ni.vejs na i~'teR.nE.Ti, a 'Re.Di mu~.Di'aw Di ko~.pu.ta'do.ris
+corrigida:	'sa~w~ 'to.das 'fo~.Tis Di.Zi'tajs, Dis.po~'ni.vejs na i~.teR'nE.Ti, a 'Re.Di mu~.Di'aw Di ko~.pu.ta'do.ris
 
 ref:	É o caso da Wikipedia, enciclopédia on-line produzida em regime de mutirão por internautas do mundo inteiro.
 corrigida:	E u 'ka.zu da wi.ki'pE.Di.a, e~.si.klo'pE.Dja o~w~'laj~.ni pro.du'zi.da e~j~ Re'Zi~.mi Di mu.Ti'ra~w~ pur i~.teR'naw.tas du 'mu~.du i~'tej.ru
@@ -1415,7 +1415,7 @@ ref:	Entendi.
 corrigida:	e~.te~'Di
 
 ref:	Só se você fizer parte do mundo fora de mim, regido pela lei.
-corrigida:	'sO si vo'se fi'zeX 'paX.Ti du 'mu~.du 'fO.ra Di 'mi~, Re'Zi.du 'pe.la 'lej
+corrigida:	'sO si vo'se fi'zEX 'paX.Ti du 'mu~.du 'fO.ra Di 'mi~, Re'Zi.du 'pe.la 'lej
 
 ref:	Posso tocar seus olhos e curá-los só por esta noite?
 corrigida:	'pO.su to'kaX 'sewz 'O.Luz i ku'ra lus 'sO pur 'Es.ta 'noj.Ti
@@ -1694,7 +1694,7 @@ ref:	Mil desculpas eu peço por não saber dizer adeus direito. Bem que tentamos
 corrigida:	'miw des'kuw.paz ew 'pE.su puR 'na~w~ sa'beR Di'zer a'dews Di'rej.tu, 'be~j~ ki te~'ta~.mus, fi'ze~.mus 'pla~.nus, majs 'nO.suz i.de'ajs 'na~w~ 'sa~w~ 'majz us 'mez.mus
 
 ref:	Sinto que progrido na medida em que começo a não entender nada de nada.
-corrigida:	'si~.tu ki pro'gri.du na me'Di.da e~j~ ki ko~'me.su a 'na~w~ e~.te~'deR 'na.da Di 'na.da
+corrigida:	'si~.tu ki pro'gri.du na me'Di.da e~j~ ki ko~'mE.su a 'na~w~ e~.te~'deR 'na.da Di 'na.da
 
 ref:	Combinar rock com baião foi a fórmula certa pra chamar a atenção. Mas foi só o começo.
 corrigida:	ko~.bi~'na'RO.ki ko~ baj'a~w~ 'foj a 'fOR.mu.la 'sEX.ta pra Sa~'mar a a.te~'sa~w~, majs 'foj 'sO u ko~'me.su

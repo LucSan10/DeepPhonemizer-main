@@ -242,7 +242,7 @@ ref:	de acordo com a lei de Deus, eu sou um criminoso de alta perigosidade. Porq
 inf:	Di a'koR.du ko~ a 'lej Di 'dews, ew 'sow u~ kri~.mi~'no.zu Di 'aw.ta pe.ri.go.zi'da.Di, puX'ke ew mi 've.Zu o.po.zi'sa~w~ a 'to.duz us 'sews ma~.da~'me~.tus
 
 ref:	Sem a espada os acordos são só palavras.
-inf:	se~j~ a es'pa.da uz a'kOR.dus 'sa~w~ 'sO pa'la.vras
+inf:	se~j~ a es'pa.da uz a'koR.dus 'sa~w~ 'sO pa'la.vras
 
 ref:	Todos são sábios, de acordo com seus próprios conhecimentos e perspicácia.
 inf:	'to.dus 'sa~w~ 'sa.bjus, Di a'koR.du ko~ 'sews 'prO.prjus ko~.Je.si~'me~.tuz i peXs.pi'ka.sja
@@ -485,7 +485,7 @@ ref:	Espere todos estarem de acordo com você e você perderá a chance de um gr
 inf:	es'pE.ri 'to.duz es'ta.re~j~ Di a'koR.du ko~ vo'se i vo'se peR.de'ra a 'Sa~.si Di u~ 'gra~.Di 'fej.tu, a.kre'Di.Ti es'taX ko'RE.tu puX 'to.duz es'ta.re~j~ Di a'koR.du ko~ vo'se i si a.fu~.da'ra nu e~'ga~.nu
 
 ref:	Nosso mundo: As convicções são distintas; as ideologias necessárias; as atitudes pensadas; os acordos lucrativos, mas as diferenças parecem nunca serem aceitas.
-inf:	'nO.su 'mu~.du, as ko~.vik'so~j~s 'sa~w~ Dis'Ti~.tas, az i.de.o.lo'Zi.as ne.se'sa.rjas, az a.Ti'tu.Dis pe~'sa.das, uz a'kOR.dus lu.kra'Ti.vus, majz as Di.fe're~.sas pa'rE.se~j~ 'nu~.ka 'se.re~j~ a'sej.tas
+inf:	'nO.su 'mu~.du, as ko~.vik'so~j~s 'sa~w~ Dis'Ti~.tas, az i.de.o.lo'Zi.as ne.se'sa.rjas, az a.Ti'tu.Dis pe~'sa.das, uz a'koR.dus lu.kra'Ti.vus, majz as Di.fe're~.sas pa'rE.se~j~ 'nu~.ka 'se.re~j~ a'sej.tas
 
 ref:	Cérebro e coração, já está na hora de vocês entrarem em um acordo.
 inf:	'sE.re.bru i ko.ra'sa~w~, 'Za es'ta na 'O.ra Di vo'sejz e~'tra.re~j~ e~j~ u~ a'koR.du
@@ -500,7 +500,7 @@ ref:	Incline-se demais as tentações e vaidades e o destino te mostrará o real
 inf:	i~'kli~.ni si de~'majz as te~.ta'so~j~z i vaj'da.Diz i u des'Ti~.nu Ti mos.tra'ra u Re'aw Re.zuw'ta.du
 
 ref:	Define-se espiritualmente uma aliança firme, promissora e eterna com Deus aquela à que uma das partes não quebre os respectivos acordos sancionados com fidelidade, integridade e respeito
-inf:	de'fi~.ni si es.pi.ri.tu.aw'me~.Ti u~.ma a.li'a~.sa 'fiR.mi, pro~.mi'so.ra i e'tER.na ko~ 'dewz a'kE.la a ki u~.ma das 'paX.Tis 'na~w~ 'kE.bri us Res.pek'Ti.vuz a'kOR.dus sa~.si.o~'na.dus ko~ fi.de.li'da.Di, i~.te.gri'da.Di i Res'pej.tu
+inf:	de'fi~.ni si es.pi.ri.tu.aw'me~.Ti u~.ma a.li'a~.sa 'fiR.mi, pro~.mi'so.ra i e'tER.na ko~ 'dewz a'kE.la a ki u~.ma das 'paX.Tis 'na~w~ 'kE.bri us Res.pek'Ti.vuz a'koR.dus sa~.si.o~'na.dus ko~ fi.de.li'da.Di, i~.te.gri'da.Di i Res'pej.tu
 
 ref:	O HOJE, é sempre o tempo certo para começar ou recomeçar. Faça um acordo com a sua coragem e vá.
 corrigida:	u 'o.Zi, E 'se~.pri u 'te~.pu 'sEX.tu 'pa.ra ko~.me'sar ow Re.ko~.me'saX, 'fa.sa u~ a'koR.du ko~ a 'su.a ko'ra.Ze~j~ i 'va
@@ -584,7 +584,7 @@ ref:	Muitas pessoas acreditam que existe no sistema de coordenadas do mundo um p
 inf:	'mu~j~.tas pe'so.az a.kre'Di.ta~w~ ki e'zis.Ti nu sis'te~.ma Di ko.oR.de~'na.das du 'mu~.du u~ 'po~.tu peX'fej.tu 'o~.Di 'te~.pu i es'pa.su 'Se.ga~w~ a u~ a'koR.du
 
 ref:	Negociar bem não significa ganhar sempre, mas chegar a acordos mutuamente vantajosos.
-inf:	ne.go.si'aR 'be~j~ 'na~w~ si.gi.ni'fi.ka ga~'JaX 'se~.pri, majs Se'gar a a'kOR.dus mu.tu.a~'me~.Ti va~.ta'ZO.zus
+inf:	ne.go.si'aR 'be~j~ 'na~w~ si.gi.ni'fi.ka ga~'JaX 'se~.pri, majs Se'gar a a'koR.dus mu.tu.a~'me~.Ti va~.ta'ZO.zus
 
 ref:	Nenhum acordo vale a sua Alma, honra e dignidade não tem preço.
 inf:	ne~'Ju~ a'koR.du 'va.li a 'su.a 'aw.ma, 'o~.Ra i Di.gi.ni'da.Di 'na~w~ te~j~ 'pre.su
@@ -644,7 +644,7 @@ ref:	Eu quando Rio transbordo e acordo para um continente chamado eu
 corrigida:	ew 'kwa~.du 'Ri.u tra~z'bOR.du i a'kOR.du 'pa.ra u~ ko~.Ti~'ne~.Ti Sa~'ma.du ew
 
 ref:	Faça primeiro parceria com Deus quando envolver relacionamentos com terceiros, a fim de que ambos participem e consultem os acordos superiores.
-inf:	'fa.sa pri~'mej.ru paX.se'ri.a ko~ 'dews 'kwa~.du e~.vow've.Re.la.si.o~.na~'me~.tus ko~ teX'sej.rus, a 'fi~ Di ki 'a~.bus paX.Ti'si.pe~j~ i ko~'suw.te~j~ uz a'kOR.dus su.pe.ri'o.ris
+inf:	'fa.sa pri~'mej.ru paX.se'ri.a ko~ 'dews 'kwa~.du e~.vow've.Re.la.si.o~.na~'me~.tus ko~ teX'sej.rus, a 'fi~ Di ki 'a~.bus paX.Ti'si.pe~j~ i ko~'suw.te~j~ uz a'koR.dus su.pe.ri'o.ris
 
 ref:	LHANEZA  Às saudações, cada Sicrano as corresponde de acordo com a sua essência, estado emocional e empatia.
 inf:	La~.ne'za.as saw.da'so~j~s, 'ka.da si'kra~.nu as ko.Res'po~.Di Di a'koR.du ko~ a 'su.a e'se~.sja, es'ta.du e~.mo.si.o~'naw i e~.pa'Ti.a
@@ -662,10 +662,10 @@ ref:	As melhores frases são aquelas que vão ao encontro dos nossos sentimentos
 inf:	as me'LO.ris 'fra.zis 'sa~w~ a'kE.las ki 'va~w~ aw e~'ko~.tru dus 'nO.sus se~.Ti~'me~.tus
 
 ref:	Antes de se combinar alguma coisa com alguém já há acordos pré-estabelecidos.
-inf:	'a~.Tis Di si ko~.bi~'nar aw'gu~.ma 'koj.za ko~ aw'ge~j~ 'Za 'a a'kOR.dus
+inf:	'a~.Tis Di si ko~.bi~'nar aw'gu~.ma 'koj.za ko~ aw'ge~j~ 'Za 'a a'koR.dus
 
 ref:	Com as pessoas que você ama, cumpra os acordos. E com as pessoas que você odeia, nem acordos faça.
-inf:	ko~ as pe'so.as ki vo'se 'a~.ma, 'ku~.pra uz a'kOR.dus, i ko~ as pe'so.as ki vo'se o'dej.a, ne~j~ a'kOR.dus 'fa.sa
+inf:	ko~ as pe'so.as ki vo'se 'a~.ma, 'ku~.pra uz a'koR.dus, i ko~ as pe'so.as ki vo'se o'dej.a, ne~j~ a'koR.dus 'fa.sa
 
 ref:	De cada um, de acordo com suas possibilidades; a cada um, de acordo com suas necessidades.
 inf:	Di 'ka.da 'u~, Di a'koR.du ko~ 'su.as po.si.bi.li'da.Dis, a 'ka.da 'u~, Di a'koR.du ko~ 'su.as ne.se.si'da.Dis

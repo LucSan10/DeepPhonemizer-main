@@ -206,7 +206,7 @@ ref:	Procurou uma base segura, mas finalmente só conseguiu responder com os den
 corrigida:	pro.ku'row u~.ma 'ba.zi se'gu.ra, majs fi~.naw'me~.Ti 'sO ko~.se'giw Res.po~'deX ko~ us 'de~.Tis tri~'ka.dus, taw'vejs puX'ke 'nu~.ka ko~.Je'si ni~'ge~j~ a 'ke~j~ pu'dE.si Re.aw'me~.Ti Sa~'maR Di pa'paj
 
 ref:	Diante disso, ela pousou a tigela que estava aninhada em seu braço e, deixando dentro a colher de pau, virou-se para Mack com olhos gentis.
-corrigida:	Di'a~.Ti 'Di.su, 'E.la pow'zow a Ti'ZE.la ki es'ta.va a~.ni~'Ja.da e~j~ 'sew 'bra.su i, dej'Sa~.du 'de~.tru a ko'LeR Di 'paw, vi'row si 'pa.ra 'mE.ki ko~ 'O.Lus Ze~'Tis
+corrigida:	Di'a~.Ti 'Di.su, 'E.la pow'zow a Ti'ZE.la ki es'ta.va a~.ni~'Ja.da e~j~ 'sew 'bra.su i, dej'Sa~.du 'de~.tru a ko'LER Di 'paw, vi'row si 'pa.ra 'mE.ki ko~ 'O.Lus Ze~'Tis
 
 ref:	Não precisava dizer coisa alguma.
 corrigida:	'na~w~ pre.si'za.va Di'zeX 'koj.za aw'gu~.ma

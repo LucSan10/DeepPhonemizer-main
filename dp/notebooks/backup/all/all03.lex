@@ -848,7 +848,7 @@ ref:	Eu tenho a ver com ser.
 inf:	ew 'te~.Ju a 'veX ko~ 'seX
 
 ref:	À medida que você cresce no relacionamento comigo, o que fizer simplesmente refletirá quem você realmente é.
-inf:	a me'Di.da ki vo'se 'krE.si nu Re.la.si.o~.na~'me~.tu ko~'mi.gu, u ki fi'zeX si~.pliz'me~.Ti Re.fle.Ti'ra 'ke~j~ vo'se Re.aw'me~.Ti E
+inf:	a me'Di.da ki vo'se 'krE.si nu Re.la.si.o~.na~'me~.tu ko~'mi.gu, u ki fi'zEX si~.pliz'me~.Ti Re.fle.Ti'ra 'ke~j~ vo'se Re.aw'me~.Ti E
 
 ref:	Mas você veio na forma de homem. Isso não significa alguma coisa?
 inf:	majs vo'se 'vej.u na 'fOR.ma Di 'o~.me~j~, 'i.su 'na~w~ si.gi.ni'fi.ka aw'gu~.ma 'koj.za
@@ -2776,8 +2776,8 @@ inf:	se~j~ kwaw'kEX ko~s.tra~.Zi~'me~.tu, So'row nu 'o~.bru da'ke.li 'o~.me~j~ k
 ref:	A cada soluço, sua tensão ia se esvaindo, substituída por um profundo sentimento de alívio.
 inf:	a 'ka.da so'lu.su, 'su.a te~'sa~w~ 'i.a si ez.va'i~.du, subs.Ti.tu'i.da pur u~ pro'fu~.du se~.Ti~'me~.tu Di a'li.vju
 
-ref:	Por fim respirou fundo e soltou o ar enquanto levantava a cabeca.
-inf:	puX 'fi~ Res.pi'row 'fu~.du i sow'tow u 'ar e~'kwa~.tu le.va~'ta.va a ka'bE.ka
+ref:	Por fim respirou fundo e soltou o ar enquanto levantava a cabeça.
+inf:	puX 'fi~ Res.pi'row 'fu~.du i sow'tow u 'ar e~'kwa~.tu le.va~'ta.va a ka'be.sa
 
 ref:	Então, sem dizer mais nenhuma palavra, levantou-se, pendurou os sapatos no ombro e simplesmente entrou na água.
 inf:	e~'ta~w~, se~j~ Di'zeR 'majs ne~'Ju~.ma pa'la.vra, le.va~'tow si, pe~.du'row us sa'pa.tus nu 'o~.bru i si~.pliz'me~.Ti e~'trow na 'a.gwa

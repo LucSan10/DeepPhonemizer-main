@@ -545,7 +545,7 @@ ref:	É tempo de escolher o que queremos plantar, É tempo de plantar o que quer
 corrigida:	E 'te~.pu Di es.ko'Ler u ki ke're~.mus pla~'taX, E 'te~.pu Di pla~'tar u ki ke're~.mus ko'LeX, majs, se~j~ es.ko'LeX, 'na~w~ 'a u ki pla~'taX, i, se~j~ pla~'taX, 'na~w~ 'a u ki ko'LeX
 
 ref:	Em briga de marido e mulher a Lei Maria da Penha coloca a colher. e resolve
-corrigida:	e~j~ 'bri.ga Di ma'ri.du i mu'LEr a 'lej ma'ri.a da 'pe~.Ja ko'lO.ka a ko'LeX, i Re'zOw.vi
+corrigida:	e~j~ 'bri.ga Di ma'ri.du i mu'LEr a 'lej ma'ri.a da 'pe~.Ja ko'lO.ka a ko'LEX, i Re'zOw.vi
 
 ref:	Mas como é bom ouvir bom-dia todo dia, Sentir as mão e semear, plantar, colher. Dormir ao som de uma viola caipira, Pisar o barro, dar aos pés o dom de ter!
 corrigida:	majs 'ko~.mu E 'bo~ 'ow.viR 'bo~ 'Di.a 'to.du 'Di.a, se~'Tir as 'ma~w~ i se~.me'aX, pla~'taX, ko'LeX, doR'mir aw 'so~ Di u~.ma vi'O.la kaj'pi.ra, pi'zar u 'ba.Ru, 'dar aws 'pEjs u 'do~w~ Di 'teX
@@ -605,7 +605,7 @@ ref:	Ah se eu pudesse agora ir a semana passada. Plantaria tudo que não plantei
 corrigida:	'a si ew pu'dE.si a'gO.ra 'ir a se~'ma~.na pa'sa.da, pla~.ta'ri.a 'tu.du ki 'na~w~ pla~'tej 'pa.ra po'deX ko'Ler 'o.Zi, u ki ko~ seX'te.za i'rej ne.se.si'taR na se~'ma~.na ki 've~j~
 
 ref:	Você viu quem chegou? Quem? Setembro! Hum! Tempo de flores. É. Vou te colher! Me colher? É. Vou te colher pra plantar no coração!
-corrigida:	vo'se 'viw 'ke~j~ Se'gow, 'ke~j~, se'te~.bru, 'Ru~, 'te~.pu Di 'flo.ris, E, 'vow Ti ko'LeX, mi ko'LEX, E, 'vow Ti ko'LeX pra pla~'taR nu ko.ra'sa~w~
+corrigida:	vo'se 'viw 'ke~j~ Se'gow, 'ke~j~, se'te~.bru, 'Ru~, 'te~.pu Di 'flo.ris, E, 'vow Ti ko'LeX, mi ko'LeX, E, 'vow Ti ko'LeX pra pla~'taR nu ko.ra'sa~w~
 
 ref:	Sigo cultivando afetos. para colher amor!
 corrigida:	'si.gu kuw.Ti'va~.du a'fE.tus, 'pa.ra ko'Ler a~'moX

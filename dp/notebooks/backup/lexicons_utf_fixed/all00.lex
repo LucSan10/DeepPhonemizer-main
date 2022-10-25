@@ -893,7 +893,7 @@ ref:	Também sugeriu que D. Pedro, o filho mais velho de D. João, se casasse co
 corrigida:	ta~'be~j~ su.Ze'riw ki 'do~w~ 'pe.dru, u 'fi.Lu 'majs 'vE.Lu Di 'do~w~ Zo'a~w~, si ka'za.si ko~ aw'gu~.ma pri~'se.za da fa~'mi.lja Di na.po.le'a~w~
 
 ref:	No dia primeiro de novembro, o correio de Paris chegou a Lisboa com mais um recado assustador de Napoleão: Se Portugal não fizer o que quero, a Casa de Bragança não reinará mais na Europa dentro de dois meses.
-corrigida:	nu 'Di.a pri~'mej.ru Di no've~.bru, u ko'Rej.u Di pa'ri.Se'gow a liz'bo.a ko~ 'majz u~ Re'ka.du a.sus.ta'doR Di na.po.le'a~w~, si poX.tu'gaw 'na~w~ fi'zer u ki 'kE.ru, a 'ka.za Di bra'ga~.sa 'na~w~ Rej~.na'ra 'majs na ew'rO.pa 'de~.tru Di 'dojs 'me.zis
+corrigida:	nu 'Di.a pri~'mej.ru Di no've~.bru, u ko'Rej.u Di pa'ri.Se'gow a liz'bo.a ko~ 'majz u~ Re'ka.du a.sus.ta'doR Di na.po.le'a~w~, si poX.tu'gaw 'na~w~ fi'zEr u ki 'kE.ru, a 'ka.za Di bra'ga~.sa 'na~w~ Rej~.na'ra 'majs na ew'rO.pa 'de~.tru Di 'dojs 'me.zis
 
 ref:	A essa altura, o exército francês já estava cruzando os Pirineus, a cadeia montanhosa na fronteira da França com a Espanha, em direção a Portugal.
 corrigida:	a 'E.sa aw'tu.ra, u e'zEX.si.tu fra~'sej'Za es'ta.va kru'za~.du us pi.ri~'news, a ka'dej.a mo~.ta~'JO.za na fro~'tej.ra da 'fra~.sa ko~ a es'pa~.Ja, e~j~ Di.re'sa~w~ a poX.tu'gaw

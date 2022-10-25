@@ -1948,8 +1948,8 @@ corrigida:	a'ke.li ki ko~.me'tew u~ 'e.Ru i 'na~w~ u ko.Ri'Ziw es'ta ko~.me'te~.
 ref:	Somos um erro perfeito de Deus In: Amor proibido
 corrigida:	'so~.muz u~ 'e.Ru peX'fej.tu Di 'dewz i~, a~'moX proj'bi.du
 
-ref:	Você pode tentar mudar sua vida, mais depois você se pergunta que erro voê cometeu, ai eu te digo o seu erro foi tentar consertar sua vida porque só Deus tem o poder de mudar sua vida!
-corrigida:	vo'se 'pO.Di te~'taR mu'daX 'su.a 'vi.da, 'majs de'pojs vo'se si peR'gu~.ta ki 'e.Ru vo'e ko~.me'tew, 'aj ew Ti 'Di.gu u 'sew 'e.Ru 'foj te~'taX ko~.seX'taX 'su.a 'vi.da puX'ke 'sO 'dews te~j~ u po'deR Di mu'daX 'su.a 'vi.da
+ref:	Você pode tentar mudar sua vida, mais depois você se pergunta que erro você cometeu, ai eu te digo o seu erro foi tentar consertar sua vida porque só Deus tem o poder de mudar sua vida!
+corrigida:	vo'se 'pO.Di te~'taR mu'daX 'su.a 'vi.da, 'majs de'pojs vo'se si peR'gu~.ta ki 'e.Ru vo'se ko~.me'tew, 'aj ew Ti 'Di.gu u 'sew 'e.Ru 'foj te~'taX ko~.seX'taX 'su.a 'vi.da puX'ke 'sO 'dews te~j~ u po'deR Di mu'daX 'su.a 'vi.da
 
 ref:	Ter te amado pode ter sido o meu pior erro, mas te confesso que  gostei de ter errado
 corrigida:	'teX Ti a~'ma.du 'pO.Di 'teX 'si.du u 'mew pi'Or 'e.Ru, majs Ti ko~'fE.su ki gos'tej Di 'ter e'Ra.du

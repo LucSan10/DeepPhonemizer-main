@@ -1010,7 +1010,7 @@ ref:	Assuma os riscos da honestidade.
 inf:	a'su~.ma us 'Ris.kus da o~.nes.Ti'da.Di
 
 ref:	Quando fizer outra besteira, peça perdão de novo.
-inf:	'kwa~.du fi'zer 'ow.tra bes'tej.ra, 'pE.sa peR'da~w~ Di 'no.vu
+inf:	'kwa~.du fi'zEr 'ow.tra bes'tej.ra, 'pE.sa peR'da~w~ Di 'no.vu
 
 ref:	É um processo, querido, e a vida é suficientemente real sem precisar ser obscurecida por mentiras.
 corrigida:	E u~ pro'sE.su, ke'ri.du, i a 'vi.da E su.fi.si.e~.Ti~'me~.Ti Re'aw se~j~ pre.si'zaX 'ser obs.ku.re'si.da puR me~'Ti.ras
@@ -1469,7 +1469,7 @@ ref:	O fato de você saber ou não saber não tem nada a ver com o fato de eu es
 inf:	u 'fa.tu Di vo'se sa'ber ow 'na~w~ sa'beR 'na~w~ te~j~ 'na.da a 'veX ko~ u 'fa.tu Di ew es'tar a'ki
 
 ref:	Algumas vezes quero que perceba especialmente a minha presença.
-inf:	aw'gu~.mas 've.zis 'kE.ru ki peX'sE.ba es.pe.si.aw'me~.Ti a 'mi~.Ja pre'ze~.sa
+inf:	aw'gu~.mas 've.zis 'kE.ru ki peX'se.ba es.pe.si.aw'me~.Ti a 'mi~.Ja pre'ze~.sa
 
 ref:	Mack assentiu, entendendo, e virou a canoa para a margem distante onde ficava a cabana.
 inf:	'mE.ki a.se~'Tiw, e~.te~'de~.du, i vi'row a ka~'no.a 'pa.ra a 'maR.Ze~j~ Dis'ta~.Ti 'o~.Di fi'ka.va a ka'ba~.na
@@ -2536,8 +2536,8 @@ inf:	ta~'be~j~ peX.se'bew ki 'na~w~ se~'Ti.a 'doX, ne~j~ 'mez.mu na'Zu~.ta.Ze.ra
 ref:	Na verdade, nunca havia se sentido tão bem, tão inteiro.
 inf:	na veR'da.Di, 'nu~.ka a'vi.a si se~'Ti.du 'ta~w~ 'be~j~, 'ta~w~ i~'tej.ru
 
-ref:	Sua cabeca estava límpida e ele respirava profundamente os perfumes da noite e das flores.
-inf:	'su.a ka'bE.ka es'ta.va 'li~.pi.da i 'e.li Res.pi'ra.va pro.fu~.da~'me~.Ti us peX'fu~.mis da 'noj.Ti i das 'flo.ris
+ref:	Sua cabeça estava límpida e ele respirava profundamente os perfumes da noite e das flores.
+inf:	'su.a ka'be.sa es'ta.va 'li~.pi.da i 'e.li Res.pi'ra.va pro.fu~.da~'me~.Ti us peX'fu~.mis da 'noj.Ti i das 'flo.ris
 
 ref:	Uma alegria delirante e deliciosa cresceu por dentro, e ele flutuou lentamente no ar, retornando suavemente ao chão.
 inf:	u~.ma a.le'gri.a de.li'ra~.Ti i de.li.si'O.za kre'sew puR 'de~.tru, i 'e.li flu.tu'ow le~.ta~'me~.Ti nu 'aX, Re.toR'na~.du su.a.ve~'me~.Ti aw 'Sa~w~
@@ -2956,8 +2956,8 @@ inf:	pa'paj, peR.gu~'tow 'mE.ki
 ref:	Sim, filho.
 inf:	'si~, 'fi.Lu
 
-ref:	Mack balançou a cabeca.
-inf:	'mE.ki ba.la~'sow a ka'bE.ka
+ref:	Mack balançou a cabeça.
+inf:	'mE.ki ba.la~'sow a ka'be.sa
 
 ref:	Ainda está brincando comigo, nao é?
 inf:	a'i~.da es'ta bri~'ka~.du ko~'mi.gu, 'naw E
