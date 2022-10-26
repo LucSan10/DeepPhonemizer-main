@@ -2498,7 +2498,7 @@ ref:	O Errado: Errar é relativo, Erramos acertando e acertamos errando. O erro 
 corrigida:	u e'Ra.du, e'Rar E Re.la'Ti.vu, e'Ra~.muz a.seX'ta~.du i a.seX'ta~.muz e'Ra~.du, u 'e.Ru Di u~z E u a'seX.tu Di 'ow.trus
 
 ref:	Minha vida tá igual um cubo mágico, quando acerto de um lado erro do outro. Mais eu me viro para continuar me encaixando nela.
-corrigida:	'mi~.Ja 'vi.da 'ta i'gwaw u~ 'ku.bu 'ma.Zi.ku, 'kwa~.du a'seX.tu Di u~ 'la.du 'e.Ru du 'ow.tru, 'majz ew mi 'vi.ru 'pa.ra ko~.Ti~.nu'aR mi e~.kaj'Sa~.du 'nE.la
+corrigida:	'mi~.Ja 'vi.da 'ta i'gwaw u~ 'ku.bu 'ma.Zi.ku, 'kwa~.du a'sEX.tu Di u~ 'la.du 'e.Ru du 'ow.tru, 'majz ew mi 'vi.ru 'pa.ra ko~.Ti~.nu'aR mi e~.kaj'Sa~.du 'nE.la
 
 ref:	Cem erros para um acerto, um acerto por uma vida. Uma vida por um milhão de outras um milhão de pessoas, por todos os bilhões.
 corrigida:	'se~j~ 'e.Rus 'pa.ra 'u~ a'seX.tu, u~ a'seX.tu pur u~.ma 'vi.da, u~.ma 'vi.da 'pur 'u~ mi'La~w~ Di 'ow.tras 'u~ mi'La~w~ Di pe'so.as, puX 'to.duz us bi'Lo~j~s

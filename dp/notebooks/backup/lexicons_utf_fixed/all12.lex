@@ -802,8 +802,8 @@ corrigida:	si 'o~.te~j~ e'Rej 'krej.u ki 'o.Zi 'pO.su 'na~w~ ko~.me'ter u 'mez.m
 ref:	Não julgo as pessoas pelos seus piores erros.
 corrigida:	'na~w~ 'Zuw.gu as pe'so.as 'pe.lus 'sews pi'O.riz 'e.Rus
 
-ref:	A Vida é como um Jogo de Xadrez. Um erro pode acabar com tudo, então pense antes de agir. Mas lembre, se demorar demais, o Tempo acaba. E voce perde o Jogo
-corrigida:	a 'vi.da E 'ko~.mu u~ 'Zo.gu Di Sa'drejs, u~ 'e.Ru 'pO.Di a.ka'baX ko~ 'tu.du, e~'ta~w~ 'pe~.si 'a~.Tis Di a'ZiX, majs 'le~.bri, si de~.mo'raR de~'majs, u 'te~.pu a'ka.ba, i 'vO.si 'pER.Di u 'Zo.gu
+ref:	A Vida é como um Jogo de Xadrez. Um erro pode acabar com tudo, então pense antes de agir. Mas lembre, se demorar demais, o Tempo acaba. E você perde o Jogo
+corrigida:	a 'vi.da E 'ko~.mu u~ 'Zo.gu Di Sa'drejs, u~ 'e.Ru 'pO.Di a.ka'baX ko~ 'tu.du, e~'ta~w~ 'pe~.si 'a~.Tis Di a'ZiX, majs 'le~.bri, si de~.mo'raR de~'majs, u 'te~.pu a'ka.ba, i vo'se 'pER.Di u 'Zo.gu
 
 ref:	O nosso maior erro é desistir antes mesmo de tentar. Como se a covardia fosse mais nobre que um possível fracasso.
 corrigida:	u 'nO.su maj'Or 'e.Ru E de.zis'Tir 'a~.Tis 'mez.mu Di te~'taX, 'ko~.mu si a ko.vaR'Di.a 'fo.si 'majs 'nO.bri ki u~ po'si.vew fra'ka.su
@@ -947,7 +947,7 @@ ref:	Quando se ama uma mulher feia, pode-se amá-la cada vez mais, porque a fei�
 corrigida:	'kwa~.du si 'a~.ma u~.ma mu'LEX 'fej.a, 'pO.Di si a~'ma la 'ka.da 'vejz 'majs, puX'ke a fej'u.ra, 'sO 'te~.Di a aw.me~'taX
 
 ref:	Ah, se fosse uma perinha, ou mamão. Mas tem dimensão apenas de avelã.
-corrigida:	a, si 'fo.si u~.ma pe'ri~.Ja, ow ma~'ma~w~, majs te~j~ Di~.me~'sa~w~ a'pe~.nas Di a.ve'la~
+corrigida:	'a, si 'fo.si u~.ma pe'ri~.Ja, ow ma~'ma~w~, majs te~j~ Di~.me~'sa~w~ a'pe~.nas Di a.ve'la~
 
 ref:	Com a vênia do insosso trocadilho, tu só és, para mim.
 corrigida:	ko~ a 've~.nja du i~'so.su tro.ka'Di.Lu, 'tu 'sO 'Ejs, 'pa.ra 'mi~

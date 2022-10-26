@@ -16,8 +16,8 @@ corrigida:	'i.su E u~ pre'ze~.Ti 'pa.ra 'majs 'taR.Di
 ref:	Papai vai lhe mostrar como usá-lo.
 inf:	pa'paj 'vaj Li mos'traX 'ko~.mu u'za lu
 
-ref:	Ela sorriu e ele sentiu uma espécie de abraco.
-inf:	'E.la so'Riw i 'e.li se~'Tiw u~.ma es'pE.si Di a'bra.ku
+ref:	Ela sorriu e ele sentiu uma espécie de abraço.
+inf:	'E.la so'Riw i 'e.li se~'Tiw u~.ma es'pE.si Di a'bra.su
 
 ref:	Você pode carregar, acrescentou Papai.
 inf:	vo'se 'pO.Di ka.Re'gaX, a.kre.se~'tow pa'paj
@@ -161,7 +161,7 @@ ref:	E realmente foi útil conversar com Papai.
 inf:	i Re.aw'me~.Ti 'foj 'u.Tiw ko~.veX'saX ko~ pa'paj
 
 ref:	Ah, quero dizer, com você.
-inf:	a, 'kE.ru Di'zeX, ko~ vo'se
+inf:	'a, 'kE.ru Di'zeX, ko~ vo'se
 
 ref:	Mack estava confuso, mas Papai parou e sorriu como se entendesse.
 inf:	'mE.ki es'ta.va ko~'fu.zu, majs pa'paj pa'row i so'Riw 'ko~.mu si e~.te~'de.si
@@ -728,7 +728,7 @@ ref:	Obrigado, foi tudo o que pôde dizer enquanto de novo uma cascata de lágri
 inf:	o.bri'ga.du, 'foj 'tu.du u ki 'po.Di Di'zer e~'kwa~.tu Di 'no.vu u~.ma kas'ka.ta Di 'la.gri~.mas Ro'la.va puX 'sew 'Ros.tu, 'ko~.mu si vi'E.si Di u~ Re.zeR.va'tO.rju i~.fi~'ni.tu
 
 ref:	Ah, filho, disse Papai com ternura.
-inf:	a, 'fi.Lu, 'Di.si pa'paj ko~ teR'nu.ra
+inf:	'a, 'fi.Lu, 'Di.si pa'paj ko~ teR'nu.ra
 
 ref:	Jamais desconsidere a maravilha das suas lágrimas.
 inf:	Za~'majs des.ko~.si'dE.ri a ma.ra'vi.La das 'su.as 'la.gri~.mas
@@ -1544,7 +1544,7 @@ ref:	E agora Mack ria e chorava.
 inf:	i a'gO.ra 'mE.ki 'Ri.a i So'ra.va
 
 ref:	Willie, ele estava lá! Ah, ele estava lá!
-inf:	'wi.li, 'e.li es'ta.va 'la, a, 'e.li es'ta.va 'la
+inf:	'wi.li, 'e.li es'ta.va 'la, 'a, 'e.li es'ta.va 'la
 
 ref:	Espere até que eu lhe conte.
 corrigida:	es'pE.ri a'tE ki ew Li 'ko~.Ti
@@ -1559,7 +1559,7 @@ ref:	Mack parou, perdido nas lembranças por um momento.
 inf:	'mE.ki pa'row, peR'Di.du nas le~'bra~.sas pur u~ mo~'me~.tu
 
 ref:	Ah, é, falou finalmente.
-inf:	a, E, fa'low fi~.naw'me~.Ti
+inf:	'a, E, fa'low fi~.naw'me~.Ti
 
 ref:	Ele me mandou lhe dizer uma coisa.
 inf:	'e.li mi ma~'dow Li Di'zer u~.ma 'koj.za
@@ -1955,7 +1955,7 @@ ref:	Não é uma revolução que pretenda derrubar nada, ou, se derrubar, fará 
 corrigida:	'na~w~ E u~.ma Re.vo.lu'sa~w~ ki pre'te~.da de.Ru'baR 'na.da, ow, si de.Ru'baX, fa'ra 'i.su Di u~ 'mO.du ki Za~'majs po.de're~.muz i~.ma.Zi~'nar a~.te.si.pa.da~'me~.Ti
 
 ref:	Ah, uma última coisa.
-inf:	a, u~.ma 'uw.Ti~.ma 'koj.za
+inf:	'a, u~.ma 'uw.Ti~.ma 'koj.za
 
 ref:	Estou convencido de que Mack e Nan ainda vão lá algumas vezes, a cabana, só para ficarem à sós.
 corrigida:	es'tow ko~.ve~'si.du Di ki 'mE.ki i 'na~ a'i~.da 'va~w~ 'la aw'gu~.mas 've.zis, a ka'ba~.na, 'sO 'pa.ra fi'ka.re~j~ a 'sOjs
@@ -2303,7 +2303,7 @@ ref:	Não tenha medo de errar, o acerto faz você parar, e o erro é o aprendiza
 corrigida:	'na~w~ 'te~.Ja 'me.du Di e'RaX, u a'seX.tu 'fajz vo'se pa'raX, i u 'e.Ru E u a.pre~.Di'za.du ki 'fajz vo'se ko~.Ti~.nu'aX te~'ta~.du
 
 ref:	Perto de Deus aprendi que acerto quando deixo minhas vontades, pra ganhar o que o céu guardou pra mim.
-inf:	'pEX.tu Di 'dewz a.pre~'Di ki a'seX.tu 'kwa~.du 'dej.Su 'mi~.Jas vo~'ta.Dis, pra ga~'Jar u ki u 'sEw gwaR'dow pra 'mi~
+inf:	'pEX.tu Di 'dewz a.pre~'Di ki a'sEX.tu 'kwa~.du 'dej.Su 'mi~.Jas vo~'ta.Dis, pra ga~'Jar u ki u 'sEw gwaR'dow pra 'mi~
 
 ref:	Se procura defeitos em mim. Com certeza vai encontrar. Afinal sou imperfeita, e não consigo só acertar. Eu erro de tantas formas, do levantar até o deitar
 corrigida:	si pro'ku.ra de'fej.tuz e~j~ 'mi~, ko~ seX'te.za 'vaj e~.ko~'trar a.fi~'naw, 'sow i~.peX'fej.ta, i 'na~w~ ko~'si.gu 'sO a.seX'tar, ew 'E.Ru Di 'ta~.tas 'fOR.mas, du le.va~'tar a'tE u dej'taX
@@ -2330,7 +2330,7 @@ ref:	Um acerto não substitui um erro, a verdade não apaga a mentira, o perdão
 inf:	u~ a'seX.tu 'na~w~ subs.Ti'tuj u~ 'e.Ru, a veR'da.Di 'na~w~ a'pa.ga a me~'Ti.ra, u peR'da~w~ 'na~w~ 'ku.ra a fe'ri.da
 
 ref:	Erro e acerto, sempre por impulso.
-inf:	'E.Ru i a'seX.tu, 'se~.pri pur i~'puw.su
+inf:	'E.Ru i a'sEX.tu, 'se~.pri pur i~'puw.su
 
 ref:	O acerto é a soma de vários erros.
 corrigida:	u a'seX.tu E a 'so~.ma Di 'va.rjuz 'e.Rus
@@ -2347,8 +2347,8 @@ inf:	ew 'pO.su e'Rar a 'to.du i~s'ta~.Ti, majz ew a'sEX.tu 'to.da 'vejs ki 'pe~.
 ref:	Porque, no meio dos meus erros, o meu acerto foi você.
 inf:	puX'ke, nu 'mej.u dus 'mewz 'e.Rus, u 'mew a'seX.tu 'foj vo'se
 
-ref:	Somos o erro de ontem a correcao de hoje e o acerto do amanha.
-inf:	'so~.muz u 'e.Ru Di 'o~.te~j~ a ko.Re'kaw Di 'o.Zi i u a'seX.tu du a~'ma~.Ja
+ref:	Somos o erro de ontem a correção de hoje e o acerto do amanhã.
+inf:	'so~.muz u 'e.Ru Di 'o~.te~j~ a ko.Re'sa~w~ Di 'o.Zi i u a'seX.tu du a~.ma~'Ja~
 
 ref:	De muitos erros é feito um ÚNICO acerto.
 corrigida:	Di 'mu~j~.tuz 'e.Ruz E 'fej.tu u~ 'u~.ni.ku a'seX.tu
@@ -2462,10 +2462,10 @@ ref:	Todo erro é um exemplo, mas nem todo acerto pode ser exemplar.
 corrigida:	'to.du 'e.Ru E u~ e'ze~.plu, majs ne~j~ 'to.du a'seX.tu 'pO.Di 'ser e.ze~'plaX
 
 ref:	De tudo o que me chateia, destaco o seguinte: Quando acerto ninguém elogia, mas quando erro todo mundo critica.
-inf:	Di 'tu.du u ki mi Sa'tej.a, des'ta.ku u se'gi~.Ti, 'kwa~.du a'seX.tu ni~'ge~j~ e.lo'Zi.a, majs 'kwa~.du 'E.Ru 'to.du 'mu~.du kri'Ti.ka
+inf:	Di 'tu.du u ki mi Sa'tej.a, des'ta.ku u se'gi~.Ti, 'kwa~.du a'sEX.tu ni~'ge~j~ e.lo'Zi.a, majs 'kwa~.du 'E.Ru 'to.du 'mu~.du kri'Ti.ka
 
 ref:	Por que quando acerto ninguém escreve? Por que quando erro ninguém esquece? Talvez seja porquê o amor pareça leve!
-inf:	puX 'ke 'kwa~.du a'seX.tu ni~'ge~j~ es'krE.vi, puX 'ke 'kwa~.du 'E.Ru ni~'ge~j~ es'kE.si, taw'vejs 'se.Za puX'ke u a~'moX pa're.sa 'lE.vi
+inf:	puX 'ke 'kwa~.du a'sEX.tu ni~'ge~j~ es'krE.vi, puX 'ke 'kwa~.du 'E.Ru ni~'ge~j~ es'kE.si, taw'vejs 'se.Za puX'ke u a~'moX pa're.sa 'lE.vi
 
 ref:	Se te amar for um erro, estou reprovado! Se for um acerto, já sou formado. E se por acaso for um crime, que pena, fui condenado!
 inf:	si Ti a~'maX 'for u~ 'e.Ru, es'tow Re.pro'va.du, si 'for u~ a'seX.tu, 'Za 'sow foR'ma.du, i si pur a'ka.zu 'for u~ 'kri~.mi, ki 'pe~.na, 'fuj ko~.de~'na.du
@@ -2495,13 +2495,13 @@ ref:	Na vida, para superar um problema, o primeiro passo para o acerto é reconh
 corrigida:	na 'vi.da, 'pa.ra su.pe'rar u~ pro'ble~.ma, u pri~'mej.ru 'pa.su 'pa.ra u a'seX.tu E Re.ko~.Je'seX ki u 'e.Ru e'zis.Ti i pre'si.za 'seX ko.Ri'Zi.du
 
 ref:	Eu erro, eu caio, mas eu sempre me levanto e acerto tudo aquilo que errado saiu!
-inf:	ew 'E.Ru, ew 'kaj.u, majz ew 'se~.pri mi le'va~.tu i a'seX.tu 'tu.du a'ki.lu ki e'Ra.du sa'iw
+inf:	ew 'E.Ru, ew 'kaj.u, majz ew 'se~.pri mi le'va~.tu i a'sEX.tu 'tu.du a'ki.lu ki e'Ra.du sa'iw
 
 ref:	Nem sempre acerto nas palavras assim como no que sinto, mas se não sentir e se não errar nunca me sentirei vivo.
-inf:	ne~j~ 'se~.pri a'seX.tu nas pa'la.vraz a'si~ 'ko~.mu nu ki 'si~.tu, majs si 'na~w~ se~'Tir i si 'na~w~ e'RaR 'nu~.ka mi se~.Ti'rej 'vi.vu
+inf:	ne~j~ 'se~.pri a'sEX.tu nas pa'la.vraz a'si~ 'ko~.mu nu ki 'si~.tu, majs si 'na~w~ se~'Tir i si 'na~w~ e'RaR 'nu~.ka mi se~.Ti'rej 'vi.vu
 
 ref:	Não se canse de tentar, mas faça a tentativa se cansar de não virar acerto.
-inf:	'na~w~ si 'ka~.si Di te~'taX, majs 'fa.sa a te~.ta'Ti.va si ka~'saR Di 'na~w~ vi'rar a'sEX.tu
+inf:	'na~w~ si 'ka~.si Di te~'taX, majs 'fa.sa a te~.ta'Ti.va si ka~'saR Di 'na~w~ vi'rar a'seX.tu
 
 ref:	Um erro sem punição se torna um acerto.
 inf:	u~ 'e.Ru se~j~ pu~.ni'sa~w~ si 'tOR.na u~ a'seX.tu
@@ -2648,16 +2648,16 @@ ref:	Bússola é pretexto para acerto. Instinto é contexto para não se perder.
 corrigida:	'bu.so.la E pre'tes.tu 'pa.ra a'seX.tu, i~s'Ti~.tu E ko~'tes.tu 'pa.ra 'na~w~ si peR'deX, 'bu.so.la E Di.re'sa~w~, i~s'Ti~.tu E de.si'za~w~
 
 ref:	Quando eu choro ou rio, acerto ou erro, eu estou produzindo vida. Sinto a morte quando eu não produzo nada.
-inf:	'kwa~.du ew 'SO.ru ow 'Ri.u, a'seX.tu ow 'e.Ru, ew es'tow pro.du'zi~.du 'vi.da, 'si~.tu a 'mOX.Ti 'kwa~.du ew 'na~w~ pro'du.zu 'na.da
+inf:	'kwa~.du ew 'SO.ru ow 'Ri.u, a'sEX.tu ow 'e.Ru, ew es'tow pro.du'zi~.du 'vi.da, 'si~.tu a 'mOX.Ti 'kwa~.du ew 'na~w~ pro'du.zu 'na.da
 
 ref:	O erro é apenas uma oportunidade de acerto.
 corrigida:	u 'e.Ru E a'pe~.naz u~.ma o.poX.tu~.ni'da.Di Di a'seX.tu
 
-ref:	Se sou tambem parte de tudo aquilo que me comove. Sou tambem o acerto de todas as minhas tentativas.
+ref:	Se sou também parte de tudo aquilo que me comove. Sou também o acerto de todas as minhas tentativas.
 inf:	si 'sow ta~'be~j~ 'paX.Ti Di 'tu.du a'ki.lu ki mi ko~'mO.vi, 'sow ta~'be~j~ u a'seX.tu Di 'to.daz as 'mi~.Jas te~.ta'Ti.vas
 
 ref:	E se hoje não der certo? Amanhã acordo e tento novamente! Quem sabe um dia eu acerto!?
-inf:	i si 'o.Zi 'na~w~ 'dEX 'sEX.tu, a~.ma~'Ja~ a'koR.du i 'te~.tu nO.va~'me~.Ti, 'ke~j~ 'sa.bi u~ 'Di.a ew a'seX.tu
+inf:	i si 'o.Zi 'na~w~ 'dEX 'sEX.tu, a~.ma~'Ja~ a'kOR.du i 'te~.tu nO.va~'me~.Ti, 'ke~j~ 'sa.bi u~ 'Di.a ew a'sEX.tu
 
 ref:	Um erro, uma chance Um acerto, a vitória Outro erro, o calabouço.
 inf:	u~ 'e.Ru, u~.ma 'Sa~.si u~ a'seX.tu, a vi'tO.rja 'ow.tru 'e.Ru, u ka.la'bow.su
@@ -2698,8 +2698,8 @@ corrigida:	u i~.se~'sa.tu a'te~.ta a 'u~ 'e.Ru 'e~.tri 'nO.vi a'seX.tus, u se~'s
 ref:	Não sou perfeita e tampouco dona da razão. Apenas acerto mais pelo simples fato de estar disposta a ouvir e a escutar os diversos lados das histórias e analisá-las.
 inf:	'na~w~ 'sow peX'fej.ta i ta~'pow.ku 'do~.na da Ra'za~w~, a'pe~.naz a'sEX.tu 'majs 'pe.lu 'si~.plis 'fa.tu Di es'taR Dis'pOs.ta a ow'vir i a es.ku'tar us Di'vEX.sus 'la.dus daz is'tO.rjaz i a~.na.li'za las
 
-ref:	um dia os sonhos podem morrer quem dera eu saber de tal ensinamento  acerto tempo, talvez tenha sido bom, pois me limitaria a experiencia de me frustrar frustrado estou
-inf:	u~ 'Di.a us 'so~.Jus 'pO.de~j~ mo'ReX 'ke~j~ 'dE.ra ew sa'beR Di 'taw e~.si~.na~'me~.tu a'seX.tu 'te~.pu, taw'vejs 'te~.Ja 'si.du 'bo~, 'pojs mi li~.mi.ta'ri.a a es.pe.ri.e~'si.a Di mi frus'traX frus'tra.du es'tow
+ref:	um dia os sonhos podem morrer quem dera eu saber de tal ensinamento a certo tempo, talvez tenha sido bom, pois me limitaria a experiencia de me frustrar frustrado estou
+inf:	u~ 'Di.a us 'so~.Jus 'pO.de~j~ mo'ReX 'ke~j~ 'dE.ra ew sa'beR Di 'taw e~.si~.na~'me~.tu a 'sEX.tu 'te~.pu, taw'vejs 'te~.Ja 'si.du 'bo~, 'pojs mi li~.mi.ta'ri.a a es.pe.ri.e~'si.a Di mi frus'traX frus'tra.du es'tow
 
 ref:	Um erro é o acerto em pleno vigor da juventude.
 corrigida:	u~ 'e.Ru E u a'seX.tu e~j~ 'ple~.nu vi'goR da Zu.ve~'tu.Di
@@ -2738,7 +2738,7 @@ ref:	Me encontrar em milhões de desencontros. Saber onde está o acerto em tant
 inf:	mi e~.ko~'trar e~j~ mi'Lo~j~s Di de.ze~'ko~.trus, sa'ber 'o~.Di es'ta u a'seX.tu e~j~ 'ta~.tuz 'e.Rus, pro.ku'raX 'seR nu 'mej.u Di 'ta~.tu 'na~w~ 'seX, 'se~.pri 'ir e~j~ 'ta~.tas 'vOw.tas
 
 ref:	Tão certo que um dia me acerto Desacertos fazem parte do nosso dia a dia E se findam nos acertos das nossas matemáticas.
-inf:	'ta~w~ 'sEX.tu ki u~ 'Di.a mi a'seX.tu de.za'seX.tus 'fa.ze~j~ 'paX.Ti du 'nO.su 'Di.a a 'Di.a i si 'fi~.da~w~ nuz a'seX.tus das 'nO.sas ma.te~'ma.Ti.kas
+inf:	'ta~w~ 'sEX.tu ki u~ 'Di.a mi a'sEX.tu de.za'seX.tus 'fa.ze~j~ 'paX.Ti du 'nO.su 'Di.a a 'Di.a i si 'fi~.da~w~ nuz a'seX.tus das 'nO.sas ma.te~'ma.Ti.kas
 
 ref:	Para alguns o tempo é a única forma de apagar seus erros, enquanto que, para outros, o acerto é pessoal e imediato.
 corrigida:	'pa.ra aw'gu~z u 'te~.pu E a 'u~.ni.ka 'fOR.ma Di a.pa'gaX 'sewz 'e.Rus, e~'kwa~.tu ki, 'pa.ra 'ow.trus, u a'seX.tu E pe.so'aw i i~.me.Di'a.tu
@@ -2780,7 +2780,7 @@ ref:	O risco é um acerto, as consequências são um risco. Não tem nada de err
 corrigida:	u 'Ris.ku E u~ a'seX.tu, as ko~.se'kwe~.sjas 'sa~w~ u~ 'Ris.ku, 'na~w~ te~j~ 'na.da Di e'Ra.du, e'Ra.du 'mez.mu, E fi'kar e~.Raj'za.du, se~j~ peXs.pek'Ti.vas
 
 ref:	Eu nunca acerto a chave de abrir está porta do seu coração...
-inf:	ew 'nu~.ka a'seX.tu a 'Sa.vi Di a'brir es'ta 'pOX.ta du 'sew ko.ra'sa~w~
+inf:	ew 'nu~.ka a'sEX.tu a 'Sa.vi Di a'brir es'ta 'pOX.ta du 'sew ko.ra'sa~w~
 
 ref:	A maior recompensa para o erro é o acerto.
 corrigida:	a maj'O.Re.ko~'pe~.sa 'pa.ra u 'e.Ru E u a'seX.tu
@@ -2810,7 +2810,7 @@ ref:	Oportunidade, é uma porta para a possibilidade de erro ou acerto que sempr
 corrigida:	o.poX.tu~.ni'da.Di, E u~.ma 'pOX.ta 'pa.ra a po.si.bi.li'da.Di Di 'e.Ru ow a'seX.tu ki 'se~.pri Ti 'lE.va a u~.ma ko~.se'kwe~.sja i.Re.fu'ta.vew
 
 ref:	Sempre acerto quando intuo que vai dar ERRADO!
-inf:	'se~.pri a'seX.tu 'kwa~.du i~'tu.u ki 'vaj 'dar e'Ra.du
+inf:	'se~.pri a'sEX.tu 'kwa~.du i~'tu.u ki 'vaj 'dar e'Ra.du
 
 ref:	O erro é muito mais poderoso que o acerto. Ele deixa consequências e sequelas. O acerto se normaliza rapidamente e logo mais ninguém notará.
 corrigida:	u 'e.Ru E 'mu~j~.tu 'majs po.de'ro.zu ki u a'seX.tu, 'e.li 'dej.Sa ko~.se'kwe~.sjaz i se'kwE.las, u a'seX.tu si noR.ma'li.za Ra.pi.da~'me~.Ti i 'lO.gu 'majs ni~'ge~j~ no.ta'ra
@@ -2837,7 +2837,7 @@ ref:	Quem pisa no próximo esquece que o acerto é feito com Deus.
 corrigida:	'ke~j~ 'pi.za nu 'prO.si~.mu es'kE.si ki u a'seX.tu E 'fej.tu ko~ 'dews
 
 ref:	Nas coisas da vida as vezes acerto, as vezes erro mas vou vivendo e aprendendo dentro das minhas possibilidades, e Deus lá de cima vai vendo que estou tentando ser melhor, a cada novo dia eu renasço.
-inf:	nas 'koj.zas da 'vi.da as 've.ziz a'seX.tu, as 've.ziz 'E.Ru majs 'vow vi've~.du i a.pre~'de~.du 'de~.tru das 'mi~.Jas po.si.bi.li'da.Dis, i 'dews 'la Di 'si~.ma 'vaj 've~.du ki es'tow te~'ta~.du 'seR me'LOX, a 'ka.da 'no.vu 'Di.a ew Re~'na.su
+inf:	nas 'koj.zas da 'vi.da as 've.ziz a'sEX.tu, as 've.ziz 'E.Ru majs 'vow vi've~.du i a.pre~'de~.du 'de~.tru das 'mi~.Jas po.si.bi.li'da.Dis, i 'dews 'la Di 'si~.ma 'vaj 've~.du ki es'tow te~'ta~.du 'seR me'LOX, a 'ka.da 'no.vu 'Di.a ew Re~'na.su
 
 ref:	Quando a lágrima lava a face, O orgulho enche o peito. De todos os erros também há o acerto. Divino e lindo amor, que supera barreiras, ainda estará a existir!
 inf:	'kwa~.du a 'la.gri~.ma 'la.va a 'fa.si, u oR'gu.Lu 'e~.Si u 'pej.tu, Di 'to.duz uz 'e.Rus ta~'be~j~ 'a u a'seX.tu, Di'vi~.nu i 'li~.du a~'moX, ki su'pE.ra ba'Rej.ras, a'i~.da es.ta'ra a e.zis'TiX
@@ -2861,10 +2861,10 @@ ref:	Não custa errado fazer a coisa certa , pois dois erros não fazem um acert
 inf:	'na~w~ 'kus.ta e'Ra.du fa'zer a 'koj.za 'sEX.ta, 'pojs 'dojz 'e.Rus 'na~w~ 'fa.ze~j~ u~ a'seX.tu, majs 'dojz a'sEX.tus 'pO.de~j~ a.pa'gaX 'to.duz 'e.Rus
 
 ref:	De tanto quererem que eu me corrigisse, deixei os erros de lado, já não erro mais, e nem acerto
-inf:	Di 'ta~.tu ke'rE.re~j~ ki ew mi ko.Ri'Zi.si, dej'Sej uz 'e.Rus Di 'la.du, 'Za 'na~w~ 'E.Ru 'majs, i ne~j~ a'seX.tu
+inf:	Di 'ta~.tu ke'rE.re~j~ ki ew mi ko.Ri'Zi.si, dej'Sej uz 'e.Rus Di 'la.du, 'Za 'na~w~ 'E.Ru 'majs, i ne~j~ a'sEX.tu
 
 ref:	Ter um alvo não siginifica acerto certeiro Não adianta ter um alvo sem mira precisa  Sem munição pra uma troca necessária ...
-inf:	'ter u~ 'aw.vu 'na~w~ si.Zi~.ni'fi.ka a'sEX.tu seX'tej.ru 'na~w~ a.Di'a~.ta 'ter u~ 'aw.vu se~j~ 'mi.ra pre'si.za se~j~ mu~.ni'sa~w~ pra u~.ma 'trO.ka ne.se'sa.rja
+inf:	'ter u~ 'aw.vu 'na~w~ si.Zi~.ni'fi.ka a'seX.tu seX'tej.ru 'na~w~ a.Di'a~.ta 'ter u~ 'aw.vu se~j~ 'mi.ra pre'si.za se~j~ mu~.ni'sa~w~ pra u~.ma 'trO.ka ne.se'sa.rja
 
 ref:	A liberdade é o primeiro passo para o erro, o erro é um passo em direção ao acerto.
 corrigida:	a li.beR'da.Di E u pri~'mej.ru 'pa.su 'pa.ra u 'e.Ru, u 'e.Ru E u~ 'pa.su e~j~ Di.re'sa~w~ aw a'seX.tu
@@ -2894,7 +2894,7 @@ ref:	Você é o erro que não devia ter acontecido, mas não se assuste, esse er
 corrigida:	vo'se E u 'e.Ru ki 'na~w~ de'vi.a 'ter a.ko~.te'si.du, majs 'na~w~ si a'sus.Ti, 'e.si 'e.Ru 'pO.Di 'ser u~ a'seX.tu u~.ma 'O.ra, u~ a'seX.tu ki 'ta de~.mo'ra~.du a.ko~.te'seX
 
 ref:	Sabe por quê isso tudo veio da minha cabeça, não sou robô. Eu falho, erro e depois acerto.
-inf:	'sa.bi puX 'ke 'i.su 'tu.du 'vej.u da 'mi~.Ja ka'be.sa, 'na~w~ 'sow Ro'bo, ew 'fa.Lu, 'E.Ru i de'pojz a'seX.tu
+inf:	'sa.bi puX 'ke 'i.su 'tu.du 'vej.u da 'mi~.Ja ka'be.sa, 'na~w~ 'sow Ro'bo, ew 'fa.Lu, 'E.Ru i de'pojz a'sEX.tu
 
 ref:	O acerto não é prerrogativa de quem não erra, mas de quem decide acertar. Não ter errado é um forte indício de que você sequer tentou.
 corrigida:	u a'seX.tu 'na~w~ E pre.Ro.ga'Ti.va Di 'ke~j~ 'na~w~ 'E.Ra, majs Di 'ke~j~ de'si.Di a.seX'taX, 'na~w~ 'ter e'Ra.du E u~ 'fOX.Ti i~'Di.sju Di ki vo'se se'kEX te~'tow
@@ -2921,7 +2921,7 @@ ref:	Luta e esperança são forças irmãs. Acreditemos! A vida sempre permite o
 inf:	'lu.ta i es.pe'ra~.sa 'sa~w~ 'foX.saz iR'ma~j~s, a.kre.Di'te~.mus, a 'vi.da 'se~.pri peR'mi.Ti u a'seX.tu, a'ke.lis ki si ma~'te~j~ 'fiR.miz e~j~ 'sews pro'pO.zi.tus Di 'pajz i 'be~j~
 
 ref:	Levo muitas pancadas, mas quando acerto o ponto fraco de um...
-inf:	'lE.vu 'mu~j~.tas pa~'ka.das, majs 'kwa~.du a'seX.tu u 'po~.tu 'fra.ku Di 'u~
+inf:	'lE.vu 'mu~j~.tas pa~'ka.das, majs 'kwa~.du a'sEX.tu u 'po~.tu 'fra.ku Di 'u~
 
 ref:	O ser humano é um erro, acerto, qualidade, defeito.
 corrigida:	u 'ser u~'ma~.nu E u~ 'e.Ru, a'seX.tu, kwa.li'da.Di, de'fej.tu

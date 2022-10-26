@@ -2747,7 +2747,7 @@ ref:	Parecia ser do Oriente Médio e se vestia como um operário, com cinto de f
 corrigida:	pa.re'si.a 'seR du o.ri'e~.Ti 'mE.Dju i si ves'Ti.a 'ko~.mu u~ o.pe'ra.rju, ko~ 'si~.tu Di fe.Ra~'me~.taz i 'lu.vas
 
 ref:	Estava de pé, tranquilamente encostado no portal e com os braços cruzados, usando jeans cobertos de serragem e uma camisa xadrez com mangas enroladas acima dos cotovelos, revelando antebraços musculosos.
-corrigida:	es'ta.va Di 'pE, tra~.kwi.la~'me~.Ti e~.kos'ta.du nu poX'taw i ko~ us 'bra.sus kru'za.dus, u'za~.du 'Di~s ko'bEX.tus Di se'Ra.Ze~j~ i u~.ma ka~'mi.za Sa'drejs ko~ 'ma~.gaz e~.Ro'la.daz a'si~.ma dus ko.to'vE.lus, Re.ve'la~.du a~.te'bra.sus mus.ku'lO.zus
+corrigida:	es'ta.va Di 'pE, tra~.kwi.la~'me~.Ti e~.kos'ta.du nu poX'taw i ko~ us 'bra.sus kru'za.dus, u'za~.du 'Di~s ko'bEX.tus Di se'Ra.Ze~j~ i u~.ma ka~'mi.za Sa'drejs ko~ 'ma~.gaz e~.Ro'la.daz a'si~.ma dus ko.to've.lus, Re.ve'la~.du a~.te'bra.sus mus.ku'lO.zus
 
 ref:	Suas feições eram bastante agradáveis, mas ele não era particularmente bonito, não se destacaria numa multidão.
 corrigida:	'su.as fej'so~j~z 'E.ra~w~ bas'ta~.Ti a.gra'da.vejs, majz 'e.li 'na~w~ 'E.ra paX.Ti.ku.laR'me~.Ti bo~'ni.tu, 'na~w~ si des.ta.ka'ri.a 'nu~.ma muw.Ti'da~w~
@@ -2819,7 +2819,7 @@ ref:	Ela estava abraçando-o sem abraçá-lo, ou sem mesmo tocá-lo.
 corrigida:	'E.la es'ta.va a.bra'sa~.du u se~j~ a.bra'sa lu, ow se~j~ 'mez.mu to'ka lu
 
 ref:	Ah, não se incomode, riu a negra enorme.
-corrigida:	a, 'na~w~ si i~.ko~'mO.Di, 'Riw a 'ne.gra e~'nOR.mi
+corrigida:	'a, 'na~w~ si i~.ko~'mO.Di, 'Riw a 'ne.gra e~'nOR.mi
 
 ref:	Ela causa esse efeito em todo mundo.
 corrigida:	'E.la 'kaw.za 'e.si e'fej.tu e~j~ 'to.du 'mu~.du

@@ -1391,7 +1391,7 @@ ref:	Tudo o que gosto tem sabor de pecado, é feio, censurado, imoral, fora da L
 corrigida:	'tu.du u ki 'gos.tu te~j~ sa'boR Di pe'ka.du, E 'fej.u, se~.su'ra.du, i~.mo'raw, 'fO.ra da 'lej, e~'gOR.da i 'fajz 'maw pra sa'u.Di
 
 ref:	Ah! Meu pedacinho de gente, meu amor, como eu gosto de ouir esse riso! Pois é ele o meu presente.
-corrigida:	a, 'mew pe.da'si~.Ju Di 'Ze~.Ti, 'mew a~'moX, 'ko~.mu ew 'gOs.tu Di ow'vir 'e.si 'Ri.zu, 'pojz E 'e.li u 'mew pre'ze~.Ti
+corrigida:	'a, 'mew pe.da'si~.Ju Di 'Ze~.Ti, 'mew a~'moX, 'ko~.mu ew 'gOs.tu Di ow'vir 'e.si 'Ri.zu, 'pojz E 'e.li u 'mew pre'ze~.Ti
 
 ref:	Sou avessa a equações, fórmulas e respostas certas. Não gosto de nada definido. Certezas não me calam.
 corrigida:	'sow a've.sa a e.kwa'so~j~s, 'fOR.mu.laz i Res'pOs.tas 'sEX.tas, 'na~w~ 'gOs.tu Di 'na.da de.fi~'ni.du, seX'te.zas 'na~w~ mi 'ka.la~w~

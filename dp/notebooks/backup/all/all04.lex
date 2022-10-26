@@ -293,7 +293,7 @@ ref:	A simplicidade e a pureza de desfrutar de uma amizade crescente.
 inf:	a si~.pli.si'da.Di i a pu're.za Di des.fru'taR Di u~.ma a~.mi'za.Di kre'se~.Ti
 
 ref:	Ah, entendi!
-inf:	a, e~.te~'Di
+inf:	'a, e~.te~'Di
 
 ref:	Se você tentar viver isso sem mim, sem o diálogo constante que estabelecemos ao compartilhar esta jornada juntos, será como tentar andar sobre a água sozinho.
 inf:	si vo'se te~'taR vi'ver 'i.su se~j~ 'mi~, se~j~ u Di'a.lo.gu ko~s'ta~.Ti ki es.ta.be.le'se~.muz aw ko~.paX.Ti'Lar 'Es.ta ZoR'na.da 'Zu~.tus, se'ra 'ko~.mu te~'tar a~'daX 'so.bri a 'a.gwa sO'zi~.Ju
@@ -656,7 +656,7 @@ ref:	Não sei como agradecer!
 inf:	'na~w~ 'sej 'ko~.mu a.gra.de'seX
 
 ref:	Ah, de nada, querido.
-inf:	a, Di 'na.da, ke'ri.du
+inf:	'a, Di 'na.da, ke'ri.du
 
 ref:	Isso também me deu uma grande alegria!
 inf:	'i.su ta~'be~j~ mi 'dew u~.ma 'gra~.Di a.le'gri.a
@@ -821,7 +821,7 @@ ref:	Mas por que eu?
 inf:	majs puX 'ke ew
 
 ref:	Quer dizer, por que Mackenzie Allen Phillips?
-inf:	'kER Di'zeX, puX 'ke ma'ke~.zi a'wle~ 'fi.lips
+inf:	'kER Di'zeX, puX 'ke ma'ke~.zi 'a.le~ 'fi.lips
 
 ref:	Por que você ama alguém tão ferrado?
 inf:	puX 'ke vo'se 'a~.ma aw'ge~j~ 'ta~w~ fe'Ra.du
@@ -1256,7 +1256,7 @@ ref:	Ela ainda estava olhando para a floresta.
 inf:	'E.la a'i~.da es'ta.va o'La~.du 'pa.ra a flo'rEs.ta
 
 ref:	Ah, e balançou a mão...
-inf:	a, i ba.la~'sow a 'ma~w~
+inf:	'a, i ba.la~'sow a 'ma~w~
 
 ref:	Não muita coisa.
 inf:	'na~w~ 'mu~j~.ta 'koj.za
@@ -1517,7 +1517,7 @@ ref:	Não quero errar, resmungou Mack.
 inf:	'na~w~ 'kE.ru e'RaX, Rez.mu~'gow 'mE.ki
 
 ref:	Ah, Mackenzie, os erros fazem parte da vida e Papai trabalha seus propósitos neles também.
-inf:	a, ma'ke~.zi, uz 'e.Rus 'fa.ze~j~ 'paX.Ti da 'vi.da i pa'paj tra'ba.La 'sews pro'pO.zi.tus 'ne.lis ta~'be~j~
+inf:	'a, ma'ke~.zi, uz 'e.Rus 'fa.ze~j~ 'paX.Ti da 'vi.da i pa'paj tra'ba.La 'sews pro'pO.zi.tus 'ne.lis ta~'be~j~
 
 ref:	Sarayu estava achando divertido e Mack não pôde evitar um sorriso.
 inf:	sa.ra'ju es'ta.va a'Sa~.du Di.veX'Ti.du i 'mE.ki 'na~w~ 'po.Di e.vi'tar u~ so'Ri.zu
@@ -2329,8 +2329,8 @@ inf:	'nu~.ka, de.kla'row pa'paj e~.fa.Ti.ka~'me~.Ti
 ref:	O que tenho é uma prontidão constante e viva no nosso relacionamento e lhe dou a capacidade de reagir a qualquer situação e circunstância em que você se encontrar.
 corrigida:	u ki 'te~.Ju E u~.ma pro~.Ti'da~w~ ko~s'ta~.Ti i 'vi.va nu 'nO.su Re.la.si.o~.na~'me~.tu i Li 'dow a ka.pa.si'da.Di Di Re.a'Zir a kwaw'kEX si.tu.a'sa~w~ i siX.ku~s'ta~.sja e~j~ ki vo'se si e~.ko~'traX
 
-ref:	Se passar a contar com expectativas e responsabilidades, voce não me conhece nem confia em mim.
-inf:	si pa'sar a ko~'taX ko~ es.pek.ta'Ti.vaz i Res.po~.sa.bi.li'da.Dis, 'vO.si 'na~w~ mi ko~'JE.si ne~j~ ko~'fi.a e~j~ 'mi~
+ref:	Se passar a contar com expectativas e responsabilidades, você não me conhece nem confia em mim.
+inf:	si pa'sar a ko~'taX ko~ es.pek.ta'Ti.vaz i Res.po~.sa.bi.li'da.Dis, vo'se 'na~w~ mi ko~'JE.si ne~j~ ko~'fi.a e~j~ 'mi~
 
 ref:	E pela mesma razao, exclamou Jesus, você vive no medo!
 inf:	i 'pe.la 'mez.ma Ra'zaw, es.kla~'mow Ze'zujs, vo'se 'vi.vi nu 'me.du
@@ -2510,7 +2510,7 @@ ref:	Num jorro de chamas, uma águia-pescadora mergulhou em direção à superf�
 inf:	nu~ 'Zo.Ru Di 'Sa~.mas, u~.ma 'a.gja pes.ka'do.ra meR.gu'Low e~j~ Di.re'sa~w~ a su.peX'fi.si du 'la.gu, majs mu'dow u 'kuX.su nu 'uw.Ti~.mu i~s'ta~.Ti i Ro'sow a su.peX'fi.si, ko~ fa'gu.Las ka'i~.du 'ko~.mu 'nE.vi naz 'a.gwas
 
 ref:	Atrás dela, uma grande truta vestida de arco-íris rompeu à superfície e mergulhou de volta em meio a um borrifo de cores.
-inf:	a'trajs 'dE.la, u~.ma 'gra~.Di 'tru.ta ves'Ti.da Di Ro~'pew a su.peX'fi.si i meR.gu'Low Di 'vOw.ta e~j~ 'mej.u a u~ bo'Ri.fu Di 'ko.ris
+inf:	a'trajs 'dE.la, u~.ma 'gra~.Di 'tru.ta ves'Ti.da Di 'aX.ku 'i.ris Ro~'pew a su.peX'fi.si i meR.gu'Low Di 'vOw.ta e~j~ 'mej.u a u~ bo'Ri.fu Di 'ko.ris
 
 ref:	Mack sentiu-se maior do que a vida, como se pudesse estar presente em todas as partes.
 inf:	'mE.ki se~'Tiw si maj'OR du ki a 'vi.da, 'ko~.mu si pu'dE.si es'taX pre'ze~.Ti e~j~ 'to.daz as 'paX.Tis
@@ -2645,7 +2645,7 @@ ref:	Olhou com mais atencão e notou que por trás do círculo de adultos haviam
 inf:	o'Low ko~ 'majz a.te~'ka~w~ i no'tow ki puX 'trajs du 'siX.ku.lu Di a'duw.tuz a'vi.a~w~ suR'Zi.du 'ow.trus, i.gwaw'me~.Ti es.pa'sa.dus, aw Re'dOR Di 'to.du u pe'ri~.me.tru
 
 ref:	Eram chamas mais altas, aparentemente soprando com as correntes de ar, e tinham cores semelhantes, de safira e azul-água, com pedacinhos únicos de outras cores engastados em cada um.
-inf:	'E.ra~w~ 'Sa~.mas 'majz 'aw.tas, a.pa.re~.Ti~'me~.Ti so'pra~.du ko~ as ko'Re~.Tis Di 'aX, i 'Ti~.Ja~w~ 'ko.ris se~.me'La~.Tis, Di sa'fi.ra i, ko~ pe.da'si~.Juz 'u~.ni.kus Di 'ow.tras 'ko.riz e~.gas'ta.duz e~j~ 'ka.da 'u~
+inf:	'E.ra~w~ 'Sa~.mas 'majz 'aw.tas, a.pa.re~.Ti~'me~.Ti so'pra~.du ko~ as ko'Re~.Tis Di 'aX, i 'Ti~.Ja~w~ 'ko.ris se~.me'La~.Tis, Di sa'fi.ra i a'zuw 'a.gwa, ko~ pe.da'si~.Juz 'u~.ni.kus Di 'ow.tras 'ko.riz e~.gas'ta.duz e~j~ 'ka.da 'u~
 
 ref:	Anjos, respondeu Sarayu antes que Mack pudesse perguntar.
 inf:	'a~.Zus, Res.po~'dew sa.ra'ju 'a~.Tis ki 'mE.ki pu'dE.si peR.gu~'taX

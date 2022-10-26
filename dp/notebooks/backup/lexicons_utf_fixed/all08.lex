@@ -2639,7 +2639,7 @@ ref:	Adaptados e Inadaptados
 corrigida:	a.dap'ta.duz i i~.na.dap'ta.dus
 
 ref:	Ah, é um erro doloroso e crasso aquela distinção que os revolucionários estabelecem entre burgueses e povo, ou fidalgos e povo, ou governantes e governados.
-corrigida:	a, E u~ 'e.Ru do.lo'ro.zu i 'kra.su a'kE.la Dis.Ti~'sa~w~ ki us Re.vo.lu.si.o~'na.rjuz es.ta.be'lE.se~j~ 'e~.tri buR'ge.ziz i 'po.vu, ow fi'daw.guz i 'po.vu, ow go.veR'na~.Tiz i go.veR'na.dus
+corrigida:	'a, E u~ 'e.Ru do.lo'ro.zu i 'kra.su a'kE.la Dis.Ti~'sa~w~ ki us Re.vo.lu.si.o~'na.rjuz es.ta.be'lE.se~j~ 'e~.tri buR'ge.ziz i 'po.vu, ow fi'daw.guz i 'po.vu, ow go.veR'na~.Tiz i go.veR'na.dus
 
 ref:	A distinção é entre adaptados e inadaptados: o mais é literatura, é má literatura.
 corrigida:	a Dis.Ti~'sa~w~ E 'e~.tri a.dap'ta.duz i i~.na.dap'ta.dus, u 'majz E li.te.ra'tu.ra, E 'ma li.te.ra'tu.ra

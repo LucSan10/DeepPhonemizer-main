@@ -173,7 +173,7 @@ ref:	Por isso declarou o óbvio: Você deve saber que chamá-la de Papai é meio
 corrigida:	pur 'i.su de.kla'row u 'Ob.vju, vo'se 'dE.vi sa'beX ki Sa~'ma la Di pa'paj E 'mej.u ko~.pli'ka.du 'pa.ra 'mi~
 
 ref:	Ah, verdade? Ela olhou-o fingindo surpresa.
-corrigida:	a, veR'da.Di, 'E.la o'Low u fi~'Zi~.du suX'pre.za
+corrigida:	'a, veR'da.Di, 'E.la o'Low u fi~'Zi~.du suX'pre.za
 
 ref:	Claro que sei. Sempre sei. Ela deu um risinho.
 corrigida:	'kla.ru ki 'sej, 'se~.pri 'sej, 'E.la 'dew u~ Ri'zi~.Ju
@@ -521,7 +521,7 @@ ref:	Ele encontrou a saída para se colocar inteiramente nas minhas mãos.
 corrigida:	'e.li e~.ko~'trow a sa'i.da 'pa.ra si ko.lo'kar i~.tej.ra~'me~.Ti nas 'mi~.Jas 'ma~w~s
 
 ref:	Ah, que momento foi aquele!
-corrigida:	a, ki mo~'me~.tu 'foj a'ke.li
+corrigida:	'a, ki mo~'me~.tu 'foj a'ke.li
 
 ref:	Mack se encostou na bancada um tanto perplexo.
 corrigida:	'mE.ki si e~.kos'tow na ba~'ka.da u~ 'ta~.tu peX'plEk.su
@@ -1073,7 +1073,7 @@ ref:	Claro. Nós íamos ter um molho japonês incrível, mas o sem-jeito ali, Pa
 corrigida:	'kla.ru, 'nOjz 'i.a~.mus 'ter u~ 'mo.Lu Za.po~'nejz i~'kri.vew, majz u se~j~ 'Zej.tu a'li, pa'paj a.se~'now na Di.re'sa~w~ Di Ze'zujs, de.si'Diw 'veX si a Ti'ZE.la ki'ka.va
 
 ref:	Ah, qual é? respondeu Jesus num arremedo de defesa.
-corrigida:	a, 'kwaw E, Res.po~'dew Ze'zujs nu~ a.Re~'me.du Di de'fe.za
+corrigida:	'a, 'kwaw E, Res.po~'dew Ze'zujs nu~ a.Re~'me.du Di de'fe.za
 
 ref:	Minhas mãos estavam escorregadias.
 corrigida:	'mi~.Jas 'ma~w~z es'ta.va~w~ es.ko.Re.ga'Di.as
