@@ -110,7 +110,7 @@ ref:	O corte profundo não é o da lâmina afiada É do ato desprovido de cautel
 corrigida:	u 'kOX.Ti pro'fu~.du 'na~w~ E u da 'la~.mi~.na a.fi'a.da E du 'a.tu des.pro'vi.du Di kaw'tE.la
 
 ref:	Roube da minha mente o tempo que passo contigo. Corte em inumeros pedaços pra eu não conseguir juntar cada fragmento. A insistencia é natural
-corrigida:	'Row.bi da 'mi~.Ja 'me~.Ti u 'te~.pu ki 'pa.su ko~'Ti.gu, 'kOX.Ti e~j~ i~'nu~.me.rus pe'da.sus pra ew 'na~w~ ko~.se'giR Zu~'taX 'ka.da fra.gi'me~.tu, a i~.sis'te~.sja E na.tu'raw
+corrigida:	'Row.bi da 'mi~.Ja 'me~.Ti u 'te~.pu ki 'pa.su ko~'Ti.gu, 'kOX.Ti e~j~ i~'nu~.me.rus pe'da.sus pra ew 'na~w~ ko~.se'giR Zu~'taX 'ka.da fra.gi~'me~.tu, a i~.sis'te~.sja E na.tu'raw
 
 ref:	Hoje em dia roupa, corte de cabelo e etc., defini as pessoas.
 corrigida:	'o.Zi e~j~ 'Di.a 'Row.pa, 'kOX.Ti Di ka'be.lu i 'e.Ti 'sE.te.ra, de.fi~'ni as pe'so.as
@@ -134,7 +134,7 @@ ref:	Se um corte alivia  Uma oração  Pode mudar Um dia
 corrigida:	si u~ 'kOX.Ti a.li'vi.a u~.ma o.ra'sa~w~ 'pO.Di mu'dar u~ 'Di.a
 
 ref:	Me contrarie, me impugne, mas jamais fará com que eu corte a essência de minhas palavras.
-corrigida:	mi ko~.tra'ri.i, mi i~'pu.gi.ni, ma.Za~'majs fa'ra ko~ ki ew 'kOX.Ti a e'se~.sja Di 'mi~.Jas pa'la.vras
+corrigida:	mi ko~.tra'ri.i, mi i~'pu.gi~.ni, ma.Za~'majs fa'ra ko~ ki ew 'kOX.Ti a e'se~.sja Di 'mi~.Jas pa'la.vras
 
 ref:	preconceito sobre raciais. corte seu pulço. e vê se a cor do sangue são iguais.
 corrigida:	pre.ko~'sej.tu 'so.bri Ra.si'ajs, 'kOX.Ti 'sew 'puw.su, i 've si a 'koR du 'sa~.gi 'sa~w~ i'gwajs
@@ -221,7 +221,7 @@ ref:	Não desmate a natureza, não interrompa vidas, não corte as árvores elas
 corrigida:	'na~w~ dez'ma.Ti a na.tu're.za, 'na~w~ i~.te'Ro~.pa 'vi.das, 'na~w~ 'kOX.Ti az 'aR.vo.riz 'E.las 'sa~w~ as 'ka.zas dus 'pa.sa.rus
 
 ref:	A crise espiritual é tamanha que nem a picanha entra no corte da ignorância da carne.
-corrigida:	a 'kri.zi es.pi.ri.tu'aw E ta~'ma~.Ja ki ne~j~ a pi'ka~.Ja 'e~.tra nu 'kOX.Ti da i.gi.no'ra~.sja da 'kaR.ni
+corrigida:	a 'kri.zi es.pi.ri.tu'aw E ta~'ma~.Ja ki ne~j~ a pi'ka~.Ja 'e~.tra nu 'kOX.Ti da i.gi~.no'ra~.sja da 'kaR.ni
 
 ref:	Corte o pecado pela raiz, na tentação. Prevenir é sempre melhor que resolver.
 corrigida:	'kOX.Ti u pe'ka.du 'pe.la Ra'is, na te~.ta'sa~w~, pre.ve~'nir E 'se~.pri me'LOX ki Re.zow'veX
@@ -1604,7 +1604,7 @@ ref:	Em ciência não existe um erro tão grosseiro que, amanhã ou depois, sob 
 corrigida:	e~j~ si'e~.sja 'na~w~ e'zis.Ti u~ 'e.Ru 'ta~w~ gro'sej.ru ki, a~.ma~'Ja~ ow de'pojs, sob aw'gu~.ma peXs.pek'Ti.va, 'na~w~ pa're.sa pro'fE.Ti.ku
 
 ref:	É da ignorância e da avidez que surge o mundo do erro, e as suas causas e condições existem apenas dentro da mente, em nenhum outro lugar mais.
-corrigida:	E da i.gi.no'ra~.sja i da a.vi'dejs ki 'suR.Zi u 'mu~.du du 'e.Ru, i as 'su.as 'kaw.zaz i ko~.Di'so~j~z e'zis.te~j~ a'pe~.nas 'de~.tru da 'me~.Ti, e~j~ ne~'Ju~ 'ow.tru lu'gaR 'majs
+corrigida:	E da i.gi~.no'ra~.sja i da a.vi'dejs ki 'suR.Zi u 'mu~.du du 'e.Ru, i as 'su.as 'kaw.zaz i ko~.Di'so~j~z e'zis.te~j~ a'pe~.nas 'de~.tru da 'me~.Ti, e~j~ ne~'Ju~ 'ow.tru lu'gaR 'majs
 
 ref:	Um erro é tanto mais perigoso quanto mais verdade contém.
 corrigida:	u~ 'e.Ru E 'ta~.tu 'majs pe.ri'go.zu 'kwa~.tu 'majs veR'da.Di ko~'te~j~
@@ -1652,13 +1652,13 @@ ref:	A guerra é a arte de matar pessoas inocentes por questões fúteis
 corrigida:	a 'gE.Ra E a 'aX.Ti Di ma'taX pe'so.az i~.no'se~.Tis puX kes'to~j~s 'fu.tejs
 
 ref:	Dentre milhões de deuses, religiões, culturas e etnias o que leva o ser humano a acreditar que seus valores são superiores a de outro?
-corrigida:	'de~.tri mi'Lo~j~s Di 'dew.zis, Re.li.Zi'o~j~s, kuw'tu.raz i e.Ti'ni.az u ki 'lE.va u 'ser u~'ma~.nu a a.kre.Di'taX ki 'sews va'lo.ris 'sa~w~ su.pe.ri'o.riz a Di 'ow.tru
+corrigida:	'de~.tri mi'Lo~j~s Di 'dew.zis, Re.li.Zi'o~j~s, kuw'tu.raz i e.Ti~'ni.az u ki 'lE.va u 'ser u~'ma~.nu a a.kre.Di'taX ki 'sews va'lo.ris 'sa~w~ su.pe.ri'o.riz a Di 'ow.tru
 
 ref:	O melhor para a raça humana seria se todos deixassem suas diferenças religiosas, físicas e culturais de lado e vivessem em paz compartilhando o que tem
 corrigida:	u me'LOX 'pa.ra a 'Ra.sa u~'ma~.na se'ri.a si 'to.dus dej'Sa.se~j~ 'su.as Di.fe're~.sas Re.li.Zi'O.zas, 'fi.zi.kaz i kuw.tu'rajs Di 'la.du i vi've.se~j~ e~j~ 'pajs ko~.paX.Ti'La~.du u ki 'te~j~
 
 ref:	As pessoas devem assumir sua insignificância para que haja paz
-corrigida:	as pe'so.as 'dE.ve~j~ a.su~'miX 'su.a i~.si.gi.ni.fi'ka~.sja 'pa.ra ki 'a.Za 'pajs
+corrigida:	as pe'so.as 'dE.ve~j~ a.su~'miX 'su.a i~.si.gi~.ni.fi'ka~.sja 'pa.ra ki 'a.Za 'pajs
 
 ref:	Eu tenho um sonho, de que um dia a ciência a compaixão e o progresso conduzam o mundo para a felicidade de todos, mas até que isso aconteça, estamos submersos em um mundo de ódio
 corrigida:	ew 'te~.Ju u~ 'so~.Ju, Di ki u~ 'Di.a a si'e~.sja a ko~.paj'Sa~w~ i u pro'grE.su ko~'du.za~w~ u 'mu~.du 'pa.ra a fe.li.si'da.Di Di 'to.dus, majz a'tE ki 'i.su a.ko~'te.sa, es'ta~.mus sub'mEX.suz e~j~ u~ 'mu~.du Di 'O.Dju
@@ -1706,7 +1706,7 @@ ref:	Sou eu que erro em confiar nas pessoas, ou são as pessoas que erram ao men
 corrigida:	'sow ew ki 'E.Ru e~j~ ko~.fi'aR nas pe'so.as, ow 'sa~w~ as pe'so.as ki 'E.Ra~w~ aw me~'TiX 'pa.ra 'mi~
 
 ref:	Eu tenho duas regras 1° Eu nunca erro 2° Se eu errar eu volto para a primeira regra
-corrigida:	ew 'te~.Ju 'du.as 'RE.graz pri'mej.ru ew 'nu~.ka 'E.Ru se'gu~.du si ew e'Rar ew 'vOw.tu 'pa.ra a pri~'mej.ra 'RE.gra
+corrigida:	ew 'te~.Ju 'du.as 'RE.graz pri~'mej.ru ew 'nu~.ka 'E.Ru se'gu~.du si ew e'Rar ew 'vOw.tu 'pa.ra a pri~'mej.ra 'RE.gra
 
 ref:	Antes de mais nada, tenho duas regras. Primeiro, eu nunca erro. Segundo, se eu errar, volte para a primeira regra.
 corrigida:	'a~.Tis Di 'majs 'na.da, 'te~.Ju 'du.as 'RE.gras, pri~'mej.ru, ew 'nu~.ka 'E.Ru, se'gu~.du, si ew e'RaX, 'vOw.Ti 'pa.ra a pri~'mej.ra 'RE.gra
@@ -1898,7 +1898,7 @@ ref:	O erro e a maternidade, O poder paternal não deve ser usado para tudo perd
 corrigida:	u 'e.Ru i a ma.teR.ni'da.Di, u po'deX pa.teR'naw 'na~w~ 'dE.vi 'ser u'za.du 'pa.ra 'tu.du peR.do'aX, i 'si~ 'pa.ra 'poX 'fi~ a 'du.vi.daz i 'pa.ra a.ko~.se'LaX
 
 ref:	Um erro na vida, não significa uma vida de erros.
-corrigida:	u~ 'e.Ru na 'vi.da, 'na~w~ si.gi.ni'fi.ka u~.ma 'vi.da Di 'e.Rus
+corrigida:	u~ 'e.Ru na 'vi.da, 'na~w~ si.gi~.ni'fi.ka u~.ma 'vi.da Di 'e.Rus
 
 ref:	É cobardia quando o homem não assume o seu próprio erro por orgulho.
 corrigida:	E ko.baR'Di.a 'kwa~.du u 'o~.me~j~ 'na~w~ a'su~.mi u 'sew 'prO.prju 'e.Ru pur oR'gu.Lu
@@ -2096,7 +2096,7 @@ ref:	Erro se comete uma vez, a segunda vez é uma decisão.
 corrigida:	'e.Ru si ko~'mE.Ti u~.ma 'vejs, a se'gu~.da 'vejz E u~.ma de.si'za~w~
 
 ref:	Que erro será esse? E que necessidade tinha ele de vir lançar-me este enigma no coração?
-corrigida:	ki 'e.Ru se'ra 'e.si, i ki ne.se.si'da.Di 'Ti~.Ja 'e.li Di 'viR la~'saX mi 'es.Ti e~'ni.gi.ma nu ko.ra'sa~w~
+corrigida:	ki 'e.Ru se'ra 'e.si, i ki ne.se.si'da.Di 'Ti~.Ja 'e.li Di 'viR la~'saX mi 'es.Ti e~'ni.gi~.ma nu ko.ra'sa~w~
 
 ref:	Não há dúvida de que a Monarquia é ainda, para o Brasil, o melhor governo. Foi um grande erro a República para o Brasil.
 corrigida:	'na~w~ 'a 'du.vi.da Di ki a mo~.naX'ki.a E a'i~.da, 'pa.ra u bra'ziw, u me'LOR go'veR.nu, 'foj u~ 'gra~.Di 'e.Ru a Re'pu.bli.ka 'pa.ra u bra'ziw
@@ -2696,7 +2696,7 @@ ref:	Álgebra do Mistério
 corrigida:	'aw.Ze.bra du mis'tE.rju
 
 ref:	Há um destino igual, porque é abstrato, para os homens e para as coisas - uma designação igualmente indiferente na álgebra do mistério.
-corrigida:	'a u~ des'Ti~.nu i'gwaw, puX'ke E abs'tra.tu, 'pa.ra uz 'o~.me~z i 'pa.ra az 'koj.zas, u~.ma de.zi.gi.na'sa~w~ i.gwaw'me~.Ti i~.Di.fe're~.Ti na 'aw.Ze.bra du mis'tE.rju
+corrigida:	'a u~ des'Ti~.nu i'gwaw, puX'ke E abs'tra.tu, 'pa.ra uz 'o~.me~z i 'pa.ra az 'koj.zas, u~.ma de.zi.gi~.na'sa~w~ i.gwaw'me~.Ti i~.Di.fe're~.Ti na 'aw.Ze.bra du mis'tE.rju
 
 ref:	Conhece alguém as fronteiras a sua alma, para que possa dizer - eu sou eu?
 corrigida:	ko~'JE.si aw'ge~j~ as fro~'tej.raz a 'su.a 'aw.ma, 'pa.ra ki 'pO.sa Di'zeX, ew 'sow ew

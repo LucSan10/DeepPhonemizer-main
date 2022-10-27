@@ -62,7 +62,7 @@ ref:	Dale Carnegie
 corrigida:	'da.li 'kaR.ne.Zi
 
 ref:	Max Eastman
-corrigida:	'makz 'is'Ti.ma~
+corrigida:	'makz 'is'Ti~.ma~
 
 ref:	Jodie bubbles Alan
 corrigida:	Zo'Di 'bu.bliz a'la~
@@ -161,7 +161,7 @@ ref:	Susannah Morris, 10 anos
 corrigida:	su'za~.na 'mO.Ris, 'dEjz a~'nus
 
 ref:	Wallace Stegner
-corrigida:	'wa.la.si 'stE.gi'neX
+corrigida:	'wa.la.si 'stE.gi~'neX
 
 ref:	Madre Teresa, em Heart of Joy
 corrigida:	'ma.dri te're.za, e~j~ 'RaX.Ti of 'ZOj

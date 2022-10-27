@@ -1,5 +1,5 @@
 ref:	A Árvore Generosa
-corrigida:	a 'aR.vo.ri Ze.ne'rO.za
+corrigida:	a 'aR.vo.ri Ze~.ne'rO.za
 
 ref:	De Shel Silverstein
 corrigida:	dZi 'SEw siw.veXS'tai~j~

@@ -35,7 +35,7 @@ ref:	O filho da costureira
 corrigida:	u 'fi.Lu da kos.tu'rej.ra
 
 ref:	A chegada da morte nem sempre tem o significado de desgraça.
-corrigida:	a Se'ga.da da 'mOX.Ti ne~j~ 'se~.pri te~j~ u si.gi.ni.fi'ka.du Di dez'gra.sa
+corrigida:	a Se'ga.da da 'mOX.Ti ne~j~ 'se~.pri te~j~ u si.gi~.ni.fi'ka.du Di dez'gra.sa
 
 ref:	Não há quem discorde quando essa afirmativa é aplicada a pessoas decrépitas, aos que enfrentam graves padecimentos físicos, dores incontroláveis, ou aqueles que perderam o domínio das faculdades mentais.
 corrigida:	'na~w~ 'a 'ke~j~ Dis'kOR.Di 'kwa~.du 'E.sa a.fiR.ma'Ti.va E a.pli'ka.da a pe'so.as de'krE.pi.tas, aws ki e~'fre~.ta~w~ 'gra.vis pa.de.si~'me~.tus 'fi.zi.kus, 'do.riz i~.ko~.tro'la.vejs, ow a'ke.lis ki peR'de.ra~w~ u do~'mi~.nju das fa.kuw'da.Dis me~'tajs
@@ -134,7 +134,7 @@ ref:	É só observar como os automóveis diminuem a velocidade ao passar por alg
 corrigida:	E 'sO ob.seR'vaX 'ko~.mu uz aw.to~'mO.vejs Di~.mi~'nu.e~j~ a ve.lo.si'da.Di aw pa'saX pur aw'gu~ a.tro.pe.la~'me~.tu na 'pis.ta, ow az a.glo~.me.ra'so~j~s ki si 'fOR.ma~w~ aw Re'dOR du tra~.ze'u~.Ti ka'i.du 'nu~.ma 'Ru.a Di mo.vi~'me~.tu
 
 ref:	As crianças manifestam essa atração com espontaneidade, os adultos nem tanto; procuramos resistir a ela por considerá-la mórbida e por medo de que a figura da pessoa falecida fique impregnada em nosso imaginário e nos visite em ocasiões inoportunas.
-corrigida:	as kri'a~.sas ma~.ni'fEs.ta~w~ 'E.sa a.tra'sa~w~ ko~ es.po~.ta~.nej'da.Di, uz a'duw.tus ne~j~ 'ta~.tu, pro.ku'ra~.mus Re.zis'Tir a 'E.la puR ko~.si.de'ra la 'mOR.bi.da i puR 'me.du Di ki a fi'gu.ra da pe'so.a fa.le'si.da 'fi.ki i~.pre.gi'na.da e~j~ 'nO.su i~.ma.Zi~'na.rju i nus vi'zi.Ti e~j~ o.ka.zi'o~j~z i~.no.poX'tu~.nas
+corrigida:	as kri'a~.sas ma~.ni'fEs.ta~w~ 'E.sa a.tra'sa~w~ ko~ es.po~.ta~.nej'da.Di, uz a'duw.tus ne~j~ 'ta~.tu, pro.ku'ra~.mus Re.zis'Tir a 'E.la puR ko~.si.de'ra la 'mOR.bi.da i puR 'me.du Di ki a fi'gu.ra da pe'so.a fa.le'si.da 'fi.ki i~.pre.gi~'na.da e~j~ 'nO.su i~.ma.Zi~'na.rju i nus vi'zi.Ti e~j~ o.ka.zi'o~j~z i~.no.poX'tu~.nas
 
 ref:	Quando por alguma razão, entretanto, conseguimos romper essa resistência e nos detemos diante de alguém que acabou de morrer, somos inevitavelmente invadidos por um silêncio reflexivo.
 corrigida:	'kwa~.du pur aw'gu~.ma Ra'za~w~, e~.tre'ta~.tu, ko~.se'gi~.mus Ro~'per 'E.sa Re.zis'te~.sja i nus de'te~.mus Di'a~.Ti Di aw'ge~j~ ki a.ka'bow Di mo'ReX, 'so~.muz i~.ne.vi.ta.vew'me~.Ti i~.va'Di.dus pur u~ si'le~.sju Re.flek'si.vu
@@ -173,7 +173,7 @@ ref:	Infelizmente, essa foi a primeira de muitas verificações de óbitos semel
 corrigida:	i~.fe.liz'me~.Ti, 'E.sa 'foj a pri~'mej.ra Di 'mu~j~.tas ve.ri.fi.ka'so~j~s Di 'O.bi.tus se~.me'La~.Tis na ka'dej.a, Se'gej a a.tes'taX 'trejs na 'mez.ma 'taR.Di
 
 ref:	A sucessão de casos me ensinou a controlar as reações viscerais e a manter equilíbrio emocional diante deles, mas não foi capaz de evitar que algumas imagens daquelas mortes ficassem impregnadas em minha memória.
-corrigida:	a su.se'sa~w~ Di 'ka.zus mi e~.si~'now a ko~.tro'lar as Re.a'so~j~s vi.se'rajz i a ma~'ter e.ki'li.brju e~.mo.si.o~'naw Di'a~.Ti 'de.lis, majs 'na~w~ 'foj ka'pajz Di e.vi'taX ki aw'gu~.maz i~'ma.Ze~s da'kE.las 'mOX.Tis fi'ka.se~j~ i~.pre.gi'na.daz e~j~ 'mi~.Ja me~'mO.rja
+corrigida:	a su.se'sa~w~ Di 'ka.zus mi e~.si~'now a ko~.tro'lar as Re.a'so~j~s vi.se'rajz i a ma~'ter e.ki'li.brju e~.mo.si.o~'naw Di'a~.Ti 'de.lis, majs 'na~w~ 'foj ka'pajz Di e.vi'taX ki aw'gu~.maz i~'ma.Ze~s da'kE.las 'mOX.Tis fi'ka.se~j~ i~.pre.gi~'na.daz e~j~ 'mi~.Ja me~'mO.rja
 
 ref:	Só não sei explicar por que essas lembranças se restringem a apenas uma fração das dezenas de casos atendidos.
 corrigida:	'sO 'na~w~ 'sej es.pli'kaX puX 'ke 'E.sas le~'bra~.sas si Res'tri~.Ze~j~ a a'pe~.naz u~.ma fra'sa~w~ das de'ze~.nas Di 'ka.zuz a.te~'Di.dus
@@ -305,7 +305,7 @@ ref:	Nada havia de errado em passar alguns dias no Pantanal, mas não fazia sent
 corrigida:	'na.da a'vi.a Di e'Ra.du e~j~ pa'sar aw'gu~s 'Di.as nu pa~.ta~'naw, majs 'na~w~ fa'zi.a se~'Ti.du i~.te.Ro~'peX puR 'mu~j~.tu 'te~.pu u tra.ta~'me~.tu se~.ma~'naw ki 'ta~.tu be~.ne'fi.sju a'vi.a Li tra'zi.du
 
 ref:	Para continuá-lo, seria preciso ir e voltar de Mato Grosso toda quarta-feira, esforço inviável para um homem de setenta e sete anos com câncer de estômago.
-corrigida:	'pa.ra ko~.Ti.nu'a lu, se'ri.a pre'si.zu 'ir i vow'taR Di 'ma.tu 'gro.su 'to.da 'kwaX.ta 'fej.ra, es'foX.su i~.vi'a.vew 'pa.ra u~ 'o~.me~j~ Di se'te~.ta i 'sE.Ti 'a~.nus ko~ 'ka~.seR Di es'to~.ma.gu
+corrigida:	'pa.ra ko~.Ti~.nu'a lu, se'ri.a pre'si.zu 'ir i vow'taR Di 'ma.tu 'gro.su 'to.da 'kwaX.ta 'fej.ra, es'foX.su i~.vi'a.vew 'pa.ra u~ 'o~.me~j~ Di se'te~.ta i 'sE.Ti 'a~.nus ko~ 'ka~.seR Di es'to~.ma.gu
 
 ref:	E se passasse mal na fazenda?
 corrigida:	i si pa'sa.si 'maw na fa'ze~.da
@@ -380,7 +380,7 @@ ref:	Para agravar a situação, tais sentimentos antagônicos não são mutuamen
 corrigida:	'pa.ra a.gra'var a si.tu.a'sa~w~, 'tajs se~.Ti~'me~.tuz a~.ta'go~.ni.kus 'na~w~ 'sa~w~ mu.tu.a~'me~.Ti es.klu'de~.Tis, aw ko~'tra.rju, kos'tu~.ma~w~ 'vir a 'to~.na Di 'fOR.ma si~.muw'ta~.ne.a, e~j~ pro.poX'so~j~s va.ri'a.vejs, Di a'koR.du ko~ as siX.ku~s'ta~.sjaz i a is'tO.rja pre'grE.sa da Re.la'sa~w~ a.fe'Ti.va
 
 ref:	Um marido que vai trabalhar depois de uma noite insone por causa da esposa enferma poderá achar o sacrifício insignificante se comparado a dedicação dela a família ou revoltar-se contra mais essa tirania da mulher.
-corrigida:	u~ ma'ri.du ki 'vaj tra.ba'LaR de'pojs Di u~.ma 'noj.Ti i~'so~.ni puX 'kaw.za da es'po.za e~'feR.ma po.de'ra a'Sar u sa.kri'fi.sju i~.si.gi.ni.fi'ka~.Ti si ko~.pa'ra.du a de.Di.ka'sa~w~ 'dE.la a fa~'mi.lja ow Re.vow'taX si 'ko~.tra 'majz 'E.sa Ti.ra~'ni.a da mu'LEX
+corrigida:	u~ ma'ri.du ki 'vaj tra.ba'LaR de'pojs Di u~.ma 'noj.Ti i~'so~.ni puX 'kaw.za da es'po.za e~'feR.ma po.de'ra a'Sar u sa.kri'fi.sju i~.si.gi~.ni.fi'ka~.Ti si ko~.pa'ra.du a de.Di.ka'sa~w~ 'dE.la a fa~'mi.lja ow Re.vow'taX si 'ko~.tra 'majz 'E.sa Ti.ra~'ni.a da mu'LEX
 
 ref:	Que impacto exercerão em seu estado de ânimo a segunda, a terceira e as demais noites mal-dormidas?
 corrigida:	ki i~'pak.tu e.zeX.se'ra~w~ e~j~ 'sew es'ta.du Di 'a~.ni~.mu a se'gu~.da, a teX'sej.ra i as de~'majs 'noj.Tis 'maw doR'mi.das
@@ -392,7 +392,7 @@ ref:	De que adianta uma mulher afirmar sua crença nos princípios mais nobres d
 corrigida:	Di ki a.Di'a~.ta u~.ma mu'LEr a.fiR'maX 'su.a 'kre~.sa nus pri~'si.pjus 'majs 'nO.bris Di so.li.da.ri.e'da.Di ko~ u ko~.pa~'Jej.ru e~'feR.mu, si ne~'Ju~.ma Di 'su.az a.Ti'tu.Dis Re'vE.la ka'ri~.Ju pur 'e.li
 
 ref:	Que significado atribuir a frase: Doutor, estou disposto a fazer tudo pela minha mulher, se na madrugada seguinte, quando ela geme de dor, ele fica impaciente?
-corrigida:	ki si.gi.ni.fi'ka.du a.tri.bu'ir a 'fra.zi, dow'toX, es'tow Dis'pos.tu a fa'zeX 'tu.du 'pe.la 'mi~.Ja mu'LEX, si na ma.dru'ga.da se'gi~.Ti, 'kwa~.du 'E.la 'Ze~.mi Di 'doX, 'e.li 'fi.ka i~.pa.si'e~.Ti
+corrigida:	ki si.gi~.ni.fi'ka.du a.tri.bu'ir a 'fra.zi, dow'toX, es'tow Dis'pos.tu a fa'zeX 'tu.du 'pe.la 'mi~.Ja mu'LEX, si na ma.dru'ga.da se'gi~.Ti, 'kwa~.du 'E.la 'Ze~.mi Di 'doX, 'e.li 'fi.ka i~.pa.si'e~.Ti
 
 ref:	Ou se ele lhe nega acesso ao conforto que as posses do casal poderiam tranquilamente propiciar?
 corrigida:	ow si 'e.li Li 'nE.ga a'sE.su aw ko~'foX.tu ki as 'pO.sis du ka'zaw po.de'ri.a~w~ tra~.kwi.la~'me~.Ti pro.pi.si'aX
@@ -407,7 +407,7 @@ ref:	Posso contar nos dedos as manifestações de desprendimento verdadeiro que 
 corrigida:	'pO.su ko~'taR nus 'de.duz as ma~.ni.fes.ta'so~j~s Di des.pre~.Di~'me~.tu veR.da'dej.ru ki 'Ti.vi o.ka.zi'a~w~ Di pre.ze~.si'aR 'ne.sis 'ka.zus
 
 ref:	Uma delas foi a de um comerciante paranaense de meia-idade, de postura ereta, resquício da formação militar, que, quando terminou a primeira consulta da esposa, portadora de uma neoplasia maligna rara, acompanhou-a até a sala de espera e voltou para dizer, de forma respeitosa mas inequívoca:
-corrigida:	u~.ma 'dE.las 'foj a Di u~ ko~.meX.si'a~.Ti pa.ra~.na'e~.si Di 'mej.a i'da.Di, Di pos'tu.ra e'rE.ta, Res'ki.sju da foR.ma'sa~w~ mi.li'taX, ki, 'kwa~.du teR.mi~'now a pri~'mej.ra ko~'suw.ta da es'po.za, poX.ta'do.ra Di u~.ma ne.o.pla'zi.a ma'li.gi.na 'Ra.ra, a.ko~.pa~'Jow a a'tE a 'sa.la Di es'pE.ra i vow'tow 'pa.ra Di'zeX, Di 'fOR.ma Res.pej'tO.za majz i~.ne'ki.vo.ka
+corrigida:	u~.ma 'dE.las 'foj a Di u~ ko~.meX.si'a~.Ti pa.ra~.na'e~.si Di 'mej.a i'da.Di, Di pos'tu.ra e'rE.ta, Res'ki.sju da foR.ma'sa~w~ mi.li'taX, ki, 'kwa~.du teR.mi~'now a pri~'mej.ra ko~'suw.ta da es'po.za, poX.ta'do.ra Di u~.ma ne.o.pla'zi.a ma'li.gi~.na 'Ra.ra, a.ko~.pa~'Jow a a'tE a 'sa.la Di es'pE.ra i vow'tow 'pa.ra Di'zeX, Di 'fOR.ma Res.pej'tO.za majz i~.ne'ki.vo.ka
 
 ref:	Quarenta anos atrás, quando casamos, não tínhamos um tostão; tudo o que conseguimos foi ao lado um do outro.
 corrigida:	kwa're~.ta 'a~.nuz a'trajs, 'kwa~.du ka'za~.mus, 'na~w~ 'Ti~.Ja~.muz u~ tos'ta~w~, 'tu.du u ki ko~.se'gi~.mus 'foj aw 'la.du u~ du 'ow.tru
@@ -695,7 +695,7 @@ ref:	O amor é uma chuva perigosa em tempo de seca; pode causar estrago, mas pio
 corrigida:	u a~'mor E u~.ma 'Su.va pe.ri'gO.za e~j~ 'te~.pu Di 'se.ka, 'pO.Di kaw'zar es'tra.gu, majs pi'Or E si faw'taX
 
 ref:	A palavra feliz vem do latim felix que significa fértil. Então não espere que uma pessoa seca queira ver alguém feliz. Azedos contaminam. E geralmente se atraem e se toleram.
-corrigida:	a pa'la.vra fe'liz 've~j~ du la'Ti~ fe'liks ki si.gi.ni'fi.ka 'fEX.Tiw, e~'ta~w~ 'na~w~ es'pE.ri ki u~.ma pe'so.a 'se.ka 'kej.ra 'ver aw'ge~j~ fe'lis, a'ze.dus ko~.ta~'mi~.na~w~, i Ze.raw'me~.Ti si a'tra.e~j~ i si to'le.ra~w~
+corrigida:	a pa'la.vra fe'liz 've~j~ du la'Ti~ fe'liks ki si.gi~.ni'fi.ka 'fEX.Tiw, e~'ta~w~ 'na~w~ es'pE.ri ki u~.ma pe'so.a 'se.ka 'kej.ra 'ver aw'ge~j~ fe'lis, a'ze.dus ko~.ta~'mi~.na~w~, i Ze.raw'me~.Ti si a'tra.e~j~ i si to'le.ra~w~
 
 ref:	Viver é não se entregar ao acaso, afinal aquele que existe como folha seca ao vento jamais poderá pousar sobre seu querer.
 corrigida:	vi'ver E 'na~w~ si e~.tre'gar aw a'ka.zu, a.fi~'naw a'ke.li ki e'zis.Ti 'ko~.mu 'fo.La 'se.ka aw 've~.tu Za~'majs po.de'ra pow'zaX 'so.bri 'sew ke'reX
@@ -1109,7 +1109,7 @@ ref:	Fico!  Eu não quero ir embora a seca quer me expulsar não tem vida que vi
 corrigida:	'fi.ku, ew 'na~w~ 'kE.ru 'ir e~'bO.ra a 'se.ka 'kER mi es.puw'saR 'na~w~ te~j~ 'vi.da ki vi'gO.ra se~j~ 'teR 'na.da pra pla~'taR 'de.si 'Zej.tu a 'tE.Ra 'SO.ra i ew pro'ku.ru u~.ma es'kO.ra 'o~.Di 'pO.sa mi sus.te~'taX
 
 ref:	Seca e honra. A seca traz sofrimento a chuva nem piedade o verde se foi no vento o gado deixou saudade da vida sobra o lamento de onde falta alimento mas sobra dignidade.
-corrigida:	'se.ka i 'o~.Ra, a 'se.ka 'trajs so.fri~'me~.tu a 'Su.va ne~j~ pi.e'da.Di u 'veR.Di si 'foj nu 've~.tu u 'ga.du dej'Sow saw'da.Di da 'vi.da 'sO.bra u la~'me~.tu Di 'o~.Di 'faw.ta a.li~'me~.tu majs 'sO.bra Di.gi.ni'da.Di
+corrigida:	'se.ka i 'o~.Ra, a 'se.ka 'trajs so.fri~'me~.tu a 'Su.va ne~j~ pi.e'da.Di u 'veR.Di si 'foj nu 've~.tu u 'ga.du dej'Sow saw'da.Di da 'vi.da 'sO.bra u la~'me~.tu Di 'o~.Di 'faw.ta a.li~'me~.tu majs 'sO.bra Di.gi~.ni'da.Di
 
 ref:	Permissão!  Não me canso de esperar a chuva que tanto chamo na terra seca de rachar quase não se vê um ramo Deus permita ela chegar que eu não precise deixar o nordeste que tanto amo.
 corrigida:	peR.mi'sa~w~, 'na~w~ mi 'ka~.su Di es.pe'rar a 'Su.va ki 'ta~.tu 'Sa~.mu na 'tE.Ra 'se.ka Di Ra'SaX 'kwa.zi 'na~w~ si 've u~ 'Ra~.mu 'dews peR'mi.ta 'E.la Se'gaX ki ew 'na~w~ pre'si.zi dej'Sar u noR'dEs.Ti ki 'ta~.tu 'a~.mu
@@ -1376,7 +1376,7 @@ ref:	Estou com sede de mudanças, mas não quero arrastar os móveis, nem desent
 corrigida:	es'tow ko~ 'se.Di Di mu'da~.sas, majs 'na~w~ 'kE.ru a.Ras'tar us 'mO.vejs, ne~j~ de.ze~.toX'tar us 'kwa.drus, 'kE.ru de.za.bi'taR 'mewz 'a.bi.tus
 
 ref:	Seja sincero em sua busca. Faça tudo por ela. Ela é a sede de conhecer o original através do reflexo que o torna digno do acidente final: A Iluminação.
-corrigida:	'se.Za si~'sE.ru e~j~ 'su.a 'bus.ka, 'fa.sa 'tu.du pur 'E.la, 'E.la E a 'se.Di Di ko~.Je'ser u o.ri.Zi~'naw a.tra'vEjs du Re'flEk.su ki u 'tOR.na 'Di.gi.nu du a.si'de~.Ti fi~'naw, a i.lu~.mi~.na'sa~w~
+corrigida:	'se.Za si~'sE.ru e~j~ 'su.a 'bus.ka, 'fa.sa 'tu.du pur 'E.la, 'E.la E a 'se.Di Di ko~.Je'ser u o.ri.Zi~'naw a.tra'vEjs du Re'flEk.su ki u 'tOR.na 'Di.gi~.nu du a.si'de~.Ti fi~'naw, a i.lu~.mi~.na'sa~w~
 
 ref:	As massas nunca tiveram sede de verdade. Elas querem ilusões e não vivem sem elas.
 corrigida:	as 'ma.sas 'nu~.ka Ti'vE.ra~w~ 'se.Di Di veR'da.Di, 'E.las 'kE.re~j~ i.lu'zo~j~z i 'na~w~ 'vi.ve~j~ se~j~ 'E.las
@@ -1427,7 +1427,7 @@ ref:	Acorda menina, bota sorriso na cara e vai ser feliz! A vida não espera, el
 corrigida:	a'kOR.da me~'ni~.na, 'bO.ta so'Ri.zu na 'ka.ra i 'vaj 'seX fe'lis, a 'vi.da 'na~w~ es'pE.ra, 'E.la te~j~ 'se.Di Di a.ko~.te'seX
 
 ref:	Matérias-primas do BRASIL  Brancos: Riqueza (de ignorância) Africanos: Sede (de importância) Indígenas: Liberdade (de ganância)
-corrigida:	ma'tE.rjas 'pri~.mas du bra'ziw 'bra~.kus, Ri'ke.za, Di i.gi.no'ra~.sja, a.fri'ka~.nus, 'se.Di, Di i~.poX'ta~.sja, i~'Di.Ze~.nas, li.beR'da.Di, Di ga~'na~.sja
+corrigida:	ma'tE.rjas 'pri~.mas du bra'ziw 'bra~.kus, Ri'ke.za, Di i.gi~.no'ra~.sja, a.fri'ka~.nus, 'se.Di, Di i~.poX'ta~.sja, i~'Di.Ze~.nas, li.beR'da.Di, Di ga~'na~.sja
 
 ref:	Procurar no deserto uma gota de vingança pra saciar uma sede insaciável, é uma caminhada solitária.
 corrigida:	pro.ku'raR nu de'zEX.tu u~.ma 'go.ta Di vi~'ga~.sa pra sa.si'ar u~.ma 'se.Di i~.sa.si'a.vew, E u~.ma ka~.mi~'Ja.da so.li'ta.rja
@@ -1676,13 +1676,13 @@ ref:	Ela nao mata a sede com alguns goles, ela prefere se embriagar e então se 
 corrigida:	'E.la 'naw 'ma.ta a 'se.Di ko~ aw'gu~s 'gO.lis, 'E.la pre'fE.ri si e~.bri.a'gar i e~'ta~w~ si e~.bri'a.ga Di ko'ra.Ze~j~ i a~'moX, ko'ra.Ze~j~ 'pa.ra lu'tar i a~'moX 'pa.ra ve~'ser a 'lu.ta
 
 ref:	Pois é Sigmund, a humanidade está com tanta sede, que está se afogando no próprio copo...
-corrigida:	'pojz E si.gi'mu~.Di, a u~.ma~.ni'da.Di es'ta ko~ 'ta~.ta 'se.Di, ki es'ta si a.fo'ga~.du nu 'prO.prju 'kO.pu
+corrigida:	'pojz E si.gi~'mu~.Di, a u~.ma~.ni'da.Di es'ta ko~ 'ta~.ta 'se.Di, ki es'ta si a.fo'ga~.du nu 'prO.prju 'kO.pu
 
 ref:	A sede por justiça nos faz preferir correr o risco de cometer uma injustiça a correr o risco de não conseguir fazer justiça.
 corrigida:	a 'se.Di puR Zus'Ti.sa nus 'fajs pre.fe'riX ko'Rer u 'Ris.ku Di ko~.me'ter u~.ma i~.Zus'Ti.sa a ko'Rer u 'Ris.ku Di 'na~w~ ko~.se'giX fa'zeR Zus'Ti.sa
 
 ref:	A escassa água da sabedoria, fabrica sede ignorante.   Giovane Silva Santos
-corrigida:	a es'ka.sa 'a.gwa da sa.be.do'ri.a, fa'bri.ka 'se.Di i.gi.no'ra~.Ti, Zi.o'va~.ni 'siw.va 'sa~.tus
+corrigida:	a es'ka.sa 'a.gwa da sa.be.do'ri.a, fa'bri.ka 'se.Di i.gi~.no'ra~.Ti, Zi.o'va~.ni 'siw.va 'sa~.tus
 
 ref:	As palavras são mágicas, têm o poder de, velar e revelar aquilo que somos  Ivan de Alencar
 corrigida:	as pa'la.vras 'sa~w~ 'ma.Zi.kas, 'te~j~ u po'deR Di, ve'lar i Re.ve'lar a'ki.lu ki 'so~.muz i'va~ Di a.le~'kaX
@@ -1766,7 +1766,7 @@ ref:	Deus, que nos fez mortais, por que é que nos deu a sede de eternidade de q
 corrigida:	'dews, ki nus 'fejz moX'tajs, puX 'ke E ki nus 'dew a 'se.Di Di e.teR.ni'da.Di Di ki E 'fej.tu u po'E.ta
 
 ref:	Querer respirar Ignorando a maré cheia Fechando os olhos Para não ver a lua Querer viver Por mais que a vida grite (Meu silêncio) Querendo o teu amor Como quem mata a sede No mar...
-corrigida:	ke're.Res.pi'rar i.gi.no'ra~.du a ma'rE 'Sej.a fe'Sa~.du uz 'O.Lus 'pa.ra 'na~w~ 'ver a 'lu.a ke'reR vi'veX puR 'majs ki a 'vi.da 'gri.Ti, 'mew si'le~.sju, ke're~.du u 'tew a~'moX 'ko~.mu 'ke~j~ 'ma.ta a 'se.Di nu 'maX
+corrigida:	ke're.Res.pi'rar i.gi~.no'ra~.du a ma'rE 'Sej.a fe'Sa~.du uz 'O.Lus 'pa.ra 'na~w~ 'ver a 'lu.a ke'reR vi'veX puR 'majs ki a 'vi.da 'gri.Ti, 'mew si'le~.sju, ke're~.du u 'tew a~'moX 'ko~.mu 'ke~j~ 'ma.ta a 'se.Di nu 'maX
 
 ref:	Turbulência  Minha poesia é um voo sem escalas Por uma zona de instabilidade. Deve ser lida com fome Com sede Em um único fôlego, Ao final do poema Máscaras cairão automaticamente.
 corrigida:	tuR.bu'le~.sja 'mi~.Ja po.e'zi.a E u~ 'vow se~j~ es'ka.las pur u~.ma 'zo~.na Di i~s.ta.bi.li'da.Di, 'dE.vi 'seR 'li.da ko~ 'fo~.mi ko~ 'se.Di e~j~ u~ 'u~.ni.ku 'fo.le.gu, aw fi~'naw du po'e~.ma 'mas.ka.ras kaj'ra~w~ aw.to~.ma.Ti.ka~'me~.Ti
@@ -2177,7 +2177,7 @@ ref:	Se você quiser muito, muito mesmo, algo, deixe ir. Se voltar para você é
 corrigida:	si vo'se ki'zER 'mu~j~.tu, 'mu~j~.tu 'mez.mu, 'aw.gu, 'dej.Si 'iX, si vow'taX 'pa.ra vo'se E puX'ke E 'sew 'pa.ra 'se~.pri, 'si 'na~w~ vow'taX, E puX'ke 'nu~.ka 'foj 'sew
 
 ref:	Bom mesmo é ir à luta com determinação, abraçar a vida com paixão, perder com classe e vencer com ousadia, porque o mundo pertence a quem se atreve e a vida é muito para ser insignificante.
-corrigida:	'bo~ 'mez.mu E 'ir a 'lu.ta ko~ de.teR.mi~.na'sa~w~, a.bra'sar a 'vi.da ko~ paj'Sa~w~, peR'deX ko~ 'kla.si i ve~'seX ko~ ow.za'Di.a, puX'ke u 'mu~.du peX'te~.si a 'ke~j~ si a'trE.vi i a 'vi.da E 'mu~j~.tu 'pa.ra 'ser i~.si.gi.ni.fi'ka~.Ti
+corrigida:	'bo~ 'mez.mu E 'ir a 'lu.ta ko~ de.teR.mi~.na'sa~w~, a.bra'sar a 'vi.da ko~ paj'Sa~w~, peR'deX ko~ 'kla.si i ve~'seX ko~ ow.za'Di.a, puX'ke u 'mu~.du peX'te~.si a 'ke~j~ si a'trE.vi i a 'vi.da E 'mu~j~.tu 'pa.ra 'ser i~.si.gi~.ni.fi'ka~.Ti
 
 ref:	Uma coisa boa sobre a música é que quando ela bate você não sente dor.
 corrigida:	u~.ma 'koj.za 'bo.a 'so.bri a 'mu.zi.ka E ki 'kwa~.du 'E.la 'ba.Ti vo'se 'na~w~ 'se~.Ti 'doX
@@ -2375,7 +2375,7 @@ ref:	Se eu não tenho sobre mim próprio o direito de matar, quem o concedeu à 
 corrigida:	si ew 'na~w~ 'te~.Ju 'so.bri 'mi~ 'prO.prju u Di'rej.tu Di ma'taX, 'ke~j~ u ko~.se'dew a so.si.e'da.Di
 
 ref:	Deviam parar com a demagogia sobre as massas. As massas são rudes, sem preparação, ignorantes, perniciosas em suas reivindicações e influências. Não precisam de lisonjas, mas de instrução.
-corrigida:	de'vi.a~w~ pa'raX ko~ a de~.ma.go'Zi.a 'so.bri as 'ma.sas, as 'ma.sas 'sa~w~ 'Ru.Dis, se~j~ pre.pa.ra'sa~w~, i.gi.no'ra~.Tis, peR.ni.si'O.zaz e~j~ 'su.as Rej.vi~.Di.ka'so~j~z i i~.flu'e~.sjas, 'na~w~ pre'si.za~w~ Di li'zo~.Zas, majs Di i~s.tru'sa~w~
+corrigida:	de'vi.a~w~ pa'raX ko~ a de~.ma.go'Zi.a 'so.bri as 'ma.sas, as 'ma.sas 'sa~w~ 'Ru.Dis, se~j~ pre.pa.ra'sa~w~, i.gi~.no'ra~.Tis, peR.ni.si'O.zaz e~j~ 'su.as Rej.vi~.Di.ka'so~j~z i i~.flu'e~.sjas, 'na~w~ pre'si.za~w~ Di li'zo~.Zas, majs Di i~s.tru'sa~w~
 
 ref:	Um dos primeiros efeitos da beleza feminina sobre um homem é o de tirar-lhe a avareza.
 corrigida:	u~ dus pri~'mej.ruz e'fej.tus da be'le.za fe~.mi~'ni~.na 'so.bri u~ 'o~.me~j~ E u Di Ti'raX Li a a.va're.za
@@ -2453,7 +2453,7 @@ ref:	Concentração é habilidade de pensar sobre absolutamente nada quando isto
 corrigida:	ko~.se~.tra'sa~w~ E a.bi.li'da.Di Di pe~'saX 'so.bri ab.so.lu.ta~'me~.Ti 'na.da 'kwa~.du 'is.tu E ab.so.lu.ta~'me~.Ti ne.se'sa.rju
 
 ref:	Basicamente, a Gestão significa  influenciar a ação. Gestão  é sobre ajudar as organizações e as unidades  fazerem o que tem que ser feito, o que significa ação
-corrigida:	ba.zi.ka~'me~.Ti, a Zes'ta~w~ si.gi.ni'fi.ka i~.flu.e~.si'ar a a'sa~w~, Zes'ta~w~ E 'so.bri a.Zu'dar az oR.ga~.ni.za'so~j~z i az u~.ni'da.Dis fa'ze.re~j~ u ki te~j~ ki 'seX 'fej.tu, u ki si.gi.ni'fi.ka a'sa~w~
+corrigida:	ba.zi.ka~'me~.Ti, a Zes'ta~w~ si.gi~.ni'fi.ka i~.flu.e~.si'ar a a'sa~w~, Zes'ta~w~ E 'so.bri a.Zu'dar az oR.ga~.ni.za'so~j~z i az u~.ni'da.Dis fa'ze.re~j~ u ki te~j~ ki 'seX 'fej.tu, u ki si.gi~.ni'fi.ka a'sa~w~
 
 ref:	Quem propaga a maledicência atrai o mal sobre si mesmo.
 corrigida:	'ke~j~ pro'pa.ga a ma.le.Di'se~.sja a'traj u 'maw 'so.bri 'si 'mez.mu
@@ -2726,7 +2726,7 @@ ref:	A busca da solidão é uma tendência do nosso tempo; antes, e desde o seu 
 corrigida:	a 'bus.ka da so.li'da~w~ E u~.ma te~'de~.sja du 'nO.su 'te~.pu, 'a~.Tis, i 'dez.Di u 'sew a.pa.re.si~'me~.tu 'so.bri a 'tE.Ra, u 'o~.me~j~ bus'kow a'pe~.nas 'na~w~ fi'kaX sO'zi~.Ju
 
 ref:	Sobre o telhado flores de castanheiro ignoradas.
-corrigida:	'so.bri u te'La.du 'flo.ris Di kas.ta~'Jej.ru i.gi.no'ra.das
+corrigida:	'so.bri u te'La.du 'flo.ris Di kas.ta~'Jej.ru i.gi~.no'ra.das
 
 ref:	Um dos maiores problemas do mundo é a impossibilidade de qualquer pessoa procurar a verdade sobre qualquer assunto quando ela acredita que já a possui.
 corrigida:	'u~ dus maj'O.ris pro'ble~.mas du 'mu~.du E a i~.po.si.bi.li'da.Di Di kwaw'kEX pe'so.a pro.ku'rar a veR'da.Di 'so.bri kwaw'kEr a'su~.tu 'kwa~.du 'E.la a.kre'Di.ta ki 'Za a po'suj
@@ -2762,7 +2762,7 @@ ref:	Apenas se constrói com solidez sobre o passado.
 corrigida:	a'pe~.nas si ko~s'trOj ko~ so.li'dejs 'so.bri u pa'sa.du
 
 ref:	Se fazes questão em reflectir sobre o enigma da vida e do universo, vê se te despachas depressa, que a espécie humana qualquer dia acaba.
-corrigida:	si 'fa.zis kes'ta~w~ e~j~ Re.flek'TiX 'so.bri u e~'ni.gi.ma da 'vi.da i du u~.ni'vEX.su, 've si Ti des'pa.Sas de'prE.sa, ki a es'pE.si u~'ma~.na kwaw'kER 'Di.a a'ka.ba
+corrigida:	si 'fa.zis kes'ta~w~ e~j~ Re.flek'TiX 'so.bri u e~'ni.gi~.ma da 'vi.da i du u~.ni'vEX.su, 've si Ti des'pa.Sas de'prE.sa, ki a es'pE.si u~'ma~.na kwaw'kER 'Di.a a'ka.ba
 
 ref:	A pior forma de tirania que o mundo sempre viu é a tirania do  fraco sobre o forte. Esta é a única forma de tirania que dura.
 corrigida:	a pi'OX 'fOR.ma Di Ti.ra~'ni.a ki u 'mu~.du 'se~.pri 'viw E a Ti.ra~'ni.a du 'fra.ku 'so.bri u 'fOX.Ti, 'Es.ta E a 'u~.ni.ka 'fOR.ma Di Ti.ra~'ni.a ki 'du.ra

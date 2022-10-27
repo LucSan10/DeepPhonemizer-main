@@ -110,7 +110,7 @@ ref:	Mack pôde ver que alguém marcara a árvore com um pequeno arco vermelho q
 inf:	'mE.ki 'po.Di 'veX ki aw'ge~j~ maX'ka.ra a 'aR.vo.ri ko~ u~ pe'ke~.nu 'aX.ku veR'me.Lu 'kwa.zi i~.peX.sep'Ti.vew
 
 ref:	Aquilo não significava nada para ele e Papai não deu explicação.
-inf:	a'ki.lu 'na~w~ si.gi.ni.fi'ka.va 'na.da 'pa.ra 'e.li i pa'paj 'na~w~ 'dew es.pli.ka'sa~w~
+inf:	a'ki.lu 'na~w~ si.gi~.ni.fi'ka.va 'na.da 'pa.ra 'e.li i pa'paj 'na~w~ 'dew es.pli.ka'sa~w~
 
 ref:	Em vez disso, virou-se e seguiu pelo caminho, andando com facilidade.
 inf:	e~j~ 'vejz 'Di.su, vi'row si i se'giw 'pe.lu ka~'mi~.Ju, a~'da~.du ko~ fa.si.li'da.Di
@@ -146,7 +146,7 @@ ref:	Mas sentia que ainda não era hora.
 inf:	majs se~'Ti.a ki a'i~.da 'na~w~ 'E.ra 'O.ra
 
 ref:	Sabia apenas que nunca mais seria o mesmo e se perguntava o que significariam essas mudanças para Nan e seus filhos, especialmente Kate.
-inf:	sa'bi.a a'pe~.nas ki 'nu~.ka 'majs se'ri.a u 'mez.mu i si peR.gu~'ta.va u ki si.gi.ni.fi.ka'ri.a~w~ 'E.sas mu'da~.sas 'pa.ra 'na~ i 'sews 'fi.Lus, es.pe.si.aw'me~.Ti 'kej.Ti
+inf:	sa'bi.a a'pe~.nas ki 'nu~.ka 'majs se'ri.a u 'mez.mu i si peR.gu~'ta.va u ki si.gi~.ni.fi.ka'ri.a~w~ 'E.sas mu'da~.sas 'pa.ra 'na~ i 'sews 'fi.Lus, es.pe.si.aw'me~.Ti 'kej.Ti
 
 ref:	Mas havia uma coisa que o estava incomodando.
 inf:	majz a'vi.a u~.ma 'koj.za ki u es'ta.va i~.ko~.mo'da~.du
@@ -230,7 +230,7 @@ ref:	Nesse ponto tudo o que tenho a lhe oferecer como resposta é meu amor, minh
 corrigida:	'ne.si 'po~.tu 'tu.du u ki 'te~.Ju a Li o.fe.re'seX 'ko~.mu Res'pOs.ta E 'mew a~'moX, 'mi~.Ja bo~'da.Di i 'mew Re.la.si.o~.na~'me~.tu ko~ vo'se
 
 ref:	Eu não tive a intenção de fazer Missy morrer, mas isso não significa que não possa usar a morte dela para o bem.
-inf:	ew 'na~w~ 'Ti.vi a i~.te~'sa~w~ Di fa'zeR 'mi.si mo'ReX, majz 'i.su 'na~w~ si.gi.ni'fi.ka ki 'na~w~ 'pO.sa u'zar a 'mOX.Ti 'dE.la 'pa.ra u 'be~j~
+inf:	ew 'na~w~ 'Ti.vi a i~.te~'sa~w~ Di fa'zeR 'mi.si mo'ReX, majz 'i.su 'na~w~ si.gi~.ni'fi.ka ki 'na~w~ 'pO.sa u'zar a 'mOX.Ti 'dE.la 'pa.ra u 'be~j~
 
 ref:	Está certo.
 inf:	es'ta 'sEX.tu
@@ -257,7 +257,7 @@ ref:	Virou-se e voltou a caminhar pela trilha, seguido por Mack, agora com o cor
 inf:	vi'row si i vow'tow a ka~.mi~'JaX 'pe.la 'tri.La, se'gi.du puR 'mE.ki, a'gO.ra ko~ u ko.ra'sa~w~ 'majs 'lE.vi i a.pa.zi'gwa.du
 
 ref:	Logo começaram uma subida relativamente fácil e o ritmo diminuiu.
-inf:	'lO.gu ko~.me'sa.ra~w~ u~.ma su'bi.da Re.la.Ti.va~'me~.Ti 'fa.siw i u 'Ri.Ti.mu Di~.mi~.nu'iw
+inf:	'lO.gu ko~.me'sa.ra~w~ u~.ma su'bi.da Re.la.Ti.va~'me~.Ti 'fa.siw i u 'Ri.Ti~.mu Di~.mi~.nu'iw
 
 ref:	Ocasionalmente Papai parava e batia numa pedra ou numa árvore grande do caminho, indicando em cada uma a presença do pequeno arco vermelho.
 inf:	o.ka.zi.o~.naw'me~.Ti pa'paj pa'ra.va i ba'Ti.a 'nu~.ma 'pE.dra ow 'nu~.ma 'aR.vo.ri 'gra~.Di du ka~'mi~.Ju, i~.Di'ka~.du e~j~ 'ka.da u~.ma a pre'ze~.sa du pe'ke~.nu 'aX.ku veR'me.Lu
@@ -272,7 +272,7 @@ ref:	Pararam uma vez para um rápido descanso e Mack aproveitou para beber um po
 inf:	pa'ra.ra~w~ u~.ma 'vejs 'pa.ra u~ 'Ra.pi.du des'ka~.su i 'mE.ki a.pro.vej'tow 'pa.ra be'ber u~ 'pow.ku da 'a.gwa 'fres.ka ki pa'paj ko.lo'ka.ra nus ka~'Tis
 
 ref:	Pouco depois da parada, o caminho ficou bem íngreme e o ritmo da caminhada diminuiu ainda mais.
-inf:	'pow.ku de'pojs da pa'ra.da, u ka~'mi~.Ju fi'kow 'be~j~ 'i~.gre~.mi i u 'Ri.Ti.mu da ka~.mi~'Ja.da Di~.mi~.nu'iw a'i~.da 'majs
+inf:	'pow.ku de'pojs da pa'ra.da, u ka~'mi~.Ju fi'kow 'be~j~ 'i~.gre~.mi i u 'Ri.Ti~.mu da ka~.mi~'Ja.da Di~.mi~.nu'iw a'i~.da 'majs
 
 ref:	Mack achou que deviam ter andado por quase duas horas quando saíram do meio das árvores.
 inf:	'mE.ki a'Sow ki de'vi.a~w~ 'ter a~'da.du puX 'kwa.zi 'du.az 'O.ras 'kwa~.du sa'i.ra~w~ du 'mej.u daz 'aR.vo.ris
@@ -401,10 +401,10 @@ ref:	Implorou Mack.
 inf:	i~.plo'row 'mE.ki
 
 ref:	Perdoar não significa esquecer, Mack.
-inf:	peR.do'aR 'na~w~ si.gi.ni'fi.ka es.ke'seX, 'mE.ki
+inf:	peR.do'aR 'na~w~ si.gi~.ni'fi.ka es.ke'seX, 'mE.ki
 
 ref:	Significa soltar a garganta da outra pessoa.
-inf:	si.gi.ni'fi.ka sow'tar a gaR'ga~.ta da 'ow.tra pe'so.a
+inf:	si.gi~.ni'fi.ka sow'tar a gaR'ga~.ta da 'ow.tra pe'so.a
 
 ref:	Mas eu achava que você esquecia os nossos pecados.
 inf:	majz ew a'Sa.va ki vo'se es.ke'si.a us 'nO.sus pe'ka.dus
@@ -497,7 +497,7 @@ ref:	Quero ajudá-lo a assumir a natureza que encontra mais poder no amor e no p
 inf:	'kE.ru a.Zu'da lu a a.su~'mir a na.tu're.za ki e~'ko~.tra 'majs po'deR nu a~'mor i nu peR'da~w~ du ki nu 'O.Dju
 
 ref:	Então isso significa, de novo Mack sentia um pouco de raiva pela direção que a conversa havia tomado, que, se eu perdoar esse homem, estarei deixando que ele brinque com Kate ou com minha primeira neta?
-inf:	e~'ta~w~ 'i.su si.gi.ni'fi.ka, Di 'no.vu 'mE.ki se~'Ti.a u~ 'pow.ku Di 'Raj.va 'pe.la Di.re'sa~w~ ki a ko~'vEX.sa a'vi.a to~'ma.du, ki, si ew peR.do'ar 'e.si 'o~.me~j~, es.ta'rej dej'Sa~.du ki 'e.li 'bri~.ki ko~ 'kej.Ti ow ko~ 'mi~.Ja pri~'mej.ra 'nE.ta
+inf:	e~'ta~w~ 'i.su si.gi~.ni'fi.ka, Di 'no.vu 'mE.ki se~'Ti.a u~ 'pow.ku Di 'Raj.va 'pe.la Di.re'sa~w~ ki a ko~'vEX.sa a'vi.a to~'ma.du, ki, si ew peR.do'ar 'e.si 'o~.me~j~, es.ta'rej dej'Sa~.du ki 'e.li 'bri~.ki ko~ 'kej.Ti ow ko~ 'mi~.Ja pri~'mej.ra 'nE.ta
 
 ref:	Mackenzie, Papai foi forte e firme.
 inf:	ma'ke~.zi, pa'paj 'foj 'fOX.Ti i 'fiR.mi
@@ -1325,7 +1325,7 @@ ref:	Numa fração de segundo o jipe vermelho de Willie foi destruído, em minut
 inf:	'nu~.ma fra'sa~w~ Di se'gu~.du u 'Zi.pi veR'me.Lu Di 'wi.li 'foj des.tru'i.du, e~j~ mi~'nu.tu.Se'ga.ra~w~ u Rez'ga.Ti dus bo~'bej.ruz i a po'li.sja i e~j~ 'O.raz u 'koX.pu fe'ri.du i i~.ko~.si'e~.Ti Di 'mE.ki 'foj e~'trE.gi 'pe.lu Rez'ga.Ti a'E.rju nu e~ma~.nu.Ew os.pi'taw e~j~ 'pOX.Ti.la~.Di, 'O.re.go~
 
 ref:	A fé nunca sabe aonde está sendo levada, mas conhece e ama Aquele que a está levando.
-inf:	a fE'nu~.ka 'sa.bi a'o~.Di es'ta 'se~.du le'va.da, majs ko~'JE.si i 'a~.ma a'ke.li ki a es'ta le'va~.du
+inf:	a fE~'nu~.ka 'sa.bi a'o~.Di es'ta 'se~.du le'va.da, majs ko~'JE.si i 'a~.ma a'ke.li ki a es'ta le'va~.du
 
 ref:	E finalmente, como se viesse de muito longe, ele escutou uma voz familiar gritando:
 inf:	i fi~.naw'me~.Ti, 'ko~.mu si vi'E.si Di 'mu~j~.tu 'lo~.Zi, 'e.li es.ku'tow u~.ma 'vOjs fa~.mi.li'aR gri'ta~.du
@@ -2186,7 +2186,7 @@ ref:	O que vejo são as pessoas e suas vidas, uma comunidade que vive e respira,
 inf:	u ki 've.Zu 'sa~w~ as pe'so.az i 'su.as 'vi.das, u~.ma ko~.mu~.ni'da.Di ki 'vi.vi i Res'pi.ra, 'fej.ta Di 'to.dus ki mi 'a~.ma~w~, i 'na~w~ Di 'prE.Djus, 'RE.graz i pro'gra~.mas
 
 ref:	Isso significa que todas as estradas levam a você?
-inf:	'i.su si.gi.ni'fi.ka ki 'to.daz az es'tra.das 'lE.va~w~ a vo'se
+inf:	'i.su si.gi~.ni'fi.ka ki 'to.daz az es'tra.das 'lE.va~w~ a vo'se
 
 ref:	Por isso ela foi capaz de entender o que Jesus fez por ela e por toda a raça humana.
 inf:	pur 'i.su 'E.la 'foj ka'pajz Di e~.te~'der u ki Ze'zujs 'fejs pur 'E.la i puX 'to.da a 'Ra.sa u~'ma~.na
@@ -2195,7 +2195,7 @@ ref:	Depois de todas as coisas que eu senti em relação a você e de todas as a
 inf:	de'pojs Di 'to.daz as 'koj.zas ki ew se~'Ti e~j~ Re.la'sa~w~ a vo'se i Di 'to.daz az a.ku.za'so~j~s ki 'fis, puX 'ke vo'se si i~.ko~.mo.da'ri.a e~j~ 'vir aw 'mew e~'ko~.tru
 
 ref:	Se fosse simples anular todas as escolhas de independência, o mundo que você conhece deixaria de existir e o amor não teria significado.
-inf:	si 'fo.si 'si~.pliz a~.nu'laX 'to.daz az es'ko.Las Di i~.de.pe~'de~.sja, u 'mu~.du ki vo'se ko~'JE.si dej.Sa'ri.a Di e.zis'Tir i u a~'moR 'na~w~ te'ri.a si.gi.ni.fi'ka.du
+inf:	si 'fo.si 'si~.pliz a~.nu'laX 'to.daz az es'ko.Las Di i~.de.pe~'de~.sja, u 'mu~.du ki vo'se ko~'JE.si dej.Sa'ri.a Di e.zis'Tir i u a~'moR 'na~w~ te'ri.a si.gi~.ni.fi'ka.du
 
 ref:	Agora ele toca todos que eu amo, os que me seguem e os que não me seguem.
 inf:	a'gO.ra 'e.li 'tO.ka 'to.dus ki ew 'a~.mu, us ki mi 'sE.ge~j~ i us ki 'na~w~ mi 'sE.ge~j~
@@ -2402,7 +2402,7 @@ ref:	O acerto convém de um erro.
 corrigida:	u a'seX.tu ko~'ve~j~ Di u~ 'e.Ru
 
 ref:	Os caminhos que percorro, os amores que vivo, as amizades que faço, cada erro e cada acerto meus são os fragmentos que compõem meu ser.
-inf:	us ka~'mi~.Jus ki peX'ko.Ru, uz a~'mo.ris ki 'vi.vu, az a~.mi'za.Dis ki 'fa.su, 'ka.da 'e.Ru i 'ka.da a'seX.tu 'mews 'sa~w~ us fra.gi'me~.tus ki ko~'po~.e~j~ 'mew 'seX
+inf:	us ka~'mi~.Jus ki peX'ko.Ru, uz a~'mo.ris ki 'vi.vu, az a~.mi'za.Dis ki 'fa.su, 'ka.da 'e.Ru i 'ka.da a'seX.tu 'mews 'sa~w~ us fra.gi~'me~.tus ki ko~'po~.e~j~ 'mew 'seX
 
 ref:	Um acerto não justifica um erro. E vice-versa.
 inf:	u~ a'seX.tu 'na~w~ Zus.Ti'fi.ka u~ 'e.Ru, i 'vi.si 'vEX.sa
@@ -2579,7 +2579,7 @@ ref:	As vezes a certeza gera incerteza, as vezes o erro vira acerto, e sempre qu
 corrigida:	as 've.ziz a seX'te.za 'ZE.ra i~.seX'te.za, as 've.ziz u 'e.Ru 'vi.ra a'seX.tu, i 'se~.pri ki vo'se 'a.Sa ki es'ta peR'Di.du, E 'o~.Di si e~'ko~.tra
 
 ref:	Da tristeza a felicidade, da ignorância o respeito, do erro o acerto, da perda o recomeço, da vida eu reconheço é que vale a pena viver.
-corrigida:	da tris'te.za a fe.li.si'da.Di, da i.gi.no'ra~.sja u Res'pej.tu, du 'e.Ru u a'seX.tu, da 'peR.da u Re.ko~'me.su, da 'vi.da ew Re.ko~'Je.su E ki 'va.li a 'pe~.na vi'veX
+corrigida:	da tris'te.za a fe.li.si'da.Di, da i.gi~.no'ra~.sja u Res'pej.tu, du 'e.Ru u a'seX.tu, da 'peR.da u Re.ko~'me.su, da 'vi.da ew Re.ko~'Je.su E ki 'va.li a 'pe~.na vi'veX
 
 ref:	errar e um belo caminho para o acerto.
 inf:	e'Rar i u~ 'bE.lu ka~'mi~.Ju 'pa.ra u a'seX.tu
@@ -2765,7 +2765,7 @@ ref:	Você tem que saber conviver com os seus erros antes de cometê-los. Ou col
 inf:	vo'se te~j~ ki sa'beX ko~.vi'veX ko~ us 'sewz 'e.Ruz 'a~.Tis Di ko~me'te lus, ow ko'Ler us 'fru.tus duz a'seX.tu da 'mez.ma 'fOR.ma
 
 ref:	Acertos e erros são estados momentâneos. O acerto nas mãos do ignorante torna-se uma soberba vitória. O erro nas mãos do sábio torna-se uma estratégia de glória.
-inf:	a'sEX.tuz i 'e.Rus 'sa~w~ es'ta.dus mo~.me~'ta~.njus, u a'seX.tu nas 'ma~w~s du i.gi.no'ra~.Ti 'tOR.na si u~.ma so'beR.ba vi'tO.rja, u 'e.Ru nas 'ma~w~s du 'sa.bju 'tOR.na si u~.ma es.tra'tE.Zja Di 'glO.rja
+inf:	a'sEX.tuz i 'e.Rus 'sa~w~ es'ta.dus mo~.me~'ta~.njus, u a'seX.tu nas 'ma~w~s du i.gi~.no'ra~.Ti 'tOR.na si u~.ma so'beR.ba vi'tO.rja, u 'e.Ru nas 'ma~w~s du 'sa.bju 'tOR.na si u~.ma es.tra'tE.Zja Di 'glO.rja
 
 ref:	Atras do erro ou de um acerto, surgem você. E você sempre tem a possibilidade de escolher o que mais lhe atrai.
 inf:	'a.tras du 'e.Ru ow Di u~ a'seX.tu, 'suR.Ze~j~ vo'se, i vo'se 'se~.pri te~j~ a po.si.bi.li'da.Di Di es.ko'Ler u ki 'majs Li a'traj
@@ -2927,7 +2927,7 @@ ref:	O ser humano é um erro, acerto, qualidade, defeito.
 corrigida:	u 'ser u~'ma~.nu E u~ 'e.Ru, a'seX.tu, kwa.li'da.Di, de'fej.tu
 
 ref:	É por um erro que se nota a fraqueza então também será pelo acerto que notará a força, pois antes dogmas , e status , seres errôneos em ações livres, mais redimidos pelo arrependimento.
-corrigida:	E pur u~ 'e.Ru ki si 'nO.ta a fra'ke.za e~'ta~w~ ta~'be~j~ se'ra 'pe.lu a'seX.tu ki no.ta'ra a 'foX.sa, 'pojz 'a~.Tis 'dO.gi.mas, i 'sta.tus, 'se.riz e'Ro~.njuz e~j~ a'so~j~s 'li.vris, 'majs Re.Di~'mi.dus 'pe.lu a.Re.pe~.Di~'me~.tu
+corrigida:	E pur u~ 'e.Ru ki si 'nO.ta a fra'ke.za e~'ta~w~ ta~'be~j~ se'ra 'pe.lu a'seX.tu ki no.ta'ra a 'foX.sa, 'pojz 'a~.Tis 'dO.gi~.mas, i 'sta.tus, 'se.riz e'Ro~.njuz e~j~ a'so~j~s 'li.vris, 'majs Re.Di~'mi.dus 'pe.lu a.Re.pe~.Di~'me~.tu
 
 ref:	Com o erro eu aprendo e o acerto me ensina. NN
 inf:	ko~ u 'e.Ru ew a'pre~.du i u a'seX.tu mi e~'si~.na, 'e~.ni 'e~.ni
@@ -2963,7 +2963,7 @@ ref:	O acerto é a conclusão dos erros cometidos pelas tentativas de tentar ace
 corrigida:	u a'seX.tu E a ko~.klu'za~w~ duz 'e.Rus ko~.me'Ti.dus 'pe.las te~.ta'Ti.vas Di te~'tar a.seX'taX
 
 ref:	efêmero  Para todos os  efeitos sou efêmero e brasileiro, a noite me liberto do incerto e acerto o meu diagnóstico, astro sem constelação poeta de boteco em ascensão.
-corrigida:	e'fe~.me.ru 'pa.ra 'to.duz uz e'fej.tus 'sow e'fe~.me.ru i bra.zi'lej.ru, a 'noj.Ti mi li'bEX.tu du i~'sEX.tu i a'sEX.tu u 'mew Di.a.gi'nos.Ti.ku, 'as.tru se~j~ ko~s.te.la'sa~w~ po'E.ta Di bo'tE.ku e~j~ a.se~'sa~w~
+corrigida:	e'fe~.me.ru 'pa.ra 'to.duz uz e'fej.tus 'sow e'fe~.me.ru i bra.zi'lej.ru, a 'noj.Ti mi li'bEX.tu du i~'sEX.tu i a'sEX.tu u 'mew Di.a.gi~'nos.Ti.ku, 'as.tru se~j~ ko~s.te.la'sa~w~ po'E.ta Di bo'tE.ku e~j~ a.se~'sa~w~
 
 ref:	Grita o meu erro e cala-se em meu acerto - o contrário é um caso exponencial.
 corrigida:	'gri.ta u 'mew 'e.Ru i 'ka.la si e~j~ 'mew a'seX.tu, u ko~'tra.rju E u~ 'ka.zu es.po~.ne~.si'aw

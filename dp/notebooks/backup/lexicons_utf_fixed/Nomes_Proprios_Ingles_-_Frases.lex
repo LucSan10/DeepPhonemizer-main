@@ -41,7 +41,7 @@ ref:	British Airways
 corrigida:	'bri.TiS 'EX.wejs
 
 ref:	Britney
-corrigida:	'bri.Ti.nej
+corrigida:	'bri.Ti~.nej
 
 ref:	Brown
 corrigida:	'braw~
@@ -68,7 +68,7 @@ ref:	Cooper
 corrigida:	'ku.peX
 
 ref:	Courtney Love
-corrigida:	'kuX.Ti.nej 'lO.vi
+corrigida:	'kuX.Ti~.nej 'lO.vi
 
 ref:	David
 corrigida:	'dej.vi.Di
@@ -185,7 +185,7 @@ ref:	Laurie
 corrigida:	'law.ri
 
 ref:	Lautner
-corrigida:	'law.Ti.neX
+corrigida:	'law.Ti~.neX
 
 ref:	Ledger
 corrigida:	'lE.DeX
@@ -221,7 +221,7 @@ ref:	Microsoft
 corrigida:	maj.kro'sof.Ti
 
 ref:	M.I.T.
-corrigida:	'e.mi 'i 'te
+corrigida:	'e~.mi 'i 'te
 
 ref:	Moore
 corrigida:	'muX

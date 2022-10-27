@@ -5,7 +5,7 @@ ref:	Quase um século e meio mais tarde, a ressalva de Pereira da Silva continua
 corrigida:	'kwa.zi 'u~ 'sE.ku.lu i 'mej.u 'majs 'taR.Di, a Re'saw.va Di pe'rej.ra da 'siw.va ko~.Ti~'nu.a a.tu'aw i peX.Ti~'ne~.Ti
 
 ref:	No caso de D. João VI e da fuga da corte, mesmo decorridos dois séculos, fatos novos têm mudado de forma significativa a forma como até então se via e se interpretava esse período.
-corrigida:	nu 'ka.zu Di 'do~w~ Zo'a~w~ 'ses.tu i da 'fu.ga da 'koX.Ti, 'mez.mu de.ko'Ri.dus 'dojs 'sE.ku.lus, 'fa.tus 'nO.vus 'te~j~ mu'da.du Di 'fOR.ma si.gi.ni.fi.ka'Ti.va a 'fOR.ma 'ko~.mu a'tE e~'ta~w~ si 'vi.a i si i~.teX.pre'ta.va 'e.si pe'ri.o.du
+corrigida:	nu 'ka.zu Di 'do~w~ Zo'a~w~ 'ses.tu i da 'fu.ga da 'koX.Ti, 'mez.mu de.ko'Ri.dus 'dojs 'sE.ku.lus, 'fa.tus 'nO.vus 'te~j~ mu'da.du Di 'fOR.ma si.gi~.ni.fi.ka'Ti.va a 'fOR.ma 'ko~.mu a'tE e~'ta~w~ si 'vi.a i si i~.teX.pre'ta.va 'e.si pe'ri.o.du
 
 ref:	Entre as contribuições importantes registradas nos últimos anos, destaca-se a transcrição integral dos diários de bordo dos navios britânicos que acompanharam a família real na viagem ao Brasil.
 corrigida:	'e~.tri as ko~.tri.buj'so~j~z i~.poX'ta~.Tis Re.Zis'tra.das nuz 'uw.Ti~.muz 'a~.nus, des'ta.ka si a tra~s.kri'sa~w~ i~.te'graw dus Di'a.rjus Di 'bOR.du dus na'vi.us bri'ta~.ni.kus ki a.ko~.pa~'Ja.ra~w~ a fa~'mi.lja Re'aw na vi'a.Ze~j~ aw bra'ziw
@@ -62,7 +62,7 @@ ref:	Só com a ajuda da Internet foi possível encontrar fatos novos e surpreend
 corrigida:	'sO ko~ a a'Zu.da da i~.teR'nE.Ti 'foj po'si.vew e~.ko~'traX 'fa.tus 'nO.vuz i suX.pre.e~'de~.Tiz a Res'pej.tu Di aw'gu~s dus peX.so~'na.Ze~s 'des.Ti 'li.vru
 
 ref:	Segundo as evidências reunidas no último capítulo desta obra, foi uma filha que o arquivista real Joaquim dos Santos Marrocos, um dos protagonistas centrais da história da corte portuguesa no Brasil, teve antes do casamento e cuja existência era até agora ignorada pelos historiadores.
-corrigida:	se'gu~.du az e.vi'de~.sjas Re.u~'ni.das nu 'uw.Ti~.mu ka'pi.tu.lu 'dEs.ta 'O.bra, 'foj u~.ma 'fi.La ki u aX.ki'vis.ta Re'aw Zo.a'ki~ dus 'sa~.tus ma'RO.kus, u~ dus pro.ta.go~'nis.tas se~'trajs da is'tO.rja da 'koX.Ti poX.tu'ge.za nu bra'ziw, 'te.vi 'a~.Tis du ka.za~'me~.tu i 'ku.Za e.zis'te~.sja 'E.ra a'tE a'gO.ra i.gi.no'ra.da 'pe.luz is.to.ri.a'do.ris
+corrigida:	se'gu~.du az e.vi'de~.sjas Re.u~'ni.das nu 'uw.Ti~.mu ka'pi.tu.lu 'dEs.ta 'O.bra, 'foj u~.ma 'fi.La ki u aX.ki'vis.ta Re'aw Zo.a'ki~ dus 'sa~.tus ma'RO.kus, u~ dus pro.ta.go~'nis.tas se~'trajs da is'tO.rja da 'koX.Ti poX.tu'ge.za nu bra'ziw, 'te.vi 'a~.Tis du ka.za~'me~.tu i 'ku.Za e.zis'te~.sja 'E.ra a'tE a'gO.ra i.gi~.no'ra.da 'pe.luz is.to.ri.a'do.ris
 
 ref:	Como última ressalva, vale adiantar que, ao longo deste livro, arrisquei-me poucas vezes a fazer atualização monetária de preços e valores de duzentos anos atrás.
 corrigida:	'ko~.mu 'uw.Ti~.ma Re'saw.va, 'va.li a.Di.a~'taX ki, aw 'lo~.gu 'des.Ti 'li.vru, a.Ris'kej mi 'pow.kas 've.ziz a fa'zer a.tu.a.li.za'sa~w~ mo~.ne'ta.rja Di 'pre.suz i va'lo.ris Di du'ze~.tuz 'a~.nuz a'trajs
@@ -362,7 +362,7 @@ ref:	Pesquisas recentes sugerem que ambos fossem vítimas de um mal chamado porf
 corrigida:	pes'ki.zas Re'se~.Tis su'ZE.re~j~ ki 'a~.bus 'fo.se~j~ 'vi.Ti~.mas Di u~ 'maw Sa~'ma.du poX.fi'ri.a va.ri.e'ga.ta, do'e~.sa e.re.Di'ta.rja Di si~'to~.mas se~.me'La~.Tiz aws da es.ki.zo.fre~'ni.a i da psi'kO.zi ma~'ni.a.ko de.pre'si.va, a.tu.aw'me~.Ti ko~.Je'si.da 'ko~.mu tra~s'toR.nu bi.po'laR Di u~'moX
 
 ref:	As descrições do comportamento dos dois soberanos se encaixam nesse diagnóstico.
-corrigida:	as des.kri'so~j~s du ko~.poX.ta~'me~.tu dus 'dojs so.be'ra~.nus si e~'kaj.Sa~w~ 'ne.si Di.a.gi'nOs.Ti.ku
+corrigida:	as des.kri'so~j~s du ko~.poX.ta~'me~.tu dus 'dojs so.be'ra~.nus si e~'kaj.Sa~w~ 'ne.si Di.a.gi~'nOs.Ti.ku
 
 ref:	Os sessenta anos em que George III reinou na Inglaterra foram entrecortados por surtos psicóticos.
 corrigida:	us se'se~.ta 'a~.nuz e~j~ ki 'ZOR.Zi teX'sej.ru Rej~'now na i~.gla'tE.Ra 'fo.ra~w~ e~.tre.koX'ta.dus puX 'suX.tus psi'kO.Ti.kus
@@ -377,7 +377,7 @@ ref:	Nosso rei está louco, declarou o médico Richard Warren, em 1788.
 corrigida:	'nO.su 'Rej es'ta 'low.ku, de.kla'row u 'mE.Di.ku 'Ri.SaR.D 'wa.Re~, e~j~ 'miw sE.Ti'se~.tuz i oj'te~.ta i 'oj.tu
 
 ref:	Nos estágios finais de sua doença, George III foi entregue aos cuidados do médico e padre Frances Willis, que o submeteu a um tratamento de choque com o uso de camisa-de-força e uma cadeira para imobilizá-lo nos seus acessos de loucura.
-corrigida:	nuz es'ta.Zjus fi~'najs Di 'su.a do'e~.sa, 'ZOR.Zi teX'sej.ru 'foj e~'trE.gi aws kuj'da.dus du 'mE.Di.ku i 'pa.dri 'fra~.sis 'wi.lis, ki u sub.me'tew a u~ tra.ta~'me~.tu Di 'SO.ki ko~ u 'u.zu Di ka~'mi.za Di 'foX.sa i u~.ma ka'dej.ra 'pa.ra i.mo.bi.li'za lu nus 'sewz a'sE.sus Di low'ku.ra
+corrigida:	nuz es'ta.Zjus fi~'najs Di 'su.a do'e~.sa, 'ZOR.Zi teX'sej.ru 'foj e~'trE.gi aws kuj'da.dus du 'mE.Di.ku i 'pa.dri 'fra~.sis 'wi.lis, ki u sub.me'tew a u~ tra.ta~'me~.tu Di 'SO.ki ko~ u 'u.zu Di ka~'mi.za Di 'foX.sa i u~.ma ka'dej.ra 'pa.ra i~.mo.bi.li'za lu nus 'sewz a'sE.sus Di low'ku.ra
 
 ref:	George III passou os últimos anos de sua vida prisioneiro numa ala isolada do palácio, em Londres, em meio a acessos de demência cada vez mais profundos.
 corrigida:	'ZOR.Zi teX'sej.ru pa'sow uz 'uw.Ti~.muz 'a~.nus Di 'su.a 'vi.da pri.zi.o~'nej.ru 'nu~.ma 'a.la i.zo'la.da du pa'la.sju, e~j~ 'lo~.dris, e~j~ 'mej.u a a'sE.sus Di de~'me~.sja 'ka.da 'vejz 'majs pro'fu~.dus
@@ -410,7 +410,7 @@ ref:	Fazia três anos que tinha se autodeclarado imperador dos franceses.
 corrigida:	fa'zi.a 'trejz 'a~.nus ki 'Ti~.Ja si aw.tu.de.kla'ra.du i~.pe.ra'doR dus fra~'se.zis
 
 ref:	Sou herdeiro de Carlos Magno.
-corrigida:	'sow eR'dej.ru Di 'kaR.lus 'ma.gi.nu
+corrigida:	'sow eR'dej.ru Di 'kaR.lus 'ma.gi~.nu
 
 ref:	A comparação é reveladora de suas pretensões.
 corrigida:	a ko~.pa.ra'sa~w~ E Re.ve.la'do.ra Di 'su.as pre.te~'so~j~s
@@ -419,7 +419,7 @@ ref:	Luis XIV foi um dos mais poderosos reis da França.
 corrigida:	lu'is kwa'toR.zi 'foj u~ dus 'majs po.de'rO.zus 'Rejs da 'fra~.sa
 
 ref:	Carlos Magno, o fundador do Sacro Império Romano, cujos domínios abrangiam a maior parte do continente europeu.
-corrigida:	'kaR.lus 'ma.gi.nu, u fu~.da'doR du 'sa.kru i~'pE.rju Ro~'ma~.nu, 'ku.Zus do~'mi~.njuz a.bra~'Zi.a~w~ a maj'OX 'paX.Ti du ko~.Ti~'ne~.Ti ew.ro'pew
+corrigida:	'kaR.lus 'ma.gi~.nu, u fu~.da'doR du 'sa.kru i~'pE.rju Ro~'ma~.nu, 'ku.Zus do~'mi~.njuz a.bra~'Zi.a~w~ a maj'OX 'paX.Ti du ko~.Ti~'ne~.Ti ew.ro'pew
 
 ref:	Ou seja, para Napoleão não bastava governar a França.
 corrigida:	ow 'se.Za, 'pa.ra na.po.le'a~w~ 'na~w~ bas'ta.va go.veR'nar a 'fra~.sa
@@ -458,7 +458,7 @@ ref:	O triunfo de Napoleão representava o fim de uma etapa na história europé
 corrigida:	u tri'u~.fu Di na.po.le'a~w~ Re.pre.ze~'ta.va u 'fi~ Di u~.ma e'ta.pa na is'tO.rja ew.ro'pEj.a, ko~.Je'si.da 'ko~.mu 'vE.Lu Re'Zi~.mi, e~j~ ki 'Rejs do~.mi~'na.ra~w~ us 'sews pa'i.zis ko~ 'ma~w~ Di 'fE.Ru i po'der ab.so'lu.tu
 
 ref:	A França fora o paradigma desse sistema.
-corrigida:	a 'fra~.sa 'fo.ra u pa.ra'Di.gi.ma 'de.si sis'te~.ma
+corrigida:	a 'fra~.sa 'fo.ra u pa.ra'Di.gi~.ma 'de.si sis'te~.ma
 
 ref:	Luis XIV, o Rei Sol, era o mais exuberante de todos os monarcas da época.
 corrigida:	lu'is kwa'toR.zi, u 'Rej 'sOw, 'E.ra u 'majz e.zu.be'ra~.Ti Di 'to.duz us mo~'naX.kas da 'E.po.ka
@@ -599,13 +599,13 @@ ref:	Era o segundo país mais populoso da Europa, atrás da Rússia, com 44 milh
 corrigida:	'E.ra u se'gu~.du pa'is 'majs po.pu'lo.zu da ew'rO.pa, a'trajs da 'Ru.sja, ko~ kwa're~.ta i 'kwa.tru mi'Lo~j~s Di a.bi'ta~.Tis
 
 ref:	Mais população significava mais soldados para os exércitos envolvidos nas guerras napoleônicas.
-corrigida:	'majs po.pu.la'sa~w~ si.gi.ni.fi'ka.va 'majs sow'da.dus 'pa.ra uz e'zEX.si.tuz e~.vow'vi.dus nas 'gE.Ras na.po.le'o~.ni.kas
+corrigida:	'majs po.pu.la'sa~w~ si.gi~.ni.fi'ka.va 'majs sow'da.dus 'pa.ra uz e'zEX.si.tuz e~.vow'vi.dus nas 'gE.Ras na.po.le'o~.ni.kas
 
 ref:	O segundo fator foi a Revolução Industrial, cuja produção em massa aumentou a oferta de ferro para os canhões e fuzis, de têxteis para os uniformes e todos os equipamentos necessários para as campanhas militares.
 corrigida:	u se'gu~.du fa'toX 'foj a Re.vo.lu'sa~w~ i~.dus.tri'aw, 'ku.Za pro.du'sa~w~ e~j~ 'ma.sa aw~.me~'tow a o'fEX.ta Di 'fE.Ru 'pa.ra us ka~'Jo~j~z i fu'zis, Di 'tes.tejs 'pa.ra uz u~.ni'fOR.miz i 'to.duz uz e.ki.pa~'me~.tus ne.se'sa.rjus 'pa.ra as ka~'pa~.Jas mi.li'ta.ris
 
 ref:	Napoleão gabava-se de conseguir repor as perdas nos campos de batalha ao ritmo de 30000 soldados por mês.
-corrigida:	na.po.le'a~w~ ga'ba.va si Di ko~.se'gi.Re'por as 'peR.das nus 'ka~.pus Di ba'ta.La aw 'Ri.Ti.mu Di 'tri~.ta 'miw sow'da.dus puR 'mejs
+corrigida:	na.po.le'a~w~ ga'ba.va si Di ko~.se'gi.Re'por as 'peR.das nus 'ka~.pus Di ba'ta.La aw 'Ri.Ti~.mu Di 'tri~.ta 'miw sow'da.dus puR 'mejs
 
 ref:	Em 1794, a França contava com 750000 homens treinados, equipados e altamente motivados para a defesa das ideias difundidas pela Revolução.
 corrigida:	e~j~ 'miw sE.Ti'se~.tuz i no've~.ta i 'kwa.tru, a 'fra~.sa ko~'ta.va ko~ sE.Ti'se~.tuz i si~'kwe~.ta 'miw 'o~.me~s trej~'na.dus, e.ki'pa.duz i aw.ta~'me~.Ti mo.Ti'va.dus 'pa.ra a de'fe.za daz i'dEj.as Di.fu~'Di.das 'pe.la Re.vo.lu'sa~w~
@@ -704,7 +704,7 @@ ref:	A dependência tinha crescido gradativamente desde que Vasco da Gama havia 
 corrigida:	a de.pe~'de~.sja 'Ti~.Ja kre'si.du gra.da.Ti.va~'me~.Ti 'dez.Di ki 'vas.ku da 'ga~.ma a'vi.a a'bEX.tu u ka~'mi~.Ju 'pa.ra az 'i~.Djaz i 'pe.dru 'aw.va.ris ka'braw a.poX'ta.du 'su.a es'kwa.dra na ba'i.a
 
 ref:	No mesmo ritmo aumentavam as ameaças à riqueza e à autonomia do reino.
-corrigida:	nu 'mez.mu 'Ri.Ti.mu aw~.me~'ta.va~w~ az a~.me'a.saz a Ri'ke.za i a aw.to~.no~'mi.a du 'Rej.nu
+corrigida:	nu 'mez.mu 'Ri.Ti~.mu aw~.me~'ta.va~w~ az a~.me'a.saz a Ri'ke.za i a aw.to~.no~'mi.a du 'Rej.nu
 
 ref:	Em 1580, menos de um século depois do descobrimento do Brasil, o rei Felipe II, da Espanha, assumiu também o trono português, vago com o desaparecimento do rei D. Sebastião numa cruzada contra os mouros no Marrocos, dois anos antes.
 corrigida:	e~j~ 'miw ki~'Je~.tuz i oj'te~.ta, 'me~.nus Di 'u~ 'sE.ku.lu de'pojs du des.ko.bri~'me~.tu du bra'ziw, u 'Rej fe'li.pi se'gu~.du, da es'pa~.Ja, a.su~'miw ta~'be~j~ u 'tro~.nu poX.tu'gejs, 'va.gu ko~ u de.za.pa.re.si~'me~.tu du 'Rej 'do~w~ se.bas.Ti'a~w~ 'nu~.ma kru'za.da 'ko~.tra us 'mow.rus nu ma'RO.kus, 'dojz 'a~.nuz 'a~.Tis
@@ -1061,7 +1061,7 @@ ref:	Soberano dos mares dois séculos antes, Portugal já não tinha condições
 corrigida:	so.be'ra~.nu dus 'ma.ris 'dojs 'sE.ku.luz 'a~.Tis, poX.tu'gaw 'Za 'na~w~ 'Ti~.Ja ko~.Di'so~j~s Di si de.fe~'deX sO'zi~.Ju
 
 ref:	Sua outrora poderosa Marinha de guerra estava reduzida a trinta navios, dos quais seis ou sete eram imprestáveis - uma frota insignificante, comparada com a da Marinha britânica que, nessa época, dominava os oceanos com 880 navios de combate.
-corrigida:	'su.a ow'trO.ra po.de'rO.za ma'ri~.Ja Di 'gE.Ra es'ta.va Re.du'zi.da a 'tri~.ta na'vi.us, dus 'kwajs 'sejz ow 'sE.Ti 'E.ra~w~ i~.pres'ta.vejs, u~.ma 'frO.ta i~.si.gi.ni.fi'ka~.Ti, ko~.pa'ra.da ko~ a da ma'ri~.Ja bri'ta~.ni.ka ki, 'nE.sa 'E.po.ka, do~.mi~'na.va uz o.se'a~.nus ko~ oj.tu'se~.tuz i oj'te~.ta na'vi.us Di ko~'ba.Ti
+corrigida:	'su.a ow'trO.ra po.de'rO.za ma'ri~.Ja Di 'gE.Ra es'ta.va Re.du'zi.da a 'tri~.ta na'vi.us, dus 'kwajs 'sejz ow 'sE.Ti 'E.ra~w~ i~.pres'ta.vejs, u~.ma 'frO.ta i~.si.gi~.ni.fi'ka~.Ti, ko~.pa'ra.da ko~ a da ma'ri~.Ja bri'ta~.ni.ka ki, 'nE.sa 'E.po.ka, do~.mi~'na.va uz o.se'a~.nus ko~ oj.tu'se~.tuz i oj'te~.ta na'vi.us Di ko~'ba.Ti
 
 ref:	Como resultado dessa fraqueza, entre 1793 e 1796 mais de 200 navios mercantes portugueses haviam sido capturados pelos franceses.
 corrigida:	'ko~.mu Re.zuw'ta.du 'dE.sa fra'ke.za, 'e~.tri 'miw sE.Ti'se~.tuz i no've~.ta i 'trejz i 'miw sE.Ti'se~.tuz i no've~.ta i 'sejs 'majs Di du'ze~.tus na'vi.us meX'ka~.Tis poX.tu'ge.ziz a'vi.a~w~ 'si.du kap.tu'ra.dus 'pe.lus fra~'se.zis
@@ -1304,7 +1304,7 @@ ref:	Estava igualmente reduzido à condição de peça menor no grande tabuleiro
 corrigida:	es'ta.va i.gwaw'me~.Ti Re.du'zi.du a ko~.Di'sa~w~ Di 'pE.sa me~'nOR nu 'gra~.Di ta.bu'lej.ru Di i~.te're.sis das po'te~.sjaz ew.ro'pEj.as
 
 ref:	Como um avestruz que esconde a cabeça na terra na tentativa de ignorar o perigo, procurou inutilmente manter uma política de neutralidade em relação aos seus vizinhos, mais ricos e poderosos.
-corrigida:	'ko~.mu u~ a.ves'trus ki es'ko~.Di a ka'be.sa na 'tE.Ra na te~.ta'Ti.va Di i.gi.no'rar u pe'ri.gu, pro.ku'row i~.nu.Tiw'me~.Ti ma~'ter u~.ma po'li.Ti.ka Di new.tra.li'da.Di e~j~ Re.la'sa~w~ aws 'sews vi'zi~.Jus, 'majs 'Ri.kuz i po.de'rO.zus
+corrigida:	'ko~.mu u~ a.ves'trus ki es'ko~.Di a ka'be.sa na 'tE.Ra na te~.ta'Ti.va Di i.gi~.no'rar u pe'ri.gu, pro.ku'row i~.nu.Tiw'me~.Ti ma~'ter u~.ma po'li.Ti.ka Di new.tra.li'da.Di e~j~ Re.la'sa~w~ aws 'sews vi'zi~.Jus, 'majs 'Ri.kuz i po.de'rO.zus
 
 ref:	A ideia era se envolver o mínimo possível nos conflitos para, dessa forma, evitar represálias e assegurar o fluxo de riquezas que chegava de seus territórios ultramarinos.
 corrigida:	a i'dEj.a 'E.ra si e~.vow'ver u 'mi~.ni~.mu po'si.vew nus ko~'fli.tus 'pa.ra, 'dE.sa 'fOR.ma, e.vi'ta.Re.pre'za.ljaz i a.se.gu'rar u 'fluk.su Di Ri'ke.zas ki Se'ga.va Di 'sews te.Ri'tO.rjuz uw.tra~.ma'ri~.nus
@@ -1367,7 +1367,7 @@ ref:	Hipócrates e tudo o mais
 corrigida:	i'pO.kra.Tiz i 'tu.du u 'majs
 
 ref:	A história da medicina é, em grande parte, a substituição da ignorância por mentiras.
-corrigida:	a is'tO.rja da me.Di'si~.na E, e~j~ 'gra~.Di 'paX.Ti, a subs.Ti.tu.i'sa~w~ da i.gi.no'ra~.sja puR me~'Ti.ras
+corrigida:	a is'tO.rja da me.Di'si~.na E, e~j~ 'gra~.Di 'paX.Ti, a subs.Ti.tu.i'sa~w~ da i.gi~.no'ra~.sja puR me~'Ti.ras
 
 ref:	Esse vagar errante por becos sem saída pode ser uma progressão útil, quando os mais inteligentes e impacientes caminhantes encontram um caminho melhor.
 corrigida:	'e.si va'gar e'Ra~.Ti puR 'be.kus se~j~ sa'i.da 'pO.Di 'ser u~.ma pro.gre'sa~w~ 'u.Tiw, 'kwa~.du us 'majz i~.te.li'Ze~.Tiz i i~.pa.si'e~.Tis ka~.mi~'Ja~.Tiz e~'ko~.tra~w~ u~ ka~'mi~.Ju me'LOX
@@ -1403,7 +1403,7 @@ ref:	A mais antiga história da medicina é extremamente tediosa.
 corrigida:	a 'majz a~'Ti.ga is'tO.rja da me.Di'si~.na E es.tre~.ma~'me~.Ti te.Di'O.za
 
 ref:	O egípcio Imhotep (por volta de 2980 a.C.) combinou a conveniência do médico com a arte de construtor de monumentos para o faraó Zoser, tendo construído a magnífica pirâmide Step de Sakkarah para o uso gracioso de seu paciente real, quando este ficou fora do alcance de qualquer tratamento.
-corrigida:	u e'Zip.sju i~'RO.tep, pur 'vOw.ta Di 'dojs 'miw nO.vi'se~.tuz i oj'te~.ta 'a 'se, ko~.bi~'now a ko~.ve~.ni'e~.sja du 'mE.Di.ku ko~ a 'aX.Ti Di ko~s.tru'toR Di mo~.nu~'me~.tus 'pa.ra u fa.ra'O 'zO.seX, 'te~.du ko~s.tru'i.du a ma.gi'ni.fi.ka pi'ra~.mi.Di s'tep Di sa'ka.ra 'pa.ra u 'u.zu gra.si'o.zu Di 'sew pa.si'e~.Ti Re'aw, 'kwa~.du 'es.Ti fi'kow 'fO.ra du aw'ka~.si Di kwaw'kEX tra.ta~'me~.tu
+corrigida:	u e'Zip.sju i~'RO.tep, pur 'vOw.ta Di 'dojs 'miw nO.vi'se~.tuz i oj'te~.ta 'a 'se, ko~.bi~'now a ko~.ve~.ni'e~.sja du 'mE.Di.ku ko~ a 'aX.Ti Di ko~s.tru'toR Di mo~.nu~'me~.tus 'pa.ra u fa.ra'O 'zO.seX, 'te~.du ko~s.tru'i.du a ma.gi~'ni.fi.ka pi'ra~.mi.Di s'tep Di sa'ka.ra 'pa.ra u 'u.zu gra.si'o.zu Di 'sew pa.si'e~.Ti Re'aw, 'kwa~.du 'es.Ti fi'kow 'fO.ra du aw'ka~.si Di kwaw'kEX tra.ta~'me~.tu
 
 ref:	O imperador chinês, Fu-Hsi, hoje seria um famoso praticante da medicina alternativa, fazendo suas acupunturas e dirigindo o fluxo corpóreo do Yang e do Yin.
 corrigida:	u i~.pe.ra'doX Si~'nejs, 'fu 'Xsi, 'o.Zi se'ri.a u~ fa~'mo.zu pra.Ti'ka~.Ti da me.Di'si~.na aw.teR.na'Ti.va, fa'ze~.du 'su.az a.ku.pu~'tu.raz i Di.ri'Zi~.du u 'fluk.su koX'pO.rju du 'ja~.gi i du 'ji~j~
@@ -1451,13 +1451,13 @@ ref:	Era especialista em ferimentos (cirurgião dos gladiadores) e previu os tra
 corrigida:	'E.ra es.pe.si.a'lis.ta e~j~ fe.ri~'me~.tus, si.ruR.Zi'a~w~ dus gla.Di.a'do.ris, i pre'viw us tra~s'pla~.Tis, no'ta~.du ki u ko.ra'sa~w~ ko~.Ti~.nu'a.va a ba'teX 'kwa~.du Re.Ti'ra.du du 'koX.pu, nus sa.kri'fi.sjus
 
 ref:	A ditadura de seu dogma reinou na medicina por 15 séculos.
-corrigida:	a Di.ta'du.ra Di 'sew 'dO.gi.ma Rej~'now na me.Di'si~.na puX 'ki~.zi 'sE.ku.lus
+corrigida:	a Di.ta'du.ra Di 'sew 'dO.gi~.ma Rej~'now na me.Di'si~.na puX 'ki~.zi 'sE.ku.lus
 
 ref:	Em 1559, o colégio Real de medicina de Henrique VIII quase liquidou um homem de Oxford que ousou duvidar de sua infalibilidade.
 corrigida:	e~j~ 'miw ki~'Je~.tuz i si~'kwe~.ta i 'nO.vi, u ko'lE.Zju Re'aw Di me.Di'si~.na Di e~'Ri.ki oj'ta.vu 'kwa.zi li.ki'dow u~ 'o~.me~j~ Di 'Ok.sfoR.Di ki ow'zow du.vi'daR Di 'su.a i~.fa.li.bi.li'da.Di
 
 ref:	Galeno praticava entre os romanos, que consideravam a medicina profissional infra dignitatem.
-corrigida:	ga'le~.nu pra.Ti'ka.va 'e~.tri us Ro~'ma~.nus, ki ko~.si.de'ra.va~w~ a me.Di'si~.na pro.fi.si.o~'naw 'i~.fra Di.gi.ni'ta.te~j~
+corrigida:	ga'le~.nu pra.Ti'ka.va 'e~.tri us Ro~'ma~.nus, ki ko~.si.de'ra.va~w~ a me.Di'si~.na pro.fi.si.o~'naw 'i~.fra Di.gi~.ni'ta.te~j~
 
 ref:	Sua elegante enciclopédia, De Medicina, foi agraciada com a distinção eterna de fazer parte dos primeiros livros impressos em 1478.
 corrigida:  'su.a e.le'ga~.Ti e~.si.klo'pE.Di.a, Di me.Di'si~.na, 'foj a.gra.si'a.da ko~ a Dis.Ti~'sa~w~ e'tER.na Di fa'zeX 'paX.Ti dus pri~'mej.rus 'li.vruz i~'prE.suz e~j~ 'miw kwa.tro'se~.tuz i se'te~.ta i 'oj.tu
@@ -1469,7 +1469,7 @@ ref:	Chega de latim.
 corrigida:	'Se.ga Di la'Ti~
 
 ref:	Charaka, Susruta, Alcameon, Empédocles, Pitágoras e Aristóteles são estrelas distantes, tremeluzindo no espaço exterior da história da medicina, mas que não precisam ser magnificadas.
-corrigida:	Sa'ra.ka, suz'ru.ta, aw.ka~.me'o~, e~'pE.do.klis, pi'ta.go.raz i a.ris'tO.te.lis 'sa~w~ es'tre.las Dis'ta~.Tis, tre~.me.lu'zi~.du nu es'pa.su es.te.ri'oR da is'tO.rja da me.Di'si~.na, majs ki 'na~w~ pre'si.za~w~ 'seR ma.gi.ni.fi'ka.das
+corrigida:	Sa'ra.ka, suz'ru.ta, aw.ka~.me'o~, e~'pE.do.klis, pi'ta.go.raz i a.ris'tO.te.lis 'sa~w~ es'tre.las Dis'ta~.Tis, tre~.me.lu'zi~.du nu es'pa.su es.te.ri'oR da is'tO.rja da me.Di'si~.na, majs ki 'na~w~ pre'si.za~w~ 'seR ma.gi~.ni.fi'ka.das
 
 ref:	A bomba de tempo de hipócrates
 corrigida:	a 'bo~.ba Di 'te~.pu Di i'pO.kra.Tis
@@ -1511,10 +1511,10 @@ ref:	Ele retirava o pus, alinhava fraturas e corrigia deslocamentos da coluna.
 corrigida:	'e.li Re.Ti'ra.va u 'pujs, a.li~'Ja.va fra'tu.raz i ko.Ri'Zi.a dez.lo.ka~'me~.tus da ko'lu~.na
 
 ref:	O que significa que a maioria das pessoas melhora, de um modo ou de outro.
-corrigida:	u ki si.gi.ni'fi.ka ki a maj.o'ri.a das pe'so.as me'LO.ra, Di u~ 'mO.du ow Di 'ow.tru
+corrigida:	u ki si.gi~.ni'fi.ka ki a maj.o'ri.a das pe'so.as me'LO.ra, Di u~ 'mO.du ow Di 'ow.tru
 
 ref:	Hipócrates nasceu na ilha grega de Cos, na costa da Turquia, e ensinava sob um olmo (digno de ser visto por turistas).
-corrigida:	i'pO.kra.Tis na'sew na 'i.La 'grE.ga Di 'kOjs, na 'kOs.ta da tuX'ki.a, i e~.si~'na.va sob u~ 'Ow.mu, 'Di.gi.nu Di 'seR 'vis.tu puX tu'ris.tas
+corrigida:	i'pO.kra.Tis na'sew na 'i.La 'grE.ga Di 'kOjs, na 'kOs.ta da tuX'ki.a, i e~.si~'na.va sob u~ 'Ow.mu, 'Di.gi~.nu Di 'seR 'vis.tu puX tu'ris.tas
 
 ref:	Ele nos deu a palavra aforismo.
 corrigida:	'e.li nus 'dew a pa'la.vra a.fo'riz.mu
@@ -1655,7 +1655,7 @@ ref:	Alegra a alma do teu servo, pois a ti, Senhor, levanto a minha alma.
 corrigida:	a'lE.gra a 'aw.ma du 'tew 'sER.vu, 'pojz a 'Ti, se~'JoX, le'va~.tu a 'mi~.Ja 'aw.ma
 
 ref:	Pois tu, Senhor, és bom, e pronto a perdoar, e abundante em benignidade para com todos os que te invocam.
-corrigida:	'pojs 'tu, se~'JoX, 'Ejs 'bo~, i 'pro~.tu a peR.do'aX, i a.bu~'da~.Ti e~j~ be~.ni.gi.ni'da.Di 'pa.ra ko~ 'to.duz us ki Ti i~'vO.ka~w~
+corrigida:	'pojs 'tu, se~'JoX, 'Ejs 'bo~, i 'pro~.tu a peR.do'aX, i a.bu~'da~.Ti e~j~ be~.ni.gi~.ni'da.Di 'pa.ra ko~ 'to.duz us ki Ti i~'vO.ka~w~
 
 ref:	Dá ouvidos, SENHOR, à minha oração e atende à voz das minhas súplicas.
 corrigida:	'da ow'vi.dus, se~'JoX, a 'mi~.Ja o.ra'sa~w~ i a'te~.Di a 'vOjz das 'mi~.Jas 'su.pli.kas
@@ -1682,7 +1682,7 @@ ref:	Oh Deus, os soberbos se levantaram contra mim, e as assembléias dos tirano
 corrigida:	'O 'dews, us so'beR.bus si le.va~'ta.ra~w~ 'ko~.tra 'mi~, i az a.se~'blEj.as dus Ti'ra~.nus pro.ku'ra.ra~w~ a 'mi~.Ja 'mOX.Ti, i 'na~w~ Ti pu'zE.ra~w~ pe'ra~.Ti us 'sewz 'O.Lus
 
 ref:	Mas tu, Senhor, és um Deus cheio de compaixão, e piedoso, sofredor, e grande em benignidade e em verdade.
-corrigida:	majs 'tu, se~'JoX, 'Ejz u~ 'dew'Sej.u Di ko~.paj'Sa~w~, i pi.e'do.zu, so.fre'doX, i 'gra~.Di e~j~ be~.ni.gi.ni'da.Di i e~j~ veR'da.Di
+corrigida:	majs 'tu, se~'JoX, 'Ejz u~ 'dew'Sej.u Di ko~.paj'Sa~w~, i pi.e'do.zu, so.fre'doX, i 'gra~.Di e~j~ be~.ni.gi~.ni'da.Di i e~j~ veR'da.Di
 
 ref:	Volta-te para mim, e tem misericórdia de mim; dá a tua fortaleza ao teu servo, e salva ao filho da tua serva.
 corrigida:	'vOw.ta Ti 'pa.ra 'mi~, i te~j~ mi.ze.ri'kOR.Dja Di 'mi~, 'da a 'tu.a foX.ta'le.za aw 'tew 'sER.vu, i 'saw.va aw 'fi.Lu da 'tu.a 'sER.va
@@ -1757,7 +1757,7 @@ ref:	Mostrará, tu, maravilhas aos mortos, ou os mortos se levantarão e te louv
 corrigida:	mos.tra'ra, 'tu, ma.ra'vi.Laz aws 'mOX.tus, ow us 'mOX.tus si le.va~.ta'ra~w~ i Ti low.va'ra~w~
 
 ref:	Será anunciada a tua benignidade na sepultura, ou a tua fidelidade na perdição?
-corrigida:	se'ra a~.nu~.si'a.da a 'tu.a be~.ni.gi.ni'da.Di na se.puw'tu.ra, ow a 'tu.a fi.de.li'da.Di na peR.Di'sa~w~
+corrigida:	se'ra a~.nu~.si'a.da a 'tu.a be~.ni.gi~.ni'da.Di na se.puw'tu.ra, ow a 'tu.a fi.de.li'da.Di na peR.Di'sa~w~
 
 ref:	Saber-se-ão as tuas maravilhas nas trevas, e a tua justiça na terra do esquecimento?
 corrigida:	sa'beX si 'a~w~ as 'tu.as ma.ra'vi.Las nas 'trE.vas, i a 'tu.a Zus'Ti.sa na 'tE.Ra du es.ke.si~'me~.tu
@@ -1772,7 +1772,7 @@ ref:	Estou aflito, e prestes a morrer desde a minha mocidade; quando sofro os te
 corrigida:	es'tow a'fli.tu, i 'prEs.Tiz a mo'ReR 'dez.Di a 'mi~.Ja mo.si'da.Di, 'kwa~.du 'so.fru us 'tews te'Ro.ris 'fi.ku peX.tuR'ba.du
 
 ref:	A tua ardente indignação sobre mim vai passando; os teus terrores fazem-me perecer.
-corrigida:	a 'tu.a aR'de~.Ti i~.Di.gi.na'sa~w~ 'so.bri 'mi~ 'vaj pa'sa~.du, us 'tews te'Ro.ris 'fa.ze~j~ mi pe.re'seX
+corrigida:	a 'tu.a aR'de~.Ti i~.Di.gi~.na'sa~w~ 'so.bri 'mi~ 'vaj pa'sa~.du, us 'tews te'Ro.ris 'fa.ze~j~ mi pe.re'seX
 
 ref:	Afastaste para longe de mim amigos e companheiros, os meus íntimos amigos agora são trevas.
 corrigida:	a.fas'tas.Ti 'pa.ra 'lo~.Zi Di 'mi~ a~'mi.guz i ko~.pa~'Jej.rus, us 'mewz i~'Ti~.muz a~'mi.guz a'gO.ra 'sa~w~ 'trE.vas
@@ -1787,7 +1787,7 @@ ref:	Oitenta e nove.
 corrigida:	oj'te~.ta i 'nO.vi
 
 ref:	As benignidades do SENHOR cantarei perpetuamente; com a minha boca manifestarei a tua fidelidade de geração em geração.
-corrigida:	as be~.ni.gi.ni'da.Dis du se~'JoX ka~.ta'rej peX.pE.tu.a~'me~.Ti, ko~ a 'mi~.Ja 'bo.ka ma~.ni.fes.ta'rej a 'tu.a fi.de.li'da.Di Di Ze.ra'sa~w~ e~j~ Ze.ra'sa~w~
+corrigida:	as be~.ni.gi~.ni'da.Dis du se~'JoX ka~.ta'rej peX.pE.tu.a~'me~.Ti, ko~ a 'mi~.Ja 'bo.ka ma~.ni.fes.ta'rej a 'tu.a fi.de.li'da.Di Di Ze.ra'sa~w~ e~j~ Ze.ra'sa~w~
 
 ref:	Fiz um concerto com o meu escolhido. Jurei ao meu servo Davi:
 corrigida:	'fiz u~ ko~'seX.tu ko~ u 'mew es.ko'Li.du, Zu'rej aw 'mew 'sER.vu da'vi
@@ -1841,7 +1841,7 @@ ref:	E eu derrubarei os seus inimigos perante a sua face, e ferirei aos que o ab
 corrigida:	i ew de.Ru.ba'rej us 'sewz i~.ni~'mi.gus pe'ra~.Ti a 'su.a 'fa.si, i fe.ri'rej aws ki u a.bo'RE.se~j~
 
 ref:	E a minha fidelidade e a minha benignidade estarão com ele; e em meu nome será exaltado o seu poder.
-corrigida:	i a 'mi~.Ja fi.de.li'da.Di i a 'mi~.Ja be~.ni.gi.ni'da.Di es.ta'ra~w~ ko~ 'e.li, i e~j~ 'mew 'no~.mi se'ra e.zaw'ta.du u 'sew po'deX
+corrigida:	i a 'mi~.Ja fi.de.li'da.Di i a 'mi~.Ja be~.ni.gi~.ni'da.Di es.ta'ra~w~ ko~ 'e.li, i e~j~ 'mew 'no~.mi se'ra e.zaw'ta.du u 'sew po'deX
 
 ref:	E porei a sua mão no mar, e a sua direita nos rios.
 corrigida:	i po'rej a 'su.a 'ma~w~ nu 'maX, i a 'su.a Di'rej.ta nus 'Ri.us
@@ -1853,7 +1853,7 @@ ref:	Também por isso lhe darei o lugar de primogênito. Falo-ei mais elevado do
 corrigida:	ta~'be~j~ pur 'i.su Li da'rej u lu'gaR Di pri~.mo'Ze~.ni.tu, 'fa.lu 'ej 'majz e.le'va.du du ki us 'Rejs da 'tE.Ra
 
 ref:	A minha benignidade lhe guardarei para sempre, e o meu conserto lhe será firme,
-corrigida:	a 'mi~.Ja be~.ni.gi.ni'da.Di Li gwaR.da'rej 'pa.ra 'se~.pri, i u 'mew ko~'seX.tu Li se'ra 'fiR.mi
+corrigida:	a 'mi~.Ja be~.ni.gi~.ni'da.Di Li gwaR.da'rej 'pa.ra 'se~.pri, i u 'mew ko~'seX.tu Li se'ra 'fiR.mi
 
 ref:	E conservarei para sempre a sua descendencia, e o seu trono como os dias do céu.
 corrigida:	i ko~.seR.va'rej 'pa.ra 'se~.pri a 'su.a de.se~'de~.sja, i u 'sew 'tro~.nu 'ko~.mu us 'Di.as du 'sEw
@@ -1865,7 +1865,7 @@ ref:	Se profanarem os meus preceitos, e não guardarem os meus mandamentos,
 corrigida:	si pro.fa~'na.re~j~ us 'mews pre'sej.tus, i 'na~w~ gwaR'da.re~j~ us 'mews ma~.da~'me~.tus
 
 ref:	Mas não retirarei totalmente dele a minha benignidade, nem faltarei à minha fidelidade.
-corrigida:	majs 'na~w~ Re.Ti.ra'rej to.taw'me~.Ti 'de.li a 'mi~.Ja be~.ni.gi.ni'da.Di, ne~j~ faw.ta'rej a 'mi~.Ja fi.de.li'da.Di
+corrigida:	majs 'na~w~ Re.Ti.ra'rej to.taw'me~.Ti 'de.li a 'mi~.Ja be~.ni.gi~.ni'da.Di, ne~j~ faw.ta'rej a 'mi~.Ja fi.de.li'da.Di
 
 ref:	Não quebrarei o meu conserto, não alterarei o que saiu dos meus lábios.
 corrigida:	'na~w~ ke.bra'rej u 'mew ko~'seX.tu, 'na~w~ aw.te.ra'rej u ki sa'iw dus 'mews 'la.bjus
@@ -1880,7 +1880,7 @@ ref:	Será estabelecido para sempre como a lua e a testemunha no céu é fiel.
 corrigida:	se'ra es.ta.be.le'si.du 'pa.ra 'se~.pri 'ko~.mu a 'lu.a i a tes.te~'mu~.Ja nu 'sEw E fi'Ew
 
 ref:	Mas tu rejeitaste e aborreceste; tu te indignaste contra o teu ungido.
-corrigida:	majs 'tu Re.Zej'tas.Ti i a.bo.Re'sEs.Ti, 'tu Ti i~.Di.gi'nas.Ti 'ko~.tra u 'tew u~'Zi.du
+corrigida:	majs 'tu Re.Zej'tas.Ti i a.bo.Re'sEs.Ti, 'tu Ti i~.Di.gi~'nas.Ti 'ko~.tra u 'tew u~'Zi.du
 
 ref:	Abominaste o conserto do teu servo; profanaste a sua coroa, lançando-a por terra.
 corrigida:	a.bo~.mi~'nas.Ti u ko~'seX.tu du 'tew 'sER.vu, pro.fa~'nas.Ti a 'su.a ko'ro.a, la~'sa~.du a puX 'tE.Ra
@@ -1913,7 +1913,7 @@ ref:	Que homem há, que viva, e não veja a morte? Ou que livre a sua alma do po
 corrigida:	ki 'o~.me~j~ 'a, ki 'vi.va, i 'na~w~ 've.Za a 'mOX.Ti, ow ki 'li.vri a 'su.a 'aw.ma du po'deR du 'mu~.du i~.vi'zi.vew
 
 ref:	Senhor, onde estão as tuas antigas benignidades que juraste a Davi pela tua verdade?
-corrigida:	se~'JoX, 'o~.Di es'ta~w~ as 'tu.az a~'Ti.gas be~.ni.gi.ni'da.Dis ki Zu'ras.Ti a da'vi 'pe.la 'tu.a veR'da.Di
+corrigida:	se~'JoX, 'o~.Di es'ta~w~ as 'tu.az a~'Ti.gas be~.ni.gi~.ni'da.Dis ki Zu'ras.Ti a da'vi 'pe.la 'tu.a veR'da.Di
 
 ref:	Lembra-te, Senhor, do opróbrio dos teus servos; e de como trago no meu peito o escárnio de todos os povos poderosos,
 corrigida:	'le~.bra Ti, se~'JoX, du o'prO.brju dus 'tews 'sER.vus, i Di 'ko~.mu 'tra.gu nu 'mew 'pej.tu u es'kaR.nju Di 'to.duz us 'pO.vus po.de'rO.zus
@@ -2501,7 +2501,7 @@ ref:	Do talho na nuca escorria sangue ao redor de algumas pedrinhas ainda encrav
 corrigida:	du 'ta.Lu na 'nu.ka es.ko'Ri.a 'sa~.gi aw Re'dOR Di aw'gu~.mas pe'dri~.Jaz a'i~.da e~.kra'va.das nu 'kow.ru ka.be'lu.du
 
 ref:	Como havia temido, um galo significativo tinha se formado, emergindo como uma baleia-corcunda rompendo as ondas de seu cabelo ralo.
-corrigida:	'ko~.mu a'vi.a te~'mi.du, u~ 'ga.lu si.gi.ni.fi.ka'Ti.vu 'Ti~.Ja si foR'ma.du, e~.meR'Zi~.du 'ko~.mu u~.ma ba'lej.a koX'ku~.da Ro~'pe~.du az 'o~.das Di 'sew ka'be.lu 'Ra.lu
+corrigida:	'ko~.mu a'vi.a te~'mi.du, u~ 'ga.lu si.gi~.ni.fi.ka'Ti.vu 'Ti~.Ja si foR'ma.du, e~.meR'Zi~.du 'ko~.mu u~.ma ba'lej.a koX'ku~.da Ro~'pe~.du az 'o~.das Di 'sew ka'be.lu 'Ra.lu
 
 ref:	Enquanto tentava ver a nuca com um pequeno espelho de mão que refletia uma imagem invertida do espelho do banheiro, Mack achou difícil fazer um curativo.
 corrigida:	e~'kwa~.tu te~'ta.va 'ver a 'nu.ka ko~ u~ pe'ke~.nu es'pe.Lu Di 'ma~w~ ki Re.fle'Ti.a u~.ma i~'ma.Ze~j~ i~.veX'Ti.da du es'pe.Lu du ba~'Jej.ru, 'mE.ki a'Sow Di'fi.siw fa'zer u~ ku.ra'Ti.vu
@@ -2612,7 +2612,7 @@ ref:	Falo com você mais tarde.
 corrigida:	'fa.lu ko~ vo'se 'majs 'taR.Di
 
 ref:	Sua cabeça latejava cada vez mais, pequenos martelos de forja batendo no ritmo do coração.
-corrigida:	'su.a ka'be.sa la.te'Za.va 'ka.da 'vejz 'majs, pe'ke~.nus maX'tE.lus Di 'fOR.Za ba'te~.du nu 'Ri.Ti.mu du ko.ra'sa~w~
+corrigida:	'su.a ka'be.sa la.te'Za.va 'ka.da 'vejz 'majs, pe'ke~.nus maX'tE.lus Di 'fOR.Za ba'te~.du nu 'Ri.Ti~.mu du ko.ra'sa~w~
 
 ref:	Estranho, pensou, quem ousaria colocar algo assim na nossa caixa de correio?
 corrigida:	es'tra~.Ju, pe~'sow, 'ke~j~ ow.za'ri.a ko.lo'kar 'aw.gu a'si~ na 'nO.sa 'kaj.Sa Di ko'Rej.u

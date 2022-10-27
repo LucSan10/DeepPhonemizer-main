@@ -272,7 +272,7 @@ ref:	Desses três, apenas o primeiro foi publicado, no ano 2000, e distribuído 
 corrigida:	'de.sis 'trejs, a'pe~.naz u pri~'mej.ru 'foj pu.bli'ka.du, nu 'a~.nu 'dojs 'miw, i Dis.tri.bu'i.du nu bra'ziw i e~j~ poX.tu'gaw 'Zu~.tu ko~ as Re'vis.tas 've.Za i vi'za~w~, sob u 'Ti.tu.lu a a.ve~'tu.ra du des.ko.bri~'me~.tu
 
 ref:	Qual ao especial sobre D. João VI, Tales decidiu cancelá-lo por falta de gancho, expressão que, no vocabulário das redações significa motivo ou oportunidade para que uma reportagem seja publicada.
-corrigida:	'kwaw aw es.pe.si'aw 'so.bri 'do~w~ Zo'a~w~ 'ses.tu, 'ta.lis de.si'Diw ka~.se'la lu puX 'faw.ta Di 'ga~.Su, es.pre'sa~w~ ki, nu vo.ka.bu'la.rju das Re.da'so~j~s si.gi.ni'fi.ka mo'Ti.vu ow o.poX.tu~.ni'da.Di 'pa.ra ki u~.ma Re.poX'ta.Ze~j~ 'se.Za pu.bli'ka.da
+corrigida:	'kwaw aw es.pe.si'aw 'so.bri 'do~w~ Zo'a~w~ 'ses.tu, 'ta.lis de.si'Diw ka~.se'la lu puX 'faw.ta Di 'ga~.Su, es.pre'sa~w~ ki, nu vo.ka.bu'la.rju das Re.da'so~j~s si.gi~.ni'fi.ka mo'Ti.vu ow o.poX.tu~.ni'da.Di 'pa.ra ki u~.ma Re.poX'ta.Ze~j~ 'se.Za pu.bli'ka.da
 
 ref:	O plano mudou, mas eu segui em frente, movido pela paixão que o tema e os personagens me despertaram.
 corrigida:	u 'pla~.nu mu'dow, majz ew se'gi e~j~ 'fre~.Ti, mo'vi.du 'pe.la paj'Sa~w~ ki u 'te~.ma i us peX.so~'na.Ze~s mi des.peX'ta.ra~w~
@@ -497,7 +497,7 @@ ref:	Os acontecimentos do passado são imutáveis, mas a sua interpretação dep
 corrigida:	uz a.ko~.te.si~'me~.tus du pa'sa.du 'sa~w~ i~.mu'ta.vejs, majz a 'su.a i~.teX.pre.ta'sa~w~ de'pe~.Di du i~.ka~'sa.vew tra'ba.Lu Di i~.ves.Ti.ga'sa~w~ dus pes.ki.za'do.riz i ta~'be~j~ du Zuw.ga~'me~.tu dus lej'to.ris dus 'li.vrus Di is'tO.rja
 
 ref:	Em 1864, ao apresentar sua monumental obra História da fundação do império brasileiro, em sete volumes, J. M. Pereira da Silva escreveu a seguinte observação a respeito do caráter transitório das verdades históricas:
-corrigida:	e~j~ 'miw oj.tu'se~.tuz i se'se~.ta i 'kwa.tru, aw a.pre.ze~'taX 'su.a mo~.nu~.me~'taw 'O.bra is'tO.rja da fu~.da'sa~w~ du i~'pE.rju bra.zi'lej.ru, e~j~ 'sE.Ti vo'lu~.mis, 'ZO.ta 'e.mi pe'rej.ra da 'siw.va es.kre'vew a se'gi~.Ti ob.seR.va'sa~w~ a Res'pej.tu du ka'ra.teX tra~.zi'tO.rju das veR'da.Diz is'tO.ri.kas
+corrigida:	e~j~ 'miw oj.tu'se~.tuz i se'se~.ta i 'kwa.tru, aw a.pre.ze~'taX 'su.a mo~.nu~.me~'taw 'O.bra is'tO.rja da fu~.da'sa~w~ du i~'pE.rju bra.zi'lej.ru, e~j~ 'sE.Ti vo'lu~.mis, 'ZO.ta 'e~.mi pe'rej.ra da 'siw.va es.kre'vew a se'gi~.Ti ob.seR.va'sa~w~ a Res'pej.tu du ka'ra.teX tra~.zi'tO.rju das veR'da.Diz is'tO.ri.kas
 
 ref:	Pesquisei, estudei, meditei, e comparei impressos e manuscritos, tradições orais e papéis do Estado.
 corrigida:	pes.ki'zej, es.tu'dej, me.Di'tej, i ko~.pa'rej i~'prE.suz i ma~.nus'kri.tus, tra.Di'so~j~z o'rajz i pa'pEjs du es'ta.du
@@ -605,7 +605,7 @@ ref:	Composto pelos nove auxiliares mais próximos do príncipe regente, incluin
 corrigida:	ko~'pos.tu 'pe.lus 'nO.vi aw.si.li'a.ris 'majs 'prO.si~.mus du 'pri~.si.pi Re'Ze~.Ti, i~.klu'i~.du 'sew Row'pej.ru i 'sew 'mE.Di.ku paX.Ti.ku'laX, u ko~'se.Lu 'E.ra u 'majz i~.poX'ta~.Ti 'OR.ga~w~ Di a.se.so'ri.a da mo~.naX'ki.a, e~.ka.Re'ga.du Di pro'poX, e~j~ 'te~.pus Di 'gE.Ra i Di 'pajs, as 'gra~.Dis me'Di.das du go'veR.nu
 
 ref:	Logo depois de encerrada a reunião, o representante inglês em Lisboa, Percy Clinton Sidney, visconde de Strangford, escreveu ao seu ministro dos Negócios Estrangeiros, George Canning, dando uma versão dos acontecimentos bem diferente do que relatava a carta enviada a Napoleão.
-corrigida:	'lO.gu de'pojs Di e~.se'Ra.da a Re.u~.ni'a~w~, u Re.pre.ze~'ta~.Ti i~'glejz e~j~ liz'bo.a, peX'si 'kli~.to~ 'si.Di.nej, vis'ko~.Di Di 'stra~.gi.fOR.Di, es.kre'vew aw 'sew mi~'nis.tru dus ne'gO.sjuz es.tra~'Zej.rus, 'ZOR.Zi 'ka~.ni~, 'da~.du u~.ma veX'sa~w~ duz a.ko~.te.si~'me~.tus be~j~ Di.fe're~.Ti du ki Re.la'ta.va a 'kaX.ta e~.vi'a.da a na.po.le'a~w~
+corrigida:	'lO.gu de'pojs Di e~.se'Ra.da a Re.u~.ni'a~w~, u Re.pre.ze~'ta~.Ti i~'glejz e~j~ liz'bo.a, peX'si 'kli~.to~ 'si.Di~.nej, vis'ko~.Di Di 'stra~.gi.fOR.Di, es.kre'vew aw 'sew mi~'nis.tru dus ne'gO.sjuz es.tra~'Zej.rus, 'ZOR.Zi 'ka~.ni~, 'da~.du u~.ma veX'sa~w~ duz a.ko~.te.si~'me~.tus be~j~ Di.fe're~.Ti du ki Re.la'ta.va a 'kaX.ta e~.vi'a.da a na.po.le'a~w~
 
 ref:	Os correios viajavam por estradas de terra esburacadas, que ficavam praticamente intransitáveis em dia de chuva.
 corrigida:	us ko'Rej.us vi.a'Za.va~w~ pur es'tra.das Di 'tE.Ra ez.bu.ra'ka.das, ki fi'ka.va~w~ pra.Ti.ka~'me~.Ti i~.tra~.zi'ta.vejz e~j~ 'Di.a Di 'Su.va
@@ -641,7 +641,7 @@ ref:	Até 1761, menos de meio século antes da transferência da corte para o Br
 corrigida:	a'tE 'miw se.te'se~.tuz i se'se~.ta i 'u~, 'me~.nus Di 'mej.u 'sE.ku.lu 'a~.Tis da tra~s.fe're~.sja da 'koX.Ti 'pa.ra u bra'ziw, a'i~.da a'vi.a e.ze.ku'so~j~s 'pu.bli.kas 'de.si 'Ti.pu e~j~ liz'bo.a, ki a.tra'i.a~w~ mi'La.ris Di de'vO.tuz i ku.ri'O.zus
 
 ref:	Saímos de uma sociedade de homens vivos, movendo-se ao ar livre, e entramos num recinto acanhado e quase sepulcral, com uma atmosfera turva pelo pó dos livros velhos, e habitado por espectros de doutores, lamentou Antero de Quental, poeta e escritor português, ao analisar o quadro desolador da metrópole e de sua vizinha, a Espanha, no século XVIII.
-corrigida:	sa'i.mus Di u~.ma so.si.e'da.Di Di 'o~.me~s 'vi.vus, mo've~.du si aw 'aR 'li.vri, i e~'tra~.mus nu~ Re'si~.tu a.ka~'Ja.du i 'kwa.zi se.puw'kraw, ko~ u~.ma a.Ti.mos'fE.ra 'tuR.va 'pe.lu 'pO dus 'li.vrus 'vE.Lus, i a.bi'ta.du pur es'pEk.trus Di dow'to.ris, la~.me~'tow a~'tE.ru Di ke~'taw, po'E.ta i es.kri'toX poX.tu'gejs, aw a~.na.li'zar u 'kwa.dru de.zo.la'doR da me'trO.po.li i Di 'su.a vi'zi~.Ja, a es'pa~.Ja, nu 'sE.ku.lu de'zoj.tu
+corrigida:	sa'i~.mus Di u~.ma so.si.e'da.Di Di 'o~.me~s 'vi.vus, mo've~.du si aw 'aR 'li.vri, i e~'tra~.mus nu~ Re'si~.tu a.ka~'Ja.du i 'kwa.zi se.puw'kraw, ko~ u~.ma a.Ti~.mos'fE.ra 'tuR.va 'pe.lu 'pO dus 'li.vrus 'vE.Lus, i a.bi'ta.du pur es'pEk.trus Di dow'to.ris, la~.me~'tow a~'tE.ru Di ke~'taw, po'E.ta i es.kri'toX poX.tu'gejs, aw a~.na.li'zar u 'kwa.dru de.zo.la'doR da me'trO.po.li i Di 'su.a vi'zi~.Ja, a es'pa~.Ja, nu 'sE.ku.lu de'zoj.tu
 
 ref:	Não saiu da Península uma só das grandes descobertas intelectuais, que são a maior obra e a maior honra do espírito moderno.
 corrigida:	'na~w~ sa'iw da pe~'ni~.su.la u~.ma 'sO das 'gra~.Dis des.ko'bEX.taz i~.te.lek.tu'ajs, ki 'sa~w~ a maj'Or 'O.bra i a maj'Or 'o~.Ra du es'pi.ri.tu mo'dER.nu
@@ -650,7 +650,7 @@ ref:	Tudo era comprado de fora.
 corrigida:	'tu.du 'E.ra ko~'pra.du Di 'fO.ra
 
 ref:	Faltavam manufaturas, não se produziam alimentos ou roupas em quantidade suficiente para atender às necessidades mínimas da população, mas, mesmo assim, vivia-se de maneira ostentatória, por conta do ouro que não parava de afluir da América, descreve Lilia Schwarcz.
-corrigida:	faw'ta.va~w~ ma~.nu.fa'tu.ras, 'na~w~ si pro.du'zi.a~w~ a.li~'me~.tuz ow 'Row.paz e~j~ kwa~.Ti'da.Di su.fi.si'e~.Ti 'pa.ra a.te~'der as ne.se.si'da.Dis 'mi.ni~.mas da po.pu.la'sa~w~, majs, 'mez.mu a'si~, vi'vi.a si Di ma~'nej.ra os.te~.ta'tO.rja, puX 'ko~.ta du 'ow.ru ki 'na~w~ pa'ra.va Di a.flu'iR da a~'mE.ri.ka, des'krE.vi 'li.lja 'SwaX.ks
+corrigida:	faw'ta.va~w~ ma~.nu.fa'tu.ras, 'na~w~ si pro.du'zi.a~w~ a.li~'me~.tuz ow 'Row.paz e~j~ kwa~.Ti'da.Di su.fi.si'e~.Ti 'pa.ra a.te~'der as ne.se.si'da.Dis 'mi~.ni~.mas da po.pu.la'sa~w~, majs, 'mez.mu a'si~, vi'vi.a si Di ma~'nej.ra os.te~.ta'tO.rja, puX 'ko~.ta du 'ow.ru ki 'na~w~ pa'ra.va Di a.flu'iR da a~'mE.ri.ka, des'krE.vi 'li.lja 'SwaX.ks
 
 ref:	Outro historiador, Tobias Monteiro, estimou que só de Minas Gerais foram despachadas para Portugal cerca de 535 toneladas de ouro entre 1695 e 1817, no valor de 54 milhões de libras esterlinas da época, ou 12 bilhões de reais corrigidos.
 corrigida:	'ow.tru is.to.ri.a'doX, to'bi.as mo~'tej.ru, es.Ti~'mow ki 'sO Di 'mi~.na.Ze'rajs 'fo.ra~w~ des.pa'Sa.das 'pa.ra poX.tu'gaw 'seX.ka Di ki~'Je~.tuz i 'tri~.ta i 'si~.ku to~.ne'la.das Di 'ow.ru 'e~.tri 'miw sej'se~.tuz i no've~.ta i 'si~.ku i 'miw oj.tu'se~.tuz i de.ze'sE.Ti, nu va'loR Di si~'kwe~.ta i 'kwa.tru mi'Lo~j~s Di 'li.braz es.teR'li~.nas da 'E.po.ka, ow 'do.zi bi'Lo~j~s Di Re'ajs ko.Ri'Zi.dus
@@ -689,7 +689,7 @@ ref:	No seu misto de história e lenda, talvez os chineses antigos vacinassem co
 corrigida:	nu 'sew 'mis.tu Di is'tO.rja i 'le~.da, taw'vejz us Si~'ne.ziz a~'Ti.gus va.si~'na.se~j~ 'ko~.tra a va'ri.o.la as.pi'ra~.du a 'pus.tu.la 'se.ka 'pe.las na'ri~.nas
 
 ref:	Talvez eles gostassem da cannabis, empregassem massagistas cegos e tomassem banhos frios, e talvez pudessem diagnosticar todas as doenças com um leve estudo do pulso.
-corrigida:	taw'vejz 'e.lis gos'ta.se~j~ da kã'na.bis, e~.pre'ga.se~j~ ma.sa'Zis.tas 'sE.guz i tõ'ma.se~j~ 'bã.Jus 'fri.us, i taw'vejs pu'dE.se~j~ Di.a.gi.nos.Ti'kaX 'to.daz as do'e~.sas kõ u~ 'lE.vi es'tu.du du 'puw.su
+corrigida:	taw'vejz 'e.lis gos'ta.se~j~ da kã'na.bis, e~.pre'ga.se~j~ ma.sa'Zis.tas 'sE.guz i tõ'ma.se~j~ 'bã.Jus 'fri.us, i taw'vejs pu'dE.se~j~ Di.a.gi~.nos.Ti'kaX 'to.daz as do'e~.sas kõ u~ 'lE.vi es'tu.du du 'puw.su
 
 ref:	A única certeza que temos é de que os antigos chineses, como a massa da humanidade antes do século XIX, viviam e morriam apenas com a terapêutica da tradicional e fútil feitiçaria.
 corrigida:	a 'u~.ni.ka seX'te.za ki 'te~.muz E Di ki uz a~'Ti.gu.Si~'ne.zis, 'ko~.mu a 'ma.sa da u~.ma~.ni'da.Di 'a~.Tis du 'sE.ku.lu de.ze~'nO.vi, vi'vi.a~w~ i mo'Ri.a~w~ a'pe~.nas ko~ a te.ra'pew.Ti.ka da tra.Di.si.o~'naw i 'fu.Tiw fej.Ti.sa'ri.a
@@ -710,7 +710,7 @@ ref:	Ele encostava o ouvido no peito para ouvir a fricção das membranas inflam
 corrigida:	'e.li e~.kos'ta.va u ow'vi.du nu 'pej.tu 'pa.ra ow'vir a frik'sa~w~ das me~'bra~.naz i~.fla~'ma.das, nus 'ka.zus Di plew.ri'zi.a, ki so'a.va~w~ 'ko~.mu 'kow.ru 'no.vu
 
 ref:	Ele notou o nariz aguçado, os olhos fundos, as orelhas frias da face próxima da morte, a facies hippocratica, usada por Falstaff em Henrique V, quando seu nariz ficou agudo como uma pena e com o balbucio de campos verdes.
-corrigida:	'e.li no'tow u na'riz a.gu'sa.du, uz 'O.Lus 'fu~.dus, az o're.Las 'fri.as da 'fa.si 'prO.si~.ma da 'mOX.Ti, a fa'sijz i.po'kra.Ti.ka, u'za.da puX faw'staf e~j~ e~'Ri.ki 'ki~.tu, 'kwa~.du 'sew na'ris fi'kow a'gu.du 'ko~.mu u~.ma 'pe~.na i ko~ u baw.bu'si.u Di 'ka~.pus 'veR.Dis
+corrigida:	'e.li no'tow u na'riz a.gu'sa.du, uz 'O.Lus 'fu~.dus, az o're.Las 'fri.as da 'fa.si 'prO.si~.ma da 'mOX.Ti, a fa'siz i.po'kra.Ti.ka, u'za.da puX faw'staf e~j~ e~'Ri.ki 'ki~.tu, 'kwa~.du 'sew na'ris fi'kow a'gu.du 'ko~.mu u~.ma 'pe~.na i ko~ u baw.bu'si.u Di 'ka~.pus 'veR.Dis
 
 ref:	John Cheyne descreveu um caso de apoplexia.
 corrigida:	'Zo~w~ 'Sej~.ni des.kre'vew u~ 'ka.zu Di a.po.plek'si.a
@@ -770,7 +770,7 @@ ref:	Como águas me rodeiam todo o dia; cercam-me todos juntos.
 corrigida:	'ko~.mu 'a.gwas mi Ro'dej.a~w~ 'to.du u 'Di.a, 'sEX.ka~w~ mi 'to.du'Zu~.tus
 
 ref:	Pois disse eu: A tua benignidade será edificada para sempre; tu confirmarás a tua fidelidade até nos céus, dizendo:
-corrigida:	'pojs 'Di.si ew, a 'tu.a be~.ni.gi.ni'da.Di se'ra e.Di.fi'ka.da 'pa.ra 'se~.pri, tu ko~.fiR.ma'rajz a 'tu.a fi.de.li'da.Di a'tE nus 'sEws, Di'ze~.du
+corrigida:	'pojs 'Di.si ew, a 'tu.a be~.ni.gi~.ni'da.Di se'ra e.Di.fi'ka.da 'pa.ra 'se~.pri, tu ko~.fiR.ma'rajz a 'tu.a fi.de.li'da.Di a'tE nus 'sEws, Di'ze~.du
 
 ref:	E os céus louvarão as tuas maravilhas, ó SENHOR, e a tua fidelidade também na assembleia dos santos.
 corrigida:	i us 'sEws low.va'ra~w~ as 'tu.as ma.ra'vi.Las, 'O se~'JoX, i a 'tu.a fi.de.li'da.Di ta~'be~j~ na a.se~'blej.a dus 'sa~.tus
@@ -848,7 +848,7 @@ ref:	Quase podemos ouvir um suspiro de alívio erguer-se em uníssono na cidade 
 corrigida:	'kwa.zi po'de~.muz ow'vir u~ sus'pi.ru Di a'li.vju eR'geX si e~j~ u~'ni.so~.nu na si'da.Di 'prO.si~.ma i nu 'ka~.pu, 'o~.Di a na.tu're.za i~.teR'vej.u 'pa.ra 'dar u~.ma 'fOw.ga awz e'zaws.tus 'se.riz u~'ma~.nus
 
 ref:	É claro que as tempestades também interrompem negócios, e, embora umas poucas empresas tenham um ganho extra, outras perdem dinheiro, o que significa que existem os que não sentem júbilo quando tudo fecha temporariamente.
-corrigida:	E 'kla.ru ki as te~.pes'ta.Dis ta~'be~j~ i~.te'Ro~.pe~j~ ne'gO.sjus, i, e~'bO.ra u~.mas 'pow.kaz e~'pre.zas 'te~.Ja~w~ u~ 'ga~.Ju 'es.tra, 'ow.tras 'pER.de~j~ Di~'Jej.ru, u ki si.gi.ni'fi.ka ki e'zis.te~j~ us ki 'na~w~ 'se~.te~j~ 'Zu.bi.lu 'kwa~.du 'tu.du 'fE.Sa te~.po.ra.ri.a~'me~.Ti
+corrigida:	E 'kla.ru ki as te~.pes'ta.Dis ta~'be~j~ i~.te'Ro~.pe~j~ ne'gO.sjus, i, e~'bO.ra u~.mas 'pow.kaz e~'pre.zas 'te~.Ja~w~ u~ 'ga~.Ju 'es.tra, 'ow.tras 'pER.de~j~ Di~'Jej.ru, u ki si.gi~.ni'fi.ka ki e'zis.te~j~ us ki 'na~w~ 'se~.te~j~ 'Zu.bi.lu 'kwa~.du 'tu.du 'fE.Sa te~.po.ra.ri.a~'me~.Ti
 
 ref:	Até as atividades comuns se tornam extraordinárias.
 corrigida:	a'tE az a.Ti.vi'da.Dis ko~'mu~s si 'tOR.na~w~ es.tra.oR.Di~'na.rjas
@@ -878,7 +878,7 @@ ref:	Com o gelo áspero e o cascalho afiado cortando as mãos e os joelhos, Mack
 corrigida:	ko~ u 'Ze.lu 'as.pe.ru i u kas'ka.Lu a.fi'a.du koX'ta~.du as 'ma~w~z i u.Zu'e.Lus, 'mE.ki 'mej.u e~.ga.Ti~'Jow, 'mej.u es.ko.Re'gow, a'tE ko~.se'giX Se'gar a u~.ma 'paX.Ti 'pla~.na da e~'tra.da Di ve'i.ku.lus
 
 ref:	Com um esforço considerável, finalmente pôde ficar de pé e avançar cautelosamente, centímetro a centímetro, em direção à casa, humilhado pelos poderes do gelo e da gravidade.
-corrigida:	ko~ u~ es'foX.su ko~.si.de'ra.vew, fi~.naw'me~.Ti 'po.Di fi'kaR Di 'pE i a.va~'saX kaw.te.lO.za~'me~.Ti, se~'Ti.me.tru a se~'Ti.me.tru, e~j~ Di.re'sa~w~ a 'ka.za, u~.mi'La.du 'pe.lus po'de.ris du 'Ze.lu i da gra.vi'da.Di
+corrigida:	ko~ u~ es'foX.su ko~.si.de'ra.vew, fi~.naw'me~.Ti 'po.Di fi'kaR Di 'pE i a.va~'saX kaw.te.lO.za~'me~.Ti, se~'Ti~.me.tru a se~'Ti~.me.tru, e~j~ Di.re'sa~w~ a 'ka.za, u~.mi'La.du 'pe.lus po'de.ris du 'Ze.lu i da gra.vi'da.Di
 
 ref:	Decidiu largar aquela bagunça molhada e manchada de sangue ali mesmo na entrada, onde a deixara cair, e avançou dolorosamente até o banheiro para examinar os ferimentos.
 corrigida:	de.si'Diw laR'gar a'kE.la ba'gu~.sa mo'La.da i ma~'Sa.da Di 'sa~.gi a'li 'mez.mu na e~'tra.da, 'o~.Di a dej'Sa.ra ka'iX, i a.va~'sow do.lo.rO.za~'me~.Ti a'tE u ba~'Jej.ru 'pa.ra e.za~.mi~'nar us fe.ri~'me~.tus
@@ -956,7 +956,7 @@ ref:	Você também é, só que não é mais tão pequenininha.
 corrigida:	vo'se ta~'be~j~ E, 'sO ki 'na~w~ E 'majs 'ta~w~ pe.ke~.ni~'ni~.Ja
 
 ref:	A cidade de Joseph, ali perto, é assim chamada por causa de um poderoso chefe tribal cujo nome indígena significava Trovão Rolando Montanha Abaixo.
-corrigida:	a si'da.Di Di 'Zo.zef, a'li 'pEX.tu, E a'si~ Sa~'ma.da puX 'kaw.za Di u~ po.de'ro.zu 'SE.fi tri'baw 'ku.Zu 'no~.mi i~'Di.Ze~.na si.gi.ni.fi'ka.va tro'va~w~ Ro'la~.du mo~'ta~.Ja a'baj.Su
+corrigida:	a si'da.Di Di 'Zo.zef, a'li 'pEX.tu, E a'si~ Sa~'ma.da puX 'kaw.za Di u~ po.de'ro.zu 'SE.fi tri'baw 'ku.Zu 'no~.mi i~'Di.Ze~.na si.gi~.ni.fi'ka.va tro'va~w~ Ro'la~.du mo~'ta~.Ja a'baj.Su
 
 ref:	A área oferece abundante flora e vida selvagem, incluindo alces, ursos, cervos e cabritos monteses.
 corrigida:	a 'a.rja o.fe'rE.si a.bu~'da~.Ti 'flO.ra i 'vi.da sew'va.Ze~j~, i~.klu'i~.du 'aw.sis, 'uX.sus, 'seR.vuz i ka'bri.tus mo~'te.zis
@@ -1448,7 +1448,7 @@ ref:	William P. Young nasceu em Alberta no Canadá mas passou grande parte de su
 corrigida:	'wi.lja~ 'pe, 'ja~.gi na'sew e~j~ aw'bEX.ta nu ka~.na'da majs pa'sow 'gra~.Di 'paX.Ti Di 'su.a i~'fa~.sja e~j~ pa'pu.a 'nO.va gi~'nE 'Zu~.tu ko~ 'sews 'pajs mi.si.o~'na.rjuz e~j~ u~.ma ko~.mu~.ni'da.Di tri'baw
 
 ref:	Dedico-me à saudade de minha antiga pobreza, quando tudo era mais sóbrio e digno e eu nunca havia comido lagosta.
-corrigida:	de'Di.ku mi a saw'da.Di Di 'mi~.Ja a~'Ti.ga po'bre.za, 'kwa~.du 'tu.du 'E.ra 'majs 'sO.brju i 'Di.gi.nu i ew 'nu~.ka a'vi.a ko~'mi.du la'gos.ta
+corrigida:	de'Di.ku mi a saw'da.Di Di 'mi~.Ja a~'Ti.ga po'bre.za, 'kwa~.du 'tu.du 'E.ra 'majs 'sO.brju i 'Di.gi~.nu i ew 'nu~.ka a'vi.a ko~'mi.du la'gos.ta
 
 ref:	Esse eu que é vós pois não aguento ser apenas mim, preciso dos outros para me manter de pé, tão tonto que sou, eu enviesado, enfim que é que se há de fazer senão meditar para cair naquele vazio pleno que só se atinge com a meditação.
 corrigida:	'e.si ew ki E 'vOjs 'pojs 'na~w~ a'gwe~.tu 'ser a'pe~.nas 'mi~, pre 'si.zu duz 'ow.trus 'pa.ra mi ma~'teR Di 'pE, 'ta~w~ 'to~.tu ki 'sow, ew e~.vi.e'za.du, e~'fi~ ki E ki si 'a Di fa'zeX se~'na~w~ me.Di'taX 'pa.ra ka'iR na'ke.li va'zi.u 'ple~.nu ki 'sO si a'Ti~.Zi ko~ a me.Di.ta'sa~w~
@@ -1634,13 +1634,13 @@ ref:	É tão bom saber que se rio, você ri comigo, se choro, me oferece o ombro
 corrigida:	E 'ta~w~ 'bo~ sa'beX ki si 'Ri.u, vo'se 'Ri ko~'mi.gu, si 'SO.ru mi o.fe'rE.si u 'o~.bru a~'mi.gu, e~j~ kwaw'kER mo~'me~.tu 'pO.su ko~'taX ko~'Ti.gu
 
 ref:	Ele diz que só quer borrar o batom dela, mas em tão pouco tempo só lhe soube borrar o rímel.
-corrigida:	'e.li 'Dis ki 'sO kER bo'Rar u ba'to~ 'dE.la, majz e~j~ 'ta~w~ 'pow.ku 'te~.pu 'sO Li 'sow.bi bo'Rar u 'Ri.mew
+corrigida:	'e.li 'Dis ki 'sO kER bo'Rar u ba'to~ 'dE.la, majz e~j~ 'ta~w~ 'pow.ku 'te~.pu 'sO Li 'sow.bi bo'Rar u 'Ri~.mew
 
 ref:	Só não quero partir antes de todos, quero sentir saudade, quero acostumar-me com a dor.
 corrigida:	'sO 'na~w~ 'kE.ru paX'Tir 'a~.Tis Di 'to.dus, 'kE.ru se~'TiX saw'da.Di, 'kE.ru a.kos.tu~'maX mi ko~ a 'doX
 
 ref:	É necessario chorar, mais adiante o riso vem. O choro significa barreiras, e o sorriso mostra que você conseguiu quebra-las.
-corrigida:	E ne.se'sa.rju So'raX, 'majz a.Di'a~.Ti u 'Ri.zu ve~j~, u 'So.ru si.gi.ni'fi.ka ba'Rej.ras, i u so'Ri.zu 'mOs.tra ki vo'se ko~.se'giw ke'bra las
+corrigida:	E ne.se'sa.rju So'raX, 'majz a.Di'a~.Ti u 'Ri.zu ve~j~, u 'So.ru si.gi~.ni'fi.ka ba'Rej.ras, i u so'Ri.zu 'mOs.tra ki vo'se ko~.se'giw ke'bra las
 
 ref:	Sempre que estou só eu choro, mas sempre em público mostro alegria, não sei se eu de verdade sou quem choro só, ou quem em público finge alegria.
 corrigida:	'se~.pri ki es'tow 'sO ew 'SO.ru, 'majs se~'pri e~j~ 'pu.bli.ku 'mOs.tru a.le'gri.a, 'na~w~ 'sej si ew Di veR'da.Di 'sow 'ke~j~ 'SO.ru 'sO, ow 'ke~j~ e~j~ 'pu.bli.ku 'fi~.Zi a.le'gri.a
@@ -1652,7 +1652,7 @@ ref:	É a vez da consciência Molhar as plantas Colher os frutos E comer só o q
 corrigida:	E a 'vejz da ko~.si'e~.sja mo'Lar as 'pla~.tas ko'Ler us 'fru.tuz i ko~'meX 'sO u ki 'foR veR.da'dej.ru
 
 ref:	Tu és com certeza a rosa mais linda que já existiu na terra. Por isso não faço questão de te colher. Só me deixa te admirar, quem sabe te adorar e se eu for merecedor que um dia aceites me amar.
-corrigida:	tu 'Ejs ko~ seX'te.za a 'RO.za 'majs 'li~.da ki 'Za e.zis'Tiw na 'tE.Ra, pur 'i.su 'na~w~ 'fa.su kes'ta~w~ Di Ti ko'LeX, 'sO mi 'dej.Sa Ti a.Di.mi'raX, 'ke~j~ 'sa.bi Ti a.do'rar i si ew 'foR me.re.se'doX ki u~ 'Di.a a'sej.Tis mi a~'maX
+corrigida:	tu 'Ejs ko~ seX'te.za a 'RO.za 'majs 'li~.da ki 'Za e.zis'Tiw na 'tE.Ra, pur 'i.su 'na~w~ 'fa.su kes'ta~w~ Di Ti ko'LeX, 'sO mi 'dej.Sa Ti a.Di~.mi'raX, 'ke~j~ 'sa.bi Ti a.do'rar i si ew 'foR me.re.se'doX ki u~ 'Di.a a'sej.Tis mi a~'maX
 
 ref:	Colher as flores é fácil!  Quero ver plantar, aguar, esperar crescer e adubar, esperar abrir e perfumar!
 corrigida:	ko'Ler as 'flo.riz E 'fa.siw, 'kE.ru 'veX pla~'tar, a'gwaX, es.pe'raX kre'ser i a.du'baX, es.pe'rar a'brir i peX.fu~'maX
@@ -1667,7 +1667,7 @@ ref:	Sua Ausência causa chuvas tempestuosas nas Flores que deixo de colher. Ser
 corrigida:	'su.a aw'ze~.sja 'kaw.za 'Su.vas te~.pes.tu'O.zas nas 'flo.ris ki 'dej.Su Di ko'LeX, se'ra si uz a~'mo.riz e'Ra.dus 'sO 'va~w~ 'kwa~.du u veR.da'dej.ru Se'gaX
 
 ref:	Se a lição já sabemos ao nascer Só nos resta aprender a inventar porque pra colher o que se plantou Precisamos do vento pra secar  Almany Sol
-corrigida:	si a li'sa~w~ 'Za sa'be~.muz aw na'seX 'sO nus 'REs.ta a.pre~'der a i~.ve~'taX puX'ke pra ko'Ler u ki si pla~'tow pre.si'za~.mus du 've~.tu pra se'kar aw'ma.ni 'sOw
+corrigida:	si a li'sa~w~ 'Za sa'be~.muz aw na'seX 'sO nus 'REs.ta a.pre~'der a i~.ve~'taX puX'ke pra ko'Ler u ki si pla~'tow pre.si'za~.mus du 've~.tu pra se'kar aw'ma~.ni 'sOw
 
 ref:	Caminhando e semeando é o ponto de partida para colher algo na vida.
 corrigida:	ka~.mi~'Ja~.du i se~.me'a~.du E u 'po~.tu Di paX'Ti.da 'pa.ra 'ko.Ler 'aw.gu na 'vi.da
@@ -1712,7 +1712,7 @@ ref:	Às vezes, não vemos o final do caminho no começo da jornada. Só nos res
 corrigida:	as 've.zis, 'na~w~ 've~.muz u fi~'naw du ka~'mi~.Ju nu ko~'me.su da ZoR'na.da, 'sO nus 'REs.ta se'gi lu
 
 ref:	Eu já me apaixonei tantas vezes pela pessoa errada, que eu começo a suspeitar fortemente que o errado sou eu.
-corrigida:	ew 'Za mi a.paj.So~'nej 'ta~.tas 've.zis 'pe.la pe'so.a e'Ra.da, ki ew ko~'mE.su a sus.pej'taX fOX.Ti'me~.Ti ki u e'Ra.du 'sow ew
+corrigida:	ew 'Za mi a.paj.So~'nej 'ta~.tas 've.zis 'pe.la pe'so.a e'Ra.da, ki ew ko~'mE.su a sus.pej'taX fOX.Ti~'me~.Ti ki u e'Ra.du 'sow ew
 
 ref:	Todo fim é um novo começo, a gente só não sabe disso naquele momento
 corrigida:	'to.du 'fi~ E u~ 'nO.vu ko~'me.su, a 'Ze~.Ti 'sO 'na~w~ 'sa.bi 'Di.su na'ke.li mo~'me~.tu
@@ -1754,7 +1754,7 @@ ref:	Namore alguém que não te corte as asas, mas que voe com você.
 corrigida:	na~'mO.ri aw'ge~j~ ki 'na~w~ Ti 'kOX.Ti az 'a.zas, majs ki 'vo.i ko~ vo'se
 
 ref:	Caiu e fez-se em mil pedaços. Ela insistentemente tentava juntá-los e só o que conseguia era cortar-se cada vez mais mais.
-corrigida:	ka'iw i 'fejs si e~j~ 'miw pe'da.sus, 'E.la i~.sis.te~.Ti'me~.Ti te~'ta.va Zu~'ta luz i 'sO u ki ko~.se'gi.a 'E.ra koX'taX si 'ka.da 'vejz 'majs 'majs
+corrigida:	ka'iw i 'fejs si e~j~ 'miw pe'da.sus, 'E.la i~.sis.te~.Ti~'me~.Ti te~'ta.va Zu~'ta luz i 'sO u ki ko~.se'gi.a 'E.ra koX'taX si 'ka.da 'vejz 'majs 'majs
 
 ref:	Todo o amor que ela possuia, vendido, deixada com um corte na garganta
 corrigida:	'to.du u a~'moX ki 'E.la po.su'i.a, ve~'Di.du, dej'Sa.da ko~ u~ 'kOX.Ti na gaR'ga~.ta
@@ -2075,7 +2075,7 @@ ref:	Entre os séculos XVI e XVII, surgem duas principais escolas de renga haika
 corrigida:	'e~.tri us 'sE.ku.lus de.ze'sejz i de.ze'sE.Ti, 'suR.Ze~j~ 'du.as pri~.si'pajz es'kO.las Di 'Re~.ga Raj'kaj, a tej~'mo~ 'Xa, ow es'kO.la Di ma.tsu~'na.ga tej'to.ku, ki bus'ka.va a so.fis.Ti.ka'sa~w~ da li~'gwa.Ze~j~ i a ko~.po.zi'sa~w~ e.la.bo'ra.da, i a da~'Ri~ 'fu, ow 'te~.plu, 'ku.Zu pri~.si'paw Re.pre.ze~'ta~.Ti 'foj ni.Si'ja~.ma 'so.i~
 
 ref:	Consta que o poeta teve mais de 3 mil discípulos em vida, entre eles o chamado Bashô Jijjetsu (dez grandes discípulos de Bashô): Sampu, Kyorai, Ransêtsu, Kyorôku, Kikaku, Josô, Yaha, Shikô, Etsujin e Hokúshi, todos dignos herdeiros de sua trajetória de vida, pautada pela humildade, pelo desapego e pela simplicidade.
-corrigida:	'ko~s.ta ki u po'E.ta 'te.vi 'majs Di 'trejs 'miw Di'si.pu.luz e~j~ 'vi.da, 'e~.tri 'e.liz u Sa~'ma.du ba'So Zi'Ze.tsu, 'dEjz 'gra~.Dis Di'si.pu.lus Di ba'So, sa~'pu, kjo'raj, Ra~'set.su, kjo'ro.ku, ki'ka.ku, Zo'so, 'ja.Xa, Si'ko, et.su'Zi~ i Xo'ku.Si, 'to.dus 'Di.gi.nuz eR'dej.rus Di 'su.a tra.Ze'tO.rja Di 'vi.da, paw'ta.da 'pe.la u~.miw'da.Di, 'pe.lu de.za'pe.gu i 'pe.la si~.pli.si'da.Di
+corrigida:	'ko~s.ta ki u po'E.ta 'te.vi 'majs Di 'trejs 'miw Di'si.pu.luz e~j~ 'vi.da, 'e~.tri 'e.liz u Sa~'ma.du ba'So Zi'Ze.tsu, 'dEjz 'gra~.Dis Di'si.pu.lus Di ba'So, sa~'pu, kjo'raj, Ra~'set.su, kjo'ro.ku, ki'ka.ku, Zo'so, 'ja.Xa, Si'ko, et.su'Zi~ i Xo'ku.Si, 'to.dus 'Di.gi~.nuz eR'dej.rus Di 'su.a tra.Ze'tO.rja Di 'vi.da, paw'ta.da 'pe.la u~.miw'da.Di, 'pe.lu de.za'pe.gu i 'pe.la si~.pli.si'da.Di
 
 ref:	imisen
 corrigida:	i~.mi.se~
@@ -2117,7 +2117,7 @@ ref:	Sacha Guitry
 corrigida:	'sa.Sa 'gi.tri
 
 ref:	E-mail lido por Jô Soares, no Programa do Jô
-corrigida:	i'mej.uw 'li.du puR 'Zo so'a.ris, nu pro'gra~.ma du 'Zo
+corrigida:	i~'mej.uw 'li.du puR 'Zo so'a.ris, nu pro'gra~.ma du 'Zo
 
 ref:	Revista Mad
 corrigida:	Re'vis.ta 'mE.Di
@@ -2150,7 +2150,7 @@ ref:	1 mistério? os sonhos! 1 jogo? a vida! 1 dilema? as escolhas! 1 objetivo? 
 corrigida:	'u~ mis'tE.rju, us 'so~.Jus, 'u~ 'Zo.gu, a 'vi.da, 'u~ Di'le~.ma, az es'ko.Las, 'u~ ob.Ze'Ti.vu, a fe.li.si'da.Di, 'u~ ka~'mi~.Ju, a es.pe'ra~.sa, 'u~ se'gre.du, vo'se E es.pe.si'aw 'pa.ra 'mi~
 
 ref:	Às vezes a vida parece um grande jogo de desilusão, e eu suspeito fortemente que ganha mais pontos quem desilude mais e se desilude menos.
-corrigida:	as 've.ziz a 'vi.da pa'rE.si u~ 'gra~.Di 'Zo.gu Di de.zi.lu'za~w~, i ew sus'pej.tu fOX.Ti'me~.Ti ki 'ga~.Ja 'majs 'po~.tus 'ke~j~ de.zi'lu.Di 'majz i si de.zi'lu.Di 'me~.nus
+corrigida:	as 've.ziz a 'vi.da pa'rE.si u~ 'gra~.Di 'Zo.gu Di de.zi.lu'za~w~, i ew sus'pej.tu fOX.Ti~'me~.Ti ki 'ga~.Ja 'majs 'po~.tus 'ke~j~ de.zi'lu.Di 'majz i si de.zi'lu.Di 'me~.nus
 
 ref:	Saudade sem fim de quem partiu pra sempre e eu nem pude me despedir e dizer adeus. Pai
 corrigida:	saw'da.Di se~j~ 'fi~ Di 'ke~j~ paX'Tiw pra 'se~.pri i ew ne~j~ 'pu.Di mi des.pe'Dir i Di'zer a'dews, 'paj
@@ -2258,7 +2258,7 @@ ref:	Tenha uma sede inesgotável por conhecer a si mesmo.
 corrigida:	'te~.Ja u~.ma 'se.Di i~.nez.go'ta.vew puX ko~.Je'ser a 'si 'mez.mu
 
 ref:	Construindo castelos sem úteis significados nutrimos a nossa ganância; pisando os mais fracos, criamos a fome, a sede e todas as mazelas que as acompanham...
-corrigida:	ko~s.tru'i~.du kas'tE.lus se~j~ 'u.tejs si.gi.ni.fi'ka.dus nu'tri~.muz a 'nO.sa ga~'na~.sja, pi'za~.du us 'majs 'fra.kus, kri'a~.muz a 'fo~.mi, a 'se.Di i 'to.daz as ma'zE.las ki az a.ko~'pa~.Ja~w~
+corrigida:	ko~s.tru'i~.du kas'tE.lus se~j~ 'u.tejs si.gi~.ni.fi'ka.dus nu'tri~.muz a 'nO.sa ga~'na~.sja, pi'za~.du us 'majs 'fra.kus, kri'a~.muz a 'fo~.mi, a 'se.Di i 'to.daz as ma'zE.las ki az a.ko~'pa~.Ja~w~
 
 ref:	Perdoa por esta sede que sinto de te amar. Sonhar com teu corpo sobre o meu, na dança frenética do amor.
 corrigida:	peR'do.a pur 'Es.ta 'se.Di ki 'si~.tu Di Ti a~'maX, so~'JaX ko~ 'tew 'koX.pu 'so.bri u 'mew, na 'da~.sa fre~'nE.Ti.ka du a~'moX
@@ -2312,7 +2312,7 @@ ref:	Mack ficou deitado por alguns segundos e percebeu que, por mais que pensass
 corrigida:	'mE.ki fi'kow dej'ta.du por aw'gu~s se'gu~.duz i peX.se'bew ki, puR 'majs ki pe~'sa.si ki ko~.Je'si.a Ze'zujs, taw'vejz 'na~w~ ko.Je'se.si, ow ko~.Je'se.si 'maw
 
 ref:	No silêncio que se seguiu, Mack simplesmente ficou parado, permitindo que a enormidade do espaço e da luminosidade esparsa o fizesse sentir-se pequeno, deixando suas percepções serem capturadas pela luz das estrelas e pela idéia de que tudo tinha a ver com ele. com a raça humana. que toda aquela magnífica criação era para a humanidade.
-corrigida:	nu si'le~.sju ki si se'giw, 'mE.ki si~.pliz'me~.Ti fi'kow pa'ra.du, peR.mi'Ti~.du ki a e~.noR.mi'da.Di du es'pa.su i da lu~.mi~.no.zi'da.Di es'paX.sa u fi'ze.si se~'TiX si pe'ke~.nu, dej'Sa~.du 'su.as peX.sep'so~j~s 'se.re~j~ kap.tu'ra.das 'pe.la 'lujz das es'tre.las i 'pe.la i'dEj.a Di ki 'tu.du 'Ti~.Ja a 'veX ko~ 'e.li, ko~ a 'Ra.sa u~'ma~.na, ki 'to.da a'kE.la ma.gi'ni.fi.ka kri.a'sa~w~ 'E.ra 'pa.ra a u~.ma~.ni'da.Di
+corrigida:	nu si'le~.sju ki si se'giw, 'mE.ki si~.pliz'me~.Ti fi'kow pa'ra.du, peR.mi'Ti~.du ki a e~.noR.mi'da.Di du es'pa.su i da lu~.mi~.no.zi'da.Di es'paX.sa u fi'ze.si se~'TiX si pe'ke~.nu, dej'Sa~.du 'su.as peX.sep'so~j~s 'se.re~j~ kap.tu'ra.das 'pe.la 'lujz das es'tre.las i 'pe.la i'dEj.a Di ki 'tu.du 'Ti~.Ja a 'veX ko~ 'e.li, ko~ a 'Ra.sa u~'ma~.na, ki 'to.da a'kE.la ma.gi~'ni.fi.ka kri.a'sa~w~ 'E.ra 'pa.ra a u~.ma~.ni'da.Di
 
 ref:	Sabe, reagiu Mack, novamente abalado pelo absurdo da situação, pelo lugar onde estava, pela pessoa ao seu lado, algumas vezes você parece tão. quero dizer, aqui estou eu, perto de Deus Todo-Poderoso, e na verdade você parece tão.
 corrigida:	'sa.bi, Re.a'Ziw 'mE.ki, nO.va~'me~.Ti a.ba'la.du 'pe.lu ab'suR.du da si.tu.a'sa~w~, 'pe.lu lu'gar 'o~.Di es'ta.va, 'pe.la pe'so.a aw 'sew 'la.du, aw'gu~.mas 've.zis vo'se pa'rE.si 'ta~w~, 'kE.ru Di'zeX, a'ki es'tow ew, 'pEX.tu Di 'dews 'to.du po.de'ro.zu, i na veR'da.Di vo'se pa'rE.si 'ta~w~
@@ -2483,7 +2483,7 @@ ref:	Viva. Ame. Pense. Erre. E depois do erro corra atrás de refazer o seu acer
 corrigida:	'vi.va, 'a~.mi, 'pe~.si, 'E.Ri, i de'pojs du 'e.Ru 'ko.Ra a'trajs Di Re.fa'zer u 'sew a'seX.tu
 
 ref:	Eu tropeço. Eu levanto. Eu me busco. Eu me encontro. Eu erro. Eu acerto. Eu desânimo. Eu me alegro. Retomo o trilho e contínuo a bela caminhada da vida.
-corrigida:	ew tro'pE.su, ew le'va~.tu, ew mi 'bus.ku, ew mi e~'ko~.tru, ew 'E.Ru, ew a'sEX.tu, ew de.za~'ni~.mu, ew mi a'lE.gru, Re'to~.mu u 'tri.Lu i ko~.Ti'nu.u a 'bE.la ka~.mi~'Ja.da da 'vi.da
+corrigida:	ew tro'pE.su, ew le'va~.tu, ew mi 'bus.ku, ew mi e~'ko~.tru, ew 'E.Ru, ew a'sEX.tu, ew de.za~'ni~.mu, ew mi a'lE.gru, Re'to~.mu u 'tri.Lu i ko~.Ti~'nu.u a 'bE.la ka~.mi~'Ja.da da 'vi.da
 
 ref:	Quem sabe um dia eu acerto! Esperança, otimismo, perseverança, determinação. tudo isso a cada amanhecer. E se hoje não der certo? Amanhã acordo e tento novamente! Quem sabe um dia eu acerto!?
 corrigida:	'ke~j~ 'sa.bi u~ 'Di.a ew a'sEX.tu, es.pe'ra~.sa, o.Ti~'miz.mu, peX.se.ve'ra~.sa, de.teR.mi~.na'sa~w~, 'tu.du 'i.su a 'ka.da a~.ma.Je'seX, i si 'o.Zi 'na~w~ 'dEX 'sEX.tu, a~.ma'Ja~ a'kOR.du i 'te~.tu nO.va~'me~.Ti, 'ke~j~ 'sa.bi u~ 'Di.a ew a'sEX.tu
@@ -2606,4 +2606,4 @@ ref:	Agradeça a Deus pelas tempestades que às vezes matam alguns. pois a quant
 corrigida:	a.gra'de.sa a 'dews 'pe.las te~.pes'ta.Dis ki as 've.zis 'ma.ta~w~ aw'gu~s, 'pojz a kwa~.Ti'da.Di Di 'a.gwa e~j~ e'sE.su po.de'ra sa.si'ar a se.Di 'Di mi'Lo~j~s
 
 ref:    Qualquer interferência nos meios que contribuem para a devoção desinteressada de qualquer médico aos seus pacientes é chocantemente imoral.
-corrigida:    kwaw'kEr i~.teX.fe're~.sja nus mej'us ki kõ.tri'bu.e~j~ 'pa.ra a de.vo'sãw~ de.zi~.te.re'sa.da Di kwaw'kER 'mE.Di.ku aws 'sews pa.si'e~.Tiz E So.kã.Ti'me~.Ti i~.mo'raw
+corrigida:    kwaw'kEr i~.teX.fe're~.sja nus mej'us ki kõ.tri'bu.e~j~ 'pa.ra a de.vo'sãw~ de.zi~.te.re'sa.da Di kwaw'kER 'mE.Di.ku aws 'sews pa.si'e~.Tiz E So.kã.Ti~'me~.Ti i~.mo'raw

@@ -122,7 +122,7 @@ ref:	déjà-vu
 corrigida:	de.Za'vu
 
 ref:	démodé
-corrigida:	de.mo'de
+corrigida:	de~.mo'de
 
 ref:	derrière
 corrigida:	de.Ri'E.ri
@@ -140,7 +140,7 @@ ref:	élan
 corrigida:	'E.la~
 
 ref:	expertis
-corrigida:	Eks.peX'tSijs
+corrigida:	Eks.peX'tSis
 
 ref:	finesse
 corrigida:	fi~'nE.si

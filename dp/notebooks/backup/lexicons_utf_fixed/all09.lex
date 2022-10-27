@@ -863,7 +863,7 @@ ref:	O amor é a maior força que a esperança tem para continuar a viver.
 corrigida:	u a~'mor E a maj'OX 'foX.sa ki a es.pe'ra~.sa te~j~ 'pa.ra ko~.Ti~.nu'ar a vi'veX
 
 ref:	Guerra é Paz Liberdade é Escravidão Ignorância é Força.
-corrigida:	'gE.Ra E 'pajz li.beR'da.Di E es.kra.vi'da~w~ i.gi.no'ra~.sja E 'foX.sa
+corrigida:	'gE.Ra E 'pajz li.beR'da.Di E es.kra.vi'da~w~ i.gi~.no'ra~.sja E 'foX.sa
 
 ref:	Somente quando de tudo desesperamos é que a esperança começa a ser a verdadeira força.
 corrigida:	sO~'me~.Ti 'kwa~.du Di 'tu.du de.zes.pe'ra~.muz E ki a es.pe'ra~.sa ko~'mE.sa a 'ser a veR.da'dej.ra 'foX.sa
@@ -965,7 +965,7 @@ ref:	A vaidade dos outros só vai contra o nosso gosto quando vai contra a nossa
 corrigida:	a vaj'da.Di duz 'ow.trus 'sO 'vaj 'ko~.tra u 'nO.su 'gos.tu 'kwa~.du 'vaj 'ko~.tra a 'nO.sa vaj'da.Di
 
 ref:	Defino a poesia das palavras como Criação rítmica da Beleza. O seu único juiz é o Gosto.
-corrigida:	de'fi~.nu a po.e'zi.a das pa'la.vras 'ko~.mu kri.a'sa~w~ 'Ri.Ti.mi.ka da be'le.za, u 'sew 'u~.ni.ku Zu'iz E u 'gos.tu
+corrigida:	de'fi~.nu a po.e'zi.a das pa'la.vras 'ko~.mu kri.a'sa~w~ 'Ri.Ti~.mi.ka da be'le.za, u 'sew 'u~.ni.ku Zu'iz E u 'gos.tu
 
 ref:	Nunca usei bombacha, não gosto de chimarrão e nem de me lembrar da última vez que subi num cavalo. Aliás, o cavalo também não gosta.
 corrigida:	'nu~.ka u'zej bo~'ba.Sa, 'na~w~ 'gOs.tu Di Si~.ma'Ra~w~ i ne~j~ Di mi le~'braR da 'uw.Ti~.ma 'vejs ki su'bi nu~ ka'va.lu, a.li'ajs, u ka'va.lu ta~'be~j~ 'na~w~ 'gOs.ta
@@ -1250,7 +1250,7 @@ ref:	O que não tem mais vontade nem mais gosto do que a vontade e o gosto alhei
 corrigida:	u ki 'na~w~ te~j~ 'majs vo~'ta.Di ne~j~ 'majs 'gos.tu du ki a vo~'ta.Di i u 'gos.tu a'Lej.us, 'pO.Di 'seX 'Ti.du 'ko~.mu veR.da'dej.ru es'kra.vu
 
 ref:	Gosto de mais das pessoas para me repugnar fazer-lhes mal, e julgá-las é já fazer-lhes mal.
-corrigida:	'gOs.tu Di 'majs das pe'so.as 'pa.ra mi Re.pu.gi'naX fa'zeX Lis 'maw, i Zuw'ga laz E 'Za fa'zeX Lis 'maw
+corrigida:	'gOs.tu Di 'majs das pe'so.as 'pa.ra mi Re.pu.gi~'naX fa'zeX Lis 'maw, i Zuw'ga laz E 'Za fa'zeX Lis 'maw
 
 ref:	do orvalho nunca esqueça o branco gosto solitário
 corrigida:	du oR'va.Lu 'nu~.ka es'ke.sa u 'bra~.ku 'gos.tu so.li'ta.rju
@@ -2147,7 +2147,7 @@ ref:	O sujeito, ao saber que a querida sogra viria visitá-los, mandou cortar o 
 corrigida:	u su'Zej.tu, aw sa'beX ki a ke'ri.da 'sO.gra vi'ri.a vi.zi'ta lus, ma~'dow koX'tar u 'Ra.bu du ka'So.Ru
 
 ref:	A esposa, indignada, pergunta: Mas querido, porque você fez isso?
-corrigida:	a es'po.za, i~.Di.gi'na.da, peR'gu~.ta, majs ke'ri.du, puX'ke vo'se 'fejz 'i.su
+corrigida:	a es'po.za, i~.Di.gi~'na.da, peR'gu~.ta, majs ke'ri.du, puX'ke vo'se 'fejz 'i.su
 
 ref:	É simples.
 corrigida:	E 'si~.plis
@@ -2453,7 +2453,7 @@ ref:	Da mesma forma que encontramos frequentemente homens inteligentes acompanha
 corrigida:	da 'mez.ma 'fOR.ma ki e~.ko~'tra~.mus fre.kwe~.Ti~'me~.Ti 'o~.me~z i~.te.li'Ze~.Tiz a.ko~.pa~'Ja.dus Di mu'LE.ris 'bu.Ras, Di.fi.siw'me~.Ti e~.ko~'tra~.mus mu'LE.riz i~.te.li'Ze~.Tiz a.ko~.pa~'Ja.das Di su'Zej.tus 'bu.Rus
 
 ref:	Isso significa que o julgamento da inteligência entre sexos é algo absolutamente relativo.
-corrigida:	'i.su si.gi.ni'fi.ka ki u Zuw.ga~'me~.tu da i~.te.li'Ze~.sja 'e~.tri 'sEk.suz E 'aw.gu ab.so.lu.ta~'me~.Ti Re.la'Ti.vu
+corrigida:	'i.su si.gi~.ni'fi.ka ki u Zuw.ga~'me~.tu da i~.te.li'Ze~.sja 'e~.tri 'sEk.suz E 'aw.gu ab.so.lu.ta~'me~.Ti Re.la'Ti.vu
 
 ref:	O inventor do silicone merece um busto em praça pública.
 corrigida:	u i~.ve~'toR du si.li'ko~.ni me'rE.si u~ 'bus.tu e~j~ 'pra.sa 'pu.bli.ka

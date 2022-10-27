@@ -1562,13 +1562,13 @@ ref:	Se concentração ganhasse jogo, o time da penitenciária não perdia uma.
 corrigida:	si ko~.se~.tra'sa~w~ ga~'Ja.si 'Zo.gu, u 'Ti~.mi da pe~.ni.te~.si'a.rja 'na~w~ peR'Di.a u~.ma
 
 ref:	A arquitetura é o jogo sábio, correto e magnífico dos volumes dispostos sob a luz.
-corrigida:	a aX.ki.te'tu.ra E u 'Zo.gu 'sa.bju, ko'RE.tu i ma.gi'ni.fi.ku dus vo'lu~.mis Dis'pOs.tus sob a 'lujs
+corrigida:	a aX.ki.te'tu.ra E u 'Zo.gu 'sa.bju, ko'RE.tu i ma.gi~'ni.fi.ku dus vo'lu~.mis Dis'pOs.tus sob a 'lujs
 
 ref:	O trabalho é tudo o que se é obrigado a fazer; jogo é tudo o que se faz sem ser obrigado.
 corrigida:	u tra'ba.Lu E 'tu.du u ki si E o.bri'ga.du a fa'zeX, 'Zo.gu E 'tu.du u ki si 'fajs se~j~ 'ser o.bri'ga.du
 
 ref:	Todo o nosso mal provém de não podermos estar sozinhos: daí o jogo, o luxo, a dissipação, o vinho, as mulheres, a ignorância, a desconfiança, o esquecimento de nós mesmos e de Deus.
-corrigida:	'to.du u 'nO.su 'maw pro've~j~ Di 'na~w~ po'deR.muz es'taX sO'zi~.Jus, da'i u 'Zo.gu, u 'lu.Su, a Di.si.pa'sa~w~, u 'vi~.Ju, as mu'LE.ris, a i.gi.no'ra~.sja, a des.ko~.fi'a~.sa, u es.ke.si~'me~.tu Di 'nOjs 'mez.muz i Di 'dews
+corrigida:	'to.du u 'nO.su 'maw pro've~j~ Di 'na~w~ po'deR.muz es'taX sO'zi~.Jus, da'i u 'Zo.gu, u 'lu.Su, a Di.si.pa'sa~w~, u 'vi~.Ju, as mu'LE.ris, a i.gi~.no'ra~.sja, a des.ko~.fi'a~.sa, u es.ke.si~'me~.tu Di 'nOjs 'mez.muz i Di 'dews
 
 ref:	Se macumba ganhasse jogo, o Campeonato Baiano terminava empatado.
 corrigida:	si ma'ku~.ba ga~'Ja.si 'Zo.gu, u ka~.pe.o~'na.tu baj'a~.nu teR.mi~'na.va e~.pa'ta.du
@@ -1694,7 +1694,7 @@ ref:	A primeira impressão é a que fica. Se começar o jogo perdendo, nunca vai
 corrigida:	a pri~'mej.ra i~.pre'sa~w~ E a ki 'fi.ka, si ko~.me'sar u 'Zo.gu peR'de~.du, 'nu~.ka 'vaj sa'iR ga~'Ja~.du
 
 ref:	Se você não pode ganhar o jogo, se você não pode resolver o enigma, então você não é nada além de um perdedor.
-corrigida:	si vo'se 'na~w~ 'pO.Di ga~'Jar u 'Zo.gu, si vo'se 'na~w~ 'pO.Di Re.zow'ver u e~'ni.gi.ma, e~'ta~w~ vo'se 'na~w~ E 'na.da a'le~j~ Di u~ peR.de'doX
+corrigida:	si vo'se 'na~w~ 'pO.Di ga~'Jar u 'Zo.gu, si vo'se 'na~w~ 'pO.Di Re.zow'ver u e~'ni.gi~.ma, e~'ta~w~ vo'se 'na~w~ E 'na.da a'le~j~ Di u~ peR.de'doX
 
 ref:	Quando o jogo termina, o rei e o peão voltam sempre para a mesma caixa.
 corrigida:	'kwa~.du u 'Zo.gu teR'mi~.na, u 'Rej i u pe'a~w~ 'vOw.ta~w~ 'se~.pri 'pa.ra a 'mez.ma 'kaj.Sa
@@ -2186,7 +2186,7 @@ ref:	O novo sol vai brilhar, é preciso renascer e entender o jogo Ontem tive qu
 corrigida:	u 'no.vu 'sOw 'vaj bri'LaX, E pre'si.zu Re~.na'ser i e~.te~'der u 'Zo.gu 'o~.te~j~ 'Ti.vi ki mo'ReX, pra ko~.me'saR Di 'no.vu
 
 ref:	Enigmas são como quebra-cabeças. Tem que ter as peças certas pra resolver o jogo.
-corrigida:	e~'ni.gi.mas 'sa~w~ 'ko~.mu 'kE.bra ka'be.sas, te~j~ ki 'ter as 'pE.sas 'sEX.tas pra Re.zow'ver u 'Zo.gu
+corrigida:	e~'ni.gi~.mas 'sa~w~ 'ko~.mu 'kE.bra ka'be.sas, te~j~ ki 'ter as 'pE.sas 'sEX.tas pra Re.zow'ver u 'Zo.gu
 
 ref:	Votar ou não votar dá na mesma. O jogo está perdido. As cartas estão dadas. Um cenário mundial catastrófico está nos engolindo!
 corrigida:	vo'tar ow 'na~w~ vo'taR 'da na 'mez.ma, u 'Zo.gu es'ta peR'Di.du, as 'kaX.taz es'ta~w~ 'da.das, u~ se~'na.rju mu~.Di'aw ka.tas'trO.fi.ku es'ta nuz e~.go'li~.du
@@ -2369,7 +2369,7 @@ ref:	Acamado. E olho No olho, De molho.
 corrigida:	a.ka~'ma.du, i 'o.Lu nu 'o.Lu, Di 'mo.Lu
 
 ref:	Política e molho de strogonoff não se discutem
-corrigida:	po'li.Ti.ka i 'mo.Lu Di stro.go'no.fi 'na~w~ si Dis'ku.te~j~
+corrigida:	po'li.Ti.ka i 'mo.Lu Di stro.go~'no.fi 'na~w~ si Dis'ku.te~j~
 
 ref:	Jantar. Mão na mão. Olho no olho. Molho? Não?
 corrigida:	Za~'taX, 'ma~w~ na 'ma~w~, 'o.Lu nu 'o.Lu, 'mo.Lu, 'na~w~
@@ -2441,7 +2441,7 @@ ref:	A alma é um olho sem pálpebra.
 corrigida:	a 'aw.ma E u~ 'o.Lu se~j~ 'paw.pe.bra
 
 ref:	Para você parecer culto é só ficar de olho no que o outro cara ignora.
-corrigida:	'pa.ra vo'se pa.re'seX 'kuw.tu E 'sO fi'kaR Di 'o.Lu nu ki u 'ow.tru 'ka.ra i.gi'nO.ra
+corrigida:	'pa.ra vo'se pa.re'seX 'kuw.tu E 'sO fi'kaR Di 'o.Lu nu ki u 'ow.tru 'ka.ra i.gi~'nO.ra
 
 ref:	O olho vê somente o que a mente está preparada para compreender.
 corrigida:	u 'o.Lu 've sO~'me~.Ti u ki a 'me~.Ti es'ta pre.pa'ra.da 'pa.ra ko~.pre.e~'deX
@@ -2555,7 +2555,7 @@ ref:	Olho pra traz vejo a estrada que eu trilhei, Mocó, Quem teve lado a lado e
 corrigida:	'O.Lu pra 'trajz 've.Zu a es'tra.da ki ew tri'Lej, mo'kO, 'ke~j~ 'te.vi 'la.du a 'la.du i 'ke~j~ 'sO fi'kow na 'bO.ta
 
 ref:	Olho o céu com paciência. O azul não me cansa. Uma ave voando não significa que está partindo. Uma ave voando pode estar regressando...
-corrigida:	'O.Lu u 'sEw ko~ pa.si'e~.sja, u a'zuw 'na~w~ mi 'ka~.sa, u~.ma 'a.vi vo'a~.du 'na~w~ si.gi.ni'fi.ka ki es'ta paX'Ti~.du, u~.ma 'a.vi vo'a~.du 'pO.Di es'ta.Re.gre'sa~.du
+corrigida:	'O.Lu u 'sEw ko~ pa.si'e~.sja, u a'zuw 'na~w~ mi 'ka~.sa, u~.ma 'a.vi vo'a~.du 'na~w~ si.gi~.ni'fi.ka ki es'ta paX'Ti~.du, u~.ma 'a.vi vo'a~.du 'pO.Di es'ta.Re.gre'sa~.du
 
 ref:	Cansei dessa gente que me olha de canto de olho. Como se eu fosse louca por gostar assim da vida.
 corrigida:	ka~'sej 'dE.sa 'Ze~.Ti ki mi 'O.La Di 'ka~.tu Di 'o.Lu, 'ko~.mu si ew 'fo.si 'low.ka puR gos'tar a'si~ da 'vi.da
@@ -2747,7 +2747,7 @@ ref:	Quanto mais para o alto eu olho, mais percebo o quão profundo é o vale em
 corrigida:	'kwa~.tu 'majs 'pa.ra u 'aw.tu ew 'O.Lu, 'majs peX'se.bu u 'kwa~w~ pro'fu~.du E u 'va.li e~j~ ki mi e~'ko~.tru
 
 ref:	Quando eu olho para a minha amada eu vejo os fragmentos de milhões de pequenas coisas que somadas me dizem que ela é a mulher da minha vida.
-corrigida:	'kwa~.du ew 'O.Lu 'pa.ra a 'mi~.Ja a~'ma.da ew 've.Zu us fra.gi'me~.tus Di mi'Lo~j~s Di pe'ke~.nas 'koj.zas ki so~'ma.das mi 'Di.ze~j~ ki 'E.la E a mu'LER da 'mi~.Ja 'vi.da
+corrigida:	'kwa~.du ew 'O.Lu 'pa.ra a 'mi~.Ja a~'ma.da ew 've.Zu us fra.gi~'me~.tus Di mi'Lo~j~s Di pe'ke~.nas 'koj.zas ki so~'ma.das mi 'Di.ze~j~ ki 'E.la E a mu'LER da 'mi~.Ja 'vi.da
 
 ref:	Eu olho em volta, não há ninguém mais importante que você. Eu acho que você sabe que sempre o amarei...
 corrigida:	ew 'O.Lu e~j~ 'vOw.ta, 'na~w~ 'a ni~'ge~j~ 'majz i~.poX'ta~.Ti ki vo'se, ew 'a.Su ki vo'se 'sa.bi ki 'se~.pri u a~.ma'rej
@@ -2897,7 +2897,7 @@ ref:	Ligo o meu notebook e olho pra tela com muita atenção. Já tenho o seu lo
 corrigida:	'li.gu u 'mew no.Ti'bu.ki i 'O.Lu pra 'tE.la ko~ 'mu~j~.ta a.te~'sa~w~, 'Za 'te~.Ju u 'sew lo'gi~, majs 'kwaw E a 'se~.Ja pru 'sew ko.ra'sa~w~
 
 ref:	Quando olho para trás não é para lembrar dos insignificantes que passaram pelo meu rascunho, é para lembrar dos amigos que fazem parte da minha vida.
-corrigida:	'kwa~.du 'O.Lu 'pa.ra 'trajs 'na~w~ E 'pa.ra le~'braR duz i~.si.gi.ni.fi'ka~.Tis ki pa'sa.ra~w~ 'pe.lu 'mew Ras'ku~.Ju, E 'pa.ra le~'braR duz a~'mi.gus ki 'fa.ze~j~ 'paX.Ti da 'mi~.Ja 'vi.da
+corrigida:	'kwa~.du 'O.Lu 'pa.ra 'trajs 'na~w~ E 'pa.ra le~'braR duz i~.si.gi~.ni.fi'ka~.Tis ki pa'sa.ra~w~ 'pe.lu 'mew Ras'ku~.Ju, E 'pa.ra le~'braR duz a~'mi.gus ki 'fa.ze~j~ 'paX.Ti da 'mi~.Ja 'vi.da
 
 ref:	Eu tenho um amor pra vida toda: encontro com ele toda vez que me olho no espelho. E como ele é lindo.
 corrigida:	ew 'te~.Ju u~ a~'moX pra 'vi.da 'to.da, e~'ko~.tru ko~ 'e.li 'to.da 'vejs ki mi 'O.Lu nu es'pe.Lu, i 'ko~.mu 'e.li E 'li~.du
@@ -2927,7 +2927,7 @@ ref:	Tem gente que mais parece ser lugar. Às vezes olho você de longe e falo b
 corrigida:	te~j~ 'Ze~.Ti ki 'majs pa'rE.si 'seR lu'gaX, as 've.ziz 'O.Lu vo'se Di 'lo~.Zi i 'fa.lu baj'Si~.Ju ke'ri.a 'ta~.tu mo'raR 'la
 
 ref:	Hoje em dia olhar no olho já não significa muita coisa, pessoas mentem de uma maneira tão convincente, talvez porque elas mesmas acreditam em suas mentiras.
-corrigida:	'o.Zi e~j~ 'Di.a o'LaR nu 'o.Lu 'Za 'na~w~ si.gi.ni'fi.ka 'mu~j~.ta 'koj.za, pe'so.as 'me~.te~j~ Di u~.ma ma~'nej.ra 'ta~w~ ko~.vi~'se~.Ti, taw'vejs puX'ke 'E.las 'mez.maz a.kre'Di.ta~w~ e~j~ 'su.as me~'Ti.ras
+corrigida:	'o.Zi e~j~ 'Di.a o'LaR nu 'o.Lu 'Za 'na~w~ si.gi~.ni'fi.ka 'mu~j~.ta 'koj.za, pe'so.as 'me~.te~j~ Di u~.ma ma~'nej.ra 'ta~w~ ko~.vi~'se~.Ti, taw'vejs puX'ke 'E.las 'mez.maz a.kre'Di.ta~w~ e~j~ 'su.as me~'Ti.ras
 
 ref:	O amor é ameaça, é suspiros. O amor é fumaça, é fogo. O amor é olho, é lágrima. O amor arde, queima. O amor alimenta. O amor ama.
 corrigida:	u a~'mor E a~.me'a.sa, E sus'pi.rus, u a~'mor E fu~'ma.sa, E 'fo.gu, u a~'mor E 'o.Lu, E 'la.gri~.ma, u a~'mor 'aR.Di, 'kej.ma, u a~'mor a.li~'me~.ta, u a~'mor 'a~.ma

@@ -38,7 +38,7 @@ ref:	Mas também posso ver que abrir mão dos meus direitos de independência n�
 corrigida:	majs ta~'be~j~ 'pO.su 'veX ki a'briR 'ma~w~ dus 'mews Di'rej.tus Di i~.de.pe~'de~.sja 'na~w~ se'ra u~ pro'sE.su 'fa.siw
 
 ref:	Poderia significar que...
-corrigida:	po.de'ri.a si.gi.ni.fi'kaX ki
+corrigida:	po.de'ri.a si.gi~.ni.fi'kaX ki
 
 ref:	Sarayu interrompeu a frase dele outra vez.
 corrigida:	sa.ra'ju i~.te.Ro~'pew a 'fra.zi 'de.li 'ow.tra 'vejs
@@ -572,7 +572,7 @@ ref:	Fazendo tudo parecer minúsculo, uma enorme cordilheira pairava acima e atr
 corrigida:	fa'ze~.du 'tu.du pa.re'seR mi~'nus.ku.lu, u~.ma e~'nOR.mi koR.Di'Lej.ra paj'ra.va a'si~.ma i a'trajs, 'ko~.mu se~.Ti~'nE.la mo~'ta~.du 'gwaR.da
 
 ref:	Mack sentou-se ao lado de Jesus e impregnou-se da sinfonia visual.
-corrigida:	'mE.ki se~'tow si aw 'la.du Di Ze'zujz i i~.pre.gi'now si da si~.fo~'ni.a vi.zu'aw
+corrigida:	'mE.ki se~'tow si aw 'la.du Di Ze'zujz i i~.pre.gi~'now si da si~.fo~'ni.a vi.zu'aw
 
 ref:	Você faz um grande trabalho! disse baixinho.
 corrigida:	vo'se 'fajz u~ 'gra~.Di tra'ba.Lu, 'Di.si baj'Si~.Ju
@@ -725,7 +725,7 @@ ref:	Jesus parou para contemplar uma águia-pescadora mergulhar no lago a menos 
 corrigida:	Ze'zujs pa'row 'pa.ra ko~.te~'plar u~.ma 'a.gja pes.ka'do.ra meR.gu'LaR nu 'la.gu a 'me~.nus Di 'vi~.Ti 'mE.trus 'de.liz i, a se'giX, le~.ta~'me~.Ti e.le'vaX si ko~ as 'ga.Ras se.gu'ra~.du u~.ma 'gra~.Di 'tru.ta ki a'i~.da lu'ta.va 'pa.ra es.ka'paX
 
 ref:	Isso significa que eu não tenho saída?
-corrigida:	'i.su si.gi.ni'fi.ka ki ew 'na~w~ 'te~.Ju sa'i.da
+corrigida:	'i.su si.gi~.ni'fi.ka ki ew 'na~w~ 'te~.Ju sa'i.da
 
 ref:	Realmente quero o que vocês três compartilham, mas não faço idéia de como chegar lá.
 corrigida:	Re.aw'me~.Ti 'kE.ru u ki vo'sejs 'trejs ko~.paX'Ti.La~w~, majs 'na~w~ 'fa.su i'dEj.a Di 'ko~.mu Se'gaR 'la
@@ -851,7 +851,7 @@ ref:	À medida que você cresce no relacionamento comigo, o que fizer simplesmen
 corrigida:	a me'Di.da ki vo'se 'krE.si nu Re.la.si.o~.na~'me~.tu ko~'mi.gu, u ki fi'zEX si~.pliz'me~.Ti Re.fle.Ti'ra 'ke~j~ vo'se Re.aw'me~.Ti E
 
 ref:	Mas você veio na forma de homem. Isso não significa alguma coisa?
-corrigida:	majs vo'se 'vej.u na 'fOR.ma Di 'o~.me~j~, 'i.su 'na~w~ si.gi.ni'fi.ka aw'gu~.ma 'koj.za
+corrigida:	majs vo'se 'vej.u na 'fOR.ma Di 'o~.me~j~, 'i.su 'na~w~ si.gi~.ni'fi.ka aw'gu~.ma 'koj.za
 
 ref:	Sim, mas não o que muitos imaginam.
 corrigida:	'si~, majs 'na~w~ u ki 'mu~j~.tuz i~.ma'Zi~.na~w~
@@ -932,7 +932,7 @@ ref:	Antes de eu ir?
 corrigida:	'a~.Tis Di ew 'iX
 
 ref:	Jesus ignorou a pergunta.
-corrigida:	Ze'zujz i.gi.no'row a peR'gu~.ta
+corrigida:	Ze'zujz i.gi~.no'row a peR'gu~.ta
 
 ref:	Mack, assim como o amor, a submissão não é algo que você pode praticar, especialmente sozinho.
 corrigida:	'mE.ki, a'si~ 'ko~.mu u a~'moX, a sub.mi'sa~w~ 'na~w~ E 'aw.gu ki vo'se 'pO.Di pra.Ti'kaX, es.pe.si.aw'me~.Ti sO'zi~.Ju
@@ -956,7 +956,7 @@ ref:	É verdade, minha vida não se destinava a tornar-se um exemplo a copiar.
 corrigida:	E veR'da.Di, 'mi~.Ja 'vi.da 'na~w~ si des.Ti~'na.va a toR'naX si u~ e'ze~.plu a ko.pi'aX
 
 ref:	Ser meu seguidor não significa tentar ser como Jesus, significa matar sua independência.
-corrigida:	'seR 'mew se.gi'doR 'na~w~ si.gi.ni'fi.ka te~'taX 'seX 'ko~.mu Ze'zujs, si.gi.ni'fi.ka ma'taX 'su.a i~.de.pe~'de~.sja
+corrigida:	'seR 'mew se.gi'doR 'na~w~ si.gi~.ni'fi.ka te~'taX 'seX 'ko~.mu Ze'zujs, si.gi~.ni'fi.ka ma'taX 'su.a i~.de.pe~'de~.sja
 
 ref:	Eu vim lhe dar vida, vida real, minha vida.
 corrigida:	ew 'vi~ Li 'daR 'vi.da, 'vi.da Re'aw, 'mi~.Ja 'vi.da
@@ -1115,7 +1115,7 @@ ref:	A mulher parecia estranhamente familiar, como se ele a tivesse conhecido ou
 corrigida:	a mu'LEX pa.re'si.a es.tra~.Ja~'me~.Ti fa~.mi.li'aX, 'ko~.mu si 'e.li a Ti'vE.si ko~.Je'si.du ow viz.lu~'bra.du e~j~ aw'gu~ lu'gaR nu pa'sa.du, a.pe'zaR Di sa'beX ki 'nu~.ka a 'vi.ra ne~j~ si e~.ko~'tra.ra ko~ 'E.la Di veR'da.Di
 
 ref:	Ela ignorou a pergunta.
-corrigida:	'E.la i.gi.no'row a peR'gu~.ta
+corrigida:	'E.la i.gi~.no'row a peR'gu~.ta
 
 ref:	Você sabe por que está aqui?
 corrigida:	vo'se 'sa.bi puX 'ke es'ta a'ki
@@ -1184,7 +1184,7 @@ ref:	Mas por que isso tem a ver com o motivo de eu estar aqui?
 corrigida:	majs puX 'ke 'i.su te~j~ a 'veX ko~ u mo'Ti.vu Di ew es'tar a'ki
 
 ref:	Em certo sentido, todo pai ama os filhos, respondeu ela, ignorando a segunda pergunta.
-corrigida:	e~j~ 'sEX.tu se~'Ti.du, 'to.du 'paj 'a~.ma us 'fi.Lus, Res.po~'dew 'E.la, i.gi.no'ra~.du a se'gu~.da peR'gu~.ta
+corrigida:	e~j~ 'sEX.tu se~'Ti.du, 'to.du 'paj 'a~.ma us 'fi.Lus, Res.po~'dew 'E.la, i.gi~.no'ra~.du a se'gu~.da peR'gu~.ta
 
 ref:	Mas alguns pais estão machucados demais para amá-los bem, e outros mal conseguem amá-los, você deveria saber disso.
 corrigida:	majz aw'gu~s 'pajz es'ta~w~ ma.Su'ka.dus de~'majs 'pa.ra a~'ma lus 'be~j~, i 'ow.trus 'maw ko~'sE.ge~j~ a~'ma lus, vo'se de.ve'ri.a sa'beR 'Di.su
@@ -2207,7 +2207,7 @@ ref:	Ah, meu Deus! Missy! gritou Mack e tentou avançar através do véu que os 
 corrigida:	'a, 'mew 'dews, 'mi.si, gri'tow 'mE.ki i te~'tow a.va~'sar a.tra'vEjs du 'vEw ki us se.pa'ra.va
 
 ref:	Para sua consternação, bateu contra a força que não lhe permitia chegar mais perto, como se algum magnetismo aumentasse em oposição ao seu esforço, mandando-o de volta para a sala.
-corrigida:	'pa.ra 'su.a ko~s.teR.na'sa~w~, ba'tew 'ko~.tra a 'foX.sa ki 'na~w~ Li peR.mi'Ti.a Se'gaR 'majs 'pEX.tu, 'ko~.mu si aw'gu~ ma.gi.ne'Tiz.mu aw~.me~'ta.si e~j~ o.po.zi'sa~w~ aw 'sew es'foX.su, ma~'da~.du u Di 'vOw.ta 'pa.ra a 'sa.la
+corrigida:	'pa.ra 'su.a ko~s.teR.na'sa~w~, ba'tew 'ko~.tra a 'foX.sa ki 'na~w~ Li peR.mi'Ti.a Se'gaR 'majs 'pEX.tu, 'ko~.mu si aw'gu~ ma.gi~.ne'Tiz.mu aw~.me~'ta.si e~j~ o.po.zi'sa~w~ aw 'sew es'foX.su, ma~'da~.du u Di 'vOw.ta 'pa.ra a 'sa.la
 
 ref:	Ela não pode ouvi-lo.
 corrigida:	'E.la 'na~w~ 'pO.Di ow'vi lu

@@ -50,10 +50,10 @@ ref:	beagle
 corrigida:	'bi.gow
 
 ref:	beach
-corrigida:	'bij.Ti
+corrigida:	'bi.Ti
 
 ref:	benchmarking
-corrigida:	bẽ.Ti'maX.ki~
+corrigida:	bẽ.Ti~'maX.ki~
 
 ref:	best-seller
 corrigida:	'bEs.Ti 'se.leX
@@ -62,7 +62,7 @@ ref:	biodesign
 corrigida:	bi.o.de'zaj~
 
 ref:	bitmap
-corrigida:	bi.Ti'ma.pi
+corrigida:	bi.Ti~'ma.pi
 
 ref:	blackout
 corrigida:	ble'kaw.Ti
@@ -98,7 +98,7 @@ ref:	boom
 corrigida:	'bu~w~
 
 ref:	boomerang
-corrigida:	bu.me'rã.gi
+corrigida:	bu~.me'rã.gi
 
 ref:	boss
 corrigida:	'bOjs
@@ -176,7 +176,7 @@ ref:	canion
 corrigida:	'kã.njo~j~
 
 ref:	cardiofitness
-corrigida:	kaR.Di.o'fi.Ti.nes
+corrigida:	kaR.Di.o'fi.Ti~.nes
 
 ref:	cartoon
 corrigida:	kaX'tu~w~
@@ -236,7 +236,7 @@ ref:	common
 corrigida:	'ko~.mo~w~
 
 ref:	cookie
-corrigida:	'ku.kij
+corrigida:	'ku.ki
 
 ref:	cool
 corrigida:	'kuw
@@ -311,7 +311,7 @@ ref:	disc-jockey
 corrigida:	'Dis.ki 'ZO.kej
 
 ref:	discman
-corrigida:	Dis.ki'mẽj~
+corrigida:	Dis.ki~'mẽj~
 
 ref:	display
 corrigida:	Dis'plej
@@ -395,7 +395,7 @@ ref:	feedback
 corrigida:	fi.Di'bE.ki
 
 ref:	feeling
-corrigida:	'fij.li~
+corrigida:	'fi.li~
 
 ref:	ferryboat
 corrigida:	'fE.Ri 'bow.Ti
@@ -407,7 +407,7 @@ ref:	firewall
 corrigida:	faj.ri'wOw
 
 ref:	fitness
-corrigida:	'fi.Ti.nes
+corrigida:	'fi.Ti~.nes
 
 ref:	flashback
 corrigida:	'flES.bE.ki
@@ -575,7 +575,7 @@ ref:	iceberg
 corrigida:	'aj.si.bER.gi
 
 ref:	impeachment
-corrigida:	i~'pi.Ti.mã
+corrigida:	i~'pi.Ti~.mã
 
 ref:	import-export
 corrigida:	i~'pOX.Ti es'pOX.Ti
@@ -641,7 +641,7 @@ ref:	jukebox
 corrigida:	Zu.ke'bOks
 
 ref:	junkie
-corrigida:	'Zã.kij
+corrigida:	'Za~.ki
 
 ref:	kalashnikov
 corrigida:	ka.laS.ni'kO.vi
@@ -671,7 +671,7 @@ ref:	layout
 corrigida:	lej'aw.Ti
 
 ref:	leasing
-corrigida:	'lij.zi~
+corrigida:	'li.zi~
 
 ref:	led
 corrigida:	'lE.Di
@@ -716,7 +716,7 @@ ref:	make-up
 corrigida:	mej'ka.pi
 
 ref:	management
-corrigida:	'mã.na.Zi.mẽ.Ti
+corrigida:	'mã.na.Zi~.mẽ.Ti
 
 ref:	manager
 corrigida:	'mã.na.ZeX
@@ -809,7 +809,7 @@ ref:	overbooking
 corrigida:	ow.veR'bu.ki~
 
 ref:	pacemaker
-corrigida:	pej.si'mej.keX
+corrigida:	pej.si~'mej.keX
 
 ref:	package
 corrigida:	'pE.ke.Zi
@@ -1043,7 +1043,7 @@ ref:	shot
 corrigida:	'SO.Ti
 
 ref:	showbizz
-corrigida:	Sow'bijz
+corrigida:	Sow'biz
 
 ref:	showman
 corrigida:	Sow'mẽj~
@@ -1052,7 +1052,7 @@ ref:	showroom
 corrigida:	Sow'Ru~w~
 
 ref:	siemens
-corrigida:	'si.mẽjs
+corrigida:	'si~.mẽjs
 
 ref:	single
 corrigida:	'si~.gow
@@ -1130,7 +1130,7 @@ ref:	speaker
 corrigida:	'spi.keX
 
 ref:	speed
-corrigida:	'spij.Di
+corrigida:	'spi.Di
 
 ref:	spin
 corrigida:	'spi~j~
@@ -1187,7 +1187,7 @@ ref:	stripper
 corrigida:	'stri.peX
 
 ref:	striptease
-corrigida:	stri.pi'tij.zi
+corrigida:	stri.pi'ti.zi
 
 ref:	strogonoff
 corrigida:	stro.go~'nO.ff
@@ -1241,7 +1241,7 @@ ref:	teflon
 corrigida:	te'flo~
 
 ref:	thirties
-corrigida:	TiX'Tijs
+corrigida:	TiX'Tis
 
 ref:	thriller
 corrigida:	'tri.leX
@@ -1319,7 +1319,7 @@ ref:	waffle
 corrigida:	'wO.fow
 
 ref:	walkie-talkie
-corrigida:	'waw.kij 'taw.kij
+corrigida:	'waw.ki 'taw.ki
 
 ref:	waterproof
 corrigida:	wO.teX'pru.fi

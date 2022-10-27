@@ -101,7 +101,7 @@ ref:	Capítulo 14: Verbos e outras liberdades
 corrigida:	ka'pi.tu.lu kwa'toR.zi 'vER.buz i 'ow.tras li.beR'da.Dis
 
 ref:	Buckminster Fuller
-corrigida:	bu.ki'mi~s.teX 'fu.leX
+corrigida:	bu.ki~'mi~s.teX 'fu.leX
 
 ref:	Capítulo 15: Um festival de amigos
 corrigida:	ka'pi.tu.lu 'ki~.zi u~ fes.Ti'vaw Di a~'mi.gus
