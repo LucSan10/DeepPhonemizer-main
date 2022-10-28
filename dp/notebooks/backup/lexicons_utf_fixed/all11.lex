@@ -155,7 +155,7 @@ ref:	A primeira vez que atendi a uma ocorrência desse tipo, haviam trazido o co
 corrigida:	a pri~'mej.ra 'vejs ki a.te~'Di a u~.ma o.ko'Re~.sja 'de.si 'Ti.pu, a'vi.a~w~ tra'zi.du u 'koX.pu 'pa.ra u 'Sa~w~ Di u~ pe'ke~.nu ba~'Jej.ru, ki fu~.si.o~'na.va 'ko~.mu ne.kro'tE.rju i~.pro.vi'za.du, nu 'tE.Rju du pa.vi'La~w~ 'kwa.tru
 
 ref:	O rapaz ensanguentado era magro, tinha os dentes da frente em péssimo estado e vários furos de faca no peito e nas costas.
-corrigida:	u Ra'pajz e~.sa~.ge~'ta.du 'E.ra 'ma.gru, 'Ti~.Ja us 'de~.Tis da 'fre~.Ti e~j~ 'pE.si~.mu es'ta.du i 'va.rjus 'fu.rus Di 'fa.ka nu 'pej.tu i nas 'kOs.tas
+corrigida:	u Ra'pajz e~.sa~.gwe~'ta.du 'E.ra 'ma.gru, 'Ti~.Ja us 'de~.Tis da 'fre~.Ti e~j~ 'pE.si~.mu es'ta.du i 'va.rjus 'fu.rus Di 'fa.ka nu 'pej.tu i nas 'kOs.tas
 
 ref:	Para me acalmar, perguntei ao funcionário como deveria preencher a ficha de encaminhamento, mas estava tão nervoso que nem ouvi a explicação.
 corrigida:	'pa.ra mi a.kaw'maX, peR.gu~'tej aw fu~.si.o~'na.rju 'ko~.mu de.ve'ri.a pre.e~'Ser a 'fi.Sa Di e~.ka~.mi~.Ja~'me~.tu, majz es'ta.va 'ta~w~ neR'vo.zu ki ne~j~ ow'vi a es.pli.ka'sa~w~
