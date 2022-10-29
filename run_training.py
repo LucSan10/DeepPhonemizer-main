@@ -11,8 +11,8 @@ import torch
 if __name__ == '__main__':
 
     print(torch.__version__)
-    allFiles = glob.glob("dp/notebooks/lexicons/*")
-    allDF = (pd.read_csv(f, encoding='utf-8', sep='\t', names=['grapheme', 'phoneme']) for f in allFiles)
+    allFiles = glob.glob("dp/notebooks/lexicons_utf_fixed/*")
+    allDF = (pd.read_csv(f, dtype=str, encoding='utf-8', sep='\t', names=['grapheme', 'phoneme']) for f in allFiles)
 
     df = pd.concat(allDF, ignore_index=True)
     df.insert(0, 'lang', 'pt_br')
@@ -21,34 +21,29 @@ if __name__ == '__main__':
     df['grapheme'] = df['grapheme'].map(str)
     df['phoneme'] = df['phoneme'].map(str)
 
-    df['phoneme'] = df['phoneme'].str.replace("\\\\pau\\\\", '\\\\,\\\\')
+    # df['phoneme'] = df['phoneme'].str.replace("\\\\pau\\\\", '\\\\,\\\\')
     df['phoneme'] = df['phoneme'].str.replace("a~", "ã")
     df['phoneme'] = df['phoneme'].str.replace("e~", "ẽ")
     df['phoneme'] = df['phoneme'].str.replace("i~", "ĩ")
     df['phoneme'] = df['phoneme'].str.replace("o~", "õ")
+    df['phoneme'] = df['phoneme'].str.replace("O~", "Õ")
     df['phoneme'] = df['phoneme'].str.replace("u~", "ũ")
 
     graphemes = ''.join(sorted(list(set(df['grapheme'].sum()))))
 
     phonemes = pd.DataFrame(
-    df['phoneme'].str.split("\\")
-        .explode().drop_duplicates()
-        .sort_values().reset_index(drop=True)
-        .values.tolist(), columns=['phon']
+        df['phoneme'].str.split("")
+            .explode().drop_duplicates()
+            .sort_values().reset_index(drop=True)
+            .values.tolist(), columns=['phon']
     )
 
-    phonemes['len'] = phonemes['phon'].str.len()
-    phonemes['upper'] = phonemes['phon'].str.isupper()
-    phonemes = phonemes.sort_values(by=['len', 'upper', 'phon'], ascending=False)['phon'].values.tolist()
-
-    phonemes.append("~")
-    phonemes.remove(" '")
+    phonemes = phonemes['phon'].to_list()
     phonemes.remove("")
     
-    df['phoneme'] = df['phoneme'].str.replace('\\', '')
     df['gsize'] = df['grapheme'].apply(lambda x : len(x))
     df['psize'] = df['phoneme'].apply(lambda x : len(x))
-    df = df[df['psize'] <= 225]
+    df = df[df['psize'] <= 300]
     
     dfsize = df.shape[0]
 
@@ -64,16 +59,16 @@ if __name__ == '__main__':
         config['preprocessing']['phoneme_symbols'] = phonemes
         config['preprocessing']['lowercase'] = False
 
-        epochs = 50
         #for layers in range(4, 13, 2):
             #for learning_rate in [0.0001/r for r in [1,2,5,10]]:
                 #for batch in [2**exp for exp in range(3, 2, -1)]:
                     #for d_model in [2**exp for exp in range(10, 8, -1)]:
                         #for d_fft in [2**exp for exp in range(11, 8, -1)]:
+        epochs = 300
         for i in range(1,21):
             learning_rate = 0.00005
             layers=4
-            batch=8
+            batch=64
             d_model=512
             d_fft=1024
             checkpoint_dir = f"checkpoints/{modelType}/batch-{batch}/model-{d_model}/fft-{d_fft}/layers-{layers}/lr-{learning_rate}/test-{i}"
