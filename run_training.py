@@ -10,7 +10,6 @@ import torch
 
 if __name__ == '__main__':
 
-    print(torch.__version__)
     allFiles = glob.glob("dp/notebooks/lexicons_utf_fixed/*")
     allDF = (pd.read_csv(f, dtype=str, encoding='utf-8', sep='\t', names=['grapheme', 'phoneme']) for f in allFiles)
 
@@ -50,7 +49,7 @@ if __name__ == '__main__':
     subset = df[['lang', 'grapheme', 'phoneme']]
     train_data = [tuple(x) for x in subset.to_numpy()]
 
-    for modelType in ['autoreg', 'forward']:
+    for modelType in ['autoreg']:
         config_file = f"./dp/configs/{modelType}_config.yaml"
         config = read_config(config_file)
         
@@ -65,7 +64,7 @@ if __name__ == '__main__':
                     #for d_model in [2**exp for exp in range(10, 8, -1)]:
                         #for d_fft in [2**exp for exp in range(11, 8, -1)]:
         epochs = 300
-        for i in range(1,21):
+        for i in range(10):
             learning_rate = 0.00005
             layers=4
             batch=64

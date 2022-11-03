@@ -5,8 +5,6 @@ from typing import List, Dict, Any, Tuple
 import csv
 import os
 
-from torchsummary import summary
-
 import torch
 import tqdm
 from torch.optim import Adam
@@ -242,26 +240,52 @@ class Trainer:
                          n_generate_samples: int,
                          step: int) -> None:
 
-        self.writer.add_scalar(f'Phoneme_Error_Rate/mean',
-                               eval_result['mean_per'], global_step=step)
-        self.writer.add_scalar(f'Word_Error_Rate/mean',
-                               eval_result['mean_wer'], global_step=step)
+        self.writer.add_scalar(f'Transcription Edits Rate/mean', eval_result['mean_trans_edits_rate'], global_step=step)
+        self.writer.add_scalar(f'Transcription Error Rate/mean', eval_result['mean_trans_error_rate'], global_step=step)
+        self.writer.add_scalar(f'Phoneme Edits Rate/mean', eval_result['mean_phon_edits_rate'], global_step=step)
+        self.writer.add_scalar(f'Phoneme Error Rate/mean', eval_result['mean_phon_error_rate'], global_step=step)
+        self.writer.add_scalar(f'Syllable Edits Rate/mean', eval_result['mean_syll_edits_rate'], global_step=step)
+        self.writer.add_scalar(f'Syllable Error Rate/mean', eval_result['mean_syll_error_rate'], global_step=step)
+        self.writer.add_scalar(f'Syllable Size Error Rate/mean', eval_result['mean_syllsize_error_rate'], global_step=step)
 
         if not os.path.isfile(self.checkpoint_dir_cv / 'logs' / 'result.csv'):
             with open(self.checkpoint_dir_cv / 'logs' / 'result.csv', 'w') as f:
                 w = csv.writer(f)
-                w.writerow(['mean_per', 'mean_wer'])
+                w.writerow(
+                    [
+                        'mean_trans_edits_rate',
+                        'mean_trans_error_rate',
+                        'mean_phon_edits_rate',
+                        'mean_phon_error_rate',
+                        'mean_syll_edits_rate',
+                        'mean_syll_error_rate',
+                        'mean_syllsize_error_rate'
+                    ]
+                )
         
         with open(self.checkpoint_dir_cv / 'logs' / 'result.csv', 'a') as f:
             w = csv.writer(f)
-            w.writerow([eval_result['mean_per'], eval_result['mean_wer']])
+            w.writerow(
+                [
+                    eval_result['mean_trans_edits_rate'],
+                    eval_result['mean_trans_error_rate'],
+                    eval_result['mean_phon_edits_rate'],
+                    eval_result['mean_phon_error_rate'],
+                    eval_result['mean_syll_edits_rate'],
+                    eval_result['mean_syll_error_rate'],
+                    eval_result['mean_syllsize_error_rate'],
+                ]
+            )
 
         for lang in lang_samples.keys():
             result = eval_result[lang]
-            self.writer.add_scalar(f'Phoneme_Error_Rate/{lang}',
-                                   result['per'], global_step=step)
-            self.writer.add_scalar(f'Word_Error_Rate/{lang}',
-                                   result['wer'], global_step=step)
+            self.writer.add_scalar(f'Transcription Edits Rate/{lang}', result['mean_trans_edits_rate'], global_step=step)
+            self.writer.add_scalar(f'Transcription Error Rate/{lang}', result['mean_trans_error_rate'], global_step=step)
+            self.writer.add_scalar(f'Phoneme Edits Rate/{lang}', result['mean_phon_edits_rate'], global_step=step)
+            self.writer.add_scalar(f'Phoneme Error Rate/{lang}', result['mean_phon_error_rate'], global_step=step)
+            self.writer.add_scalar(f'Syllable Edits Rate/{lang}', result['mean_syll_edits_rate'], global_step=step)
+            self.writer.add_scalar(f'Syllable Error Rate/{lang}', result['mean_syll_error_rate'], global_step=step)
+            self.writer.add_scalar(f'Syllable Size Error Rate/{lang}', result['mean_syllsize_error_rate'], global_step=step)
 
         for lang, samples in lang_samples.items():
             samples = [(''.join(w), ''.join(p), ''.join(t)) for w, p, t in samples]
