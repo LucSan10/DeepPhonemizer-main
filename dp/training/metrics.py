@@ -3,53 +3,53 @@ import numpy
 from typing import List, Union, Tuple
 
 
-def transcription_error(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> float:
+def transcription_error(predicted: str, target: str) -> float:
   return equal_strings(predicted=predicted, target=target)
 
-def transcription_edit_distance(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> Tuple[int, int]:
+def transcription_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
   return edit_distance(predicted=predicted, target=target)
 
-def phoneme_error(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> Tuple[int, int]:
+def phoneme_error(predicted: str, target: str) -> Tuple[int, int]:
   pred_only_phoneme = remove_syllable_markers(predicted)
   target_only_phoneme = remove_syllable_markers(target)
   return equal_strings(predicted=pred_only_phoneme, target=target_only_phoneme)
 
-def phoneme_edit_distance(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> Tuple[int, int]:
+def phoneme_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
   pred_only_phoneme = remove_syllable_markers(predicted)
   target_only_phoneme = remove_syllable_markers(target)
   return edit_distance(predicted=pred_only_phoneme, target=target_only_phoneme)
 
-def syllable_error(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> float:
+def syllable_error(predicted: str, target: str) -> float:
   pred_syllables = remove_phonemes(standardize_syllable_markers(predicted))
   target_syllables = remove_phonemes(standardize_syllable_markers(target))
   return equal_strings(predicted=pred_syllables, target=target_syllables)
 
-def syllable_edit_distance(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> Tuple[int, int]:
+def syllable_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
   pred_only_syllable = remove_phonemes(standardize_syllable_markers(predicted))
   target_only_syllable = remove_phonemes(standardize_syllable_markers(target))
   return edit_distance(predicted=pred_only_syllable, target=target_only_syllable)
 
-def syllable_with_stress_error(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> float:
+def syllable_with_stress_error(predicted: str, target: str) -> float:
   pred_syllable_with_stress = remove_phonemes(add_syllable_marker(predicted))
   target_syllable_with_stress = remove_phonemes(add_syllable_marker(target))
   return equal_strings(predicted=pred_syllable_with_stress, target=target_syllable_with_stress)
 
-def syllable_with_stress_edit_distance(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> Tuple[int, int]:
+def syllable_with_stress_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
   pred_syllable_with_stress = remove_phonemes(add_syllable_marker(predicted))
   target_syllable_with_stress = remove_phonemes(add_syllable_marker(target))
   return edit_distance(predicted=pred_syllable_with_stress, target=target_syllable_with_stress)
 
-def pause_error(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> float:
+def pause_error(predicted: str, target: str) -> float:
   pred_pause = remove_phonemes(add_syllable_marker(predicted))
   target_pause = remove_phonemes(add_syllable_marker(target))
   return equal_strings(predicted=pred_pause, target=target_pause)
 
-def pause_edit_distance(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> Tuple[int, int]:
+def pause_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
   pred_pause = remove_phonemes(add_syllable_marker(predicted))
   target_pause = remove_phonemes(add_syllable_marker(target))
   return edit_distance(predicted=pred_pause, target=target_pause)
 
-def equal_strings(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> float:
+def equal_strings(predicted: str, target: str) -> float:
   """Calculates the word error rate of a single word result.
 
   Args:
@@ -66,7 +66,7 @@ def equal_strings(predicted: List[Union[str, int]], target: List[Union[str, int]
 
   return int(predicted != target)
 
-def edit_distance(predicted: List[Union[str, int]], target: List[Union[str, int]]) -> Tuple[int, int]:
+def edit_distance(predicted: str, target: str) -> Tuple[int, int]:
   """Calculates the phoneme error rate of a single result based on the Levenshtein distance.
 
   Args:
@@ -102,23 +102,23 @@ def edit_distance(predicted: List[Union[str, int]], target: List[Union[str, int]
 
   return d[len(target)][len(predicted)], len(target)
 
-def standardize_syllable_markers(string: List[Union[str, int]]) -> Union[str,int]:
+def standardize_syllable_markers(string: str) -> Union[str,int]:
   return add_syllable_marker(stress_marker_to_syllable_marker(string))
 
-def stress_marker_to_syllable_marker(string: List[Union[str, int]]) -> Union[str,int]:
+def stress_marker_to_syllable_marker(string: str) -> Union[str,int]:
   return re.sub(r"'", r".", string)
 
-def add_syllable_marker(string: List[Union[str, int]]) -> Union[str,int]:
+def add_syllable_marker(string: str) -> Union[str,int]:
   return re.sub(r"(^|\s)([^\s\.,'])", r"\1.\2", string)
 
-def remove_phonemes(string: List[Union[str, int]]) -> Union[str,int]:
+def remove_phonemes(string: str) -> Union[str,int]:
   return re.sub(r"[^\.'\s,]", '', string)
 
-def remove_syllable_markers(string: List[Union[str, int]]) -> Union[str,int]:
+def remove_syllable_markers(string: str) -> Union[str,int]:
   return re.sub(r"[\.']", '', string)
 
-def remove_pauses(string: List[Union[str, int]]) -> Union[str,int]:
+def remove_pauses(string: str) -> Union[str,int]:
   return re.sub(r"[\s,]", '', string)
 
-def keep_pauses(string: List[Union[str, int]]) -> Union[str,int]:
+def keep_pauses(string: str) -> Union[str,int]:
   return remove_phonemes(remove_syllable_markers(string))

@@ -24,6 +24,8 @@ def evaluate_samples(lang_samples: Dict[str, List[Tuple[List[str], List[str], Li
     for lang in languages:
         for word, generated, target in lang_samples[lang]:
             word = ''.join(word)
+            generated = ''.join(str(s) for s in generated)
+            target = ''.join(str(s) for s in target)
 
             trans_edd, trans_count = transcription_edit_distance(generated, target)
             trans_err = transcription_error(generated, target)
