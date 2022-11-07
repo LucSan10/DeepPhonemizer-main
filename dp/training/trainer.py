@@ -162,12 +162,12 @@ class Trainer:
                                             n_generate_samples=config['training']['n_generate_samples'],
                                             step=step)
 
-                        if eval_result['mean_per'] is not None and eval_result['mean_per'] < best_per:
+                        if eval_result['mean_trans_edits_rate'] is not None and eval_result['mean_trans_edits_rate'] < best_per:
                             self._save_model(model=model, optimizer=optimizer, checkpoint=checkpoint,
                                             path=self.checkpoint_dir_cv / f'best_model.pt')
                             self._save_model(model=model, optimizer=None, checkpoint=checkpoint,
                                             path=self.checkpoint_dir_cv / f'best_model_no_optim.pt')
-                            scheduler.step(eval_result['mean_per'])
+                            scheduler.step(eval_result['mean_trans_edits_rate'])
 
                 if step % config['training']['checkpoint_steps'] == 0:
                         step = step // 1000
@@ -246,7 +246,6 @@ class Trainer:
         self.writer.add_scalar(f'Phoneme Error Rate/mean', eval_result['mean_phon_error_rate'], global_step=step)
         self.writer.add_scalar(f'Syllable Edits Rate/mean', eval_result['mean_syll_edits_rate'], global_step=step)
         self.writer.add_scalar(f'Syllable Error Rate/mean', eval_result['mean_syll_error_rate'], global_step=step)
-        self.writer.add_scalar(f'Syllable Size Error Rate/mean', eval_result['mean_syllsize_error_rate'], global_step=step)
 
         if not os.path.isfile(self.checkpoint_dir_cv / 'logs' / 'result.csv'):
             with open(self.checkpoint_dir_cv / 'logs' / 'result.csv', 'w') as f:
@@ -259,7 +258,6 @@ class Trainer:
                         'mean_phon_error_rate',
                         'mean_syll_edits_rate',
                         'mean_syll_error_rate',
-                        'mean_syllsize_error_rate'
                     ]
                 )
         
@@ -273,7 +271,6 @@ class Trainer:
                     eval_result['mean_phon_error_rate'],
                     eval_result['mean_syll_edits_rate'],
                     eval_result['mean_syll_error_rate'],
-                    eval_result['mean_syllsize_error_rate'],
                 ]
             )
 
@@ -285,7 +282,6 @@ class Trainer:
             self.writer.add_scalar(f'Phoneme Error Rate/{lang}', result['mean_phon_error_rate'], global_step=step)
             self.writer.add_scalar(f'Syllable Edits Rate/{lang}', result['mean_syll_edits_rate'], global_step=step)
             self.writer.add_scalar(f'Syllable Error Rate/{lang}', result['mean_syll_error_rate'], global_step=step)
-            self.writer.add_scalar(f'Syllable Size Error Rate/{lang}', result['mean_syllsize_error_rate'], global_step=step)
 
         for lang, samples in lang_samples.items():
             samples = [(''.join(w), ''.join(p), ''.join(t)) for w, p, t in samples]
