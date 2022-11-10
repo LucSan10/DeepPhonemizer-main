@@ -276,12 +276,12 @@ class Trainer:
 
         for lang in lang_samples.keys():
             result = eval_result[lang]
-            self.writer.add_scalar(f'Transcription Edits Rate/{lang}', result['mean_trans_edits_rate'], global_step=step)
-            self.writer.add_scalar(f'Transcription Error Rate/{lang}', result['mean_trans_error_rate'], global_step=step)
-            self.writer.add_scalar(f'Phoneme Edits Rate/{lang}', result['mean_phon_edits_rate'], global_step=step)
-            self.writer.add_scalar(f'Phoneme Error Rate/{lang}', result['mean_phon_error_rate'], global_step=step)
-            self.writer.add_scalar(f'Syllable Edits Rate/{lang}', result['mean_syll_edits_rate'], global_step=step)
-            self.writer.add_scalar(f'Syllable Error Rate/{lang}', result['mean_syll_error_rate'], global_step=step)
+            self.writer.add_scalar(f'Transcription Edits Rate/{lang}', result['trans_edits_rate'], global_step=step)
+            self.writer.add_scalar(f'Transcription Error Rate/{lang}', result['trans_error_rate'], global_step=step)
+            self.writer.add_scalar(f'Phoneme Edits Rate/{lang}', result['phon_edits_rate'], global_step=step)
+            self.writer.add_scalar(f'Phoneme Error Rate/{lang}', result['phon_error_rate'], global_step=step)
+            self.writer.add_scalar(f'Syllable Edits Rate/{lang}', result['syll_edits_rate'], global_step=step)
+            self.writer.add_scalar(f'Syllable Error Rate/{lang}', result['syll_error_rate'], global_step=step)
 
         for lang, samples in lang_samples.items():
             samples = [(''.join(w), ''.join(p), ''.join(t)) for w, p, t in samples]
