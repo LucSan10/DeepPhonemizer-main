@@ -49,69 +49,66 @@ if __name__ == '__main__':
     subset = df[['lang', 'grapheme', 'phoneme']]
     train_data = [tuple(x) for x in subset.to_numpy()]
 
-    for modelType in ['autoreg']:
-        config_file = f"./dp/configs/{modelType}_config.yaml"
-        config = read_config(config_file)
+    modelType = 'autoreg'
+    config_file = f"./dp/configs/{modelType}_config.yaml"
+    config = read_config(config_file)
+    
+    config['preprocessing']['languages'] = ['pt_br']
+    config['preprocessing']['text_symbols'] = graphemes
+    config['preprocessing']['phoneme_symbols'] = phonemes
+    config['preprocessing']['lowercase'] = False
+
+    #for layers in range(4, 13, 2):
+        #for learning_rate in [0.0001/r for r in [1,2,5,10]]:
+            #for batch in [2**exp for exp in range(3, 2, -1)]:
+                #for d_model in [2**exp for exp in range(10, 8, -1)]:
+                    #for d_fft in [2**exp for exp in range(11, 8, -1)]:
+    epochs = 300
+    learning_rate = 0.00005
+    layers = 4
+    batch = 64
+    d_model = 512
+    d_fft = 1024
+
+    folds = 5
+    n_val = dfsize // folds
+
+    steps = (dfsize - n_val) // batch
+    total_steps = steps * epochs
+
+    config['preprocessing']['folds'] = folds
+    config['preprocessing']['n_val'] = n_val
+
+    config['model']['d_model'] = d_model
+    config['model']['d_fft'] = d_fft
+    config['model']['layers'] = layers
+
+    config['training']['epochs'] = epochs
+    config['training']['batch_size'] = batch
+    config['training']['batch_size_val'] = batch
+    config['training']['learning_rate'] = learning_rate
+
+    config['training']['warmup_steps'] = (total_steps//5) - 1
+    config['training']['min_val-gen_steps'] = (total_steps//2) - 1
+    config['training']['generate_steps'] = (total_steps//10) - 1
+    config['training']['validate_steps'] = (total_steps//10) - 1
+    config['training']['checkpoint_steps'] = (total_steps//2) - 1
+
+    config['paths']['data_dir'] = 'datasetsCV'
+
+    for k, v in config.items():
+        print(f'{k} {v}')
+
+    for i in range(10):
+        checkpoint_dir = f"checkpoints/{modelType}/batch-{batch}/model-{d_model}/fft-{d_fft}/layers-{layers}/lr-{learning_rate}/test-{i}"
+        if (path.isdir(f"./{checkpoint_dir}")): continue
         
-        config['preprocessing']['languages'] = ['pt_br']
-        config['preprocessing']['text_symbols'] = graphemes
-        config['preprocessing']['phoneme_symbols'] = phonemes
-        config['preprocessing']['lowercase'] = False
+        config['paths']['checkpoint_dir'] = checkpoint_dir
+        print(checkpoint_dir)
+        
+        save_config(config, 'config.yaml')
+        preprocess(config_file='config.yaml',
+                train_data=train_data,
+                deduplicate_train_data=False)
 
-        #for layers in range(4, 13, 2):
-            #for learning_rate in [0.0001/r for r in [1,2,5,10]]:
-                #for batch in [2**exp for exp in range(3, 2, -1)]:
-                    #for d_model in [2**exp for exp in range(10, 8, -1)]:
-                        #for d_fft in [2**exp for exp in range(11, 8, -1)]:
-        epochs = 300
-        for i in range(10):
-            learning_rate = 0.00005
-            layers=4
-            batch=64
-            d_model=512
-            d_fft=1024
-            checkpoint_dir = f"checkpoints/{modelType}/batch-{batch}/model-{d_model}/fft-{d_fft}/layers-{layers}/lr-{learning_rate}/test-{i}"
-            if (path.isdir(f"./{checkpoint_dir}")): continue
-
-            print(f'batch: {batch}')
-            print(f'model dim: {d_model}')
-            print(f'fft dim: {d_fft}')
-
-            folds = 5
-            n_val = dfsize//folds
-
-            steps = (dfsize-n_val)//batch
-            total_steps = steps*epochs
-
-            config['preprocessing']['folds'] = folds
-            config['preprocessing']['n_val'] = n_val
-
-            config['model']['d_model'] = d_model
-            config['model']['d_fft'] = d_fft
-            config['model']['layers'] = layers
-
-            config['training']['epochs'] = epochs
-            config['training']['batch_size'] = batch
-            config['training']['batch_size_val'] = batch
-            config['training']['learning_rate'] = learning_rate
-
-            config['training']['warmup_steps'] = (total_steps//5) - 1
-            config['training']['min_val-gen_steps'] = (total_steps//2) - 1
-            config['training']['generate_steps'] = (total_steps//10) - 1
-            config['training']['validate_steps'] = (total_steps//10) - 1
-            config['training']['checkpoint_steps'] = (total_steps//2) - 1
-
-            config['paths']['checkpoint_dir'] = checkpoint_dir
-            config['paths']['data_dir'] = 'datasetsCV'
-
-
-            save_config(config, 'config.yaml')
-
-            for k, v in config.items():
-                print(f'{k} {v}')
-
-            preprocess(config_file='config.yaml',
-                    train_data=train_data,
-                    deduplicate_train_data=False)
-
-            train(config_file='config.yaml')
+        train(config_file='config.yaml')
