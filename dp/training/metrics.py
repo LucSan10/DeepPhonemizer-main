@@ -58,18 +58,18 @@ def syllable_with_stress_edit_distance_transposition(predicted: str, target: str
     return edit_distance_transposition(predicted=pred_syllable_with_stress, target=target_syllable_with_stress)
 
 def pause_error(predicted: str, target: str) -> float:
-    pred_pause = remove_phonemes(add_syllable_marker(predicted))
-    target_pause = remove_phonemes(add_syllable_marker(target))
+    pred_pause = keep_pauses(predicted)
+    target_pause = keep_pauses(target)
     return equal_strings(predicted=pred_pause, target=target_pause)
 
 def pause_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
-    pred_pause = remove_phonemes(add_syllable_marker(predicted))
-    target_pause = remove_phonemes(add_syllable_marker(target))
+    pred_pause = keep_pauses(predicted)
+    target_pause = keep_pauses(target)
     return edit_distance(predicted=pred_pause, target=target_pause)
 
 def pause_edit_distance_transposition(predicted: str, target: str) -> Tuple[int, int]:
-    pred_pause = remove_phonemes(add_syllable_marker(predicted))
-    target_pause = remove_phonemes(add_syllable_marker(target))
+    pred_pause = keep_pauses(predicted)
+    target_pause = keep_pauses(target)
     return edit_distance_transposition(predicted=pred_pause, target=target_pause)
 
 def equal_strings(predicted: str, target: str) -> float:
