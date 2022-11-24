@@ -105,13 +105,6 @@ def evaluate_samples(lang_samples: Dict[str, List[Tuple[List[str], List[str], Li
                 stress_count_dict[word] = stress_count
                 stress_err_dict[word] = stress_err
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------
-                stress_edd, stress_count = syllable_with_stress_edit_distance(generated, target)
-                stress_err = syllable_with_stress_error(generated, target)
-
-                stress_edd_dict[word] = stress_edd
-                stress_count_dict[word] = stress_count
-                stress_err_dict[word] = stress_err
-# ----------------------------------------------------------------------------------------------------------------------------------------------------------
                 pause_edd, pause_count = pause_edit_distance(generated, target)
                 pause_err = pause_error(generated, target)
 

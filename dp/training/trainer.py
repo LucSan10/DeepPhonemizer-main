@@ -246,6 +246,10 @@ class Trainer:
         self.writer.add_scalar(f'Phoneme Error Rate/mean', eval_result['mean_phon_error_rate'], global_step=step)
         self.writer.add_scalar(f'Syllable Edits Rate/mean', eval_result['mean_syll_edits_rate'], global_step=step)
         self.writer.add_scalar(f'Syllable Error Rate/mean', eval_result['mean_syll_error_rate'], global_step=step)
+        self.writer.add_scalar(f'Stress Edits Rate/mean', eval_result['mean_stress_edits_rate'], global_step=step)
+        self.writer.add_scalar(f'Stress Error Rate/mean', eval_result['mean_stress_error_rate'], global_step=step)
+        self.writer.add_scalar(f'Pauses Edits Rate/mean', eval_result['mean_pause_edits_rate'], global_step=step)
+        self.writer.add_scalar(f'Pauses Error Rate/mean', eval_result['mean_pause_error_rate'], global_step=step)
 
         if not os.path.isfile(self.checkpoint_dir_cv / 'logs' / 'result.csv'):
             with open(self.checkpoint_dir_cv / 'logs' / 'result.csv', 'w') as f:
@@ -258,6 +262,10 @@ class Trainer:
                         'mean_phon_error_rate',
                         'mean_syll_edits_rate',
                         'mean_syll_error_rate',
+                        'mean_stress_edits_rate',
+                        'mean_stress_error_rate',
+                        'mean_pause_edits_rate',
+                        'mean_pause_error_rate',
                     ]
                 )
         
@@ -271,6 +279,10 @@ class Trainer:
                     eval_result['mean_phon_error_rate'],
                     eval_result['mean_syll_edits_rate'],
                     eval_result['mean_syll_error_rate'],
+                    eval_result['mean_stress_edits_rate'],
+                    eval_result['mean_stress_error_rate'],
+                    eval_result['mean_pause_edits_rate'],
+                    eval_result['mean_pause_error_rate'],
                 ]
             )
 
@@ -282,6 +294,10 @@ class Trainer:
             self.writer.add_scalar(f'Phoneme Error Rate/{lang}', result['phon_error_rate'], global_step=step)
             self.writer.add_scalar(f'Syllable Edits Rate/{lang}', result['syll_edits_rate'], global_step=step)
             self.writer.add_scalar(f'Syllable Error Rate/{lang}', result['syll_error_rate'], global_step=step)
+            self.writer.add_scalar(f'Stress Edits Rate/{lang}', result['stress_edits_rate'], global_step=step)
+            self.writer.add_scalar(f'Stress Error Rate/{lang}', result['stress_error_rate'], global_step=step)
+            self.writer.add_scalar(f'Pauses Edits Rate/{lang}', result['pause_edits_rate'], global_step=step)
+            self.writer.add_scalar(f'Pauses Error Rate/{lang}', result['pause_error_rate'], global_step=step)
 
         for lang, samples in lang_samples.items():
             samples = [(''.join(w), ''.join(p), ''.join(t)) for w, p, t in samples]

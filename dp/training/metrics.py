@@ -9,9 +9,6 @@ def transcription_error(predicted: str, target: str) -> float:
 def transcription_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
     return edit_distance(predicted=predicted, target=target)
 
-def transcription_edit_distance_transposition(predicted: str, target: str) -> Tuple[int, int]:
-    return edit_distance_transposition(predicted=predicted, target=target)
-
 def phoneme_error(predicted: str, target: str) -> Tuple[int, int]:
     pred_only_phoneme = remove_syllable_markers(predicted)
     target_only_phoneme = remove_syllable_markers(target)
@@ -21,11 +18,6 @@ def phoneme_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
     pred_only_phoneme = remove_syllable_markers(predicted)
     target_only_phoneme = remove_syllable_markers(target)
     return edit_distance(predicted=pred_only_phoneme, target=target_only_phoneme)
-
-def phoneme_edit_distance_transposition(predicted: str, target: str) -> Tuple[int, int]:
-    pred_only_phoneme = remove_syllable_markers(predicted)
-    target_only_phoneme = remove_syllable_markers(target)
-    return edit_distance_transposition(predicted=pred_only_phoneme, target=target_only_phoneme)
 
 def syllable_error(predicted: str, target: str) -> float:
     pred_syllables = remove_phonemes(standardize_syllable_markers(predicted))
@@ -37,11 +29,6 @@ def syllable_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
     target_only_syllable = remove_phonemes(standardize_syllable_markers(target))
     return edit_distance(predicted=pred_only_syllable, target=target_only_syllable)
 
-def syllable_edit_distance_transposition(predicted: str, target: str) -> Tuple[int, int]:
-    pred_only_syllable = remove_phonemes(standardize_syllable_markers(predicted))
-    target_only_syllable = remove_phonemes(standardize_syllable_markers(target))
-    return edit_distance_transposition(predicted=pred_only_syllable, target=target_only_syllable)
-
 def syllable_with_stress_error(predicted: str, target: str) -> float:
     pred_syllable_with_stress = remove_phonemes(add_syllable_marker(predicted))
     target_syllable_with_stress = remove_phonemes(add_syllable_marker(target))
@@ -52,11 +39,6 @@ def syllable_with_stress_edit_distance(predicted: str, target: str) -> Tuple[int
     target_syllable_with_stress = remove_phonemes(add_syllable_marker(target))
     return edit_distance(predicted=pred_syllable_with_stress, target=target_syllable_with_stress)
 
-def syllable_with_stress_edit_distance_transposition(predicted: str, target: str) -> Tuple[int, int]:
-    pred_syllable_with_stress = remove_phonemes(add_syllable_marker(predicted))
-    target_syllable_with_stress = remove_phonemes(add_syllable_marker(target))
-    return edit_distance_transposition(predicted=pred_syllable_with_stress, target=target_syllable_with_stress)
-
 def pause_error(predicted: str, target: str) -> float:
     pred_pause = keep_pauses(predicted)
     target_pause = keep_pauses(target)
@@ -66,11 +48,6 @@ def pause_edit_distance(predicted: str, target: str) -> Tuple[int, int]:
     pred_pause = keep_pauses(predicted)
     target_pause = keep_pauses(target)
     return edit_distance(predicted=pred_pause, target=target_pause)
-
-def pause_edit_distance_transposition(predicted: str, target: str) -> Tuple[int, int]:
-    pred_pause = keep_pauses(predicted)
-    target_pause = keep_pauses(target)
-    return edit_distance_transposition(predicted=pred_pause, target=target_pause)
 
 def equal_strings(predicted: str, target: str) -> float:
     """Calculates the word error rate of a single word result.
