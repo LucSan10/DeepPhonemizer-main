@@ -2,7 +2,7 @@ from typing import List, Tuple, Dict, Any
 
 from dp.training.metrics import *
 
-def collect_evaluation_results(eval_result, languages, lang_edits, lang_counts, lang_errors, type: str):
+def collect_evaluation_results(eval_result, languages, lang_edits, lang_counts, lang_errors, seq: str):
     edits, sizes, errors, counts = [], [], [], []
     for lang in languages:
         edit = sum(lang_edits[lang].values())
@@ -20,11 +20,11 @@ def collect_evaluation_results(eval_result, languages, lang_edits, lang_counts, 
         edits_rate = edit / size
         error_rate = error / count
 
-        eval_result.setdefault(lang, {}).update({f'{type}_edits_rate': edits_rate})
-        eval_result.setdefault(lang, {}).update({f'{type}_error_rate': error_rate})
+        eval_result.setdefault(lang, {}).update({f'{seq}_edits_rate': edits_rate})
+        eval_result.setdefault(lang, {}).update({f'{seq}_error_rate': error_rate})
 
-    eval_result[f'mean_{type}_edits_rate'] = sum(edits) / sum(sizes)
-    eval_result[f'mean_{type}_error_rate'] = sum(errors) / sum(counts)
+    eval_result[f'mean_{seq}_edits_rate'] = sum(edits) / sum(sizes)
+    eval_result[f'mean_{seq}_error_rate'] = sum(errors) / sum(counts)
         
 
 def evaluate_samples(lang_samples: Dict[str, List[Tuple[List[str], List[str], List[str]]]]) -> Dict[str, Any]:
